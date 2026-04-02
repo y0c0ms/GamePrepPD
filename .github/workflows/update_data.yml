@@ -1,0 +1,48 @@
+name: Update GamePrep Data
+on:
+  schedule:
+    - cron: '0 3 */2 * *' # Every 48 hours at 4 AM London (3 AM UTC)
+  workflow_dispatch:
+
+jobs:
+  update-matches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Scraper Dependencies
+        working-directory: ./FlashscoreScraping
+        run: |
+          npm install
+          npx playwright install chromium --with-deps
+
+      - name: Run Flashscore Scraper
+        working-directory: ./FlashscoreScraping
+        run: node src/index.js country=portugal league=liga-portugal headless=true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Matching Script
+        run: python3 match_locations.py
+
+      - name: Prepare Dashboard Data
+        run: |
+          mkdir -p dashboard/src/data
+          cp matches_with_stores.json dashboard/src/data/matches.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dashboard/src/data/matches.json
+          git commit -m "chore: automatic update of match data [skip ci]" || echo "No changes to commit"
+          git push
