@@ -11,8 +11,12 @@ def haversine(lat1, lon1, lat2, lon2):
 
 def match_locations():
     # Load games
-    with open('FlashscoreScraping/src/data/liga_portugal_games.json', 'r', encoding='utf-8') as f:
-        games = json.load(f)
+    try:
+        with open('FlashscoreScraping/src/data/portugal_liga_portugal.json', 'r', encoding='utf-8') as f:
+            games = json.load(f)
+    except FileNotFoundError:
+        with open('FlashscoreScraping/src/data/liga_portugal_games.json', 'r', encoding='utf-8') as f:
+            games = json.load(f)
     
     # Load stadiums
     with open('stadiums.json', 'r', encoding='utf-8') as f:

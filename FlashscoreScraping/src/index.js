@@ -59,17 +59,11 @@ const withRetry = async (fn, retries = 3) => {
 
     start();
 
-    const matchLinksResults = await getMatchLinks(
-      context,
-      season?.url,
-      "results"
-    );
-    const matchLinksFixtures = await getMatchLinks(
+    const matchLinks = await getMatchLinks(
       context,
       season?.url,
       "fixtures"
     );
-    const matchLinks = [...matchLinksFixtures, ...matchLinksResults];
 
     if (matchLinks.length === 0) {
       throw Error(
