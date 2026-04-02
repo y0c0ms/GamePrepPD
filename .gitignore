@@ -1,0 +1,22 @@
+node_modules/
+.env
+dist/
+*.log
+.DS_Store
+.idea/
+.vscode/
+dashboard/node_modules/
+FlashscoreScraping/node_modules/
+scrapy-soccer-games/node_modules/
+dashboard/dist/
+__pycache__/
+*.pyc
+# Large data files that don't need to be in the repo (already committed once, but good to ignore going forward)
+pingo_doce_osm.json
+lojasPingoDoce
+response.pt
+individual_stores/
+pingo_doce_lojas/
+scrapy-soccer-games/soccer_games/soccer_games/data/*.json
+individual_stores/
+pingo_doce_lojas/
