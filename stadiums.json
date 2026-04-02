@@ -15,6 +15,7 @@
   "Santa Clara": { "stadium": "Estádio de São Miguel", "lat": 37.7471, "lon": -25.6558 },
   "Nacional": { "stadium": "Estádio da Madeira", "lat": 32.6669, "lon": -16.8929 },
   "AFS": { "stadium": "Estádio do CD Aves", "lat": 41.3458, "lon": -8.3975 },
-  "Alverca": { "stadium": "Complexo Desportivo FC Alverca", "lat": 38.8979, "lon": -9.0350 },
-  "Tondela": { "stadium": "Estádio João Cardoso", "lat": 40.5117, "lon": -8.0828 }
+  "Boavista": { "stadium": "Estádio do Bessa XXI", "lat": 41.1611, "lon": -8.6417 },
+  "Farense": { "stadium": "Estádio de São Luís", "lat": 37.0194, "lon": -7.9250 },
+  "AVS": { "stadium": "Estádio do CD Aves", "lat": 41.3458, "lon": -8.3975 }
 }

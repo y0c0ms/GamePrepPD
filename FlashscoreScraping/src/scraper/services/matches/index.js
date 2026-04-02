@@ -13,13 +13,20 @@ export const getMatchLinks = async (context, leagueSeasonUrl, type) => {
     const countBefore = await page.$$eval(MATCH_SELECTOR, (els) => els.length);
 
     try {
-      const loadMoreBtn = await page.waitForSelector(LOAD_MORE_SELECTOR, { timeout: 4000 });
+      // Scroll to bottom to ensure button is visible
+      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+      await page.waitForTimeout(1000); 
+
+      // Target the specific button provided by the user
+      const loadMoreBtn = await page.waitForSelector('.wcl-buttonLink_jmSkY', { timeout: 5000 });
       if (!loadMoreBtn) break;
       
       await loadMoreBtn.click();
+      console.log(`[Scraper] Clicked "Load More" cycle ${cycles + 1}`);
       await page.waitForTimeout(CLICK_DELAY);
     } catch {
-      break; // No more load button
+      console.log(`[Scraper] Load More button not found or already expanded after ${cycles} cycles.`);
+      break;
     }
 
     const countAfter = await page.$$eval(MATCH_SELECTOR, (els) => els.length);

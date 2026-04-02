@@ -1,71 +1,36 @@
 [
   {
-    "matchId": "8G2j6tEG",
-    "date": "03.04.2026 15:30",
-    "home_team": "Gil Vicente",
-    "away_team": "AFS",
-    "stadium": "Estádio Cidade de Barcelos",
-    "stadium_lat": 41.5284,
-    "stadium_lon": -8.6111,
+    "matchId": "MJSPKuT9",
+    "date": "03.04.2026 20:30",
+    "home_team": "Sporting CP",
+    "away_team": "Santa Clara",
+    "stadium": "Estádio José Alvalade",
+    "stadium_lat": 38.761,
+    "stadium_lon": -9.1609,
     "nearby_stores": [
       {
-        "name": "Braga Dume",
-        "address": "4700-442",
-        "distance_km": 15.25,
-        "lat": 41.554293,
-        "lon": -8.4311409,
-        "schedule": "24/7"
+        "name": "Parque Europa",
+        "address": "Avenida Maria Helena Vieira da Silva, 1750-336 Lumiar",
+        "distance_km": 0.92,
+        "lat": 38.7669675,
+        "lon": -9.1536025,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       },
       {
-        "name": "Braga - Avenida da Liberdade",
-        "address": "4710-308",
-        "distance_km": 15.9,
-        "lat": 41.5476654,
-        "lon": -8.4218305,
+        "name": "Galhardas",
+        "address": "1600-213",
+        "distance_km": 0.95,
+        "lat": 38.7534094,
+        "lon": -9.1658605,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Braga - Pachancho",
-        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
-        "distance_km": 16.51,
-        "lat": 41.5583489,
-        "lon": -8.4167765,
-        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
-      }
-    ]
-  },
-  {
-    "matchId": "Gt6b4KrT",
-    "date": "04.04.2026 15:30",
-    "home_team": "Nacional",
-    "away_team": "Estrela da Amadora",
-    "stadium": "Estádio da Madeira",
-    "stadium_lat": 32.6669,
-    "stadium_lon": -16.8929,
-    "nearby_stores": [
-      {
-        "name": "Super Anadia",
-        "address": "Rua Doutor Fernão de Ornelas, 9050-020 Funchal",
-        "distance_km": 2.24,
-        "lat": 32.6493136,
-        "lon": -16.9046475,
-        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Super Penteada",
-        "address": "9000-000 Funchal",
-        "distance_km": 3.37,
-        "lat": 32.663472,
-        "lon": -16.9286424,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Super Cancela",
-        "address": "Estrada do Garajau, 9125-067 Caniço",
-        "distance_km": 4.03,
-        "lat": 32.646567,
-        "lon": -16.8572958,
-        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.52,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -105,247 +70,72 @@
     ]
   },
   {
-    "matchId": "jcP0Mh4E",
-    "date": "03.04.2026 18:00",
-    "home_team": "Vitória SC",
-    "away_team": "Tondela",
-    "stadium": "Estádio D. Afonso Henriques",
-    "stadium_lat": 41.4468,
-    "stadium_lon": -8.2917,
+    "matchId": "8G2j6tEG",
+    "date": "03.04.2026 15:30",
+    "home_team": "Gil Vicente",
+    "away_team": "AFS",
+    "stadium": "Estádio Cidade de Barcelos",
+    "stadium_lat": 41.5284,
+    "stadium_lon": -8.6111,
     "nearby_stores": [
       {
-        "name": "Guimarães - Av. D. João IV",
-        "address": "4810-225",
-        "distance_km": 0.98,
-        "lat": 41.4379641,
-        "lon": -8.2919309,
+        "name": "Braga Dume",
+        "address": "4700-442",
+        "distance_km": 15.25,
+        "lat": 41.554293,
+        "lon": -8.4311409,
+        "schedule": "24/7"
+      },
+      {
+        "name": "Braga - Avenida da Liberdade",
+        "address": "4710-308",
+        "distance_km": 15.9,
+        "lat": 41.5476654,
+        "lon": -8.4218305,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "4801-908",
-        "distance_km": 6.98,
-        "lat": 41.487789,
-        "lon": -8.3551167,
-        "schedule": "Mo-Su 09:00-21:00"
-      },
-      {
-        "name": "Fafe - Av. Brasil",
-        "address": "4820-121",
-        "distance_km": 9.64,
-        "lat": 41.4480225,
-        "lon": -8.1760073,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Braga - Pachancho",
+        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
+        "distance_km": 16.51,
+        "lat": 41.5583489,
+        "lon": -8.4167765,
+        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
       }
     ]
   },
   {
-    "matchId": "MJSPKuT9",
-    "date": "03.04.2026 20:30",
-    "home_team": "Sporting CP",
-    "away_team": "Santa Clara",
-    "stadium": "Estádio José Alvalade",
-    "stadium_lat": 38.761,
-    "stadium_lon": -9.1609,
+    "matchId": "Gt6b4KrT",
+    "date": "04.04.2026 15:30",
+    "home_team": "Nacional",
+    "away_team": "Estrela",
+    "stadium": "Estádio da Madeira",
+    "stadium_lat": 32.6669,
+    "stadium_lon": -16.8929,
     "nearby_stores": [
       {
-        "name": "Parque Europa",
-        "address": "Avenida Maria Helena Vieira da Silva, 1750-336 Lumiar",
-        "distance_km": 0.92,
-        "lat": 38.7669675,
-        "lon": -9.1536025,
-        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+        "name": "Super Anadia",
+        "address": "Rua Doutor Fernão de Ornelas, 9050-020 Funchal",
+        "distance_km": 2.24,
+        "lat": 32.6493136,
+        "lon": -16.9046475,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
       },
       {
-        "name": "Galhardas",
-        "address": "1600-213",
-        "distance_km": 0.95,
-        "lat": 38.7534094,
-        "lon": -9.1658605,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Estrada Da Luz",
-        "address": "Rua Abranches Ferrão, 1600-001",
-        "distance_km": 1.52,
-        "lat": 38.7503335,
-        "lon": -9.1719107,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "YcnVbb6j",
-    "date": "04.04.2026 18:00",
-    "home_team": "Rio Ave",
-    "away_team": "Alverca",
-    "stadium": "Estádio do Rio Ave FC",
-    "stadium_lat": 41.3547,
-    "stadium_lon": -8.741,
-    "nearby_stores": [
-      {
-        "name": "Lavra",
-        "address": "4455-089",
-        "distance_km": 11.52,
-        "lat": 41.2541763,
-        "lon": -8.7077434,
-        "schedule": "PH,Mo-Su 08:30-21:00"
-      },
-      {
-        "name": "Moreira da Maia",
-        "address": "Travessa Manuel Batista Barros, 4470-605 Moreira",
-        "distance_km": 13.42,
-        "lat": 41.2553145,
-        "lon": -8.6498178,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Quiosque do Pingo Doce",
-        "address": "",
-        "distance_km": 14.54,
-        "lat": 41.2645528,
-        "lon": -8.6149529,
-        "schedule": "N/A"
-      }
-    ]
-  },
-  {
-    "matchId": "zksEbkC7",
-    "date": "06.04.2026 18:45",
-    "home_team": "Arouca",
-    "away_team": "Estoril",
-    "stadium": "Estádio Municipal de Arouca",
-    "stadium_lat": 40.9231,
-    "stadium_lon": -8.2464,
-    "nearby_stores": [
-      {
-        "name": "Arouca",
-        "address": "4540-102",
-        "distance_km": 0.63,
-        "lat": 40.9285861,
-        "lon": -8.2484708,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "São João da Madeira - Rua Visconde",
-        "address": "3700-267",
-        "distance_km": 20.82,
-        "lat": 40.8982811,
-        "lon": -8.4919721,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Oliveira de Azeméis - Shopping Rainha",
-        "address": "3720-232",
-        "distance_km": 21.76,
-        "lat": 40.8387339,
-        "lon": -8.4799994,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "GMsMRmtf",
-    "date": "10.04.2026 20:45",
-    "home_team": "Famalicão",
-    "away_team": "Moreirense",
-    "stadium": "Estádio Municipal 22 de Junho",
-    "stadium_lat": 41.4082,
-    "stadium_lon": -8.5147,
-    "nearby_stores": [
-      {
-        "name": "Trofa - Shopping",
-        "address": "4785-333",
-        "distance_km": 8.64,
-        "lat": 41.3386536,
-        "lon": -8.5609241,
-        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
-      },
-      {
-        "name": "Trofa - Santiago de Bougado",
-        "address": "4785-699",
-        "distance_km": 10.08,
-        "lat": 41.3271147,
-        "lon": -8.5688413,
-        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
-      },
-      {
-        "name": "Vila das Aves",
-        "address": "4795-001",
-        "distance_km": 10.17,
-        "lat": 41.3668852,
-        "lon": -8.4059383,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "QiZGM1bc",
-    "date": "04.04.2026 20:30",
-    "home_team": "FC Porto",
-    "away_team": "Famalicão",
-    "stadium": "Estádio do Dragão",
-    "stadium_lat": 41.1618,
-    "stadium_lon": -8.5839,
-    "nearby_stores": [
-      {
-        "name": "São Roque da Lameira Porto",
-        "address": "4350-307",
-        "distance_km": 0.37,
-        "lat": 41.1584656,
-        "lon": -8.5833453,
-        "schedule": "Mo-Su 07:00-22:00"
-      },
-      {
-        "name": "Velasques",
-        "address": "Praça de Francisco Sá Carneiro, 4200-313 Porto",
-        "distance_km": 0.77,
-        "lat": 41.1628775,
-        "lon": -8.5929753,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Salgueiros Paranhos",
-        "address": "Rua de Aval de Baixo, 4200-099 Paranhos",
-        "distance_km": 1.38,
-        "lat": 41.1679272,
-        "lon": -8.5982629,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "lYr60Bse",
-    "date": "06.04.2026 20:45",
-    "home_team": "Casa Pia AC",
-    "away_team": "Benfica",
-    "stadium": "Estádio Nacional",
-    "stadium_lat": 38.7053,
-    "stadium_lon": -9.2565,
-    "nearby_stores": [
-      {
-        "name": "Algés",
-        "address": "Rua General Humberto Delgado, 1495-068 Oeiras",
-        "distance_km": 2.45,
-        "lat": 38.6999509,
-        "lon": -9.229088,
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.37,
+        "lat": 32.663472,
+        "lon": -16.9286424,
         "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
       },
       {
-        "name": "Carnaxide - Centro Comercial Solátia",
-        "address": "Avenida de Portugal, 2790-128 Carnaxide",
-        "distance_km": 2.7,
-        "lat": 38.7260652,
-        "lon": -9.2404323,
-        "schedule": "Mo-Su 08:00-21:30"
-      },
-      {
-        "name": "Paço de Arcos",
-        "address": "2780-161",
-        "distance_km": 3.35,
-        "lat": 38.6959077,
-        "lon": -9.2931254,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Super Cancela",
+        "address": "Estrada do Garajau, 9125-067 Caniço",
+        "distance_km": 4.03,
+        "lat": 32.646567,
+        "lon": -16.8572958,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
       }
     ]
   }

@@ -1,5 +1,6 @@
 import json
 import math
+from datetime import datetime
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371  # Earth radius in km
@@ -10,29 +11,45 @@ def haversine(lat1, lon1, lat2, lon2):
     return R * c
 
 def match_locations():
-    # Load games
-    try:
-        with open('FlashscoreScraping/src/data/portugal_liga_portugal.json', 'r', encoding='utf-8') as f:
-            games = json.load(f)
-    except FileNotFoundError:
-        with open('FlashscoreScraping/src/data/liga_portugal_games.json', 'r', encoding='utf-8') as f:
-            games = json.load(f)
+    # Load games - Check multiple possible locations for the scraper output
+    paths_to_check = [
+        'src/data/portugal_liga_portugal.json',
+        'FlashscoreScraping/src/data/portugal_liga_portugal.json',
+        'FlashscoreScraping/src/data/liga_portugal_games.json',
+        'portugal_liga_portugal.json'
+    ]
     
+    games = None
+    loaded_path = ""
+    for path in paths_to_check:
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                games = json.load(f)
+                loaded_path = path
+                break
+        except FileNotFoundError:
+            continue
+            
+    if games is None:
+        print("❌ Error: Could not find any match data files!")
+        return
+
+    print(f"✅ Loaded {len(games)} matches from {loaded_path}")
+
     # Load stadiums
     with open('stadiums.json', 'r', encoding='utf-8') as f:
         stadiums = json.load(f)
     
+    # Normalize stadium keys for fuzzy matching (lowercase, no spaces)
+    stadiums_norm = {k.lower().replace(' ', ''): v for k, v in stadiums.items()}
+
     # Load OSM stores
     with open('pingo_doce_osm.json', 'r', encoding='utf-8') as f:
         osm_data = json.load(f)
     
-    # Load scraped stores (for schedules and formatted addresses)
-    with open('pingo_doce_lojas.json', 'r', encoding='utf-8') as f:
-        scraped_stores = json.load(f)
-
     # Flatten OSM stores
     stores_list = []
-    for element in osm_data['elements']:
+    for element in osm_data.get('elements', []):
         lat = element.get('lat')
         lon = element.get('lon')
         if not lat or not lon:
@@ -47,7 +64,6 @@ def match_locations():
             city = tags.get('addr:city', '')
             postcode = tags.get('addr:postcode', '')
             opening_hours = tags.get('opening_hours', 'N/A')
-            
             full_address = f"{address}, {postcode} {city}".strip(', ')
             
             stores_list.append({
@@ -55,29 +71,36 @@ def match_locations():
                 'address': full_address,
                 'lat': lat,
                 'lon': lon,
-                'opening_hours': opening_hours,
-                'osm_id': element.get('id')
+                'opening_hours': opening_hours
             })
 
-    from datetime import datetime
     now = datetime.now()
-    
     results = []
 
-    for matchId, game in games.items():
-        # Date format: "15.03.2026 15:30"
+    # games can be a dictionary or list
+    items = games.items() if isinstance(games, dict) else enumerate(games)
+
+    for key, game in items:
+        # Date parsing
         try:
             match_date = datetime.strptime(game['date'], '%d.%m.%Y %H:%M')
             if match_date < now:
                 continue
         except:
-            pass # Skip date filtering if format is unexpected
+            pass 
             
         home_team = game['home']['name']
-        if home_team in stadiums:
-            stadium_info = stadiums[home_team]
-            s_lat = stadium_info['lat']
-            s_lon = stadium_info['lon']
+        match_id = game.get('matchId', str(key))
+        
+        # Fuzzy match home team
+        home_norm = home_team.lower().replace(' ', '')
+        venue = None
+        if home_norm in stadiums_norm:
+            venue = stadiums_norm[home_norm]
+        
+        if venue:
+            s_lat = venue['lat']
+            s_lon = venue['lon']
             
             # Find closest stores
             distances = []
@@ -98,20 +121,22 @@ def match_locations():
                 })
             
             results.append({
-                'matchId': matchId,
+                'matchId': match_id,
                 'date': game['date'],
                 'home_team': home_team,
                 'away_team': game['away']['name'],
-                'stadium': stadium_info['stadium'],
+                'stadium': venue['stadium'],
                 'stadium_lat': s_lat,
                 'stadium_lon': s_lon,
                 'nearby_stores': top_stores
             })
+        else:
+            print(f"⚠️ Warning: No stadium found for home team '{home_team}'")
 
     with open('matches_with_stores.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Sucesso! {len(results)} jogos processados e salvos em matches_with_stores.json")
+    print(f"🚀 Success! {len(results)} games matched and saved to matches_with_stores.json")
 
 if __name__ == "__main__":
     match_locations()
