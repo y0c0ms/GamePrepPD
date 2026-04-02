@@ -2,11 +2,19 @@ import React, { useState } from 'react';
 
 const Login = ({ onLogin }) => {
   const [passcode, setPasscode] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState(false);
+
+  const sanitizeInput = (val) => {
+    // Basic protection (though SQLi is impossible on a static check)
+    return val.replace(/['";\-]/g, '').trim();
+  };
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (passcode === 'JERONIMO_2026') {
+    const cleanPass = sanitizeInput(passcode);
+    
+    if (cleanPass === 'JERONIMO_2026') {
       localStorage.setItem('gp_auth', 'true');
       onLogin();
     } else {
@@ -34,7 +42,8 @@ const Login = ({ onLogin }) => {
       border: '1px solid rgba(255, 255, 255, 0.08)',
       backdropFilter: 'blur(10px)',
       boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.5)',
-      textAlign: 'center'
+      textAlign: 'center',
+      position: 'relative'
     },
     iconBox: {
       display: 'inline-flex',
@@ -59,9 +68,13 @@ const Login = ({ onLogin }) => {
       color: '#666666',
       margin: '0 0 32px 0'
     },
+    inputWrapper: {
+      position: 'relative',
+      marginBottom: '16px'
+    },
     input: {
       width: '100%',
-      padding: '16px',
+      padding: '16px 45px 16px 16px',
       backgroundColor: 'rgba(255, 255, 255, 0.05)',
       border: error ? '1px solid rgba(255, 59, 48, 0.3)' : '1px solid rgba(255, 255, 255, 0.1)',
       borderRadius: '14px',
@@ -69,9 +82,23 @@ const Login = ({ onLogin }) => {
       fontSize: '16px',
       textAlign: 'center',
       outline: 'none',
-      marginBottom: '16px',
       boxSizing: 'border-box',
-      transition: 'all 0.2s ease'
+      transition: 'all 0.2s ease',
+      letterSpacing: showPassword ? '0.1em' : '0.4em'
+    },
+    eyeBtn: {
+      position: 'absolute',
+      right: '15px',
+      top: '50%',
+      transform: 'translateY(-50%)',
+      background: 'none',
+      border: 'none',
+      color: '#666666',
+      cursor: 'pointer',
+      padding: '5px',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center'
     },
     button: {
       width: '100%',
@@ -83,7 +110,7 @@ const Login = ({ onLogin }) => {
       fontSize: '16px',
       fontWeight: 'bold',
       cursor: 'pointer',
-      transition: 'transform 0.2s ease, background-color 0.2s ease'
+      transition: 'transform 0.1s ease, background-color 0.2s ease'
     },
     footer: {
       marginTop: '40px',
@@ -95,8 +122,8 @@ const Login = ({ onLogin }) => {
     errorMsg: {
       color: '#ff3b30',
       fontSize: '12px',
-      marginTop: '-8px',
-      marginBottom: '16px'
+      marginTop: '8px',
+      textAlign: 'center'
     }
   };
 
@@ -110,20 +137,39 @@ const Login = ({ onLogin }) => {
           </svg>
         </div>
         <h1 style={styles.title}>GamePrep</h1>
-        <p style={styles.subtitle}>Acesso restrito Jerónimo Martins</p>
+        <p style={styles.subtitle}>Jerónimo Martins Security Gate</p>
 
         <form onSubmit={handleSubmit}>
-          <input
-            type="password"
-            value={passcode}
-            onChange={(e) => {
-              setPasscode(e.target.value);
-              setError(false);
-            }}
-            placeholder="Código de Acesso"
-            style={styles.input}
-            autoFocus
-          />
+          <div style={styles.inputWrapper}>
+            <input
+              type={showPassword ? "text" : "password"}
+              value={passcode}
+              onChange={(e) => {
+                setPasscode(e.target.value);
+                setError(false);
+              }}
+              placeholder="••••••••"
+              style={styles.input}
+              autoFocus
+            />
+            <button 
+              type="button" 
+              style={styles.eyeBtn}
+              onClick={() => setShowPassword(!showPassword)}
+            >
+              {showPassword ? (
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round text-[#7cff01]">
+                   <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                   <circle cx="12" cy="12" r="3"></circle>
+                </svg>
+              ) : (
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path>
+                  <line x1="1" y1="1" x2="23" y2="23"></line>
+                </svg>
+              )}
+            </button>
+          </div>
           {error && <p style={styles.errorMsg}>Acesso negado</p>}
 
           <button
@@ -134,11 +180,11 @@ const Login = ({ onLogin }) => {
             onMouseDown={(e) => e.target.style.transform = 'scale(0.98)'}
             onMouseUp={(e) => e.target.style.transform = 'scale(1)'}
           >
-            Entrar
+            Acessar
           </button>
         </form>
 
-        <p style={styles.footer}>Private System</p>
+        <p style={styles.footer}>Jerónimo Martins Restricted</p>
       </div>
     </div>
   );
