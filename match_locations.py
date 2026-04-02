@@ -81,11 +81,9 @@ def match_locations():
     items = games.items() if isinstance(games, dict) else enumerate(games)
 
     for key, game in items:
-        # Date parsing
+        # Date parsing (Keep parsing to ensure format is OK, but skip the 'if match_date < now' check)
         try:
             match_date = datetime.strptime(game['date'], '%d.%m.%Y %H:%M')
-            if match_date < now:
-                continue
         except:
             pass 
             
