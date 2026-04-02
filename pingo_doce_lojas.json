@@ -1,0 +1,3516 @@
+[
+  {
+    "id": "451",
+    "name": "1º de Dezembro",
+    "address": "Rua 1º Dezembro 67-83",
+    "postal_code": "1200-358 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "889",
+    "name": "Abóboda",
+    "address": "Estrada Conceição da Abóboda 1...",
+    "postal_code": "2785-543 São Domingos de Rana",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "682",
+    "name": "Abrantes - Encosta da Barata",
+    "address": "Avenida 14 de Junho - Encosta D...",
+    "postal_code": "2200-298 Abrantes",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "339",
+    "name": "Afonso V",
+    "address": "Rua Afonso Baldaia 11",
+    "postal_code": "4150-024 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "411",
+    "name": "Agualva",
+    "address": "Rua Sebastião Philippes Martins...",
+    "postal_code": "2735-584 Sintra",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "671",
+    "name": "Águeda - Quinta da Alagoa",
+    "address": "Quinta Da Alagoa",
+    "postal_code": "3750-301 Águeda",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "820",
+    "name": "Alapraia",
+    "address": "C.C. Areias - Alapraia Lote 5",
+    "postal_code": "2765-088 Cascais",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "519",
+    "name": "Albergaria-a-Velha",
+    "address": "Lugar do Areeiro, Zona Industrial",
+    "postal_code": "3850-200 Albergaria-a-Velha",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "850",
+    "name": "Albufeira - Bela Vista",
+    "address": "Avenida Dos Descobrimentos - Ur...",
+    "postal_code": "8200-127 Albufeira",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "622",
+    "name": "Albufeira - Caliços",
+    "address": "Urbanização Dos Caliços",
+    "postal_code": "8200-667 Albufeira",
+    "schedule": "8:00 → 20:30"
+  },
+  {
+    "id": "800",
+    "name": "Albufeira - Ferreiras",
+    "address": "Avenida 12 de Julho",
+    "postal_code": "8200-559 Albufeira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "754",
+    "name": "Albufeira - Quinta da Correeira",
+    "address": "Rua Do Lageado - Urbanização Da...",
+    "postal_code": "8200-328 Albufeira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "459",
+    "name": "Alcântara",
+    "address": "Rua Cascais 43",
+    "postal_code": "1300-120 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "863",
+    "name": "Alcobaça - Quinta da Barrada",
+    "address": "VCI - Quinta da Bairrada Lote 2",
+    "postal_code": "2460-000 Alcobaça",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "765",
+    "name": "Alcochete",
+    "address": "Avenida Euro 2004 - Sítio Da Qu...",
+    "postal_code": "2890-154 Alcochete",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "656",
+    "name": "Alegro Sintra - Hiper",
+    "address": "Ic 19 - Alto Do Forte",
+    "postal_code": "2735-018 Sintra",
+    "schedule": "8:00 → 23:00"
+  },
+  {
+    "id": "780",
+    "name": "Alenquer",
+    "address": "Quinta do Bravo - Santo Estevão",
+    "postal_code": "2580-021 Alenquer",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "439",
+    "name": "Alfragide",
+    "address": "Urbanização Qtª.Grande Célula A...",
+    "postal_code": "2720-000 Amadora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "821",
+    "name": "Algés",
+    "address": "Rua Gen. Humberto Delgado 19",
+    "postal_code": "1495-068 Oeiras",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "649",
+    "name": "Aljustrel",
+    "address": "Estrada Municipal 539 Lote 1",
+    "postal_code": "7600-073 Aljustrel",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "414",
+    "name": "Almada",
+    "address": "Rua Garcia Da Horta 2",
+    "postal_code": "2800-698 Almada",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "399",
+    "name": "Almancil",
+    "address": "Rua Maria Campina 4-6",
+    "postal_code": "8135-139 Loulé",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "683",
+    "name": "Almeirim - Quinta da Alorna",
+    "address": "Quinta Da Alorna - Zona Industr...",
+    "postal_code": "2080-221 Almeirim",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "816",
+    "name": "Almodôvar",
+    "address": "E.N. 393, Cerca Dos Soeiros 393",
+    "postal_code": "7700-018 Almodôvar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "791",
+    "name": "Alto do Murtal",
+    "address": "Rua General Mário Firmino Migue...",
+    "postal_code": "2775-125 Parede",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "888",
+    "name": "Altura",
+    "address": "Rua João de Almeida",
+    "postal_code": "8950-414 Altura",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "492",
+    "name": "Alvalade",
+    "address": "C.C. Alvalade - Praça de Alvala...",
+    "postal_code": "1700-036 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "803",
+    "name": "Alvalade - Conde Sabugosa",
+    "address": "Rua Conde Sabugosa 25A",
+    "postal_code": "1700-115 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "429",
+    "name": "Alverca - Super",
+    "address": "C.C. Parque - Rua Brigadeiro Fe...",
+    "postal_code": "2615-077 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "684",
+    "name": "Alverca - Verdelha Baixo, EN 10",
+    "address": "Quinta Da Verdelha - E.N. N.º 1...",
+    "postal_code": "2615-377 Vila Franca de Xira",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "447",
+    "name": "Alvide",
+    "address": "Largo De Alvide 987",
+    "postal_code": "2755-030 Cascais",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "426",
+    "name": "Alvor",
+    "address": "Estrada De Alvor - Urbanização ...",
+    "postal_code": "8500-087 Portimão",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "824",
+    "name": "Amadora",
+    "address": "C.C. Babilónia - Av.Elias Garci...",
+    "postal_code": "2700-336 Amadora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "808",
+    "name": "Amadora - Moinhos da Funcheira",
+    "address": "Av. Dr. Fernando Piteira Santos 5",
+    "postal_code": "2650-123 Amadora",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "744",
+    "name": "Amarante",
+    "address": "E.N. 15, Lugar Da Boavista, Tel...",
+    "postal_code": "4600-756 Amarante",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "789",
+    "name": "Amial",
+    "address": "Rua de Jorge Gigante 4250-483",
+    "postal_code": "4250-483 Paranhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "395",
+    "name": "Anadia",
+    "address": "Avenida José Luciano De Castro ...",
+    "postal_code": "3780-204 Anadia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "538",
+    "name": "Ansião",
+    "address": "Rua Principal do Lousal 2396",
+    "postal_code": "3240-222 Ansião",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "375",
+    "name": "Antunes Guimarães - Lidador",
+    "address": "Rua Do Lidador 109 -111",
+    "postal_code": "4100-307 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "364",
+    "name": "Arcos Valdevez",
+    "address": "Lugar De Barreiro - Paçô",
+    "postal_code": "4970-236 Arcos de Valdevez",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "609",
+    "name": "Arcozelo",
+    "address": "Av. Da Igreja 79",
+    "postal_code": "4410-411 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "760",
+    "name": "Armação de Pêra - Torre",
+    "address": "Urbanização Vila Nova II - Luga...",
+    "postal_code": "8365-184 Silves",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "705",
+    "name": "Arneiro",
+    "address": "Estrada Do Arneiro, Lugar Do Ar...",
+    "postal_code": "2775-524 Cascais",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "327",
+    "name": "Arouca",
+    "address": "Av. 25 de Abril 30",
+    "postal_code": "4540-102 Arouca",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "381",
+    "name": "Arrifana - Outeiro",
+    "address": "Rua Pedro Alvares Cabral - Oute...",
+    "postal_code": "3700-530 Santa Maria da Feira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "719",
+    "name": "Arruda dos Vinhos",
+    "address": "Rua Eng.º Tomás Ribeiro Corrêa ...",
+    "postal_code": "2630-000 Arruda dos Vinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "652",
+    "name": "Aveiro - Hiper",
+    "address": "E.N. 109 - Esgueira 109",
+    "postal_code": "3800-042 Aveiro",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "386",
+    "name": "Aveiro - Ria",
+    "address": "Rua Dr. Francisco Ferreira Neve...",
+    "postal_code": "3800-510 Aveiro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "603",
+    "name": "Aveiro - São Bernardo",
+    "address": "Estrada São Bernardo",
+    "postal_code": "3810-175 Aveiro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "493",
+    "name": "Aveiro - Vera Cruz",
+    "address": "Avª Congressos da Oposição Demo...",
+    "postal_code": "3800-365 Aveiro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "802",
+    "name": "Avenida 5 de Outubro",
+    "address": "Av. 5 Outubro 95",
+    "postal_code": "1500-051 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "822",
+    "name": "Avenida Almirante Reis",
+    "address": "Av. Almirante Reis 126 C",
+    "postal_code": "1150-023 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "437",
+    "name": "Avenida de Paris",
+    "address": "Av. Paris 20-A",
+    "postal_code": "1000-229 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "441",
+    "name": "Avenida Duque de Ávila",
+    "address": "Av. Duque D'Avila 45 F",
+    "postal_code": "1000-139 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "801",
+    "name": "Avenida Estados Unidos da Améri...",
+    "address": "Rua António Patricio 13F",
+    "postal_code": "1700-062 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "788",
+    "name": "Avenida Madame Curie",
+    "address": "Av. Madame Curie 11A",
+    "postal_code": "1070-166 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1002",
+    "name": "Avenida Ponta Delgada - Açores",
+    "address": "Av. Infante Dom Henrique 97",
+    "postal_code": "9500-764 Ponta Delgada",
+    "schedule": "8:30 → 20:00"
+  },
+  {
+    "id": "513",
+    "name": "Avintes",
+    "address": "Rua da Escola Central",
+    "postal_code": "4430-822 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "490",
+    "name": "Azeitão",
+    "address": "Qta Velha - Azinhaga Dos Pasmad...",
+    "postal_code": "2925-115 Setúbal",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "304",
+    "name": "Barcelos",
+    "address": "Rua Filipa Borges 4750-292 223",
+    "postal_code": "4750-292 Barcelos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "883",
+    "name": "Barcelos Alcaides de Faria",
+    "address": "Rua Dom Afonso",
+    "postal_code": "4750-106 Barcelos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "653",
+    "name": "Barreiro - Hiper",
+    "address": "Avenida Das Nacionalizações, Qu...",
+    "postal_code": "2835-807 Barreiro",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "449",
+    "name": "Barreiro - Terminal Fluvial",
+    "address": "Terminal Rodo Ferro Fluvial Lot...",
+    "postal_code": "2830-277 Barreiro",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "769",
+    "name": "Barreiro - Vila Chã",
+    "address": "Estrada Municipal nº 510 - Sto....",
+    "postal_code": "2830-490 Barreiro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "484",
+    "name": "Barreiro Fórum",
+    "address": "C.C. Barreiro Fórum 22",
+    "postal_code": "2830-364 Barreiro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "360",
+    "name": "Batalha",
+    "address": "Rua das Piscinas, Quinta Da Cer...",
+    "postal_code": "2440-505 Batalha",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "443",
+    "name": "Beja - 5 Outubro",
+    "address": "Rua 5 De Outubro 13-15",
+    "postal_code": "7800-454 Beja",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "405",
+    "name": "Beja - Santo Amaro",
+    "address": "Largo Santo Amaro 4",
+    "postal_code": "7800-263 Beja",
+    "schedule": "8:00 → 20:00"
+  },
+  {
+    "id": "768",
+    "name": "Beja - Seminário",
+    "address": "Rua Escritor Ferreira De Castro...",
+    "postal_code": "7800-062 Beja",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "658",
+    "name": "Bela Vista - Hiper",
+    "address": "Av. Santo Condestável - Via Cen...",
+    "postal_code": "1900-806 Lisboa",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "793",
+    "name": "Belverde",
+    "address": "Rua das Begónias",
+    "postal_code": "2845-491 Seixal",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "607",
+    "name": "Benavente",
+    "address": "Rua Álvaro Rodrigues Azevedo",
+    "postal_code": "2130-184 Benavente",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "825",
+    "name": "Benfica",
+    "address": "Av. Uruguai 36",
+    "postal_code": "1500-615 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "784",
+    "name": "Benfica - Gomes Pereira",
+    "address": "Avenida Gomes Pereira 69A",
+    "postal_code": "1500-322 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "481",
+    "name": "Boa-Hora",
+    "address": "Rua Alfredo Da Silva 6, 6A, 6B",
+    "postal_code": "1300-041 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "601",
+    "name": "Boavista",
+    "address": "Av. Boavista 1349",
+    "postal_code": "4100-130 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "718",
+    "name": "Bobadela",
+    "address": "Rua D. Afonso Henriques",
+    "postal_code": "2695-011 Loures",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "473",
+    "name": "Borba",
+    "address": "Avenida D. Dinis de Melo e Cast...",
+    "postal_code": "7150-105 Borba",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "313",
+    "name": "Braga - Avenida da Liberdade",
+    "address": "Av. Liberdade - Edf. Granjinhos...",
+    "postal_code": "4710-308 Braga",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "748",
+    "name": "Braga - Frossos",
+    "address": "Rua de Cima, Lote Nº1, Freguesi...",
+    "postal_code": "4700-150 Braga",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "651",
+    "name": "Braga - Hiper",
+    "address": "Quinta Dos Congregados - S. Vic...",
+    "postal_code": "4710-427 Braga",
+    "schedule": "8:00 → 23:00"
+  },
+  {
+    "id": "621",
+    "name": "Braga - Machado Vilela",
+    "address": "Rua Prof. Machado Vilela E",
+    "postal_code": "4715-045 Braga",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "373",
+    "name": "Braga - Pachancho",
+    "address": "Rua Regimento de Infantaria 8, ...",
+    "postal_code": "4700-145 Braga",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "336",
+    "name": "Braga Shopping",
+    "address": "Braga Shopping - Rua Santo André",
+    "postal_code": "4710-308 Braga",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "672",
+    "name": "Bragança - Zona Industrial",
+    "address": "Rua Coronel Teófilo de Morais -...",
+    "postal_code": "5300-427 Bragança",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "413",
+    "name": "Cacém",
+    "address": "CC Agualva Shopping - Rua Antón...",
+    "postal_code": "2735-056 Sintra",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "371",
+    "name": "Cais de Sodré",
+    "address": "Estação De Cais Do Sodré, Praça...",
+    "postal_code": "1200-621 Lisboa",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "685",
+    "name": "Caldas da Rainha - Estrada da T...",
+    "address": "Estrada Da Tornada",
+    "postal_code": "2500-315 Caldas da Rainha",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "402",
+    "name": "Caldas da Rainha - Heróis Grand...",
+    "address": "Rua Heróis Da Grande Guerra 103",
+    "postal_code": "2500-215 Caldas da Rainha",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "706",
+    "name": "Caldas da Rainha - Vitorino Fró...",
+    "address": "Rua Vitorino Frois 37",
+    "postal_code": "2500-256 Caldas da Rainha",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "732",
+    "name": "Caldas das Taipas-Guimarães",
+    "address": "Rua de São Martinho - EN101, Km...",
+    "postal_code": "4801-908 Guimarães",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "773",
+    "name": "Camarate",
+    "address": "Av. Dos Bombeiros Voluntários",
+    "postal_code": "2680-576 Loures",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "332",
+    "name": "Caminha",
+    "address": "Praça Espanha 11-13",
+    "postal_code": "4910-122 Caminha",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "491",
+    "name": "Campo Pequeno",
+    "address": "Centro De Lazer Campo Pequeno 201",
+    "postal_code": "1000-306 Lisboa",
+    "schedule": "8:30 → 21:30"
+  },
+  {
+    "id": "811",
+    "name": "Campo Santana",
+    "address": "Largo Do Mastro 29A-B",
+    "postal_code": "1150-229 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "454",
+    "name": "Campolide",
+    "address": "Rua De Campolide 31-31C",
+    "postal_code": "1070-026 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "771",
+    "name": "Caneças",
+    "address": "E.N. 250, Rua Major Rosa Bastos...",
+    "postal_code": "1685-354 Odivelas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "314",
+    "name": "Canidelo - Azamboeira",
+    "address": "Av. Poeta Eugénio De Andrade - ...",
+    "postal_code": "4400-708 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "353",
+    "name": "Canidelo - Lavadores",
+    "address": "Rua Quinta Do Castro 44",
+    "postal_code": "4400-711 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1003",
+    "name": "Capelas - Açores",
+    "address": "Rua da Grota da Cadima",
+    "postal_code": "9545-108 Capelas",
+    "schedule": "8:30 → 20:30"
+  },
+  {
+    "id": "394",
+    "name": "Capuchos",
+    "address": "E.N. 10-1 - Aldeia dos Capuchos...",
+    "postal_code": "2825-041 Almada",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "434",
+    "name": "Carcavelos - Estação CP",
+    "address": "Rua Marques da Mata Lote D",
+    "postal_code": "2775-606 Cascais",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "416",
+    "name": "Carcavelos - Rebelva",
+    "address": "Rua Frei Hermano Da Câmara, Urb...",
+    "postal_code": "2775-702 Cascais",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "813",
+    "name": "Carcavelos - Riviera",
+    "address": "C.C. Riviera Center Loja 27",
+    "postal_code": "2775-551 Cascais",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "814",
+    "name": "Carlos Mardel",
+    "address": "Rua Carlos Mardel 12",
+    "postal_code": "1900-122 Lisboa",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "645",
+    "name": "Carnaxide - Alto dos Barronhos",
+    "address": "Rua Fernando de Almeida 22",
+    "postal_code": "2790-229 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "417",
+    "name": "Carnaxide - Centro Comercial So...",
+    "address": "C. Civico Carnaxide - Av. Portu...",
+    "postal_code": "2790-128 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "644",
+    "name": "Carregado",
+    "address": "Quinta do Poço - Azinhaga da Co...",
+    "postal_code": "2580-491 Alenquer",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "344",
+    "name": "Carregal do Sal",
+    "address": "Rua Dona Maria Rita - Salzedas 2",
+    "postal_code": "3430-261 Carregal do Sal",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "474",
+    "name": "Cartaxo",
+    "address": "Sitio Da Portela - Rua Da Ponte...",
+    "postal_code": "2070-621 Cartaxo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "730",
+    "name": "Carvalhos",
+    "address": "Av. Dr. Moreira De Sousa 2238",
+    "postal_code": "4415-382 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "826",
+    "name": "Cascais - Castelhana",
+    "address": "Rua Outeiro Lote 74",
+    "postal_code": "2755-287 Cascais",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "891",
+    "name": "Cascais - Guia",
+    "address": "Avenida Pedro Álvares Cabral",
+    "postal_code": "2750-642 Cascais",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "306",
+    "name": "Castelo Branco - Av. 1º Maio",
+    "address": "Av. 1º Maio nº60 6000-086 60",
+    "postal_code": "6000-086 Castelo Branco",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "686",
+    "name": "Castelo Branco - Rua Cruz de Mo...",
+    "address": "C. C. Fórum Castelo Branco, Rua...",
+    "postal_code": "6000-056 Castelo Branco",
+    "schedule": "9:00 → 22:00"
+  },
+  {
+    "id": "348",
+    "name": "Castêlo da Maia",
+    "address": "Rua Engenheiro Frederico Ulrich...",
+    "postal_code": "4475-705 Maia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "471",
+    "name": "Castelo de Vide",
+    "address": "E.N. 246-1 - Quinta Da Moutosa ...",
+    "postal_code": "7320-138 Castelo de Vide",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "488",
+    "name": "Cavaleira - Algueirão",
+    "address": "Rua Cidade de Loulé - Urbanizaç...",
+    "postal_code": "2725-009 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "624",
+    "name": "Cedofeita",
+    "address": "Rua Da Cedofeita 435",
+    "postal_code": "4050-175 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "512",
+    "name": "Celorico de Basto",
+    "address": "Zona Industrial de Crespos - Br...",
+    "postal_code": "4890-264 Celorico de Basto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "660",
+    "name": "Cerveira - Lugar de Faias",
+    "address": "Lugar De Faias Gondarém",
+    "postal_code": "4920-068 Vila Nova de Cerveira",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "817",
+    "name": "Chamusca",
+    "address": "Rua Direita De S. Pedro - Estra...",
+    "postal_code": "2140-098 Chamusca",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "486",
+    "name": "Chão do Loureiro",
+    "address": "Largo Do Chão Loureiro",
+    "postal_code": "1100-145 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "786",
+    "name": "Charneca de Caparica",
+    "address": "Rua de Oliveira Feijão",
+    "postal_code": "2820-000 Charneca da Caparica",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "879",
+    "name": "Chaves - Centro",
+    "address": "Av. Tenente Valadim 27-33 / 37-39",
+    "postal_code": "5400-558 Chaves",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "643",
+    "name": "Chaves Centro Escolar",
+    "address": "Gaveto da Avenida da Cocanha e ...",
+    "postal_code": "5400-674 Chaves",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "874",
+    "name": "Circunvalação Asprela",
+    "address": "Estrada Exterior da Circunvalaç...",
+    "postal_code": "4200-163 Porto",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "312",
+    "name": "Coimbra - Celas",
+    "address": "Avenida Calouste Gulbenkian Lot...",
+    "postal_code": "3004-090 Coimbra",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "323",
+    "name": "Coimbra - Combatentes",
+    "address": "Travessa dos Combatentes da Gra...",
+    "postal_code": "3030-182 Coimbra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "638",
+    "name": "Coimbra - Eiras",
+    "address": "Rua Entre Vinhas",
+    "postal_code": "3020-497 Coimbra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "396",
+    "name": "Coimbra - Portela",
+    "address": "Quinta da Portela 6/9",
+    "postal_code": "3030-481 Coimbra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "352",
+    "name": "Coimbra - Rua da Sofia",
+    "address": "Rua João de Ruão 171",
+    "postal_code": "3000-229 Coimbra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "614",
+    "name": "Coimbrões",
+    "address": "Rua Bombeiros Voluntários De Co...",
+    "postal_code": "4400-057 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "408",
+    "name": "Colina do Sol",
+    "address": "Praceta Manuela Porto 171 - Lj 43",
+    "postal_code": "2700-554 Amadora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "4111",
+    "name": "Conde Redondo",
+    "address": "Rua Conde Redondo 41/41A",
+    "postal_code": "1150-157 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "530",
+    "name": "Condeixa-a-Nova",
+    "address": "E.N. 342, Quinta da Pereira",
+    "postal_code": "3150-259 Condeixa-a-Nova",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "383",
+    "name": "Constituição",
+    "address": "Rua Monte Pedral 31",
+    "postal_code": "4050-417 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "485",
+    "name": "Corroios - Parque Luso",
+    "address": "Av. D. Afonso Henriques, Parque...",
+    "postal_code": "2855-721 Seixal",
+    "schedule": "7:30 → 22:00"
+  },
+  {
+    "id": "472",
+    "name": "Corroios - Santa Marta",
+    "address": "Rua Manuel Ferreira LOTE 10/11/12",
+    "postal_code": "2855-597 Corroios",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "871",
+    "name": "Corroios EN10",
+    "address": "Quinta da Argena Lote 8",
+    "postal_code": "2855-408 Seixal",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "845",
+    "name": "Coruche",
+    "address": "Rua Do Cortiço, Sto. António 48",
+    "postal_code": "2100-048 Coruche",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "357",
+    "name": "Costa Cabral",
+    "address": "Edf. Santa Justa - Rua Costa Ca...",
+    "postal_code": "4200-124 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "642",
+    "name": "Cova da Piedade",
+    "address": "Avenida Rainha D. Leonor 48",
+    "postal_code": "2805-007 Almada",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "673",
+    "name": "Covilhã - Quinta do Alvito",
+    "address": "Alameda Pêro da Covilhã - Quint...",
+    "postal_code": "6200-251 Covilhã",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "376",
+    "name": "Custóias",
+    "address": "Rua Santiago 453",
+    "postal_code": "4460-809 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "832",
+    "name": "Damaia",
+    "address": "Rua Teófilo Braga Lote 63",
+    "postal_code": "2720-526 Amadora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "529",
+    "name": "Elvas",
+    "address": "Rua Dr. José Pardal de Melo e S...",
+    "postal_code": "7350-208 Elvas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "468",
+    "name": "Entroncamento",
+    "address": "Rua D. João De Castro 1",
+    "postal_code": "2330-138 Entroncamento",
+    "schedule": "8:00 → 20:30"
+  },
+  {
+    "id": "870",
+    "name": "Entroncamento - Lameira",
+    "address": "Avenida das Forças Armadas",
+    "postal_code": "2330-065 Entroncamento",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "363",
+    "name": "Ermesinde - Praceta Moçambique",
+    "address": "Gaveto Da Praceta De Moçambique...",
+    "postal_code": "4445-308 Valongo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "742",
+    "name": "Esmoriz",
+    "address": "E.N.109 - Lugar de Matosinhos",
+    "postal_code": "3885-434 Ovar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "625",
+    "name": "Espinho - Rua 21",
+    "address": "Rua 21 196",
+    "postal_code": "4500-267 Espinho",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "833",
+    "name": "Espinho Fosforeira",
+    "address": "Rua nº20 1286",
+    "postal_code": "4500-322 Espinho",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "467",
+    "name": "Estarreja",
+    "address": "Rua Dr. Tavares Da Silva",
+    "postal_code": "3860-377 Estarreja",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "872",
+    "name": "Estoril Amoreira",
+    "address": "Avenida João Bosco - Vale da Am...",
+    "postal_code": "2765-131 Cascais",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "436",
+    "name": "Estrada Da Luz",
+    "address": "Atlanta Park - Edf.Georgia - Ru...",
+    "postal_code": "1600-001 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "433",
+    "name": "Estremoz",
+    "address": "Rua 20 de Janeiro - Courela Do ...",
+    "postal_code": "7100-100 Estremoz",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "495",
+    "name": "Évora - Álamos",
+    "address": "Av. Bento Jesus Caraça Lote 1",
+    "postal_code": "7000-135 Évora",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "849",
+    "name": "Évora - Bairro Senhora da Glóri...",
+    "address": "Bairro Sra. Da Glória, Praceta ...",
+    "postal_code": "7000-726 Évora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "693",
+    "name": "Évora - EN 114",
+    "address": "E.N. 114 Km 4,5",
+    "postal_code": "7000-172 Évora",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "751",
+    "name": "Évora - Horta das Figueiras",
+    "address": "Estrada De Viana, Talhão N.º 2 ...",
+    "postal_code": "7005-212 Évora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "728",
+    "name": "Fafe - Aliados",
+    "address": "Rua Dos Aliados",
+    "postal_code": "4820-248 Fafe",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "367",
+    "name": "Fafe - Av. Brasil",
+    "address": "Av. Do Brasil",
+    "postal_code": "4820-121 Fafe",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "661",
+    "name": "Fafe - Cavadas",
+    "address": "Lugar de Cavadas - Quinchães",
+    "postal_code": "4820-587 Fafe",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1013",
+    "name": "Faial - Açores",
+    "address": "Zona Industrial Santa Bárbara",
+    "postal_code": "9900-048 Angústias",
+    "schedule": "8:00 → 20:00"
+  },
+  {
+    "id": "722",
+    "name": "Famalicão - Calendário",
+    "address": "Alameda dos Bargos",
+    "postal_code": "4760-174 Vila Nova de Famalicão",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "316",
+    "name": "Famalicão - D. Sancho",
+    "address": "Rua José Gomes de Matos 2/10",
+    "postal_code": "4760-325 Vila Nova de Famalicão",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "712",
+    "name": "Famões",
+    "address": "Quinta Do Segulim Lote 32",
+    "postal_code": "1685-256 Odivelas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "694",
+    "name": "Faro - EN 125 Sitio das Figuras",
+    "address": "E.N. 125, Sitio Das Figuras",
+    "postal_code": "8005-328 Faro",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "818",
+    "name": "Faro - Penha Mega",
+    "address": "Rua Monsenhor Henrique Ferreira...",
+    "postal_code": "8005-329 Faro",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "827",
+    "name": "Faro - Tridente",
+    "address": "Edf. Tridente - Rua Dr. Cândido...",
+    "postal_code": "8000-320 Faro",
+    "schedule": "8:00 → 20:30"
+  },
+  {
+    "id": "639",
+    "name": "Faro Montenegro",
+    "address": "E.N. 125-10",
+    "postal_code": "8005-146 Faro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "778",
+    "name": "Fátima - EN",
+    "address": "Estrada Principal de Fátima (EN...",
+    "postal_code": "2495-552 Ourém",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "448",
+    "name": "Fátima - Santuário",
+    "address": "Av. D. José Alves Correia Da Si...",
+    "postal_code": "2495-402 Ourém",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "852",
+    "name": "Feijó",
+    "address": "Rua Ary Dos Santos 26",
+    "postal_code": "2810-020 Almada",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "725",
+    "name": "Felgueiras",
+    "address": "Rua D. Manuel Faria De Sousa, L...",
+    "postal_code": "4610-178 Felgueiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "310",
+    "name": "Fernão Magalhães",
+    "address": "Campo 24 Agosto 170/172",
+    "postal_code": "4300-188 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "828",
+    "name": "Ferreira Borges",
+    "address": "Rua Ferreira Borges 14",
+    "postal_code": "1350-140 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "326",
+    "name": "Figueira da Foz - Buarcos",
+    "address": "Rua Rancho Das Cantarinhas 52",
+    "postal_code": "3080-250 Figueira da Foz",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "626",
+    "name": "Figueira da Foz - Rua Afonso Al...",
+    "address": "Rua Afonso Albuquerque 22",
+    "postal_code": "3080-041 Figueira da Foz",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "727",
+    "name": "Figueira da Foz - Tavarede",
+    "address": "Avenida Dr. Francisco Sá Carnei...",
+    "postal_code": "3080-853 Figueira da Foz",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "458",
+    "name": "Fonte Nova",
+    "address": "C.C. Fonte Nova - Rua Paulo Ren...",
+    "postal_code": "1500-083 Lisboa",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "608",
+    "name": "Forte da Casa",
+    "address": "E.N. 10, Polo Industrial, Fort...",
+    "postal_code": "2625-460 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "627",
+    "name": "Foz",
+    "address": "Rua Senhora Da Luz 313-343",
+    "postal_code": "4150-698 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "442",
+    "name": "Francisco Metrass",
+    "address": "Rua Francisco Metrass 36",
+    "postal_code": "1350-144 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "534",
+    "name": "Freamunde",
+    "address": "Rua de Santa Cruz - Lugar do Le...",
+    "postal_code": "4590-306 Paços de Ferreira",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "674",
+    "name": "Fundão - Quinta da Areeira",
+    "address": "Travessa do Passal - Quinta da ...",
+    "postal_code": "6230-205 Fundão",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "602",
+    "name": "Gaia - Av. República",
+    "address": "Av. República 1174/1182",
+    "postal_code": "4430-192 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "743",
+    "name": "Gaia - Madalena",
+    "address": "Rua António Fernando Almeida Pi...",
+    "postal_code": "4405-332 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "648",
+    "name": "Gaia Quinta Cravel",
+    "address": "Quinta do Cravel Lote 34",
+    "postal_code": "4430-111 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "393",
+    "name": "Galhardas",
+    "address": "Azinhaga Das Galhardas Lote 19",
+    "postal_code": "1600-213 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "526",
+    "name": "Gandra",
+    "address": "Rua Nova de Fontes 100",
+    "postal_code": "4585-191 Paredes",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "783",
+    "name": "Gondomar",
+    "address": "Rua José Saramago",
+    "postal_code": "4420-171 Gondomar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "453",
+    "name": "Graça",
+    "address": "Rua Graça 100/106",
+    "postal_code": "1170-170 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "391",
+    "name": "Grão Vasco - Benfica",
+    "address": "Avenida Grão Vasco 56/58",
+    "postal_code": "1500-339 Lisboa",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "675",
+    "name": "Grijó - Lugar Barrancas",
+    "address": "Rua da Boavista - Lugar das Bar...",
+    "postal_code": "4415-549 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "676",
+    "name": "Guarda - Bairro São Domingos",
+    "address": "Quinta Do Camalhão, Bairro S. D...",
+    "postal_code": "6300-804 Guarda",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "328",
+    "name": "Guarda - Gare",
+    "address": "Av. S. Miguel - Guarda Gare 26",
+    "postal_code": "6300-864 Guarda",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "878",
+    "name": "Guifões",
+    "address": "Rua Passos Manuel",
+    "postal_code": "4460-000 Guifões",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "350",
+    "name": "Guimarães - Alameda",
+    "address": "Rua Alfredo Pimenta 278",
+    "postal_code": "4800-012 Guimarães",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "831",
+    "name": "Guimarães - Av. D. João IV",
+    "address": "Rua de Vila Verde 64",
+    "postal_code": "4810-225 Guimarães",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "606",
+    "name": "Ílhavo",
+    "address": "Rua Professor Júlio Catarino",
+    "postal_code": "3830-216 Ílhavo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "875",
+    "name": "Joane",
+    "address": "Rua de Leognan",
+    "postal_code": "4770-243 Joane",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "4110",
+    "name": "José Estevão",
+    "address": "Rua José Estevão 129 A",
+    "postal_code": "1150-201 Arroios",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "761",
+    "name": "Lagoa",
+    "address": "Rua Marquês de Pombal 51",
+    "postal_code": "8400-391 Lagoa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "766",
+    "name": "Lagos - Av. Da República",
+    "address": "Av. Da República, Rossio De São...",
+    "postal_code": "8600-643 Lagos",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "853",
+    "name": "Lagos - Marina",
+    "address": "Sitio Do Molião - E.N. 125",
+    "postal_code": "8600-335 Lagos",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "629",
+    "name": "Lamego",
+    "address": "Rua Sobral Cide - Urbanização D...",
+    "postal_code": "5100-202 Lamego",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "401",
+    "name": "Lapa",
+    "address": "Rua Santana à Lapa 56",
+    "postal_code": "1200-798 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "370",
+    "name": "Laranjeiro",
+    "address": "Rua Artur Semedo - Quinta De Sa...",
+    "postal_code": "2810-278 Almada",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "805",
+    "name": "Largo do Rato",
+    "address": "Calçada Bento Da Rocha Cabral 1...",
+    "postal_code": "1250-012 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "374",
+    "name": "Lavra",
+    "address": "Rua Dos Castanheiros 119",
+    "postal_code": "4455-089 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "734",
+    "name": "Leça da Palmeira - Amorosa",
+    "address": "Lugar Da Amorosa, Rua Dos Campo...",
+    "postal_code": "4450-630 Matosinhos",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "605",
+    "name": "Leça da Palmeira - R. Fernando ...",
+    "address": "Rua Dr. Fernando Aroso 1039",
+    "postal_code": "4450-666 Matosinhos",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "319",
+    "name": "Leiria - Heróis de Angola",
+    "address": "Av. Heróis De Angola 69",
+    "postal_code": "2400-154 Leiria",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "372",
+    "name": "Leiria - Marinheiros",
+    "address": "Estrada Dos Marinheiros",
+    "postal_code": "2415-380 Leiria",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "354",
+    "name": "Leiria - Marquês de Pombal",
+    "address": "Av. Marquês Pombal - Galerias S...",
+    "postal_code": "2410-152 Leiria",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "716",
+    "name": "Leiria - Marrazes",
+    "address": "Rua Estrada da Figueira da Foz,...",
+    "postal_code": "2415-303 Leiria",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "498",
+    "name": "Leiria D. Dinis",
+    "address": "Rua Dr João Soares Bloco 2",
+    "postal_code": "2400-448 Leiria",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1",
+    "name": "Lido",
+    "address": "Rua Do Gorgulho (Junto Piscinas...",
+    "postal_code": "9000-107 Funchal",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "412",
+    "name": "Linda-a-Velha II",
+    "address": "Avenida 25 de Abril 25",
+    "postal_code": "2795-198 Oeiras",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "1007",
+    "name": "Livramento - Açores",
+    "address": "Rua João Manuel Vasconcelos Rap...",
+    "postal_code": "9500-738 Livramento",
+    "schedule": "8:30 → 20:00"
+  },
+  {
+    "id": "735",
+    "name": "Lordelo",
+    "address": "Rotunda Do Padrão - Rebordosa",
+    "postal_code": "4580-570 Paredes",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "755",
+    "name": "Loulé - Andrade de Sousa",
+    "address": "Av. Andrade De Sousa",
+    "postal_code": "8100-728 Loulé",
+    "schedule": "8:00 → 20:30"
+  },
+  {
+    "id": "855",
+    "name": "Loulé - Vieira",
+    "address": "Rua David Teixeira 79",
+    "postal_code": "8100-552 Loulé",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "647",
+    "name": "Loulé Mar Shopping",
+    "address": "C.C. Mar Shopping Loulé Cx. 787",
+    "postal_code": "8135-182 Loulé",
+    "schedule": "9:00 → 23:00"
+  },
+  {
+    "id": "687",
+    "name": "Loures",
+    "address": "Quinta Das Farinheiras",
+    "postal_code": "2670-364 Loures",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "696",
+    "name": "Lourinhã",
+    "address": "Avenida António José De Almeida...",
+    "postal_code": "2530-113 Lourinhã",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "726",
+    "name": "Lourosa - Travanca",
+    "address": "Lugar Da Aldeia Nova, Travanca",
+    "postal_code": "4535-014 Santa Maria da Feira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "308",
+    "name": "Lourosa - Vendas Novas",
+    "address": "Avenida de Lourosa A",
+    "postal_code": "4535-012 Santa Maria da Feira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "662",
+    "name": "Lousada - Cristelo",
+    "address": "Rua De Santo André, Lugar Das A...",
+    "postal_code": "4620-134 Lousada",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "455",
+    "name": "Lumiar",
+    "address": "Rua Leopoldo Almeida Lote 4",
+    "postal_code": "1750-138 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1012",
+    "name": "Madalena Pico - Açores",
+    "address": "Rua Secretário Teles Bettencour...",
+    "postal_code": "9950-305 Madalena",
+    "schedule": "8:30 → 20:00"
+  },
+  {
+    "id": "465",
+    "name": "Mafra",
+    "address": "Quinta Das Pevides - Limite Dos...",
+    "postal_code": "2640-389 Mafra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "305",
+    "name": "Maia - 5 Outubro",
+    "address": "Rua 5 De Outubro - Gueifães 84",
+    "postal_code": "4470-002 Maia",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "749",
+    "name": "Maia - Águas Santas",
+    "address": "Rua D. Maria Faria 230",
+    "postal_code": "4425-070 Maia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "630",
+    "name": "Maia - Simão Bolívar",
+    "address": "S. Simão Bolívar 51",
+    "postal_code": "4470-136 Maia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "699",
+    "name": "Malveira",
+    "address": "E.N. 8, Limite Da Venda Do Vala...",
+    "postal_code": "2665-258 Mafra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "380",
+    "name": "Mangualde",
+    "address": "Avenida Herois do Ultra Mar - T...",
+    "postal_code": "3530-261 Mangualde",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "790",
+    "name": "Marco de Canaveses - Jardim de ...",
+    "address": "Rua Talegre",
+    "postal_code": "4630-446 Marco de Canaveses",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "494",
+    "name": "Marechal Gomes da Costa",
+    "address": "Avenida Marechal Gomes Da Costa...",
+    "postal_code": "4100-359 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "860",
+    "name": "Mariani",
+    "address": "Rua Barão do Corvo 842",
+    "postal_code": "4400-037 Vila Nova de Gaia",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "535",
+    "name": "Marinha da Guia",
+    "address": "Cabeço do Carriço - Estrada Nac...",
+    "postal_code": "3105-056 Pombal",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "415",
+    "name": "Marinha Grande - Av. Liberdade",
+    "address": "C.C. Horizonte - Av. Liberdade ...",
+    "postal_code": "2430-229 Marinha Grande",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "717",
+    "name": "Marinha Grande - Embra",
+    "address": "E.N. 242, Rua Jornal Da Marinha...",
+    "postal_code": "2430-110 Marinha Grande",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "632",
+    "name": "Marquês",
+    "address": "Rua João Pedro Ribeiro 700",
+    "postal_code": "4000-305 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "407",
+    "name": "Massamá - Jasmins",
+    "address": "Rua das Dálias LOTE 2/3/4",
+    "postal_code": "2745-749 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "428",
+    "name": "Massamá - Pimenta e Rendeiro",
+    "address": "Avenida 25 de Abril - Urbanizaç...",
+    "postal_code": "2745-862 Sintra",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "4081",
+    "name": "Massamá Refer",
+    "address": "Estação CP Massamá, Avenida 25 ...",
+    "postal_code": "2745-704 Queluz",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "302",
+    "name": "Matosinhos - Afonso Henriques",
+    "address": "Gav. Av. D. Afonso Henriques, 9...",
+    "postal_code": "4450-243 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "633",
+    "name": "Matosinhos - Brito Capelo",
+    "address": "Rua Brito Capelo 332",
+    "postal_code": "4450-068 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "496",
+    "name": "Matosinhos - Brito e Cunha",
+    "address": "Rua de Brito Capelo 1405",
+    "postal_code": "4450-084 Matosinhos",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "893",
+    "name": "Mealhada",
+    "address": "Avenida Floresta – EN1 Nº151",
+    "postal_code": "3050-347 Mealhada",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "707",
+    "name": "Mem Martins - António Feijó",
+    "address": "Estrada Mem Martins 260",
+    "postal_code": "2725-166 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "477",
+    "name": "Mem Martins - Estação",
+    "address": "Estrada Mem Martins 258/260",
+    "postal_code": "2725-384 Sintra",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "462",
+    "name": "Mem Martins - São Carlos",
+    "address": "Rua do Codel 30",
+    "postal_code": "2725-274 Mem Martins",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "515",
+    "name": "Minde",
+    "address": "Rua Nossa Sra De Fátima",
+    "postal_code": "2395-116 Alcanena",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "514",
+    "name": "Mira",
+    "address": "Rua Teófilo Braga 76",
+    "postal_code": "3070-333 Mira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "444",
+    "name": "Miraflores",
+    "address": "Miraflores Shopping - Rua das T...",
+    "postal_code": "1495-158 Oeiras",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "510",
+    "name": "Miranda do Douro",
+    "address": "E.N. 218, Lugar Da Castanha",
+    "postal_code": "5210-175 Miranda do Douro",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "677",
+    "name": "Mirandela - Lugar de Telheiros",
+    "address": "Avenida da Galia - Lugar De Tel...",
+    "postal_code": "5370-203 Mirandela",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "759",
+    "name": "Moita",
+    "address": "E.N. 11, Quinta Fonte Da Prata",
+    "postal_code": "2860-006 Moita",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "663",
+    "name": "Monção - Gandra",
+    "address": "Gandra - Mazedo",
+    "postal_code": "4950-298 Monção",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "795",
+    "name": "Monte de Caparica",
+    "address": "Rua dos Trabalhadores Rurais",
+    "postal_code": "2825-083 Monte de Caparica",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "847",
+    "name": "Montemor-o-Novo",
+    "address": "Av. Gago Coutinho, Cruzamento E...",
+    "postal_code": "7050-096 Montemor-o-Novo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "753",
+    "name": "Montijo - Estrada Nacional",
+    "address": "E.N. 4, 1, Pocinho Das Nascentes",
+    "postal_code": "2870-184 Montijo",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "635",
+    "name": "Montijo - Maestro J. Peixinho",
+    "address": "Av. Maestro J. Peixinho",
+    "postal_code": "2270-010 Montijo",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "729",
+    "name": "Moreira da Maia",
+    "address": "Rua Eng.º Frederico Ulrich, Mor...",
+    "postal_code": "4470-605 Maia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "819",
+    "name": "Moscavide - Jardins de Cristo Rei",
+    "address": "Urbanização Jardins Cristo Rei ...",
+    "postal_code": "1885-094 Moscavide",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "823",
+    "name": "Moura",
+    "address": "Rua Eng.º Armando Lopes De Alme...",
+    "postal_code": "7860-004 Moura",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "709",
+    "name": "Nazaré",
+    "address": "E.N. 242, Areal",
+    "postal_code": "2450-138 Nazaré",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "345",
+    "name": "Nelas",
+    "address": "Avenida Prof. Dr. Fortunato de ...",
+    "postal_code": "3520-056 Nelas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "409",
+    "name": "Óbidos",
+    "address": "E.N. 8 Lote 1",
+    "postal_code": "2510-131 Óbidos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "834",
+    "name": "Odivelas - D. Dinis",
+    "address": "Av. D. Dinis 28A",
+    "postal_code": "2675-327 Odivelas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "777",
+    "name": "Odivelas - Freixinho",
+    "address": "Rua António Feliciano de Castil...",
+    "postal_code": "2675-473 Odivelas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "659",
+    "name": "Odivelas - Hiper",
+    "address": "Strada Shopping - Estrada da Pa...",
+    "postal_code": "2675-468 Odivelas",
+    "schedule": "8:00 → 23:00"
+  },
+  {
+    "id": "424",
+    "name": "Oeiras - Alto da Barra",
+    "address": "R. Aljubarrota 1A 053",
+    "postal_code": "2780-053 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "835",
+    "name": "Oeiras - Palmeiras Shopping",
+    "address": "C.C. Palmeiras - Qtª. Palmeiras...",
+    "postal_code": "2780-149 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "836",
+    "name": "Olaias",
+    "address": "C. C. Olaias - Av. Engº. Arante...",
+    "postal_code": "1900-221 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "837",
+    "name": "Olhão - Marina",
+    "address": "Rua Manuel Tomé Viegas Vaz 4",
+    "postal_code": "8700-461 Olhão",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "756",
+    "name": "Olhão - Patinha",
+    "address": "E.N. 125, Urbanização Patinha, ...",
+    "postal_code": "8700-203 Olhão",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "873",
+    "name": "Olivais - Avenida Infante D. He...",
+    "address": "Av. Infante D. Henrique 345",
+    "postal_code": "1800-318 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "843",
+    "name": "Olivais Spacio Shopping",
+    "address": "Rua Cidade Bolama Loja 43",
+    "postal_code": "1800-079 Lisboa",
+    "schedule": "8:00 → 23:00"
+  },
+  {
+    "id": "739",
+    "name": "Oliveira de Azemeis - Farrapa",
+    "address": "Rua Bento Landureza, Lugar Da F...",
+    "postal_code": "3270-261 Oliveira de Azeméis",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "321",
+    "name": "Oliveira de Azeméis - Shopping ...",
+    "address": "Largo Luís de Camões - Centro C...",
+    "postal_code": "3720-232 Oliveira de Azeméis",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "351",
+    "name": "Oliveira de Frades",
+    "address": "Rua Senhora dos Milagres",
+    "postal_code": "3680-077 Oliveira de Frades",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "610",
+    "name": "Oliveira do Bairro",
+    "address": "E.N. 235, Rua de S. Sebastião",
+    "postal_code": "3770-221 Oliveira do Bairro",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "615",
+    "name": "Oliveira do Douro",
+    "address": "Rua Dª Mª Costa Basto 16",
+    "postal_code": "4430-381 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "497",
+    "name": "Oliveira do Hospital",
+    "address": "Av. Dr. António Dias",
+    "postal_code": "3400-160 Oliveira do Hospital",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "797",
+    "name": "Ourém",
+    "address": "Avenida Dom Nuno Álvares",
+    "postal_code": "2490-486 Ourém",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "815",
+    "name": "Ourique",
+    "address": "E.N. 123, Loteamento Rosal Sul ...",
+    "postal_code": "7670-364 Ourique",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "342",
+    "name": "Ovar - Aquilino Ribeiro",
+    "address": "Rua Aquilino Ribeiro",
+    "postal_code": "3880-151 Ovar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "736",
+    "name": "Ovar - Lavouras",
+    "address": "Rua Monsenhor Miguel de Oliveira",
+    "postal_code": "3880-796 Ovar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "839",
+    "name": "Paço de Arcos",
+    "address": "Rua Bom Jeus Navegantes 3",
+    "postal_code": "2780-161 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "733",
+    "name": "Paços de Ferreira",
+    "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+    "postal_code": "4590-590 Paços de Ferreira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "427",
+    "name": "Paivas",
+    "address": "Rua D. Manuel I, Torre 1 Marco ...",
+    "postal_code": "2845-368 Seixal",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "646",
+    "name": "Palmela",
+    "address": "Rua de São Julião - Retail Park...",
+    "postal_code": "2950-780 Palmela",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "804",
+    "name": "Parede - Avenida da República",
+    "address": "Av. República 75",
+    "postal_code": "2775-272 Cascais",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "708",
+    "name": "Parede - Melvin Jones",
+    "address": "Rua Melvin Jones Lote 26",
+    "postal_code": "2775-717 Cascais",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "392",
+    "name": "Parque das Nações - Norte",
+    "address": "Empreendimento Verde Parque Lot...",
+    "postal_code": "1990-514 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "400",
+    "name": "Parque das Nações Sul",
+    "address": "Av.Fernando Pessoa",
+    "postal_code": "1998-014 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "480",
+    "name": "Parque Europa",
+    "address": "Av. Maria Helena Vieira Da Silv...",
+    "postal_code": "1750-336 Lisboa",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "634",
+    "name": "Passos Manuel",
+    "address": "Rua Passos Manuel 221/223",
+    "postal_code": "4000-385 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "338",
+    "name": "Pasteleira",
+    "address": "Rua Paulo Gama 470-516",
+    "postal_code": "4150-589 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "4017",
+    "name": "PD&Go Aveiro - Forca",
+    "address": "Avenida Dr. Sá Carneiro",
+    "postal_code": "3810-365 Aveiro",
+    "schedule": "7:00 → 23:59"
+  },
+  {
+    "id": "4013",
+    "name": "PD&Go Belverde",
+    "address": "Posto BP Avenida de Belverde",
+    "postal_code": "2845-483 Amora",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4015",
+    "name": "PD&Go Braga Dume",
+    "address": "Rua de São Martinho de Dume",
+    "postal_code": "4700-442 Braga",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4080",
+    "name": "PD&Go Cascais Refer",
+    "address": "Estação CP Cascais, Largo da es...",
+    "postal_code": "2750-340 Cascais",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "4003",
+    "name": "PD&Go Corroios",
+    "address": "E.N. 10, Km 5,9",
+    "postal_code": "2855-084 Corroios",
+    "schedule": "6:00 → 22:00"
+  },
+  {
+    "id": "4010",
+    "name": "PD&Go Ericeira",
+    "address": "N247 E.N. 267, Mil Regos",
+    "postal_code": "2655-319 Ericeira",
+    "schedule": "0:01 → 23:59"
+  },
+  {
+    "id": "4004",
+    "name": "PD&Go Estoril",
+    "address": "Rua Egas Moniz - E.N. 6, Km 14",
+    "postal_code": "2775-084 São Pedro do Estoril",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4023",
+    "name": "PD&GO Estoril Tamariz",
+    "address": "Estrada Marginal",
+    "postal_code": "2765-249 Estoril",
+    "schedule": "0:00 → 23:59"
+  },
+  {
+    "id": "4000",
+    "name": "PD&GO Estrada da Luz",
+    "address": "Estrada da Luz",
+    "postal_code": "1600-165 Lisboa",
+    "schedule": "7:00 → 23:30"
+  },
+  {
+    "id": "4018",
+    "name": "PD&Go Feijó - Almada",
+    "address": "Avenida Arsenal do Alfeite",
+    "postal_code": "2810-027 Almada",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4100",
+    "name": "PD&Go Foco",
+    "address": "Rua Afonso Lopes Vieira 224",
+    "postal_code": "4100-020 Ramalde",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "4007",
+    "name": "PD&Go Loures",
+    "address": "N115 Olival da Quinta Nova",
+    "postal_code": "2600-581 Loures",
+    "schedule": "6:00 → 23:00"
+  },
+  {
+    "id": "4012",
+    "name": "PD&Go Massamá",
+    "address": "Largo Dom Afonso Henriques",
+    "postal_code": "2745-704 Massamá",
+    "schedule": "7:00 → 23:30"
+  },
+  {
+    "id": "4009",
+    "name": "PD&Go Moita",
+    "address": "N11 Largo da Estação",
+    "postal_code": "2860-403 Moita",
+    "schedule": "7:00 → 22:00"
+  },
+  {
+    "id": "4006",
+    "name": "PD&Go Moscavide",
+    "address": "Avenida da Boa Esperança, Praça...",
+    "postal_code": "1885-081 Moscavide",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4024",
+    "name": "PD&GO Oeiras Cacilhas",
+    "address": "Bairro de Cacilhas Lote A",
+    "postal_code": "2780-269 Oeiras",
+    "schedule": "0:00 → 23:59"
+  },
+  {
+    "id": "4005",
+    "name": "PD&Go Paço Arcos",
+    "address": "Rua Costa Pinto, Av. Eng. Bonne...",
+    "postal_code": "2770-055 Paço de Arcos",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4011",
+    "name": "PD&Go Padre Cruz",
+    "address": "Avenida Padre Cruz",
+    "postal_code": "1600-559 Lisboa",
+    "schedule": "7:00 → 23:30"
+  },
+  {
+    "id": "4014",
+    "name": "PD&Go Paredes",
+    "address": "Rua Dr. José de Magalhães 6200",
+    "postal_code": "4580-133 Paredes",
+    "schedule": "7:00 → 23:00"
+  },
+  {
+    "id": "4002",
+    "name": "PD&Go Parque das Nações",
+    "address": "Avenida da Boa Esperança",
+    "postal_code": "1885-081 Moscavide",
+    "schedule": "7:00 → 23:30"
+  },
+  {
+    "id": "4008",
+    "name": "PD&Go Pinhal Novo",
+    "address": "R. do Monte Novo 1",
+    "postal_code": "2955-156 Pinhal Novo",
+    "schedule": "7:00 → 22:00"
+  },
+  {
+    "id": "4001",
+    "name": "PD&GO Restelo",
+    "address": "Avenida das Descobertas",
+    "postal_code": "1400-195 Lisboa",
+    "schedule": "7:00 → 23:30"
+  },
+  {
+    "id": "4016",
+    "name": "PD&Go Salgueiros",
+    "address": "Rua Particular de Monsanto 162",
+    "postal_code": "4250-326 Porto",
+    "schedule": "7:00 → 23:30"
+  },
+  {
+    "id": "4021",
+    "name": "PD&Go São João da Talha",
+    "address": "N10 E.N. 10, Km 138.4",
+    "postal_code": "2695-715 São João da Talha",
+    "schedule": "7:00 → 23:59"
+  },
+  {
+    "id": "4019",
+    "name": "PD&Go São Roque da Lameira Porto",
+    "address": "Rua São Roque da Lameira 1749",
+    "postal_code": "4350-307 Porto",
+    "schedule": "7:00 → 22:00"
+  },
+  {
+    "id": "4020",
+    "name": "PD&Go Seixal - Fogueteiro",
+    "address": "Interface do Fogueteiro",
+    "postal_code": "2840-432 Seixal",
+    "schedule": "6:00 → 22:00"
+  },
+  {
+    "id": "4022",
+    "name": "PD&Go Sintra Abrunheira",
+    "address": "Rua Rosa Maria Lobato Faria 20",
+    "postal_code": "2710-098 Sintra Abrunheira",
+    "schedule": "6:00 → 22:00"
+  },
+  {
+    "id": "664",
+    "name": "Penafiel - Guilhufe",
+    "address": "Quinta Da Lagarteira - Guilhufe",
+    "postal_code": "4560-144 Penafiel",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "464",
+    "name": "Peniche",
+    "address": "Praça Professor António Alves S...",
+    "postal_code": "2520-621 Peniche",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "612",
+    "name": "Perosinho",
+    "address": "Rua Dr. Carlos Costa 91",
+    "postal_code": "4415-028 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "912",
+    "name": "Pingo Doce Express - IST",
+    "address": "Avenida Rovisco Pais 1",
+    "postal_code": "1049-001 Lisboa",
+    "schedule": "8:00 → 20:00"
+  },
+  {
+    "id": "4090",
+    "name": "Pingo Doce Express - Nova SBE",
+    "address": "Rua Holanda 1",
+    "postal_code": "2775-405 Carcavelos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "420",
+    "name": "Pinhal Novo",
+    "address": "C.C. Mochos - Rua Ferreira de C...",
+    "postal_code": "2955-185 Palmela",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "15",
+    "name": "Plaza",
+    "address": "La Vie Funchal Shopping Center,...",
+    "postal_code": "9000-039 Funchal",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "775",
+    "name": "Pombal - Barco",
+    "address": "E.N. 237, Rua De Ansião - Barco",
+    "postal_code": "3100-474 Pombal",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "301",
+    "name": "Pombal - Shopping",
+    "address": "Pombal Shopping - Rua Stª. Luzi...",
+    "postal_code": "3100-483 Pombal",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "895",
+    "name": "Ponte de Lima",
+    "address": "Via D. Pedro I",
+    "postal_code": "4990-011 Ponte de Lima",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "688",
+    "name": "Ponte de Sôr - Zona Industrial",
+    "address": "Zona Industrial - Barreiras",
+    "postal_code": "7400-401 Ponte de Sor",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "404",
+    "name": "Portalegre",
+    "address": "C.C. Fontedeira - Av. M.F.A.",
+    "postal_code": "7300-072 Portalegre",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "479",
+    "name": "Portela da Azóia",
+    "address": "Rua D. Pedro V 35",
+    "postal_code": "2695-247 Loures",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "750",
+    "name": "Portimão - Craveiros",
+    "address": "Lugar Dos Craveiros, Av. V 6 Lo...",
+    "postal_code": "8500-420 Portimão",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "398",
+    "name": "Portimão - Recomar",
+    "address": "Rua D. Carlos I 16 a 22",
+    "postal_code": "8501-858 Portimão",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "857",
+    "name": "Portimão - Sá Carneiro",
+    "address": "Av. Dr. Francisco Sá Carneiro",
+    "postal_code": "8500-506 Portimão",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "715",
+    "name": "Porto Alto",
+    "address": "Rua João Folheiro - Porto Alto ...",
+    "postal_code": "2135-133 Benavente",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "697",
+    "name": "Porto de Mós",
+    "address": "Ic 2 - Km 107,4 Chão Da Feira",
+    "postal_code": "2480-055 Porto de Mós",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "892",
+    "name": "Porto Rotunda AEP",
+    "address": "Estrada da Circunvalação 12 84...",
+    "postal_code": "4100-178 Porto",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "17",
+    "name": "Porto Santo Praia Dourada",
+    "address": "Rua Dr. José Diamantino Lima",
+    "postal_code": "9400-168 Porto Santo",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "731",
+    "name": "Póvoa de Lanhoso",
+    "address": "Lugar De Pontes Pereiros",
+    "postal_code": "4830-508 Póvoa de Lanhoso",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "460",
+    "name": "Póvoa de Santa Iria",
+    "address": "Rua António Gonçalves Correia -...",
+    "postal_code": "2625-266 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "890",
+    "name": "Póvoa de Santa Iria - Gare",
+    "address": "Rua da República 16",
+    "postal_code": "2625-170 Póvoa de Santa Iria",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "689",
+    "name": "Póvoa de Santo Adrião",
+    "address": "Rua Júlio Borba",
+    "postal_code": "2620-101 Odivelas",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "654",
+    "name": "Póvoa de Varzim - Hiper",
+    "address": "Lugar Da Gandara - Argivai",
+    "postal_code": "4490-228 Póvoa de Varzim",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "320",
+    "name": "Póvoa de Varzim - Marquês de Po...",
+    "address": "Pcª. Marquês Pombal 24",
+    "postal_code": "4490-442 Póvoa de Varzim",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "1009",
+    "name": "Povoação - Açores",
+    "address": "Rua Padre João de Medeiros 1",
+    "postal_code": "9650-403 Povoação",
+    "schedule": "8:30 → 20:00"
+  },
+  {
+    "id": "315",
+    "name": "Praça da República",
+    "address": "Praça da República 58",
+    "postal_code": "4050-496 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "450",
+    "name": "Pragal",
+    "address": "Rua José Cardoso Pires - Estaçã...",
+    "postal_code": "2805-337 Almada",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "489",
+    "name": "Prelada",
+    "address": "Rua Central de Francos 744/758",
+    "postal_code": "4250-124 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "466",
+    "name": "Prior Velho - Terraços da Ponte",
+    "address": "Urbanização Terraços Da Ponte L...",
+    "postal_code": "2685-119 Loures",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "365",
+    "name": "Quarteira - Morgadinho",
+    "address": "Sitio Do Semino",
+    "postal_code": "8125-303 Loulé",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "475",
+    "name": "Queijas",
+    "address": "Rua António Feliciano Castilho ...",
+    "postal_code": "2795-780 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "425",
+    "name": "Queluz - António Enes",
+    "address": "Rua António Enes 18 A/B",
+    "postal_code": "2745-067 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "419",
+    "name": "Queluz - Monte Abraão",
+    "address": "Av. Gen. Humberto Delgado Lote 11",
+    "postal_code": "2745-281 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "752",
+    "name": "Quinta do Conde - Cova dos Vidros",
+    "address": "Urbanização Da Cova Dos Vidros",
+    "postal_code": "2975-628 Sesimbra",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "695",
+    "name": "Quinta do Conde - Estrada Nacio...",
+    "address": "E.N. 10, Km 19,5",
+    "postal_code": "2975-403 Sesimbra",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "617",
+    "name": "Quinta do Lago",
+    "address": "Centro Comercial Buganvilla Loj...",
+    "postal_code": "8136-106 Loulé",
+    "schedule": "8:30 → 20:30"
+  },
+  {
+    "id": "876",
+    "name": "Ramada Bons Dias",
+    "address": "Avenida Augusto Hilário 59",
+    "postal_code": "2620-184 Odivelas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "337",
+    "name": "Ramalde - São João de Brito",
+    "address": "Rua São João De Brito C/ Rua Da...",
+    "postal_code": "4100-453 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "476",
+    "name": "Reboleira",
+    "address": "Av. D. José I 43",
+    "postal_code": "2720-176 Amadora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "379",
+    "name": "Régua",
+    "address": "Bairro das Alagoas - Qtª. Das F...",
+    "postal_code": "5050-063 Peso da Régua",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "767",
+    "name": "Reguengos de Monsaraz",
+    "address": "Avenida do Alentejo - Lugar de ...",
+    "postal_code": "7200-480 Reguengos de Monsaraz",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "525",
+    "name": "Resende",
+    "address": "Rua da Escola Preparatória 2",
+    "postal_code": "4660-044 Resende",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "982",
+    "name": "Restaurante Centro Distribuição...",
+    "address": "Rua de Vales",
+    "postal_code": "8365-087 Algoz",
+    "schedule": "10:00 → 15:30, 17:30 → 22:30"
+  },
+  {
+    "id": "911",
+    "name": "Restaurante Cuf Tejo",
+    "address": "Avenida 24 de Julho 171",
+    "postal_code": "1350-352 Lisboa",
+    "schedule": "11:30 → 15:30"
+  },
+  {
+    "id": "438",
+    "name": "Restelo",
+    "address": "Av. Torre Belém 7",
+    "postal_code": "1400-342 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "537",
+    "name": "Riba de Ave",
+    "address": "Cerrado da Casa - Casais",
+    "postal_code": "4765-213 Riba de Ave",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1008",
+    "name": "Ribeira Grande - Açores",
+    "address": "Estrada da Ribeira Grande, km 8",
+    "postal_code": "9600-102 Ribeira Grande",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "430",
+    "name": "Rinchoa",
+    "address": "C.C. Fitares - Rua Parque - Urb...",
+    "postal_code": "2635-593 Rio de Mouro",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "432",
+    "name": "Rio Maior - Espadanal",
+    "address": "Av. Dr. Mário Soares - Lugar do...",
+    "postal_code": "2040-413 Rio Maior",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "720",
+    "name": "Rio Maior - Taipas",
+    "address": "Rua Das Taipas 10",
+    "postal_code": "2040-339 Rio Maior",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "665",
+    "name": "Rio Tinto - Infante D. Henrique",
+    "address": "Av. Infante D. Henrique",
+    "postal_code": "4435-286 Gondomar",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "478",
+    "name": "Rua João Saraiva",
+    "address": "Rua João Saraiva 1",
+    "postal_code": "1700-248 Lisboa",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "613",
+    "name": "S. Félix da Marinha",
+    "address": "Rua de Brito, Estrada Nacional ...",
+    "postal_code": "4410-205 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "322",
+    "name": "Sá da Bandeira",
+    "address": "Rua Sá Bandeira 385/389",
+    "postal_code": "4000-270 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "445",
+    "name": "Sacavém",
+    "address": "Urbanização Real Forte - Rua Ál...",
+    "postal_code": "2685-050 Loures",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "882",
+    "name": "Salgueiros Paranhos",
+    "address": "Rua de Aval de Baixo",
+    "postal_code": "4200-099 Salgueiros Paranhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "463",
+    "name": "Samora Correia",
+    "address": "Rua Ferreira de Castro - Urbani...",
+    "postal_code": "2135-312 Benavente",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "390",
+    "name": "Santa Apolónia",
+    "address": "Rua De Santa Apolónia - Estação...",
+    "postal_code": "1100-486 Lisboa",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "324",
+    "name": "Santa Comba Dão",
+    "address": "Avª Drº Sá Carneiro",
+    "postal_code": "3440-324 Santa Comba Dão",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "335",
+    "name": "Santa Luzia",
+    "address": "Rua Santa Luzia 573",
+    "postal_code": "4250-417 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1011",
+    "name": "Santa Maria - Açores",
+    "address": "Rua Dr. Luís Bettencourt 3",
+    "postal_code": "9580-522 Santa Maria",
+    "schedule": "8:00 → 20:00"
+  },
+  {
+    "id": "657",
+    "name": "Santa Maria da Feira - Hiper",
+    "address": "Lugar De Vila Boa",
+    "postal_code": "4520-195 Santa Maria da Feira",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "690",
+    "name": "Santarém - Lugar de S. Domingos",
+    "address": "E.N. 365, Lugar S. Domingos",
+    "postal_code": "2005-542 Santarém",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "469",
+    "name": "Santarém - Shopping W",
+    "address": "Centro Comercial W - Rua Pedro ...",
+    "postal_code": "2000-223 Santarém",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "710",
+    "name": "Santarém - Sra. da Guia",
+    "address": "Rua da Escola dos Regentes Agrí...",
+    "postal_code": "2005-474 Santarém",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "531",
+    "name": "Santo André",
+    "address": "Rua do Mercado",
+    "postal_code": "7500-220 Santiago do Cacém",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "704",
+    "name": "Santo António dos Cavaleiros",
+    "address": "Rua Pêro Vaz Caminha nº 14 - C",
+    "postal_code": "2660-441 Loures",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "666",
+    "name": "Santo Tirso - Lugar de Fontiscos",
+    "address": "Lugar De Fontiscos",
+    "postal_code": "4780-583 Santo Tirso",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "457",
+    "name": "São Bento",
+    "address": "Rua Jorge Alves 8",
+    "postal_code": "1200-781 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "848",
+    "name": "São Brás de Alportel",
+    "address": "Rua Luís Bivar",
+    "postal_code": "8150-156 São Brás de Alportel",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "792",
+    "name": "São Gemil",
+    "address": "Rua de São Gemil",
+    "postal_code": "4425-692 Maia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "349",
+    "name": "São Gens",
+    "address": "Rua Dos Fogueteiros 564",
+    "postal_code": "4461-801 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1001",
+    "name": "São Gonçalo - Açores",
+    "address": "Rua de S. Gonçalo 223",
+    "postal_code": "9500-110 Ponta Delgada",
+    "schedule": "8:30 → 22:00"
+  },
+  {
+    "id": "470",
+    "name": "São João da Madeira - Casaldelo",
+    "address": "Rua António Nicolau, Casal Delo...",
+    "postal_code": "3700-044 São João da Madeira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "382",
+    "name": "São João da Madeira - Rua Visco...",
+    "address": "Rua Visconde de S. João da Made...",
+    "postal_code": "3700-267 São João da Madeira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "397",
+    "name": "São João do Estoril",
+    "address": "Rua Egas Moniz 173",
+    "postal_code": "2765-478 Cascais",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "331",
+    "name": "São Mamede de Infesta",
+    "address": "Rua Godinho Faria 195",
+    "postal_code": "4465-156 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "650",
+    "name": "São Mamede de Infesta - Sá e Me...",
+    "address": "Rua Dr. Sá e Melo",
+    "postal_code": "4465-245 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "325",
+    "name": "São Mamede de Infesta - Travess...",
+    "address": "Rua Cooperação, Monte Dos Burgo...",
+    "postal_code": "4465-101 Matosinhos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "435",
+    "name": "São Marcos",
+    "address": "Rua de Belo Horizonte 7",
+    "postal_code": "2735-653 Sintra",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "894",
+    "name": "São Paio de Oleiros",
+    "address": "Rua Comendador Sá Couto",
+    "postal_code": "4535-439 Santa Maria da Feira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "745",
+    "name": "São Pedro da Cova",
+    "address": "Rua Eng.º Farinas De Almeida, S...",
+    "postal_code": "4510-260 Gondomar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "355",
+    "name": "São Pedro da Cova - Estrada de ...",
+    "address": "Estrada D. Miguel 1427",
+    "postal_code": "4510-243 Gondomar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "511",
+    "name": "São Pedro do Sul",
+    "address": "Rua Dr. José Correia de Oliveir...",
+    "postal_code": "3660-432 São Pedro do Sul",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "517",
+    "name": "São Romão",
+    "address": "Rua Horizonte",
+    "postal_code": "4745-524 Trofa",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "806",
+    "name": "Sassoeiros",
+    "address": "Estrada Nacional 6/5",
+    "postal_code": "2780-158 Oeiras",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "523",
+    "name": "Sátão",
+    "address": "Avenida Vila Rosa 641",
+    "postal_code": "3560-228 Sátão",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "678",
+    "name": "Seia",
+    "address": "Zona Industrial - Bairro Sta. C...",
+    "postal_code": "6270-502 Seia",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "532",
+    "name": "Serpa",
+    "address": "Rua Eira de S.Pedro",
+    "postal_code": "7830-348 Serpa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "317",
+    "name": "Serpa Pinto",
+    "address": "R. Serpa Pinto 700/738",
+    "postal_code": "4250-465 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "812",
+    "name": "Serra da Mira",
+    "address": "Estrada Serra Da Mira 40",
+    "postal_code": "2700-364 Amadora",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "318",
+    "name": "Sertã",
+    "address": "Sitio Da Abegoaria",
+    "postal_code": "6100-601 Sertã",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "764",
+    "name": "Sesimbra - Carrasqueira",
+    "address": "Rua dos Amores Perfeitos - Urba...",
+    "postal_code": "2970-649 Sesimbra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "859",
+    "name": "Sesimbra - Castelo",
+    "address": "E.N. 379, Sampaio",
+    "postal_code": "2970-649 Sesimbra",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "757",
+    "name": "Setúbal - Estrada de Ciprestres",
+    "address": "Estrada Dos Cipestres, Santa Ma...",
+    "postal_code": "2900-319 Setúbal",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "810",
+    "name": "Setúbal - Luísa Todi",
+    "address": "Av. Luisa Todi 149",
+    "postal_code": "2900-461 Setúbal",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "446",
+    "name": "Setúbal - Moinho dos Frades",
+    "address": "Rua Moinho Dos Frades 6",
+    "postal_code": "2910-616 Setúbal",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "641",
+    "name": "Setúbal - Monte Bello",
+    "address": "Rua das Carvelas",
+    "postal_code": "2910-998 Setúbal",
+    "schedule": "7:30 → 21:30"
+  },
+  {
+    "id": "361",
+    "name": "Sever do Vouga",
+    "address": "Rua da APCDI 411",
+    "postal_code": "3740-133 Sever do Vouga",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "520",
+    "name": "Silveira",
+    "address": "Rua Do Moinho Do Espanhol 2",
+    "postal_code": "2560-402 Torres Vedras",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "763",
+    "name": "Sines",
+    "address": "Loteamento Municipal A Norte Da...",
+    "postal_code": "7520-137 Sines",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "841",
+    "name": "Sintra",
+    "address": "Praça D. Afonso V 4/5",
+    "postal_code": "2710-521 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "483",
+    "name": "Sobralinho",
+    "address": "E.N. 10 Km 127 - Lugar dos Álam...",
+    "postal_code": "2615-042 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "358",
+    "name": "Soure",
+    "address": "E.N. 342, Loteamento Do Bairro ...",
+    "postal_code": "3130-211 Soure",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "6",
+    "name": "Super Anadia",
+    "address": "C. C. Anadia - Rua Do Ribeirinh...",
+    "postal_code": "9050-020 Funchal",
+    "schedule": "7:30 → 22:00"
+  },
+  {
+    "id": "24",
+    "name": "Super Calheta",
+    "address": "Vila Da Calheta",
+    "postal_code": "9370-133 Calheta",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "11",
+    "name": "Super Câmara de Lobos",
+    "address": "Edf. Baía Cidade, Rua Padre Edu...",
+    "postal_code": "9300-116 Câmara de Lobos",
+    "schedule": "7:30 → 22:00"
+  },
+  {
+    "id": "12",
+    "name": "Super Cancela",
+    "address": "Edf. Quinta Garajau, Estrada Ga...",
+    "postal_code": "9125-067 Santa Cruz",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "14",
+    "name": "Super Forum",
+    "address": "C. C. Forum Madeira, Estrada Mo...",
+    "postal_code": "9000-693 Funchal",
+    "schedule": "8:00 → 23:00"
+  },
+  {
+    "id": "4",
+    "name": "Super Machico",
+    "address": "Rua Da Estacada",
+    "postal_code": "9200-087 Machico",
+    "schedule": "7:30 → 22:00"
+  },
+  {
+    "id": "3",
+    "name": "Super Monumental",
+    "address": "Estrada Monumental 318",
+    "postal_code": "9000-100 Funchal",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "16",
+    "name": "Super Penteada",
+    "address": "Urbanização Da Penteada Loja 15",
+    "postal_code": "9000-000 Funchal",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "13",
+    "name": "Super Porto Santo",
+    "address": "Rua Bartolomeu Perestrelo - Vil...",
+    "postal_code": "9400-153 Porto Santo",
+    "schedule": "9:00 → 20:00"
+  },
+  {
+    "id": "7",
+    "name": "Super Ribeira Brava",
+    "address": "Estrada Comandante Camacho De F...",
+    "postal_code": "9350-209 Ribeira Brava",
+    "schedule": "7:30 → 22:00"
+  },
+  {
+    "id": "8",
+    "name": "Super Santo Antonio",
+    "address": "Caminho De Stº António 244",
+    "postal_code": "9000-000 Funchal",
+    "schedule": "7:30 → 22:00"
+  },
+  {
+    "id": "840",
+    "name": "Tágides Park",
+    "address": "Rua do Casal Novo - Urbanização...",
+    "postal_code": "2625-239 Vila Franca de Xira",
+    "schedule": "9:00 → 21:00"
+  },
+  {
+    "id": "868",
+    "name": "Tapada das Mercês",
+    "address": "R. António Ferreira Gomes Lote ...",
+    "postal_code": "2725-536 Sintra",
+    "schedule": "7:00 → 21:00"
+  },
+  {
+    "id": "522",
+    "name": "Tarouca",
+    "address": "Lugar Da Tapadinha",
+    "postal_code": "3610-103 Tarouca",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "851",
+    "name": "Tavira - Centro",
+    "address": "Rua Silva Domingues",
+    "postal_code": "8800-328 Tavira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "618",
+    "name": "Tavira - Estrada Nacional",
+    "address": "E.N. 125, Santa Margarida",
+    "postal_code": "8800-101 Tavira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "655",
+    "name": "Telheiras - Hiper",
+    "address": "Rua Projectada à Azinhaga dos U...",
+    "postal_code": "1600-776 Lisboa",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "867",
+    "name": "Tercena",
+    "address": "Avenida Infante D. Henrique",
+    "postal_code": "2730-123 Oeiras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "528",
+    "name": "Terrugem",
+    "address": "E.N. 9, Fervença",
+    "postal_code": "2705-311 Sintra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "640",
+    "name": "Tomar",
+    "address": "Rua de Coimbra – Avessadas 38",
+    "postal_code": "2300-471 Tomar",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "440",
+    "name": "Tomás Ribeiro",
+    "address": "Rua Tomás Ribeiro 97",
+    "postal_code": "1050-227 Lisboa",
+    "schedule": "7:30 → 21:00"
+  },
+  {
+    "id": "679",
+    "name": "Tondela",
+    "address": "Av. Dos Lusíadas 135",
+    "postal_code": "3460-482 Tondela",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "388",
+    "name": "Torres da Luz",
+    "address": "Rua José Maria Nicolau - Arruam...",
+    "postal_code": "1500-662 Lisboa",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "714",
+    "name": "Torres Novas - Andrade Corvo",
+    "address": "Av. Andrade Corvo",
+    "postal_code": "2350-163 Torres Novas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "691",
+    "name": "Torres Novas - EN 243",
+    "address": "E.N. 243, Riachos",
+    "postal_code": "2350-292 Torres Novas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "842",
+    "name": "Torres Vedras",
+    "address": "Praceta Dr. José Carvalho Mesqu...",
+    "postal_code": "2560-299 Torres Vedras",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "542",
+    "name": "Trancoso",
+    "address": "Rua D. João de Castro",
+    "postal_code": "6420-039 Trancoso",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "667",
+    "name": "Trofa - Santiago de Bougado",
+    "address": "Rua Das Aldeias De Cima - Santi...",
+    "postal_code": "4785-699 Trofa",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "330",
+    "name": "Trofa - Shopping",
+    "address": "Rua Manuel Silva Pinheiro - Edf...",
+    "postal_code": "4785-333 Trofa",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "527",
+    "name": "Turquel",
+    "address": "Rua Pavilhão Gimnodesportivo 1",
+    "postal_code": "2460-890 Alcobaça",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "869",
+    "name": "Vagos",
+    "address": "Avenida Dr. Lúcio Vidal",
+    "postal_code": "3840-436 Vagos",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "680",
+    "name": "Valadares - Rio do Paço",
+    "address": "Rua Rio Do Paço, Valadares 300",
+    "postal_code": "4405-602 Vila Nova de Gaia",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "1005",
+    "name": "Valados - Açores",
+    "address": "Rua António Resendes Tavares 9",
+    "postal_code": "9500-367 Arrifes",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "362",
+    "name": "Vale de Cambra",
+    "address": "Rua Da Granja - Vale De Cambra",
+    "postal_code": "3730-205 Vale de Cambra",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "619",
+    "name": "Vale do Lobo",
+    "address": "Empreendimento Turístico",
+    "postal_code": "8135-107 Loulé",
+    "schedule": "8:00 → 20:30"
+  },
+  {
+    "id": "877",
+    "name": "Valença",
+    "address": "Av. Dr. Tito Fontes",
+    "postal_code": "4930-673 Valença",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "668",
+    "name": "Valongo - Rua da Passagem",
+    "address": "Rua Da Passagem",
+    "postal_code": "4440-565 Valongo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "741",
+    "name": "Valongo - Susão",
+    "address": "Rua D. Pedro Iv, Lugar Campo Ba...",
+    "postal_code": "4440-633 Valongo",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "524",
+    "name": "Valpaços",
+    "address": "Rua da Crasta",
+    "postal_code": "5430-426 Valpaços",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "636",
+    "name": "Velasques",
+    "address": "Praça Dr. Francisco Sá Carneiro...",
+    "postal_code": "4200-313 Porto",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "692",
+    "name": "Venda Nova - Elias Garcia",
+    "address": "Rua Elias Garcia 23",
+    "postal_code": "2700-311 Amadora",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "521",
+    "name": "Vendas Novas",
+    "address": "Rua São João De Deus",
+    "postal_code": "7080-031 Vendas Novas",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "703",
+    "name": "Vialonga",
+    "address": "Rua Coronel Lobo Da Costa",
+    "postal_code": "2625-612 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "410",
+    "name": "Vialonga - Olival das Minas",
+    "address": "Rua Aqueduto Lote 5/6",
+    "postal_code": "2625-577 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "533",
+    "name": "Viana do Castelo - Meadela",
+    "address": "Rua do Ameal 126",
+    "postal_code": "4900-585 Viana do Castelo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "747",
+    "name": "Viana do Castelo - Portuzelo",
+    "address": "E.N. 202, Lugar De Santa Marta ...",
+    "postal_code": "4900-104 Viana do Castelo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "329",
+    "name": "Viana do Castelo - Rua de Aveiro",
+    "address": "Rua De Aveiro 156",
+    "postal_code": "4900-495 Viana do Castelo",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "369",
+    "name": "Vieira do Minho",
+    "address": "Quinta Das Lameiras, Lugar De L...",
+    "postal_code": "4850-154 Vieira do Minho",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "347",
+    "name": "Vila das Aves",
+    "address": "Lugar Do Quintão",
+    "postal_code": "4795-001 Santo Tirso",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "740",
+    "name": "Vila do Conde",
+    "address": "E.N. 13, Rua 5 De Outubro, Luga...",
+    "postal_code": "4480-786 Vila do Conde",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "431",
+    "name": "Vila Franca de Xira",
+    "address": "Rua do Curado, Gaveto Com Rua T...",
+    "postal_code": "2600-133 Vila Franca de Xira",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "1010",
+    "name": "Vila Franca do Campo - Açores",
+    "address": "Av. das Comunidades Emigrantes",
+    "postal_code": "9680-108 Vila Franca do Campo",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "518",
+    "name": "Vila Meã",
+    "address": "Rua Santa Comba 176",
+    "postal_code": "4605-362 Amarante",
+    "schedule": "8:30 → 21:00"
+  },
+  {
+    "id": "387",
+    "name": "Vila Real - Rua Miguel Torga",
+    "address": "Rua Miguel Torga",
+    "postal_code": "5000-524 Vila Real",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "378",
+    "name": "Vila Real - Santa Isabel",
+    "address": "Av. Rainha Stª. Isabel - Nª Sra...",
+    "postal_code": "5000-434 Vila Real",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "762",
+    "name": "Vila Real de Santo António",
+    "address": "Avenida Salgueiro Maia, Lugar ...",
+    "postal_code": "8900-258 Vila Real de Santo António",
+    "schedule": "8:00 → 21:30"
+  },
+  {
+    "id": "536",
+    "name": "Vila Real Lordelo",
+    "address": "Rua da Barra 2/4",
+    "postal_code": "5000-212 Vila Real",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "669",
+    "name": "Vila Verde",
+    "address": "Lugar da Torre 206",
+    "postal_code": "4730-010 Vila Verde",
+    "schedule": "8:00 → 22:00"
+  },
+  {
+    "id": "785",
+    "name": "Vilamoura",
+    "address": "Estrada de Albufeira, Lote 6 B\\3",
+    "postal_code": "8125-406 Loulé",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "346",
+    "name": "Viseu - Rua Mendonça",
+    "address": "Rua Mendonça",
+    "postal_code": "3510-156 Viseu",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "787",
+    "name": "Viseu - São João da Carreira",
+    "address": "Rotunda João Félix",
+    "postal_code": "3500-012 Santa Maria",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "779",
+    "name": "Viseu Abraveses - Pascoal",
+    "address": "Av. Manuel Loureiro, Pascoal - ...",
+    "postal_code": "3515-210 Viseu",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "681",
+    "name": "Viseu Forum",
+    "address": "C.C. Forum Viseu - Rua D. José ...",
+    "postal_code": "3510-153 Viseu",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "724",
+    "name": "Vizela - Infias",
+    "address": "E.N. 106, Km 1, Infias",
+    "postal_code": "4815-000 Vizela",
+    "schedule": "8:00 → 21:00"
+  },
+  {
+    "id": "670",
+    "name": "Vizela - Lugar do Poço Quente",
+    "address": "Av. Domingos Vaz Pinheiro 201",
+    "postal_code": "4815-763 Vizela",
+    "schedule": "8:00 → 21:00"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "Benfica": { "stadium": "Estádio da Luz", "lat": 38.7525, "lon": -9.1849 },
+  "Sporting CP": { "stadium": "Estádio José Alvalade", "lat": 38.7610, "lon": -9.1609 },
+  "FC Porto": { "stadium": "Estádio do Dragão", "lat": 41.1618, "lon": -8.5839 },
+  "Braga": { "stadium": "Estádio Municipal de Braga", "lat": 41.5606, "lon": -8.4286 },
+  "Vitória SC": { "stadium": "Estádio D. Afonso Henriques", "lat": 41.4468, "lon": -8.2917 },
+  "Rio Ave": { "stadium": "Estádio do Rio Ave FC", "lat": 41.3547, "lon": -8.7410 },
+  "Famalicão": { "stadium": "Estádio Municipal 22 de Junho", "lat": 41.4082, "lon": -8.5147 },
+  "Gil Vicente": { "stadium": "Estádio Cidade de Barcelos", "lat": 41.5284, "lon": -8.6111 },
+  "Casa Pia AC": { "stadium": "Estádio Nacional", "lat": 38.7053, "lon": -9.2565 },
+  "Estoril": { "stadium": "Estádio António Coimbra da Mota", "lat": 38.7062, "lon": -9.3957 },
+  "Arouca": { "stadium": "Estádio Municipal de Arouca", "lat": 40.9231, "lon": -8.2464 },
+  "Moreirense": { "stadium": "Estádio Com. Joaquim de Almeida Freitas", "lat": 41.4363, "lon": -8.3562 },
+  "Estrela da Amadora": { "stadium": "Estádio José Gomes", "lat": 38.7582, "lon": -9.2434 },
+  "Santa Clara": { "stadium": "Estádio de São Miguel", "lat": 37.7471, "lon": -25.6558 },
+  "Nacional": { "stadium": "Estádio da Madeira", "lat": 32.6669, "lon": -16.8929 },
+  "AFS": { "stadium": "Estádio do CD Aves", "lat": 41.3458, "lon": -8.3975 },
+  "Alverca": { "stadium": "Complexo Desportivo FC Alverca", "lat": 38.8979, "lon": -9.0350 },
+  "Tondela": { "stadium": "Estádio João Cardoso", "lat": 40.5117, "lon": -8.0828 }
+}
