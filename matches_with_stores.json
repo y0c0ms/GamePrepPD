@@ -145,13 +145,13 @@
     "home_team": "Vitoria Guimaraes",
     "away_team": "Tondela",
     "stadium": "Estádio D. Afonso Henriques",
-    "stadium_lat": 41.4468,
-    "stadium_lon": -8.2917,
+    "stadium_lat": 41.4376,
+    "stadium_lon": -8.2914,
     "nearby_stores": [
       {
         "name": "Guimarães - Av. D. João IV",
         "address": "4810-225",
-        "distance_km": 0.98,
+        "distance_km": 0.06,
         "lat": 41.4379641,
         "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -159,17 +159,17 @@
       {
         "name": "Caldas das Taipas-Guimarães",
         "address": "4801-908",
-        "distance_km": 6.98,
+        "distance_km": 7.7,
         "lat": 41.487789,
         "lon": -8.3551167,
         "schedule": "Mo-Su 09:00-21:00"
       },
       {
-        "name": "Fafe - Av. Brasil",
-        "address": "4820-121",
-        "distance_km": 9.64,
-        "lat": 41.4480225,
-        "lon": -8.1760073,
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.49,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -214,33 +214,33 @@
     "date": "06.04.2026 20:45",
     "home_team": "Casa Pia",
     "away_team": "Benfica",
-    "stadium": "Estádio Nacional",
-    "stadium_lat": 38.7053,
-    "stadium_lon": -9.2565,
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
     "nearby_stores": [
       {
-        "name": "Algés",
-        "address": "Rua General Humberto Delgado, 1495-068 Oeiras",
-        "distance_km": 2.45,
-        "lat": 38.6999509,
-        "lon": -9.229088,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Carnaxide - Centro Comercial Solátia",
-        "address": "Avenida de Portugal, 2790-128 Carnaxide",
-        "distance_km": 2.7,
-        "lat": 38.7260652,
-        "lon": -9.2404323,
-        "schedule": "Mo-Su 08:00-21:30"
-      },
-      {
-        "name": "Paço de Arcos",
-        "address": "2780-161",
-        "distance_km": 3.35,
-        "lat": 38.6959077,
-        "lon": -9.2931254,
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
       }
     ]
   },
@@ -319,14 +319,14 @@
     "date": "10.04.2026 20:45",
     "home_team": "Famalicao",
     "away_team": "Moreirense",
-    "stadium": "Estádio Municipal 22 de Junho",
-    "stadium_lat": 41.4082,
-    "stadium_lon": -8.5147,
+    "stadium": "Estádio Municipal de Famalicão",
+    "stadium_lat": 41.4028,
+    "stadium_lon": -8.5242,
     "nearby_stores": [
       {
         "name": "Trofa - Shopping",
         "address": "4785-333",
-        "distance_km": 8.64,
+        "distance_km": 7.76,
         "lat": 41.3386536,
         "lon": -8.5609241,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -334,7 +334,7 @@
       {
         "name": "Trofa - Santiago de Bougado",
         "address": "4785-699",
-        "distance_km": 10.08,
+        "distance_km": 9.2,
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -342,7 +342,7 @@
       {
         "name": "Vila das Aves",
         "address": "4795-001",
-        "distance_km": 10.17,
+        "distance_km": 10.64,
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -425,13 +425,13 @@
     "home_team": "Alverca",
     "away_team": "Casa Pia",
     "stadium": "Complexo Desportivo FC Alverca",
-    "stadium_lat": 38.8928,
-    "stadium_lon": -9.0331,
+    "stadium_lat": 38.8878,
+    "stadium_lon": -9.0345,
     "nearby_stores": [
       {
         "name": "Alverca - Super",
         "address": "Rua Brigadeiro Fernando Alberto de Oliveira, 2615-077 Vila Franca de Xira",
-        "distance_km": 0.56,
+        "distance_km": 0.87,
         "lat": 38.8947812,
         "lon": -9.0390566,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -439,7 +439,7 @@
       {
         "name": "Sobralinho",
         "address": "2615-042",
-        "distance_km": 1.86,
+        "distance_km": 2.43,
         "lat": 38.9090451,
         "lon": -9.0280688,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -447,7 +447,7 @@
       {
         "name": "Tágides Park",
         "address": "2625-239",
-        "distance_km": 5.62,
+        "distance_km": 5.14,
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
@@ -460,31 +460,31 @@
     "home_team": "Estrela",
     "away_team": "Sporting CP",
     "stadium": "Estádio José Gomes",
-    "stadium_lat": 38.7582,
-    "stadium_lon": -9.2434,
+    "stadium_lat": 38.7495,
+    "stadium_lon": -9.2455,
     "nearby_stores": [
-      {
-        "name": "Amadora",
-        "address": "2700-336",
-        "distance_km": 0.51,
-        "lat": 38.759968,
-        "lon": -9.2380081,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
       {
         "name": "Queluz - António Enes",
         "address": "Rua António Enes, 2745-067 Sintra",
-        "distance_km": 1.04,
+        "distance_km": 1.21,
         "lat": 38.7572798,
         "lon": -9.2552992,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Serra da Mira",
-        "address": "Estrada da Serra da Mira, 2700-364 Amadora",
-        "distance_km": 1.37,
-        "lat": 38.7659572,
-        "lon": -9.231061,
+        "name": "Amadora",
+        "address": "2700-336",
+        "distance_km": 1.33,
+        "lat": 38.759968,
+        "lon": -9.2380081,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Queluz - Monte Abraão",
+        "address": "2745-281",
+        "distance_km": 1.83,
+        "lat": 38.7611431,
+        "lon": -9.2603449,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -600,13 +600,13 @@
     "home_team": "Tondela",
     "away_team": "Gil Vicente",
     "stadium": "Estádio João Cardoso",
-    "stadium_lat": 40.5125,
-    "stadium_lon": -8.0819,
+    "stadium_lat": 40.5119,
+    "stadium_lon": -8.0827,
     "nearby_stores": [
       {
         "name": "Tondela",
         "address": "3460-482 Tondela",
-        "distance_km": 1.93,
+        "distance_km": 1.98,
         "lat": 40.5291489,
         "lon": -8.0885299,
         "schedule": "Mo-Su 09:00-20:30"
@@ -614,7 +614,7 @@
       {
         "name": "Viseu - Rua Mendonça",
         "address": "3510-156",
-        "distance_km": 21.13,
+        "distance_km": 21.22,
         "lat": 40.6529006,
         "lon": -7.9133005,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -622,7 +622,7 @@
       {
         "name": "Viseu Forum",
         "address": "3510-153",
-        "distance_km": 21.87,
+        "distance_km": 21.96,
         "lat": 40.6621965,
         "lon": -7.9139805,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
@@ -739,33 +739,33 @@
     "date": "18.04.2026 18:00",
     "home_team": "Casa Pia",
     "away_team": "Santa Clara",
-    "stadium": "Estádio Nacional",
-    "stadium_lat": 38.7053,
-    "stadium_lon": -9.2565,
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
     "nearby_stores": [
       {
-        "name": "Algés",
-        "address": "Rua General Humberto Delgado, 1495-068 Oeiras",
-        "distance_km": 2.45,
-        "lat": 38.6999509,
-        "lon": -9.229088,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Carnaxide - Centro Comercial Solátia",
-        "address": "Avenida de Portugal, 2790-128 Carnaxide",
-        "distance_km": 2.7,
-        "lat": 38.7260652,
-        "lon": -9.2404323,
-        "schedule": "Mo-Su 08:00-21:30"
-      },
-      {
-        "name": "Paço de Arcos",
-        "address": "2780-161",
-        "distance_km": 3.35,
-        "lat": 38.6959077,
-        "lon": -9.2931254,
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
       }
     ]
   },
@@ -984,33 +984,33 @@
     "date": "23.04.2026 20:15",
     "home_team": "Casa Pia",
     "away_team": "Braga",
-    "stadium": "Estádio Nacional",
-    "stadium_lat": 38.7053,
-    "stadium_lon": -9.2565,
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
     "nearby_stores": [
       {
-        "name": "Algés",
-        "address": "Rua General Humberto Delgado, 1495-068 Oeiras",
-        "distance_km": 2.45,
-        "lat": 38.6999509,
-        "lon": -9.229088,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Carnaxide - Centro Comercial Solátia",
-        "address": "Avenida de Portugal, 2790-128 Carnaxide",
-        "distance_km": 2.7,
-        "lat": 38.7260652,
-        "lon": -9.2404323,
-        "schedule": "Mo-Su 08:00-21:30"
-      },
-      {
-        "name": "Paço de Arcos",
-        "address": "2780-161",
-        "distance_km": 3.35,
-        "lat": 38.6959077,
-        "lon": -9.2931254,
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
       }
     ]
   },
@@ -1090,13 +1090,13 @@
     "home_team": "Alverca",
     "away_team": "Arouca",
     "stadium": "Complexo Desportivo FC Alverca",
-    "stadium_lat": 38.8928,
-    "stadium_lon": -9.0331,
+    "stadium_lat": 38.8878,
+    "stadium_lon": -9.0345,
     "nearby_stores": [
       {
         "name": "Alverca - Super",
         "address": "Rua Brigadeiro Fernando Alberto de Oliveira, 2615-077 Vila Franca de Xira",
-        "distance_km": 0.56,
+        "distance_km": 0.87,
         "lat": 38.8947812,
         "lon": -9.0390566,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1104,7 +1104,7 @@
       {
         "name": "Sobralinho",
         "address": "2615-042",
-        "distance_km": 1.86,
+        "distance_km": 2.43,
         "lat": 38.9090451,
         "lon": -9.0280688,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1112,7 +1112,7 @@
       {
         "name": "Tágides Park",
         "address": "2625-239",
-        "distance_km": 5.62,
+        "distance_km": 5.14,
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
@@ -1125,31 +1125,31 @@
     "home_team": "Estrela",
     "away_team": "FC Porto",
     "stadium": "Estádio José Gomes",
-    "stadium_lat": 38.7582,
-    "stadium_lon": -9.2434,
+    "stadium_lat": 38.7495,
+    "stadium_lon": -9.2455,
     "nearby_stores": [
-      {
-        "name": "Amadora",
-        "address": "2700-336",
-        "distance_km": 0.51,
-        "lat": 38.759968,
-        "lon": -9.2380081,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
       {
         "name": "Queluz - António Enes",
         "address": "Rua António Enes, 2745-067 Sintra",
-        "distance_km": 1.04,
+        "distance_km": 1.21,
         "lat": 38.7572798,
         "lon": -9.2552992,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Serra da Mira",
-        "address": "Estrada da Serra da Mira, 2700-364 Amadora",
-        "distance_km": 1.37,
-        "lat": 38.7659572,
-        "lon": -9.231061,
+        "name": "Amadora",
+        "address": "2700-336",
+        "distance_km": 1.33,
+        "lat": 38.759968,
+        "lon": -9.2380081,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Queluz - Monte Abraão",
+        "address": "2745-281",
+        "distance_km": 1.83,
+        "lat": 38.7611431,
+        "lon": -9.2603449,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -1230,13 +1230,13 @@
     "home_team": "Vitoria Guimaraes",
     "away_team": "Rio Ave",
     "stadium": "Estádio D. Afonso Henriques",
-    "stadium_lat": 41.4468,
-    "stadium_lon": -8.2917,
+    "stadium_lat": 41.4376,
+    "stadium_lon": -8.2914,
     "nearby_stores": [
       {
         "name": "Guimarães - Av. D. João IV",
         "address": "4810-225",
-        "distance_km": 0.98,
+        "distance_km": 0.06,
         "lat": 41.4379641,
         "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1244,17 +1244,17 @@
       {
         "name": "Caldas das Taipas-Guimarães",
         "address": "4801-908",
-        "distance_km": 6.98,
+        "distance_km": 7.7,
         "lat": 41.487789,
         "lon": -8.3551167,
         "schedule": "Mo-Su 09:00-21:00"
       },
       {
-        "name": "Fafe - Av. Brasil",
-        "address": "4820-121",
-        "distance_km": 9.64,
-        "lat": 41.4480225,
-        "lon": -8.1760073,
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.49,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -1265,13 +1265,13 @@
     "home_team": "Tondela",
     "away_team": "Nacional",
     "stadium": "Estádio João Cardoso",
-    "stadium_lat": 40.5125,
-    "stadium_lon": -8.0819,
+    "stadium_lat": 40.5119,
+    "stadium_lon": -8.0827,
     "nearby_stores": [
       {
         "name": "Tondela",
         "address": "3460-482 Tondela",
-        "distance_km": 1.93,
+        "distance_km": 1.98,
         "lat": 40.5291489,
         "lon": -8.0885299,
         "schedule": "Mo-Su 09:00-20:30"
@@ -1279,7 +1279,7 @@
       {
         "name": "Viseu - Rua Mendonça",
         "address": "3510-156",
-        "distance_km": 21.13,
+        "distance_km": 21.22,
         "lat": 40.6529006,
         "lon": -7.9133005,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1287,7 +1287,7 @@
       {
         "name": "Viseu Forum",
         "address": "3510-153",
-        "distance_km": 21.87,
+        "distance_km": 21.96,
         "lat": 40.6621965,
         "lon": -7.9139805,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
@@ -1369,33 +1369,33 @@
     "date": "03.05.2026 17:00",
     "home_team": "Casa Pia",
     "away_team": "Tondela",
-    "stadium": "Estádio Nacional",
-    "stadium_lat": 38.7053,
-    "stadium_lon": -9.2565,
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
     "nearby_stores": [
       {
-        "name": "Algés",
-        "address": "Rua General Humberto Delgado, 1495-068 Oeiras",
-        "distance_km": 2.45,
-        "lat": 38.6999509,
-        "lon": -9.229088,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Carnaxide - Centro Comercial Solátia",
-        "address": "Avenida de Portugal, 2790-128 Carnaxide",
-        "distance_km": 2.7,
-        "lat": 38.7260652,
-        "lon": -9.2404323,
-        "schedule": "Mo-Su 08:00-21:30"
-      },
-      {
-        "name": "Paço de Arcos",
-        "address": "2780-161",
-        "distance_km": 3.35,
-        "lat": 38.6959077,
-        "lon": -9.2931254,
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
       }
     ]
   },
@@ -1404,14 +1404,14 @@
     "date": "03.05.2026 17:00",
     "home_team": "Famalicao",
     "away_team": "Benfica",
-    "stadium": "Estádio Municipal 22 de Junho",
-    "stadium_lat": 41.4082,
-    "stadium_lon": -8.5147,
+    "stadium": "Estádio Municipal de Famalicão",
+    "stadium_lat": 41.4028,
+    "stadium_lon": -8.5242,
     "nearby_stores": [
       {
         "name": "Trofa - Shopping",
         "address": "4785-333",
-        "distance_km": 8.64,
+        "distance_km": 7.76,
         "lat": 41.3386536,
         "lon": -8.5609241,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -1419,7 +1419,7 @@
       {
         "name": "Trofa - Santiago de Bougado",
         "address": "4785-699",
-        "distance_km": 10.08,
+        "distance_km": 9.2,
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -1427,7 +1427,7 @@
       {
         "name": "Vila das Aves",
         "address": "4795-001",
-        "distance_km": 10.17,
+        "distance_km": 10.64,
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1685,13 +1685,13 @@
     "home_team": "Alverca",
     "away_team": "Estoril",
     "stadium": "Complexo Desportivo FC Alverca",
-    "stadium_lat": 38.8928,
-    "stadium_lon": -9.0331,
+    "stadium_lat": 38.8878,
+    "stadium_lon": -9.0345,
     "nearby_stores": [
       {
         "name": "Alverca - Super",
         "address": "Rua Brigadeiro Fernando Alberto de Oliveira, 2615-077 Vila Franca de Xira",
-        "distance_km": 0.56,
+        "distance_km": 0.87,
         "lat": 38.8947812,
         "lon": -9.0390566,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1699,7 +1699,7 @@
       {
         "name": "Sobralinho",
         "address": "2615-042",
-        "distance_km": 1.86,
+        "distance_km": 2.43,
         "lat": 38.9090451,
         "lon": -9.0280688,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1707,7 +1707,7 @@
       {
         "name": "Tágides Park",
         "address": "2625-239",
-        "distance_km": 5.62,
+        "distance_km": 5.14,
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
@@ -1720,31 +1720,31 @@
     "home_team": "Estrela",
     "away_team": "Famalicao",
     "stadium": "Estádio José Gomes",
-    "stadium_lat": 38.7582,
-    "stadium_lon": -9.2434,
+    "stadium_lat": 38.7495,
+    "stadium_lon": -9.2455,
     "nearby_stores": [
-      {
-        "name": "Amadora",
-        "address": "2700-336",
-        "distance_km": 0.51,
-        "lat": 38.759968,
-        "lon": -9.2380081,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
       {
         "name": "Queluz - António Enes",
         "address": "Rua António Enes, 2745-067 Sintra",
-        "distance_km": 1.04,
+        "distance_km": 1.21,
         "lat": 38.7572798,
         "lon": -9.2552992,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Serra da Mira",
-        "address": "Estrada da Serra da Mira, 2700-364 Amadora",
-        "distance_km": 1.37,
-        "lat": 38.7659572,
-        "lon": -9.231061,
+        "name": "Amadora",
+        "address": "2700-336",
+        "distance_km": 1.33,
+        "lat": 38.759968,
+        "lon": -9.2380081,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Queluz - Monte Abraão",
+        "address": "2745-281",
+        "distance_km": 1.83,
+        "lat": 38.7611431,
+        "lon": -9.2603449,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -1825,13 +1825,13 @@
     "home_team": "Tondela",
     "away_team": "Moreirense",
     "stadium": "Estádio João Cardoso",
-    "stadium_lat": 40.5125,
-    "stadium_lon": -8.0819,
+    "stadium_lat": 40.5119,
+    "stadium_lon": -8.0827,
     "nearby_stores": [
       {
         "name": "Tondela",
         "address": "3460-482 Tondela",
-        "distance_km": 1.93,
+        "distance_km": 1.98,
         "lat": 40.5291489,
         "lon": -8.0885299,
         "schedule": "Mo-Su 09:00-20:30"
@@ -1839,7 +1839,7 @@
       {
         "name": "Viseu - Rua Mendonça",
         "address": "3510-156",
-        "distance_km": 21.13,
+        "distance_km": 21.22,
         "lat": 40.6529006,
         "lon": -7.9133005,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1847,7 +1847,7 @@
       {
         "name": "Viseu Forum",
         "address": "3510-153",
-        "distance_km": 21.87,
+        "distance_km": 21.96,
         "lat": 40.6621965,
         "lon": -7.9139805,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
@@ -1895,13 +1895,13 @@
     "home_team": "Vitoria Guimaraes",
     "away_team": "Casa Pia",
     "stadium": "Estádio D. Afonso Henriques",
-    "stadium_lat": 41.4468,
-    "stadium_lon": -8.2917,
+    "stadium_lat": 41.4376,
+    "stadium_lon": -8.2914,
     "nearby_stores": [
       {
         "name": "Guimarães - Av. D. João IV",
         "address": "4810-225",
-        "distance_km": 0.98,
+        "distance_km": 0.06,
         "lat": 41.4379641,
         "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -1909,17 +1909,17 @@
       {
         "name": "Caldas das Taipas-Guimarães",
         "address": "4801-908",
-        "distance_km": 6.98,
+        "distance_km": 7.7,
         "lat": 41.487789,
         "lon": -8.3551167,
         "schedule": "Mo-Su 09:00-21:00"
       },
       {
-        "name": "Fafe - Av. Brasil",
-        "address": "4820-121",
-        "distance_km": 9.64,
-        "lat": 41.4480225,
-        "lon": -8.1760073,
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.49,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -2034,33 +2034,33 @@
     "date": "17.05.2026 17:00",
     "home_team": "Casa Pia",
     "away_team": "Rio Ave",
-    "stadium": "Estádio Nacional",
-    "stadium_lat": 38.7053,
-    "stadium_lon": -9.2565,
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
     "nearby_stores": [
       {
-        "name": "Algés",
-        "address": "Rua General Humberto Delgado, 1495-068 Oeiras",
-        "distance_km": 2.45,
-        "lat": 38.6999509,
-        "lon": -9.229088,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
-      },
-      {
-        "name": "Carnaxide - Centro Comercial Solátia",
-        "address": "Avenida de Portugal, 2790-128 Carnaxide",
-        "distance_km": 2.7,
-        "lat": 38.7260652,
-        "lon": -9.2404323,
-        "schedule": "Mo-Su 08:00-21:30"
-      },
-      {
-        "name": "Paço de Arcos",
-        "address": "2780-161",
-        "distance_km": 3.35,
-        "lat": 38.6959077,
-        "lon": -9.2931254,
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
       }
     ]
   },
@@ -2104,14 +2104,14 @@
     "date": "17.05.2026 17:00",
     "home_team": "Famalicao",
     "away_team": "Alverca",
-    "stadium": "Estádio Municipal 22 de Junho",
-    "stadium_lat": 41.4082,
-    "stadium_lon": -8.5147,
+    "stadium": "Estádio Municipal de Famalicão",
+    "stadium_lat": 41.4028,
+    "stadium_lon": -8.5242,
     "nearby_stores": [
       {
         "name": "Trofa - Shopping",
         "address": "4785-333",
-        "distance_km": 8.64,
+        "distance_km": 7.76,
         "lat": 41.3386536,
         "lon": -8.5609241,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -2119,7 +2119,7 @@
       {
         "name": "Trofa - Santiago de Bougado",
         "address": "4785-699",
-        "distance_km": 10.08,
+        "distance_km": 9.2,
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -2127,7 +2127,7 @@
       {
         "name": "Vila das Aves",
         "address": "4795-001",
-        "distance_km": 10.17,
+        "distance_km": 10.64,
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
