@@ -59,9 +59,20 @@ def match_locations():
                 'osm_id': element.get('id')
             })
 
+    from datetime import datetime
+    now = datetime.now()
+    
     results = []
 
     for matchId, game in games.items():
+        # Date format: "15.03.2026 15:30"
+        try:
+            match_date = datetime.strptime(game['date'], '%d.%m.%Y %H:%M')
+            if match_date < now:
+                continue
+        except:
+            pass # Skip date filtering if format is unexpected
+            
         home_team = game['home']['name']
         if home_team in stadiums:
             stadium_info = stadiums[home_team]

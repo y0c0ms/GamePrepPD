@@ -3,14 +3,15 @@ import matches from './data/matches.json'
 import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar } from 'lucide-react'
 
 function App() {
-  const sortedMatches = [...matches].sort((a, b) => {
-    const parseDate = (d) => {
-      const parts = d.split(' ')
-      const dayMonthYear = parts[0].split('.')
-      return new Date(`${dayMonthYear[2]}-${dayMonthYear[1]}-${dayMonthYear[0]}T${parts[1]}:00`)
-    }
-    return parseDate(a.date) - parseDate(b.date)
-  })
+    const now = new Date()
+    const sortedMatches = [...matches]
+      .map(m => {
+        const parts = m.date.split(' ')
+        const [d, mo, y] = parts[0].split('.')
+        return { ...m, _parsedDate: new Date(`${y}-${mo}-${d}T${parts[1]}:00`) }
+      })
+      .filter(m => m._parsedDate > now)
+      .sort((a, b) => a._parsedDate - b._parsedDate)
 
   return (
     <div className="dashboard-container">
