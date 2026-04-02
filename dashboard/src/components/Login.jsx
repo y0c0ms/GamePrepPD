@@ -5,16 +5,22 @@ const Login = ({ onLogin }) => {
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState(false);
 
-  const sanitizeInput = (val) => {
-    // Basic protection (though SQLi is impossible on a static check)
-    return val.replace(/['";\-]/g, '').trim();
+  // The SHA-512 Hash for 'JERONIMO_2026'
+  const STORED_HASH = "f22b3f25d07b234c2e91608e18a4167536c0b15a5ab35536469948bdc64bfb929cbbf0edf8cc36f1699cdb9f5ea780ac33adaf2a5245132d268b04d3b42f716b";
+
+  const sha512 = async (str) => {
+    const buf = new TextEncoder().encode(str);
+    const hash = await crypto.subtle.digest('SHA-512', buf);
+    return Array.from(new Uint8Array(hash))
+      .map(b => b.toString(16).padStart(2, '0'))
+      .join('');
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    const cleanPass = sanitizeInput(passcode);
+    const inputHash = await sha512(passcode.trim());
     
-    if (cleanPass === 'JERONIMO_2026') {
+    if (inputHash === STORED_HASH) {
       localStorage.setItem('gp_auth', 'true');
       onLogin();
     } else {
@@ -136,7 +142,7 @@ const Login = ({ onLogin }) => {
             <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
           </svg>
         </div>
-        <h1 style={styles.title}>GamePrep</h1>
+        <h1 style={styles.title}>GamePrep Dashboard</h1>
         <p style={styles.subtitle}>Jerónimo Martins Security Gate</p>
 
         <form onSubmit={handleSubmit}>
@@ -158,7 +164,7 @@ const Login = ({ onLogin }) => {
               onClick={() => setShowPassword(!showPassword)}
             >
               {showPassword ? (
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round text-[#7cff01]">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                    <circle cx="12" cy="12" r="3"></circle>
                 </svg>
@@ -184,7 +190,7 @@ const Login = ({ onLogin }) => {
           </button>
         </form>
 
-        <p style={styles.footer}>Jerónimo Martins Restricted</p>
+        <p style={styles.footer}>Restricted: GamePrep v1.0</p>
       </div>
     </div>
   );
