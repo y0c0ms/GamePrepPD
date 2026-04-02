@@ -3,34 +3,31 @@ import { openPageAndNavigate, waitForSelectorSafe } from "../../index.js";
 export const getMatchLinks = async (context, leagueSeasonUrl, type) => {
   const page = await openPageAndNavigate(context, `${leagueSeasonUrl}/${type}`);
 
-  const LOAD_MORE_SELECTOR = '[data-testid="wcl-buttonLink"]';
+  const LOAD_MORE_SELECTOR = '.wcl-buttonLink_jmSkY';
   const MATCH_SELECTOR = ".event__match";
-  const CLICK_DELAY = 600;
-  const MAX_EMPTY_CYCLES = 4;
+  const CLICK_DELAY = 2200; // 2.2 seconds for safety
+  const MAX_LOAD_CYCLES = 12; // To get roughly a month's worth of games
 
-  let emptyCycles = 0;
-
-  while (true) {
+  let cycles = 0;
+  while (cycles < MAX_LOAD_CYCLES) {
     const countBefore = await page.$$eval(MATCH_SELECTOR, (els) => els.length);
 
-    const loadMoreBtn = await page.$(LOAD_MORE_SELECTOR);
-    if (!loadMoreBtn) break;
-
     try {
+      const loadMoreBtn = await page.waitForSelector(LOAD_MORE_SELECTOR, { timeout: 4000 });
+      if (!loadMoreBtn) break;
+      
       await loadMoreBtn.click();
       await page.waitForTimeout(CLICK_DELAY);
     } catch {
-      break;
+      break; // No more load button
     }
 
     const countAfter = await page.$$eval(MATCH_SELECTOR, (els) => els.length);
-
     if (countAfter === countBefore) {
-      emptyCycles++;
-      if (emptyCycles >= MAX_EMPTY_CYCLES) break;
-    } else {
-      emptyCycles = 0;
+       break; // Content didnt change
     }
+    
+    cycles++;
   }
 
   await waitForSelectorSafe(page, [MATCH_SELECTOR]);

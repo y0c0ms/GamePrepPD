@@ -1,4 +1,14 @@
 {
+  "SIfc2XCr": {
+    "matchId": "SIfc2XCr",
+    "date": "04.04.2026 18:00",
+    "home": {
+      "name": "Moreirense"
+    },
+    "away": {
+      "name": "Braga"
+    }
+  },
   "jcP0Mh4E": {
     "matchId": "jcP0Mh4E",
     "date": "03.04.2026 18:00",
@@ -7,6 +17,16 @@
     },
     "away": {
       "name": "Tondela"
+    }
+  },
+  "8G2j6tEG": {
+    "matchId": "8G2j6tEG",
+    "date": "03.04.2026 15:30",
+    "home": {
+      "name": "Gil Vicente"
+    },
+    "away": {
+      "name": "AFS"
     }
   },
   "Gt6b4KrT": {
@@ -29,36 +49,6 @@
       "name": "Santa Clara"
     }
   },
-  "SIfc2XCr": {
-    "matchId": "SIfc2XCr",
-    "date": "04.04.2026 18:00",
-    "home": {
-      "name": "Moreirense"
-    },
-    "away": {
-      "name": "Braga"
-    }
-  },
-  "8G2j6tEG": {
-    "matchId": "8G2j6tEG",
-    "date": "03.04.2026 15:30",
-    "home": {
-      "name": "Gil Vicente"
-    },
-    "away": {
-      "name": "AFS"
-    }
-  },
-  "YcnVbb6j": {
-    "matchId": "YcnVbb6j",
-    "date": "04.04.2026 18:00",
-    "home": {
-      "name": "Rio Ave"
-    },
-    "away": {
-      "name": "Alverca"
-    }
-  },
   "QiZGM1bc": {
     "matchId": "QiZGM1bc",
     "date": "04.04.2026 20:30",
@@ -69,14 +59,14 @@
       "name": "Famalicao"
     }
   },
-  "lYr60Bse": {
-    "matchId": "lYr60Bse",
-    "date": "06.04.2026 20:45",
+  "YcnVbb6j": {
+    "matchId": "YcnVbb6j",
+    "date": "04.04.2026 18:00",
     "home": {
-      "name": "Casa Pia"
+      "name": "Rio Ave"
     },
     "away": {
-      "name": "Benfica"
+      "name": "Alverca"
     }
   },
   "zksEbkC7": {
@@ -99,6 +89,16 @@
       "name": "Moreirense"
     }
   },
+  "lYr60Bse": {
+    "matchId": "lYr60Bse",
+    "date": "06.04.2026 20:45",
+    "home": {
+      "name": "Casa Pia"
+    },
+    "away": {
+      "name": "Benfica"
+    }
+  },
   "z3MnDlR0": {
     "matchId": "z3MnDlR0",
     "date": "11.04.2026 15:30",
@@ -117,16 +117,6 @@
     },
     "away": {
       "name": "Sporting CP"
-    }
-  },
-  "r9qET9Bs": {
-    "matchId": "r9qET9Bs",
-    "date": "12.04.2026 15:30",
-    "home": {
-      "name": "Alverca"
-    },
-    "away": {
-      "name": "Casa Pia"
     }
   },
   "zPcNPRA6": {
@@ -159,6 +149,16 @@
       "name": "Arouca"
     }
   },
+  "r9qET9Bs": {
+    "matchId": "r9qET9Bs",
+    "date": "12.04.2026 15:30",
+    "home": {
+      "name": "Alverca"
+    },
+    "away": {
+      "name": "Casa Pia"
+    }
+  },
   "dIAeBSeD": {
     "matchId": "dIAeBSeD",
     "date": "12.04.2026 20:30",
@@ -167,16 +167,6 @@
     },
     "away": {
       "name": "FC Porto"
-    }
-  },
-  "OpvIo9XP": {
-    "matchId": "OpvIo9XP",
-    "date": "17.04.2026 20:45",
-    "home": {
-      "name": "Rio Ave"
-    },
-    "away": {
-      "name": "AFS"
     }
   },
   "re4uFAdl": {
@@ -189,14 +179,14 @@
       "name": "Gil Vicente"
     }
   },
-  "lSNdvRPa": {
-    "matchId": "lSNdvRPa",
-    "date": "18.04.2026 15:30",
+  "OpvIo9XP": {
+    "matchId": "OpvIo9XP",
+    "date": "17.04.2026 20:45",
     "home": {
-      "name": "Nacional"
+      "name": "Rio Ave"
     },
     "away": {
-      "name": "Alverca"
+      "name": "AFS"
     }
   },
   "MuM4x5fC": {
@@ -207,6 +197,16 @@
     },
     "away": {
       "name": "Santa Clara"
+    }
+  },
+  "lSNdvRPa": {
+    "matchId": "lSNdvRPa",
+    "date": "18.04.2026 15:30",
+    "home": {
+      "name": "Nacional"
+    },
+    "away": {
+      "name": "Alverca"
     }
   },
   "8WfNfnAt": {
@@ -299,6 +299,16 @@
       "name": "Arouca"
     }
   },
+  "jgZl5fUF": {
+    "matchId": "jgZl5fUF",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Benfica"
+    },
+    "away": {
+      "name": "Moreirense"
+    }
+  },
   "vcW1qD7d": {
     "matchId": "vcW1qD7d",
     "date": "26.04.2026 17:00",
@@ -327,16 +337,6 @@
     },
     "away": {
       "name": "Casa Pia"
-    }
-  },
-  "jgZl5fUF": {
-    "matchId": "jgZl5fUF",
-    "date": "26.04.2026 17:00",
-    "home": {
-      "name": "Benfica"
-    },
-    "away": {
-      "name": "Moreirense"
     }
   },
   "jXcEhHpA": {
@@ -409,14 +409,14 @@
       "name": "Benfica"
     }
   },
-  "riETcCMk": {
-    "matchId": "riETcCMk",
+  "jHHydji2": {
+    "matchId": "jHHydji2",
     "date": "03.05.2026 17:00",
     "home": {
-      "name": "Nacional"
+      "name": "Moreirense"
     },
     "away": {
-      "name": "AFS"
+      "name": "Estrela"
     }
   },
   "j7ENJgq9": {
@@ -429,16 +429,6 @@
       "name": "Alverca"
     }
   },
-  "jHHydji2": {
-    "matchId": "jHHydji2",
-    "date": "03.05.2026 17:00",
-    "home": {
-      "name": "Moreirense"
-    },
-    "away": {
-      "name": "Estrela"
-    }
-  },
   "OKCVHXDL": {
     "matchId": "OKCVHXDL",
     "date": "03.05.2026 17:00",
@@ -447,6 +437,16 @@
     },
     "away": {
       "name": "Gil Vicente"
+    }
+  },
+  "riETcCMk": {
+    "matchId": "riETcCMk",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Nacional"
+    },
+    "away": {
+      "name": "AFS"
     }
   },
   "jVdAAk6e": {
@@ -459,16 +459,6 @@
       "name": "Vitoria Guimaraes"
     }
   },
-  "KnEeHuZo": {
-    "matchId": "KnEeHuZo",
-    "date": "10.05.2026 17:00",
-    "home": {
-      "name": "Benfica"
-    },
-    "away": {
-      "name": "Braga"
-    }
-  },
   "n58M42kt": {
     "matchId": "n58M42kt",
     "date": "10.05.2026 17:00",
@@ -477,16 +467,6 @@
     },
     "away": {
       "name": "FC Porto"
-    }
-  },
-  "fVBU2tKh": {
-    "matchId": "fVBU2tKh",
-    "date": "10.05.2026 17:00",
-    "home": {
-      "name": "Estrela"
-    },
-    "away": {
-      "name": "Famalicao"
     }
   },
   "jc5w1Kl5": {
@@ -499,6 +479,26 @@
       "name": "Estoril"
     }
   },
+  "fVBU2tKh": {
+    "matchId": "fVBU2tKh",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Estrela"
+    },
+    "away": {
+      "name": "Famalicao"
+    }
+  },
+  "KnEeHuZo": {
+    "matchId": "KnEeHuZo",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Benfica"
+    },
+    "away": {
+      "name": "Braga"
+    }
+  },
   "676hNSk1": {
     "matchId": "676hNSk1",
     "date": "10.05.2026 17:00",
@@ -507,6 +507,16 @@
     },
     "away": {
       "name": "Arouca"
+    }
+  },
+  "OA3oabJH": {
+    "matchId": "OA3oabJH",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Rio Ave"
+    },
+    "away": {
+      "name": "Sporting CP"
     }
   },
   "UNYocxlU": {
@@ -539,16 +549,6 @@
       "name": "Casa Pia"
     }
   },
-  "OA3oabJH": {
-    "matchId": "OA3oabJH",
-    "date": "10.05.2026 17:00",
-    "home": {
-      "name": "Rio Ave"
-    },
-    "away": {
-      "name": "Sporting CP"
-    }
-  },
   "A1I2OEnT": {
     "matchId": "A1I2OEnT",
     "date": "17.05.2026 17:00",
@@ -559,16 +559,6 @@
       "name": "Tondela"
     }
   },
-  "OpKfQzIG": {
-    "matchId": "OpKfQzIG",
-    "date": "17.05.2026 17:00",
-    "home": {
-      "name": "Casa Pia"
-    },
-    "away": {
-      "name": "Rio Ave"
-    }
-  },
   "UoaZIhAj": {
     "matchId": "UoaZIhAj",
     "date": "17.05.2026 17:00",
@@ -577,6 +567,16 @@
     },
     "away": {
       "name": "Estrela"
+    }
+  },
+  "OpKfQzIG": {
+    "matchId": "OpKfQzIG",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Casa Pia"
+    },
+    "away": {
+      "name": "Rio Ave"
     }
   },
   "f5SwUIIi": {
@@ -609,16 +609,6 @@
       "name": "Santa Clara"
     }
   },
-  "2VVoSdm4": {
-    "matchId": "2VVoSdm4",
-    "date": "17.05.2026 17:00",
-    "home": {
-      "name": "Nacional"
-    },
-    "away": {
-      "name": "Vitoria Guimaraes"
-    }
-  },
   "t224FJ3b": {
     "matchId": "t224FJ3b",
     "date": "17.05.2026 17:00",
@@ -627,6 +617,16 @@
     },
     "away": {
       "name": "AFS"
+    }
+  },
+  "2VVoSdm4": {
+    "matchId": "2VVoSdm4",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Nacional"
+    },
+    "away": {
+      "name": "Vitoria Guimaraes"
     }
   },
   "rRbLBy3N": {
