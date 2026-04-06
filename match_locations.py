@@ -44,12 +44,8 @@ def match_locations():
     # Normalize stadium keys for fuzzy matching (lowercase, no spaces)
     stadiums_norm = {k.lower().replace(' ', ''): v for k, v in stadiums.items()}
 
-    # Load OSM stores
-    with open('pingo_doce_osm.json', 'r', encoding='utf-8') as f:
-        osm_data = json.load(f)
-    
     # Load Gold stores (Flat list format)
-    with open('pingo_doce_osm.json', 'r', encoding='utf-8') as f:
+    with open('pingo_doce_verified_gold.json', 'r', encoding='utf-8') as f:
         stores_list = json.load(f)
     
     # Ensure consistency in keys (lat/lon/name/address)
