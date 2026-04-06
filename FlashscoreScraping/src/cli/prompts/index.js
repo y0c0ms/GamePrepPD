@@ -25,6 +25,15 @@ export const promptUserOptions = async (context, cliOptions) => {
 };
 
 const resolveSeason = async (context, cliOptions, country) => {
+  // If country is Portugal and no league is specified, use the summary URL
+  if (country?.name?.toLowerCase() === 'portugal' && !cliOptions?.league) {
+    console.info(`${chalk.green("✔")} Using Portugal Summary Page for all leagues`);
+    return {
+      name: "all_leagues",
+      url: "https://www.flashscore.pt/futebol/portugal/"
+    };
+  }
+
   if (!cliOptions?.league) {
     const league = await selectLeague(context, country?.id);
     return await selectSeason(context, league?.url);

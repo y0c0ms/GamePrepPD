@@ -13,6 +13,7 @@ def haversine(lat1, lon1, lat2, lon2):
 def match_locations():
     # Load games - Check multiple possible locations for the scraper output
     paths_to_check = [
+        'FlashscoreScraping/src/data/portugal_all_leagues.json',
         'src/data/portugal_liga_portugal.json',
         'FlashscoreScraping/src/data/portugal_liga_portugal.json',
         'FlashscoreScraping/src/data/liga_portugal_games.json',
@@ -123,6 +124,7 @@ def match_locations():
                 'date': game['date'],
                 'home_team': home_team,
                 'away_team': game['away']['name'],
+                'league': game.get('league', 'Portugal'),
                 'stadium': venue['stadium'],
                 'stadium_lat': s_lat,
                 'stadium_lon': s_lon,

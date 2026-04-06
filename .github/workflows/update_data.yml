@@ -24,7 +24,7 @@ jobs:
 
       - name: Run Flashscore Scraper
         working-directory: ./FlashscoreScraping
-        run: node src/index.js country=portugal league=liga-portugal headless=true
+        run: node src/index.js country=portugal headless=true fileType=json
 
       - name: Set up Python
         uses: actions/setup-python@v5

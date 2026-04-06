@@ -56,8 +56,11 @@ function App() {
         {sortedMatches.map((match, index) => (
           <div key={match.matchId} className="match-card" style={{ animationDelay: `${index * 0.1}s` }}>
             <div className="match-date">
-              <Calendar size={14} style={{ marginRight: '0.4rem', verticalAlign: 'middle' }} />
-              {match.date}
+              <div style={{ display: 'flex', alignItems: 'center' }}>
+                <Calendar size={14} style={{ marginRight: '0.4rem' }} />
+                {match.date}
+              </div>
+              <span className="league-badge">{match.league}</span>
             </div>
             
             <div className="teams-display">
