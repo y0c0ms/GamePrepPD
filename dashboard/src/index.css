@@ -11,7 +11,7 @@
   --primary: #f9d71c; /* Pingo Doce Yellow */
   --secondary: #27ae60; /* Pingo Doce Green */
   --accent: #3498db;
-  --bg-dark: #0a0a0c;
+  --bg-dark: #121214; /* Professional dark grey */
   --card-bg: rgba(20, 20, 24, 0.6);
   --glass-bg: rgba(255, 255, 255, 0.03);
   --glass-border: rgba(255, 255, 255, 0.08);
@@ -27,10 +27,9 @@
 
 body {
   margin: 0;
-  display: flex;
-  min-width: 320px;
   min-height: 100vh;
-  background-image: radial-gradient(circle at 50% 0%, #1a1c23 0%, var(--bg-dark) 100%);
+  background-color: var(--bg-dark);
+  background-image: radial-gradient(circle at 50% 0%, #2c2e36 0%, var(--bg-dark) 100%);
   background-attachment: fixed;
 }
 
@@ -44,16 +43,11 @@ body {
   padding: 2rem;
   display: flex;
   flex-direction: column;
-  height: 100vh; /* Fixed height to prevent unnecessary scrolling on desktop */
-  box-sizing: border-box; /* ensure padding doesn't overflow 100vh */
+  min-height: 100vh;
+  box-sizing: border-box; 
 }
 
-@media (max-width: 768px) {
-  .dashboard-container {
-    height: auto;
-    min-height: 100vh;
-  }
-}
+/* Removed media query as min-height 100vh covers both mobile and desktop */
 
 header {
   margin-bottom: 3rem;
