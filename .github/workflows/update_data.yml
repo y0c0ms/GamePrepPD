@@ -4,6 +4,9 @@ on:
     - cron: '0 3 */2 * *' # Every 48 hours at 4 AM London (3 AM UTC)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-matches:
     runs-on: ubuntu-latest
