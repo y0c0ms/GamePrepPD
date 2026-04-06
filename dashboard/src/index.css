@@ -5,7 +5,7 @@
 
   color-scheme: dark;
   color: #e0e0e0;
-  background-color: #050505;
+  background-color: #121214; /* Match bg-dark */
 
   /* Premium Color Palette */
   --primary: #f9d71c; /* Pingo Doce Yellow */
@@ -21,20 +21,34 @@
   
   font-synthesis: none;
   text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-body {
+html, body {
   margin: 0;
+  padding: 0;
   min-height: 100vh;
-  background-color: var(--bg-dark);
-  background-image: radial-gradient(circle at 50% 0%, #2c2e36 0%, var(--bg-dark) 100%);
-  background-attachment: fixed;
+  width: 100%;
+  background-color: #121214;
+  color: var(--text-main);
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: radial-gradient(circle at 50% 0%, #2c2e36 0%, #121214 100%);
+  z-index: -1;
+  pointer-events: none;
 }
 
 #root {
+  min-height: 100vh;
   width: 100%;
+  background: transparent;
 }
 
 .dashboard-container {
@@ -44,7 +58,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  box-sizing: border-box; 
+  box-sizing: border-box;
+  background: transparent;
 }
 
 /* Removed media query as min-height 100vh covers both mobile and desktop */
@@ -101,9 +116,8 @@ header {
   flex: 1;
   display: flex;
   flex-direction: column;
+  padding-top: 12vh; /* Top-weighted for better UX and background safety */
   align-items: center;
-  justify-content: center;
-  margin-top: -10vh; /* Lift it up a bit */
   animation: fadeIn 0.8s ease-out;
 }
 
@@ -182,7 +196,8 @@ header {
   -webkit-backdrop-filter: blur(20px);
   border: 1px solid var(--glass-border);
   border-radius: 1.5rem;
-  overflow: hidden;
+  overflow-y: auto; /* Allow internal scrolling if many results */
+  max-height: 35vh; /* Dynamic max height prevents body scrolling and guarantees bottom clearance */
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
   animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   z-index: 50;
