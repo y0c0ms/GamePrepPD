@@ -91,7 +91,7 @@ def match_locations():
             
             distances.sort(key=lambda x: x[0])
             top_stores = []
-            for d, s in distances[:5]:
+            for d, s in distances[:10]:
                 if d <= 15:
                     top_stores.append({
                         'name': s['name'],

@@ -68,6 +68,14 @@
         "lat": 37.7593082,
         "lon": -25.7050971,
         "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Capelas - Açores",
+        "address": "Rua da Grota da Cadima",
+        "distance_km": 9.4,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "8:30 → 20:30"
       }
     ]
   },
@@ -120,6 +128,38 @@
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.25,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 10.45,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 10.98,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "Rua Horizonte",
+        "distance_km": 13.65,
+        "lat": 41.282478,
+        "lon": -8.5630235,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -171,6 +211,46 @@
         "distance_km": 1.86,
         "lat": 38.7378047,
         "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -224,6 +304,46 @@
         "lat": 41.393284699999995,
         "lon": -8.3180734,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 8.9,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Famalicão - Calendário",
+        "address": "Alameda dos Bargos",
+        "distance_km": 9.84,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Famalicão - D. Sancho",
+        "address": "Rua José Gomes de Matos 2/10",
+        "distance_km": 9.84,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 10.37,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.11,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -276,6 +396,46 @@
         "lat": 38.7378047,
         "lon": -9.2253127,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 2.15,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 2.29,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes 18 A/B",
+        "distance_km": 2.45,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Massamá Refer",
+        "address": "Estação CP Massamá, Avenida 25 ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Tapada das Mercês",
+        "address": "R. António Ferreira Gomes Lote ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
       }
     ]
   },
@@ -328,6 +488,46 @@
         "lat": 38.8614295,
         "lon": -9.0629342,
         "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Vialonga",
+        "address": "Rua Coronel Lobo Da Costa",
+        "distance_km": 5.36,
+        "lat": 38.8701461,
+        "lon": -9.0856674,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Póvoa de Santa Iria",
+        "address": "Rua António Gonçalves Correia -...",
+        "distance_km": 5.93,
+        "lat": 38.8539409,
+        "lon": -9.0738876,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Tágides Park",
+        "address": "Rua do Casal Novo - Urbanização...",
+        "distance_km": 5.94,
+        "lat": 38.8561622,
+        "lon": -9.0778001,
+        "schedule": "9:00 → 21:00"
+      },
+      {
+        "name": "Vialonga - Olival das Minas",
+        "address": "Rua Aqueduto Lote 5/6",
+        "distance_km": 6.36,
+        "lat": 38.8669266,
+        "lon": -9.0967653,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Franca de Xira",
+        "address": "Rua do Curado, Gaveto Com Rua T...",
+        "distance_km": 7.71,
+        "lat": 38.9561401,
+        "lon": -8.9865946,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -379,6 +579,46 @@
         "distance_km": 1.75,
         "lat": 41.5476654,
         "lon": -8.4218305,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados - S. Vic...",
+        "distance_km": 2.1,
+        "lat": 41.5578984,
+        "lon": -8.4058348,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "Rua Prof. Machado Vilela E",
+        "distance_km": 2.19,
+        "lat": 41.549,
+        "lon": -8.4106445,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Verde",
+        "address": "Lugar da Torre 206",
+        "distance_km": 9.08,
+        "lat": 41.6436561,
+        "lon": -8.4334177,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 10.36,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 13.79,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -432,6 +672,46 @@
         "lat": 38.750743,
         "lon": -9.1711227,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "Avenida Gomes Pereira 69A",
+        "distance_km": 1.32,
+        "lat": 38.7467621,
+        "lon": -9.1978645,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 1.65,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Galhardas",
+        "address": "Azinhaga Das Galhardas Lote 19",
+        "distance_km": 1.68,
+        "lat": 38.7519959,
+        "lon": -9.1653063,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Telheiras - Hiper",
+        "address": "Rua Projectada à Azinhaga dos U...",
+        "distance_km": 1.99,
+        "lat": 38.7680946,
+        "lon": -9.1729514,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "PD&Go Padre Cruz",
+        "address": "Avenida Padre Cruz",
+        "distance_km": 2.19,
+        "lat": 38.7595434,
+        "lon": -9.1610448,
+        "schedule": "7:00 → 23:30"
       }
     ]
   },
@@ -520,6 +800,46 @@
         "lat": 38.7048573,
         "lon": -9.3782281,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São João do Estoril",
+        "address": "Rua Egas Moniz 173",
+        "distance_km": 2.85,
+        "lat": 38.699456,
+        "lon": -9.3803766,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Cascais - Guia",
+        "address": "Avenida Pedro Álvares Cabral",
+        "distance_km": 2.87,
+        "lat": 38.7013425,
+        "lon": -9.434233,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Parede - Avenida da República",
+        "address": "Av. República 75",
+        "distance_km": 5.24,
+        "lat": 38.6901614,
+        "lon": -9.3551087,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Parede - Melvin Jones",
+        "address": "Rua Melvin Jones Lote 26",
+        "distance_km": 5.36,
+        "lat": 38.6943898,
+        "lon": -9.3506169,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Carcavelos - Estação CP",
+        "address": "Rua Marques da Mata Lote D",
+        "distance_km": 6.07,
+        "lat": 38.6898646,
+        "lon": -9.3443301,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -572,6 +892,14 @@
         "lat": 41.2572092,
         "lon": -8.6479833,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Trofa - Santiago de Bougado",
+        "address": "Rua Das Aldeias De Cima - Santi...",
+        "distance_km": 14.83,
+        "lat": 41.3271147,
+        "lon": -8.5688413,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -624,6 +952,46 @@
         "lat": 32.661984,
         "lon": -16.9345602,
         "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Lido",
+        "address": "Rua Do Gorgulho (Junto Piscinas...",
+        "distance_km": 5.84,
+        "lat": 32.6369788,
+        "lon": -16.931435,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "Estrada Monumental 318",
+        "distance_km": 5.94,
+        "lat": 32.6386398,
+        "lon": -16.9343558,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Forum",
+        "address": "C. C. Forum Madeira, Estrada Mo...",
+        "distance_km": 6.7,
+        "lat": 32.6360551,
+        "lon": -16.9421672,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 9.01,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Machico",
+        "address": "Rua Da Estacada",
+        "distance_km": 12.14,
+        "lat": 32.7198279,
+        "lon": -16.767705499999998,
+        "schedule": "7:30 → 22:00"
       }
     ]
   },
@@ -675,6 +1043,46 @@
         "distance_km": 1.86,
         "lat": 38.7378047,
         "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -784,6 +1192,46 @@
         "lat": 38.7722696,
         "lon": -9.1599023,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Conde Redondo",
+        "address": "Rua Conde Redondo 41/41A",
+        "distance_km": 1.41,
+        "lat": 38.750976,
+        "lon": -9.1521822,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Atlanta Park - Edf.Georgia - Ru...",
+        "distance_km": 1.42,
+        "lat": 38.750743,
+        "lon": -9.1711227,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "PD&GO Estrada da Luz",
+        "address": "Estrada da Luz",
+        "distance_km": 1.6,
+        "lat": 38.7492883,
+        "lon": -9.1721033,
+        "schedule": "7:00 → 23:30"
+      },
+      {
+        "name": "Alvalade",
+        "address": "C.C. Alvalade - Praça de Alvala...",
+        "distance_km": 1.69,
+        "lat": 38.7535973,
+        "lon": -9.1448656,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 1.85,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -835,6 +1283,46 @@
         "distance_km": 1.75,
         "lat": 41.5476654,
         "lon": -8.4218305,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados - S. Vic...",
+        "distance_km": 2.1,
+        "lat": 41.5578984,
+        "lon": -8.4058348,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "Rua Prof. Machado Vilela E",
+        "distance_km": 2.19,
+        "lat": 41.549,
+        "lon": -8.4106445,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Verde",
+        "address": "Lugar da Torre 206",
+        "distance_km": 9.08,
+        "lat": 41.6436561,
+        "lon": -8.4334177,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 10.36,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 13.79,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -888,6 +1376,46 @@
         "lat": 41.4389137,
         "lon": -8.4100576,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 8.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Alameda",
+        "address": "Rua Alfredo Pimenta 278",
+        "distance_km": 8.93,
+        "lat": 41.4464006,
+        "lon": -8.298352099999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 10.34,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.6,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 12.2,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -939,6 +1467,46 @@
         "distance_km": 1.92,
         "lat": 41.1611223,
         "lon": -8.6065297,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua Passos Manuel 221/223",
+        "distance_km": 2.44,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Cedofeita",
+        "address": "Rua Da Cedofeita 435",
+        "distance_km": 2.44,
+        "lat": 41.1507494,
+        "lon": -8.6088129,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Sá da Bandeira",
+        "address": "Rua Sá Bandeira 385/389",
+        "distance_km": 2.45,
+        "lat": 41.1527743,
+        "lon": -8.6102849,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Constituição",
+        "address": "Rua Monte Pedral 31",
+        "distance_km": 2.63,
+        "lat": 41.1627325,
+        "lon": -8.6149581,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Praça da República",
+        "address": "Praça da República 58",
+        "distance_km": 2.66,
+        "lat": 41.1538458,
+        "lon": -8.6135705,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -992,6 +1560,46 @@
         "lat": 38.7378047,
         "lon": -9.2253127,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -1044,6 +1652,46 @@
         "lat": 38.8614295,
         "lon": -9.0629342,
         "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Vialonga",
+        "address": "Rua Coronel Lobo Da Costa",
+        "distance_km": 5.36,
+        "lat": 38.8701461,
+        "lon": -9.0856674,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Póvoa de Santa Iria",
+        "address": "Rua António Gonçalves Correia -...",
+        "distance_km": 5.93,
+        "lat": 38.8539409,
+        "lon": -9.0738876,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Tágides Park",
+        "address": "Rua do Casal Novo - Urbanização...",
+        "distance_km": 5.94,
+        "lat": 38.8561622,
+        "lon": -9.0778001,
+        "schedule": "9:00 → 21:00"
+      },
+      {
+        "name": "Vialonga - Olival das Minas",
+        "address": "Rua Aqueduto Lote 5/6",
+        "distance_km": 6.36,
+        "lat": 38.8669266,
+        "lon": -9.0967653,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Franca de Xira",
+        "address": "Rua do Curado, Gaveto Com Rua T...",
+        "distance_km": 7.71,
+        "lat": 38.9561401,
+        "lon": -8.9865946,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -1096,6 +1744,46 @@
         "lat": 41.393284699999995,
         "lon": -8.3180734,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 8.9,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Famalicão - Calendário",
+        "address": "Alameda dos Bargos",
+        "distance_km": 9.84,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Famalicão - D. Sancho",
+        "address": "Rua José Gomes de Matos 2/10",
+        "distance_km": 9.84,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 10.37,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.11,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -1147,6 +1835,46 @@
         "distance_km": 2.7,
         "lat": 38.7048573,
         "lon": -9.3782281,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São João do Estoril",
+        "address": "Rua Egas Moniz 173",
+        "distance_km": 2.85,
+        "lat": 38.699456,
+        "lon": -9.3803766,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Cascais - Guia",
+        "address": "Avenida Pedro Álvares Cabral",
+        "distance_km": 2.87,
+        "lat": 38.7013425,
+        "lon": -9.434233,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Parede - Avenida da República",
+        "address": "Av. República 75",
+        "distance_km": 5.24,
+        "lat": 38.6901614,
+        "lon": -9.3551087,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Parede - Melvin Jones",
+        "address": "Rua Melvin Jones Lote 26",
+        "distance_km": 5.36,
+        "lat": 38.6943898,
+        "lon": -9.3506169,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Carcavelos - Estação CP",
+        "address": "Rua Marques da Mata Lote D",
+        "distance_km": 6.07,
+        "lat": 38.6898646,
+        "lon": -9.3443301,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -1200,6 +1928,46 @@
         "lat": 38.750743,
         "lon": -9.1711227,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "Avenida Gomes Pereira 69A",
+        "distance_km": 1.32,
+        "lat": 38.7467621,
+        "lon": -9.1978645,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 1.65,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Galhardas",
+        "address": "Azinhaga Das Galhardas Lote 19",
+        "distance_km": 1.68,
+        "lat": 38.7519959,
+        "lon": -9.1653063,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Telheiras - Hiper",
+        "address": "Rua Projectada à Azinhaga dos U...",
+        "distance_km": 1.99,
+        "lat": 38.7680946,
+        "lon": -9.1729514,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "PD&Go Padre Cruz",
+        "address": "Avenida Padre Cruz",
+        "distance_km": 2.19,
+        "lat": 38.7595434,
+        "lon": -9.1610448,
+        "schedule": "7:00 → 23:30"
       }
     ]
   },
@@ -1252,6 +2020,46 @@
         "lat": 38.7378047,
         "lon": -9.2253127,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 2.15,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 2.29,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes 18 A/B",
+        "distance_km": 2.45,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Massamá Refer",
+        "address": "Estação CP Massamá, Avenida 25 ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Tapada das Mercês",
+        "address": "R. António Ferreira Gomes Lote ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
       }
     ]
   },
@@ -1304,6 +2112,14 @@
         "lat": 37.7593082,
         "lon": -25.7050971,
         "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Capelas - Açores",
+        "address": "Rua da Grota da Cadima",
+        "distance_km": 9.4,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "8:30 → 20:30"
       }
     ]
   },
@@ -1428,6 +2244,46 @@
         "lat": 41.369165699999996,
         "lon": -8.3050538,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 9.13,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 9.36,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Aliados",
+        "address": "Rua Dos Aliados",
+        "distance_km": 10.26,
+        "lat": 41.4523183,
+        "lon": -8.1780948,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "Av. Do Brasil",
+        "distance_km": 10.43,
+        "lat": 41.44636,
+        "lon": -8.1758379,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Cavadas",
+        "address": "Lugar de Cavadas - Quinchães",
+        "distance_km": 11.32,
+        "lat": 41.4456845,
+        "lon": -8.1650867,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -1479,6 +2335,46 @@
         "distance_km": 1.92,
         "lat": 41.1611223,
         "lon": -8.6065297,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua Passos Manuel 221/223",
+        "distance_km": 2.44,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Cedofeita",
+        "address": "Rua Da Cedofeita 435",
+        "distance_km": 2.44,
+        "lat": 41.1507494,
+        "lon": -8.6088129,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Sá da Bandeira",
+        "address": "Rua Sá Bandeira 385/389",
+        "distance_km": 2.45,
+        "lat": 41.1527743,
+        "lon": -8.6102849,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Constituição",
+        "address": "Rua Monte Pedral 31",
+        "distance_km": 2.63,
+        "lat": 41.1627325,
+        "lon": -8.6149581,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Praça da República",
+        "address": "Praça da República 58",
+        "distance_km": 2.66,
+        "lat": 41.1538458,
+        "lon": -8.6135705,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -1552,6 +2448,46 @@
         "lat": 41.5476654,
         "lon": -8.4218305,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados - S. Vic...",
+        "distance_km": 2.1,
+        "lat": 41.5578984,
+        "lon": -8.4058348,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "Rua Prof. Machado Vilela E",
+        "distance_km": 2.19,
+        "lat": 41.549,
+        "lon": -8.4106445,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Verde",
+        "address": "Lugar da Torre 206",
+        "distance_km": 9.08,
+        "lat": 41.6436561,
+        "lon": -8.4334177,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 10.36,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 13.79,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -1603,6 +2539,46 @@
         "distance_km": 1.86,
         "lat": 38.7378047,
         "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -1656,6 +2632,38 @@
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.25,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 10.45,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 10.98,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "Rua Horizonte",
+        "distance_km": 13.65,
+        "lat": 41.282478,
+        "lon": -8.5630235,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -1708,6 +2716,46 @@
         "lat": 41.393284699999995,
         "lon": -8.3180734,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 8.9,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Famalicão - Calendário",
+        "address": "Alameda dos Bargos",
+        "distance_km": 9.84,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Famalicão - D. Sancho",
+        "address": "Rua José Gomes de Matos 2/10",
+        "distance_km": 9.84,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 10.37,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.11,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -1759,6 +2807,46 @@
         "distance_km": 1.24,
         "lat": 38.7722696,
         "lon": -9.1599023,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Conde Redondo",
+        "address": "Rua Conde Redondo 41/41A",
+        "distance_km": 1.41,
+        "lat": 38.750976,
+        "lon": -9.1521822,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Atlanta Park - Edf.Georgia - Ru...",
+        "distance_km": 1.42,
+        "lat": 38.750743,
+        "lon": -9.1711227,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "PD&GO Estrada da Luz",
+        "address": "Estrada da Luz",
+        "distance_km": 1.6,
+        "lat": 38.7492883,
+        "lon": -9.1721033,
+        "schedule": "7:00 → 23:30"
+      },
+      {
+        "name": "Alvalade",
+        "address": "C.C. Alvalade - Praça de Alvala...",
+        "distance_km": 1.69,
+        "lat": 38.7535973,
+        "lon": -9.1448656,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 1.85,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -1812,6 +2900,46 @@
         "lat": 41.4389137,
         "lon": -8.4100576,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 8.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Alameda",
+        "address": "Rua Alfredo Pimenta 278",
+        "distance_km": 8.93,
+        "lat": 41.4464006,
+        "lon": -8.298352099999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 10.34,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.6,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 12.2,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -1864,6 +2992,14 @@
         "lat": 41.2572092,
         "lon": -8.6479833,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Trofa - Santiago de Bougado",
+        "address": "Rua Das Aldeias De Cima - Santi...",
+        "distance_km": 14.83,
+        "lat": 41.3271147,
+        "lon": -8.5688413,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -1915,6 +3051,46 @@
         "distance_km": 4.87,
         "lat": 32.661984,
         "lon": -16.9345602,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Lido",
+        "address": "Rua Do Gorgulho (Junto Piscinas...",
+        "distance_km": 5.84,
+        "lat": 32.6369788,
+        "lon": -16.931435,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "Estrada Monumental 318",
+        "distance_km": 5.94,
+        "lat": 32.6386398,
+        "lon": -16.9343558,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Forum",
+        "address": "C. C. Forum Madeira, Estrada Mo...",
+        "distance_km": 6.7,
+        "lat": 32.6360551,
+        "lon": -16.9421672,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 9.01,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Machico",
+        "address": "Rua Da Estacada",
+        "distance_km": 12.14,
+        "lat": 32.7198279,
+        "lon": -16.767705499999998,
         "schedule": "7:30 → 22:00"
       }
     ]
@@ -1968,6 +3144,46 @@
         "lat": 38.8614295,
         "lon": -9.0629342,
         "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Vialonga",
+        "address": "Rua Coronel Lobo Da Costa",
+        "distance_km": 5.36,
+        "lat": 38.8701461,
+        "lon": -9.0856674,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Póvoa de Santa Iria",
+        "address": "Rua António Gonçalves Correia -...",
+        "distance_km": 5.93,
+        "lat": 38.8539409,
+        "lon": -9.0738876,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Tágides Park",
+        "address": "Rua do Casal Novo - Urbanização...",
+        "distance_km": 5.94,
+        "lat": 38.8561622,
+        "lon": -9.0778001,
+        "schedule": "9:00 → 21:00"
+      },
+      {
+        "name": "Vialonga - Olival das Minas",
+        "address": "Rua Aqueduto Lote 5/6",
+        "distance_km": 6.36,
+        "lat": 38.8669266,
+        "lon": -9.0967653,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Franca de Xira",
+        "address": "Rua do Curado, Gaveto Com Rua T...",
+        "distance_km": 7.71,
+        "lat": 38.9561401,
+        "lon": -8.9865946,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2056,6 +3272,14 @@
         "lat": 41.2572092,
         "lon": -8.6479833,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Trofa - Santiago de Bougado",
+        "address": "Rua Das Aldeias De Cima - Santi...",
+        "distance_km": 14.83,
+        "lat": 41.3271147,
+        "lon": -8.5688413,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -2108,6 +3332,46 @@
         "lat": 38.750743,
         "lon": -9.1711227,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "Avenida Gomes Pereira 69A",
+        "distance_km": 1.32,
+        "lat": 38.7467621,
+        "lon": -9.1978645,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 1.65,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Galhardas",
+        "address": "Azinhaga Das Galhardas Lote 19",
+        "distance_km": 1.68,
+        "lat": 38.7519959,
+        "lon": -9.1653063,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Telheiras - Hiper",
+        "address": "Rua Projectada à Azinhaga dos U...",
+        "distance_km": 1.99,
+        "lat": 38.7680946,
+        "lon": -9.1729514,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "PD&Go Padre Cruz",
+        "address": "Avenida Padre Cruz",
+        "distance_km": 2.19,
+        "lat": 38.7595434,
+        "lon": -9.1610448,
+        "schedule": "7:00 → 23:30"
       }
     ]
   },
@@ -2160,6 +3424,46 @@
         "lat": 38.7378047,
         "lon": -9.2253127,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 2.15,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 2.29,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes 18 A/B",
+        "distance_km": 2.45,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Massamá Refer",
+        "address": "Estação CP Massamá, Avenida 25 ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Tapada das Mercês",
+        "address": "R. António Ferreira Gomes Lote ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
       }
     ]
   },
@@ -2212,6 +3516,14 @@
         "lat": 37.7593082,
         "lon": -25.7050971,
         "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Capelas - Açores",
+        "address": "Rua da Grota da Cadima",
+        "distance_km": 9.4,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "8:30 → 20:30"
       }
     ]
   },
@@ -2300,6 +3612,46 @@
         "lat": 41.369165699999996,
         "lon": -8.3050538,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 9.13,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 9.36,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Aliados",
+        "address": "Rua Dos Aliados",
+        "distance_km": 10.26,
+        "lat": 41.4523183,
+        "lon": -8.1780948,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "Av. Do Brasil",
+        "distance_km": 10.43,
+        "lat": 41.44636,
+        "lon": -8.1758379,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Cavadas",
+        "address": "Lugar de Cavadas - Quinchães",
+        "distance_km": 11.32,
+        "lat": 41.4456845,
+        "lon": -8.1650867,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2372,6 +3724,46 @@
         "lat": 41.5476654,
         "lon": -8.4218305,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados - S. Vic...",
+        "distance_km": 2.1,
+        "lat": 41.5578984,
+        "lon": -8.4058348,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "Rua Prof. Machado Vilela E",
+        "distance_km": 2.19,
+        "lat": 41.549,
+        "lon": -8.4106445,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Verde",
+        "address": "Lugar da Torre 206",
+        "distance_km": 9.08,
+        "lat": 41.6436561,
+        "lon": -8.4334177,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 10.36,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 13.79,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2423,6 +3815,46 @@
         "distance_km": 1.86,
         "lat": 38.7378047,
         "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -2476,6 +3908,46 @@
         "lat": 38.7048573,
         "lon": -9.3782281,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São João do Estoril",
+        "address": "Rua Egas Moniz 173",
+        "distance_km": 2.85,
+        "lat": 38.699456,
+        "lon": -9.3803766,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Cascais - Guia",
+        "address": "Avenida Pedro Álvares Cabral",
+        "distance_km": 2.87,
+        "lat": 38.7013425,
+        "lon": -9.434233,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Parede - Avenida da República",
+        "address": "Av. República 75",
+        "distance_km": 5.24,
+        "lat": 38.6901614,
+        "lon": -9.3551087,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Parede - Melvin Jones",
+        "address": "Rua Melvin Jones Lote 26",
+        "distance_km": 5.36,
+        "lat": 38.6943898,
+        "lon": -9.3506169,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Carcavelos - Estação CP",
+        "address": "Rua Marques da Mata Lote D",
+        "distance_km": 6.07,
+        "lat": 38.6898646,
+        "lon": -9.3443301,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2528,6 +4000,38 @@
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.25,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 10.45,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 10.98,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "Rua Horizonte",
+        "distance_km": 13.65,
+        "lat": 41.282478,
+        "lon": -8.5630235,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -2579,6 +4083,46 @@
         "distance_km": 1.92,
         "lat": 41.1611223,
         "lon": -8.6065297,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua Passos Manuel 221/223",
+        "distance_km": 2.44,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Cedofeita",
+        "address": "Rua Da Cedofeita 435",
+        "distance_km": 2.44,
+        "lat": 41.1507494,
+        "lon": -8.6088129,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Sá da Bandeira",
+        "address": "Rua Sá Bandeira 385/389",
+        "distance_km": 2.45,
+        "lat": 41.1527743,
+        "lon": -8.6102849,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Constituição",
+        "address": "Rua Monte Pedral 31",
+        "distance_km": 2.63,
+        "lat": 41.1627325,
+        "lon": -8.6149581,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Praça da República",
+        "address": "Praça da República 58",
+        "distance_km": 2.66,
+        "lat": 41.1538458,
+        "lon": -8.6135705,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -2632,6 +4176,46 @@
         "lat": 41.4389137,
         "lon": -8.4100576,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 8.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Alameda",
+        "address": "Rua Alfredo Pimenta 278",
+        "distance_km": 8.93,
+        "lat": 41.4464006,
+        "lon": -8.298352099999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 10.34,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.6,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 12.2,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2683,6 +4267,46 @@
         "distance_km": 4.87,
         "lat": 32.661984,
         "lon": -16.9345602,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Lido",
+        "address": "Rua Do Gorgulho (Junto Piscinas...",
+        "distance_km": 5.84,
+        "lat": 32.6369788,
+        "lon": -16.931435,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "Estrada Monumental 318",
+        "distance_km": 5.94,
+        "lat": 32.6386398,
+        "lon": -16.9343558,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Forum",
+        "address": "C. C. Forum Madeira, Estrada Mo...",
+        "distance_km": 6.7,
+        "lat": 32.6360551,
+        "lon": -16.9421672,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 9.01,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Machico",
+        "address": "Rua Da Estacada",
+        "distance_km": 12.14,
+        "lat": 32.7198279,
+        "lon": -16.767705499999998,
         "schedule": "7:30 → 22:00"
       }
     ]
@@ -2736,6 +4360,46 @@
         "lat": 38.7722696,
         "lon": -9.1599023,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Conde Redondo",
+        "address": "Rua Conde Redondo 41/41A",
+        "distance_km": 1.41,
+        "lat": 38.750976,
+        "lon": -9.1521822,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Atlanta Park - Edf.Georgia - Ru...",
+        "distance_km": 1.42,
+        "lat": 38.750743,
+        "lon": -9.1711227,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "PD&GO Estrada da Luz",
+        "address": "Estrada da Luz",
+        "distance_km": 1.6,
+        "lat": 38.7492883,
+        "lon": -9.1721033,
+        "schedule": "7:00 → 23:30"
+      },
+      {
+        "name": "Alvalade",
+        "address": "C.C. Alvalade - Praça de Alvala...",
+        "distance_km": 1.69,
+        "lat": 38.7535973,
+        "lon": -9.1448656,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 1.85,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2788,6 +4452,46 @@
         "lat": 41.113307,
         "lon": -8.6010341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arcozelo",
+        "address": "Av. Da Igreja 79",
+        "distance_km": 7.06,
+        "lat": 41.0619119,
+        "lon": -8.6287177,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Oliveira do Douro",
+        "address": "Rua Dª Mª Costa Basto 16",
+        "distance_km": 7.37,
+        "lat": 41.1275793,
+        "lon": -8.581042,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valadares - Rio do Paço",
+        "address": "Rua Rio Do Paço, Valadares 300",
+        "distance_km": 7.41,
+        "lat": 41.0886517,
+        "lon": -8.6284952,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Gondomar",
+        "address": "Rua José Saramago",
+        "distance_km": 7.95,
+        "lat": 41.138333599999996,
+        "lon": -8.5355429,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Av. República 1174/1182",
+        "distance_km": 8.48,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -2868,6 +4572,46 @@
         "lat": 41.3956415,
         "lon": -8.3910313,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 8.58,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Felgueiras",
+        "address": "Rua D. Manuel Faria De Sousa, L...",
+        "distance_km": 9.5,
+        "lat": 41.3609273,
+        "lon": -8.199679399999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.22,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.56,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 11.71,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -2919,6 +4663,46 @@
         "distance_km": 10.77,
         "lat": 41.4523183,
         "lon": -8.1780948,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Amarante",
+        "address": "E.N. 15, Lugar Da Boavista, Tel...",
+        "distance_km": 11.02,
+        "lat": 41.2870419,
+        "lon": -8.0958535,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Infias",
+        "address": "E.N. 106, Km 1, Infias",
+        "distance_km": 11.41,
+        "lat": 41.393284699999995,
+        "lon": -8.3180734,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Meã",
+        "address": "Rua Santa Comba 176",
+        "distance_km": 12.1,
+        "lat": 41.247825299999995,
+        "lon": -8.1751056,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 12.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lousada - Cristelo",
+        "address": "Rua De Santo André, Lugar Das A...",
+        "distance_km": 12.53,
+        "lat": 41.2702271,
+        "lon": -8.2881049,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -2972,6 +4756,46 @@
         "lat": 37.0252767,
         "lon": -7.838341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Olhão - Patinha",
+        "address": "E.N. 125, Urbanização Patinha, ...",
+        "distance_km": 8.69,
+        "lat": 37.0370382,
+        "lon": -7.8321467,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Quinta do Lago",
+        "address": "Centro Comercial Buganvilla Loj...",
+        "distance_km": 9.93,
+        "lat": 37.06091,
+        "lon": -8.0296557,
+        "schedule": "8:30 → 20:30"
+      },
+      {
+        "name": "Loulé Mar Shopping",
+        "address": "C.C. Mar Shopping Loulé Cx. 787",
+        "distance_km": 10.31,
+        "lat": 37.098044,
+        "lon": -7.996399599999999,
+        "schedule": "9:00 → 23:00"
+      },
+      {
+        "name": "Almancil",
+        "address": "Rua Maria Campina 4-6",
+        "distance_km": 11.96,
+        "lat": 37.0898566,
+        "lon": -8.033851,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Vale do Lobo",
+        "address": "Empreendimento Turístico",
+        "distance_km": 12.19,
+        "lat": 37.060218,
+        "lon": -8.0575733,
+        "schedule": "8:00 → 20:30"
       }
     ]
   },
@@ -3024,6 +4848,30 @@
         "lat": 41.2314651,
         "lon": -8.407114199999999,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marco de Canaveses - Jardim de ...",
+        "address": "Rua Talegre",
+        "distance_km": 11.31,
+        "lat": 41.1785356,
+        "lon": -8.1499467,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.36,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gandra",
+        "address": "Rua Nova de Fontes 100",
+        "distance_km": 14.6,
+        "lat": 41.1840216,
+        "lon": -8.4482958,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -3104,6 +4952,46 @@
         "lat": 38.632850999999995,
         "lon": -9.142396,
         "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Barreiro - Vila Chã",
+        "address": "Estrada Municipal nº 510 - Sto....",
+        "distance_km": 4.76,
+        "lat": 38.6300093,
+        "lon": -9.0385536,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Laranjeiro",
+        "address": "Rua Artur Semedo - Quinta De Sa...",
+        "distance_km": 5.47,
+        "lat": 38.6481419,
+        "lon": -9.1538691,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Corroios - Santa Marta",
+        "address": "Rua Manuel Ferreira LOTE 10/11/12",
+        "distance_km": 5.48,
+        "lat": 38.626993999999996,
+        "lon": -9.1519853,
+        "schedule": "7:30 → 21:30"
+      },
+      {
+        "name": "Corroios - Parque Luso",
+        "address": "Av. D. Afonso Henriques, Parque...",
+        "distance_km": 6.03,
+        "lat": 38.6393507,
+        "lon": -9.1608853,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Feijó",
+        "address": "Rua Ary Dos Santos 26",
+        "distance_km": 6.38,
+        "lat": 38.6568889,
+        "lon": -9.1621341,
+        "schedule": "7:30 → 21:00"
       }
     ]
   },
@@ -3155,6 +5043,46 @@
         "distance_km": 6.68,
         "lat": 40.9863128,
         "lon": -8.5374426,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida de Lourosa A",
+        "distance_km": 7.03,
+        "lat": 40.9896727,
+        "lon": -8.5397513,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.24,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Paio de Oleiros",
+        "address": "Rua Comendador Sá Couto",
+        "distance_km": 7.54,
+        "lat": 40.9855667,
+        "lon": -8.590201799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Lavouras",
+        "address": "Rua Monsenhor Miguel de Oliveira",
+        "distance_km": 8.61,
+        "lat": 40.8676511,
+        "lon": -8.6122802,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "Rua Aquilino Ribeiro",
+        "distance_km": 9.87,
+        "lat": 40.859996,
+        "lon": -8.6233875,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -3208,6 +5136,46 @@
         "lat": 41.1973353,
         "lon": -8.6640114,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "Rua Brito Capelo 332",
+        "distance_km": 2.04,
+        "lat": 41.1755994,
+        "lon": -8.6886103,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito e Cunha",
+        "address": "Rua de Brito Capelo 1405",
+        "distance_km": 2.09,
+        "lat": 41.1750602,
+        "lon": -8.688942,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Ramalde - São João de Brito",
+        "address": "Rua São João De Brito C/ Rua Da...",
+        "distance_km": 2.39,
+        "lat": 41.1668866,
+        "lon": -8.6494559,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "Lugar Da Amorosa, Rua Dos Campo...",
+        "distance_km": 2.57,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Prelada",
+        "address": "Rua Central de Francos 744/758",
+        "distance_km": 2.65,
+        "lat": 41.1728467,
+        "lon": -8.6388303,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -3259,6 +5227,46 @@
         "distance_km": 1.91,
         "lat": 32.661984,
         "lon": -16.9345602,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "Urbanização Da Penteada Loja 15",
+        "distance_km": 2.08,
+        "lat": 32.6636713,
+        "lon": -16.9339569,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "C. C. Anadia - Rua Do Ribeirinh...",
+        "distance_km": 2.28,
+        "lat": 32.6494175,
+        "lon": -16.9044595,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 4.51,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Cancela",
+        "address": "Edf. Quinta Garajau, Estrada Ga...",
+        "distance_km": 6.69,
+        "lat": 32.6464664,
+        "lon": -16.8568446,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Ribeira Brava",
+        "address": "Estrada Comandante Camacho De F...",
+        "distance_km": 12.99,
+        "lat": 32.6702618,
+        "lon": -17.063932,
         "schedule": "7:30 → 22:00"
       }
     ]
@@ -3312,6 +5320,46 @@
         "lat": 40.921340799999996,
         "lon": -8.5654326,
         "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.76,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Carvalhos",
+        "address": "Av. Dr. Moreira De Sousa 2238",
+        "distance_km": 7.93,
+        "lat": 41.0567272,
+        "lon": -8.568249,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 8.25,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Espinho Fosforeira",
+        "address": "Rua nº20 1286",
+        "distance_km": 8.28,
+        "lat": 41.0020777,
+        "lon": -8.6404192,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "Rua 21 196",
+        "distance_km": 8.56,
+        "lat": 41.008158,
+        "lon": -8.6419517,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -3363,6 +5411,14 @@
         "distance_km": 12.93,
         "lat": 40.6150865,
         "lon": -7.7589323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Nelas",
+        "address": "Avenida Prof. Dr. Fortunato de ...",
+        "distance_km": 13.97,
+        "lat": 40.538657,
+        "lon": -7.8555826,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -3416,6 +5472,46 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Penafiel - Guilhufe",
+        "address": "Quinta Da Lagarteira - Guilhufe",
+        "distance_km": 10.8,
+        "lat": 41.194287,
+        "lon": -8.3073419,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Gandra",
+        "address": "Rua Nova de Fontes 100",
+        "distance_km": 11.08,
+        "lat": 41.1840216,
+        "lon": -8.4482958,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Santo Tirso - Lugar de Fontiscos",
+        "address": "Lugar De Fontiscos",
+        "distance_km": 11.8,
+        "lat": 41.3388491,
+        "lon": -8.4946348,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 12.75,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valongo - Susão",
+        "address": "Rua D. Pedro Iv, Lugar Campo Ba...",
+        "distance_km": 12.83,
+        "lat": 41.201792999999995,
+        "lon": -8.5074203,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -3467,6 +5563,38 @@
         "distance_km": 1.82,
         "lat": 39.7591633,
         "lon": -8.7964399,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Embra",
+        "address": "E.N. 242, Rua Jornal Da Marinha...",
+        "distance_km": 8.53,
+        "lat": 39.7472649,
+        "lon": -8.9127285,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Batalha",
+        "address": "Rua das Piscinas, Quinta Da Cer...",
+        "distance_km": 9.5,
+        "lat": 39.6639201,
+        "lon": -8.8259254,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Av. Liberdade",
+        "address": "C.C. Horizonte - Av. Liberdade ...",
+        "distance_km": 10.07,
+        "lat": 39.745714899999996,
+        "lon": -8.930683799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Porto de Mós",
+        "address": "Ic 2 - Km 107,4 Chão Da Feira",
+        "distance_km": 14.43,
+        "lat": 39.6233404,
+        "lon": -8.8562663,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -3520,6 +5648,22 @@
         "lat": 37.1314043,
         "lon": -8.4543485,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lagos - Marina",
+        "address": "Sitio Do Molião - E.N. 125",
+        "distance_km": 12.39,
+        "lat": 37.1130955,
+        "lon": -8.6766571,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Lagos - Av. Da República",
+        "address": "Av. Da República, Rossio De São...",
+        "distance_km": 12.78,
+        "lat": 37.1068879,
+        "lon": -8.6793969,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -3600,6 +5744,46 @@
         "lat": 41.3956415,
         "lon": -8.3910313,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 8.58,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Felgueiras",
+        "address": "Rua D. Manuel Faria De Sousa, L...",
+        "distance_km": 9.5,
+        "lat": 41.3609273,
+        "lon": -8.199679399999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.22,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.56,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 11.71,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -3652,6 +5836,46 @@
         "lat": 41.113307,
         "lon": -8.6010341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arcozelo",
+        "address": "Av. Da Igreja 79",
+        "distance_km": 7.06,
+        "lat": 41.0619119,
+        "lon": -8.6287177,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Oliveira do Douro",
+        "address": "Rua Dª Mª Costa Basto 16",
+        "distance_km": 7.37,
+        "lat": 41.1275793,
+        "lon": -8.581042,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valadares - Rio do Paço",
+        "address": "Rua Rio Do Paço, Valadares 300",
+        "distance_km": 7.41,
+        "lat": 41.0886517,
+        "lon": -8.6284952,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Gondomar",
+        "address": "Rua José Saramago",
+        "distance_km": 7.95,
+        "lat": 41.138333599999996,
+        "lon": -8.5355429,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Av. República 1174/1182",
+        "distance_km": 8.48,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -3703,6 +5927,46 @@
         "distance_km": 4.51,
         "lat": 38.632850999999995,
         "lon": -9.142396,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Barreiro - Vila Chã",
+        "address": "Estrada Municipal nº 510 - Sto....",
+        "distance_km": 4.76,
+        "lat": 38.6300093,
+        "lon": -9.0385536,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Laranjeiro",
+        "address": "Rua Artur Semedo - Quinta De Sa...",
+        "distance_km": 5.47,
+        "lat": 38.6481419,
+        "lon": -9.1538691,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Corroios - Santa Marta",
+        "address": "Rua Manuel Ferreira LOTE 10/11/12",
+        "distance_km": 5.48,
+        "lat": 38.626993999999996,
+        "lon": -9.1519853,
+        "schedule": "7:30 → 21:30"
+      },
+      {
+        "name": "Corroios - Parque Luso",
+        "address": "Av. D. Afonso Henriques, Parque...",
+        "distance_km": 6.03,
+        "lat": 38.6393507,
+        "lon": -9.1608853,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Feijó",
+        "address": "Rua Ary Dos Santos 26",
+        "distance_km": 6.38,
+        "lat": 38.6568889,
+        "lon": -9.1621341,
         "schedule": "7:30 → 21:00"
       }
     ]
@@ -3808,6 +6072,46 @@
         "lat": 40.8951911,
         "lon": -8.503678,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 9.19,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Santa Maria da Feira - Hiper",
+        "address": "Lugar De Vila Boa",
+        "distance_km": 11.91,
+        "lat": 40.921340799999996,
+        "lon": -8.5654326,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Estarreja",
+        "address": "Rua Dr. Tavares Da Silva",
+        "distance_km": 12.24,
+        "lat": 40.762309599999995,
+        "lon": -8.5706636,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Lavouras",
+        "address": "Rua Monsenhor Miguel de Oliveira",
+        "distance_km": 12.27,
+        "lat": 40.8676511,
+        "lon": -8.6122802,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "Rua Aquilino Ribeiro",
+        "distance_km": 13.03,
+        "lat": 40.859996,
+        "lon": -8.6233875,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -3888,6 +6192,46 @@
         "lat": 37.0252767,
         "lon": -7.838341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Olhão - Patinha",
+        "address": "E.N. 125, Urbanização Patinha, ...",
+        "distance_km": 8.69,
+        "lat": 37.0370382,
+        "lon": -7.8321467,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Quinta do Lago",
+        "address": "Centro Comercial Buganvilla Loj...",
+        "distance_km": 9.93,
+        "lat": 37.06091,
+        "lon": -8.0296557,
+        "schedule": "8:30 → 20:30"
+      },
+      {
+        "name": "Loulé Mar Shopping",
+        "address": "C.C. Mar Shopping Loulé Cx. 787",
+        "distance_km": 10.31,
+        "lat": 37.098044,
+        "lon": -7.996399599999999,
+        "schedule": "9:00 → 23:00"
+      },
+      {
+        "name": "Almancil",
+        "address": "Rua Maria Campina 4-6",
+        "distance_km": 11.96,
+        "lat": 37.0898566,
+        "lon": -8.033851,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Vale do Lobo",
+        "address": "Empreendimento Turístico",
+        "distance_km": 12.19,
+        "lat": 37.060218,
+        "lon": -8.0575733,
+        "schedule": "8:00 → 20:30"
       }
     ]
   },
@@ -3939,6 +6283,46 @@
         "distance_km": 1.51,
         "lat": 41.1973353,
         "lon": -8.6640114,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "Rua Brito Capelo 332",
+        "distance_km": 2.04,
+        "lat": 41.1755994,
+        "lon": -8.6886103,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito e Cunha",
+        "address": "Rua de Brito Capelo 1405",
+        "distance_km": 2.09,
+        "lat": 41.1750602,
+        "lon": -8.688942,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Ramalde - São João de Brito",
+        "address": "Rua São João De Brito C/ Rua Da...",
+        "distance_km": 2.39,
+        "lat": 41.1668866,
+        "lon": -8.6494559,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "Lugar Da Amorosa, Rua Dos Campo...",
+        "distance_km": 2.57,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Prelada",
+        "address": "Rua Central de Francos 744/758",
+        "distance_km": 2.65,
+        "lat": 41.1728467,
+        "lon": -8.6388303,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -3992,6 +6376,46 @@
         "lat": 41.4523183,
         "lon": -8.1780948,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Amarante",
+        "address": "E.N. 15, Lugar Da Boavista, Tel...",
+        "distance_km": 11.02,
+        "lat": 41.2870419,
+        "lon": -8.0958535,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Infias",
+        "address": "E.N. 106, Km 1, Infias",
+        "distance_km": 11.41,
+        "lat": 41.393284699999995,
+        "lon": -8.3180734,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Meã",
+        "address": "Rua Santa Comba 176",
+        "distance_km": 12.1,
+        "lat": 41.247825299999995,
+        "lon": -8.1751056,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 12.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lousada - Cristelo",
+        "address": "Rua De Santo André, Lugar Das A...",
+        "distance_km": 12.53,
+        "lat": 41.2702271,
+        "lon": -8.2881049,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -4044,6 +6468,46 @@
         "lat": 40.921340799999996,
         "lon": -8.5654326,
         "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.76,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Carvalhos",
+        "address": "Av. Dr. Moreira De Sousa 2238",
+        "distance_km": 7.93,
+        "lat": 41.0567272,
+        "lon": -8.568249,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 8.25,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Espinho Fosforeira",
+        "address": "Rua nº20 1286",
+        "distance_km": 8.28,
+        "lat": 41.0020777,
+        "lon": -8.6404192,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "Rua 21 196",
+        "distance_km": 8.56,
+        "lat": 41.008158,
+        "lon": -8.6419517,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -4095,6 +6559,46 @@
         "distance_km": 6.68,
         "lat": 40.9863128,
         "lon": -8.5374426,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida de Lourosa A",
+        "distance_km": 7.03,
+        "lat": 40.9896727,
+        "lon": -8.5397513,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.24,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Paio de Oleiros",
+        "address": "Rua Comendador Sá Couto",
+        "distance_km": 7.54,
+        "lat": 40.9855667,
+        "lon": -8.590201799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Lavouras",
+        "address": "Rua Monsenhor Miguel de Oliveira",
+        "distance_km": 8.61,
+        "lat": 40.8676511,
+        "lon": -8.6122802,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "Rua Aquilino Ribeiro",
+        "distance_km": 9.87,
+        "lat": 40.859996,
+        "lon": -8.6233875,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -4148,6 +6652,30 @@
         "lat": 41.2314651,
         "lon": -8.407114199999999,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marco de Canaveses - Jardim de ...",
+        "address": "Rua Talegre",
+        "distance_km": 11.31,
+        "lat": 41.1785356,
+        "lon": -8.1499467,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.36,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gandra",
+        "address": "Rua Nova de Fontes 100",
+        "distance_km": 14.6,
+        "lat": 41.1840216,
+        "lon": -8.4482958,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -4199,6 +6727,14 @@
         "distance_km": 12.93,
         "lat": 40.6150865,
         "lon": -7.7589323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Nelas",
+        "address": "Avenida Prof. Dr. Fortunato de ...",
+        "distance_km": 13.97,
+        "lat": 40.538657,
+        "lon": -7.8555826,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -4252,6 +6788,46 @@
         "lat": 41.3956415,
         "lon": -8.3910313,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 8.58,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Felgueiras",
+        "address": "Rua D. Manuel Faria De Sousa, L...",
+        "distance_km": 9.5,
+        "lat": 41.3609273,
+        "lon": -8.199679399999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.22,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.56,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 11.71,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -4304,6 +6880,46 @@
         "lat": 41.113307,
         "lon": -8.6010341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arcozelo",
+        "address": "Av. Da Igreja 79",
+        "distance_km": 7.06,
+        "lat": 41.0619119,
+        "lon": -8.6287177,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Oliveira do Douro",
+        "address": "Rua Dª Mª Costa Basto 16",
+        "distance_km": 7.37,
+        "lat": 41.1275793,
+        "lon": -8.581042,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valadares - Rio do Paço",
+        "address": "Rua Rio Do Paço, Valadares 300",
+        "distance_km": 7.41,
+        "lat": 41.0886517,
+        "lon": -8.6284952,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Gondomar",
+        "address": "Rua José Saramago",
+        "distance_km": 7.95,
+        "lat": 41.138333599999996,
+        "lon": -8.5355429,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Av. República 1174/1182",
+        "distance_km": 8.48,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -4355,6 +6971,38 @@
         "distance_km": 1.82,
         "lat": 39.7591633,
         "lon": -8.7964399,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Embra",
+        "address": "E.N. 242, Rua Jornal Da Marinha...",
+        "distance_km": 8.53,
+        "lat": 39.7472649,
+        "lon": -8.9127285,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Batalha",
+        "address": "Rua das Piscinas, Quinta Da Cer...",
+        "distance_km": 9.5,
+        "lat": 39.6639201,
+        "lon": -8.8259254,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Av. Liberdade",
+        "address": "C.C. Horizonte - Av. Liberdade ...",
+        "distance_km": 10.07,
+        "lat": 39.745714899999996,
+        "lon": -8.930683799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Porto de Mós",
+        "address": "Ic 2 - Km 107,4 Chão Da Feira",
+        "distance_km": 14.43,
+        "lat": 39.6233404,
+        "lon": -8.8562663,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -4408,6 +7056,46 @@
         "lat": 32.661984,
         "lon": -16.9345602,
         "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "Urbanização Da Penteada Loja 15",
+        "distance_km": 2.08,
+        "lat": 32.6636713,
+        "lon": -16.9339569,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "C. C. Anadia - Rua Do Ribeirinh...",
+        "distance_km": 2.28,
+        "lat": 32.6494175,
+        "lon": -16.9044595,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 4.51,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Cancela",
+        "address": "Edf. Quinta Garajau, Estrada Ga...",
+        "distance_km": 6.69,
+        "lat": 32.6464664,
+        "lon": -16.8568446,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Ribeira Brava",
+        "address": "Estrada Comandante Camacho De F...",
+        "distance_km": 12.99,
+        "lat": 32.6702618,
+        "lon": -17.063932,
+        "schedule": "7:30 → 22:00"
       }
     ]
   },
@@ -4459,6 +7147,46 @@
         "distance_km": 6.55,
         "lat": 40.8951911,
         "lon": -8.503678,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 9.19,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Santa Maria da Feira - Hiper",
+        "address": "Lugar De Vila Boa",
+        "distance_km": 11.91,
+        "lat": 40.921340799999996,
+        "lon": -8.5654326,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Estarreja",
+        "address": "Rua Dr. Tavares Da Silva",
+        "distance_km": 12.24,
+        "lat": 40.762309599999995,
+        "lon": -8.5706636,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Lavouras",
+        "address": "Rua Monsenhor Miguel de Oliveira",
+        "distance_km": 12.27,
+        "lat": 40.8676511,
+        "lon": -8.6122802,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "Rua Aquilino Ribeiro",
+        "distance_km": 13.03,
+        "lat": 40.859996,
+        "lon": -8.6233875,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -4512,6 +7240,22 @@
         "lat": 37.1314043,
         "lon": -8.4543485,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lagos - Marina",
+        "address": "Sitio Do Molião - E.N. 125",
+        "distance_km": 12.39,
+        "lat": 37.1130955,
+        "lon": -8.6766571,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Lagos - Av. Da República",
+        "address": "Av. Da República, Rossio De São...",
+        "distance_km": 12.78,
+        "lat": 37.1068879,
+        "lon": -8.6793969,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -4616,6 +7360,46 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Penafiel - Guilhufe",
+        "address": "Quinta Da Lagarteira - Guilhufe",
+        "distance_km": 10.8,
+        "lat": 41.194287,
+        "lon": -8.3073419,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Gandra",
+        "address": "Rua Nova de Fontes 100",
+        "distance_km": 11.08,
+        "lat": 41.1840216,
+        "lon": -8.4482958,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Santo Tirso - Lugar de Fontiscos",
+        "address": "Lugar De Fontiscos",
+        "distance_km": 11.8,
+        "lat": 41.3388491,
+        "lon": -8.4946348,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 12.75,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valongo - Susão",
+        "address": "Rua D. Pedro Iv, Lugar Campo Ba...",
+        "distance_km": 12.83,
+        "lat": 41.201792999999995,
+        "lon": -8.5074203,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -4724,6 +7508,46 @@
         "lat": 38.632850999999995,
         "lon": -9.142396,
         "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Barreiro - Vila Chã",
+        "address": "Estrada Municipal nº 510 - Sto....",
+        "distance_km": 4.76,
+        "lat": 38.6300093,
+        "lon": -9.0385536,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Laranjeiro",
+        "address": "Rua Artur Semedo - Quinta De Sa...",
+        "distance_km": 5.47,
+        "lat": 38.6481419,
+        "lon": -9.1538691,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Corroios - Santa Marta",
+        "address": "Rua Manuel Ferreira LOTE 10/11/12",
+        "distance_km": 5.48,
+        "lat": 38.626993999999996,
+        "lon": -9.1519853,
+        "schedule": "7:30 → 21:30"
+      },
+      {
+        "name": "Corroios - Parque Luso",
+        "address": "Av. D. Afonso Henriques, Parque...",
+        "distance_km": 6.03,
+        "lat": 38.6393507,
+        "lon": -9.1608853,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Feijó",
+        "address": "Rua Ary Dos Santos 26",
+        "distance_km": 6.38,
+        "lat": 38.6568889,
+        "lon": -9.1621341,
+        "schedule": "7:30 → 21:00"
       }
     ]
   },
@@ -4776,6 +7600,46 @@
         "lat": 37.0252767,
         "lon": -7.838341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Olhão - Patinha",
+        "address": "E.N. 125, Urbanização Patinha, ...",
+        "distance_km": 8.69,
+        "lat": 37.0370382,
+        "lon": -7.8321467,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Quinta do Lago",
+        "address": "Centro Comercial Buganvilla Loj...",
+        "distance_km": 9.93,
+        "lat": 37.06091,
+        "lon": -8.0296557,
+        "schedule": "8:30 → 20:30"
+      },
+      {
+        "name": "Loulé Mar Shopping",
+        "address": "C.C. Mar Shopping Loulé Cx. 787",
+        "distance_km": 10.31,
+        "lat": 37.098044,
+        "lon": -7.996399599999999,
+        "schedule": "9:00 → 23:00"
+      },
+      {
+        "name": "Almancil",
+        "address": "Rua Maria Campina 4-6",
+        "distance_km": 11.96,
+        "lat": 37.0898566,
+        "lon": -8.033851,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Vale do Lobo",
+        "address": "Empreendimento Turístico",
+        "distance_km": 12.19,
+        "lat": 37.060218,
+        "lon": -8.0575733,
+        "schedule": "8:00 → 20:30"
       }
     ]
   },
@@ -4827,6 +7691,46 @@
         "distance_km": 10.77,
         "lat": 41.4523183,
         "lon": -8.1780948,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Amarante",
+        "address": "E.N. 15, Lugar Da Boavista, Tel...",
+        "distance_km": 11.02,
+        "lat": 41.2870419,
+        "lon": -8.0958535,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Infias",
+        "address": "E.N. 106, Km 1, Infias",
+        "distance_km": 11.41,
+        "lat": 41.393284699999995,
+        "lon": -8.3180734,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Meã",
+        "address": "Rua Santa Comba 176",
+        "distance_km": 12.1,
+        "lat": 41.247825299999995,
+        "lon": -8.1751056,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 12.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lousada - Cristelo",
+        "address": "Rua De Santo André, Lugar Das A...",
+        "distance_km": 12.53,
+        "lat": 41.2702271,
+        "lon": -8.2881049,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -4880,6 +7784,46 @@
         "lat": 40.921340799999996,
         "lon": -8.5654326,
         "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.76,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Carvalhos",
+        "address": "Av. Dr. Moreira De Sousa 2238",
+        "distance_km": 7.93,
+        "lat": 41.0567272,
+        "lon": -8.568249,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 8.25,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Espinho Fosforeira",
+        "address": "Rua nº20 1286",
+        "distance_km": 8.28,
+        "lat": 41.0020777,
+        "lon": -8.6404192,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "Rua 21 196",
+        "distance_km": 8.56,
+        "lat": 41.008158,
+        "lon": -8.6419517,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -4931,6 +7875,46 @@
         "distance_km": 6.68,
         "lat": 40.9863128,
         "lon": -8.5374426,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida de Lourosa A",
+        "distance_km": 7.03,
+        "lat": 40.9896727,
+        "lon": -8.5397513,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.24,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Paio de Oleiros",
+        "address": "Rua Comendador Sá Couto",
+        "distance_km": 7.54,
+        "lat": 40.9855667,
+        "lon": -8.590201799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Lavouras",
+        "address": "Rua Monsenhor Miguel de Oliveira",
+        "distance_km": 8.61,
+        "lat": 40.8676511,
+        "lon": -8.6122802,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "Rua Aquilino Ribeiro",
+        "distance_km": 9.87,
+        "lat": 40.859996,
+        "lon": -8.6233875,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -4984,6 +7968,30 @@
         "lat": 41.2314651,
         "lon": -8.407114199999999,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marco de Canaveses - Jardim de ...",
+        "address": "Rua Talegre",
+        "distance_km": 11.31,
+        "lat": 41.1785356,
+        "lon": -8.1499467,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.36,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gandra",
+        "address": "Rua Nova de Fontes 100",
+        "distance_km": 14.6,
+        "lat": 41.1840216,
+        "lon": -8.4482958,
+        "schedule": "8:30 → 21:00"
       }
     ]
   },
@@ -5035,6 +8043,46 @@
         "distance_km": 7.02,
         "lat": 41.3956415,
         "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 8.58,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Felgueiras",
+        "address": "Rua D. Manuel Faria De Sousa, L...",
+        "distance_km": 9.5,
+        "lat": 41.3609273,
+        "lon": -8.199679399999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.22,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 11.56,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 11.71,
+        "lat": 41.487789,
+        "lon": -8.3551167,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -5140,6 +8188,46 @@
         "lat": 41.113307,
         "lon": -8.6010341,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arcozelo",
+        "address": "Av. Da Igreja 79",
+        "distance_km": 7.06,
+        "lat": 41.0619119,
+        "lon": -8.6287177,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Oliveira do Douro",
+        "address": "Rua Dª Mª Costa Basto 16",
+        "distance_km": 7.37,
+        "lat": 41.1275793,
+        "lon": -8.581042,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valadares - Rio do Paço",
+        "address": "Rua Rio Do Paço, Valadares 300",
+        "distance_km": 7.41,
+        "lat": 41.0886517,
+        "lon": -8.6284952,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Gondomar",
+        "address": "Rua José Saramago",
+        "distance_km": 7.95,
+        "lat": 41.138333599999996,
+        "lon": -8.5355429,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Av. República 1174/1182",
+        "distance_km": 8.48,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -5191,6 +8279,14 @@
         "distance_km": 12.93,
         "lat": 40.6150865,
         "lon": -7.7589323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Nelas",
+        "address": "Avenida Prof. Dr. Fortunato de ...",
+        "distance_km": 13.97,
+        "lat": 40.538657,
+        "lon": -7.8555826,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -5244,6 +8340,38 @@
         "lat": 39.7591633,
         "lon": -8.7964399,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Embra",
+        "address": "E.N. 242, Rua Jornal Da Marinha...",
+        "distance_km": 8.53,
+        "lat": 39.7472649,
+        "lon": -8.9127285,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Batalha",
+        "address": "Rua das Piscinas, Quinta Da Cer...",
+        "distance_km": 9.5,
+        "lat": 39.6639201,
+        "lon": -8.8259254,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Av. Liberdade",
+        "address": "C.C. Horizonte - Av. Liberdade ...",
+        "distance_km": 10.07,
+        "lat": 39.745714899999996,
+        "lon": -8.930683799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Porto de Mós",
+        "address": "Ic 2 - Km 107,4 Chão Da Feira",
+        "distance_km": 14.43,
+        "lat": 39.6233404,
+        "lon": -8.8562663,
+        "schedule": "8:00 → 21:00"
       }
     ]
   },
@@ -5295,6 +8423,46 @@
         "distance_km": 1.51,
         "lat": 41.1973353,
         "lon": -8.6640114,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "Rua Brito Capelo 332",
+        "distance_km": 2.04,
+        "lat": 41.1755994,
+        "lon": -8.6886103,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito e Cunha",
+        "address": "Rua de Brito Capelo 1405",
+        "distance_km": 2.09,
+        "lat": 41.1750602,
+        "lon": -8.688942,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Ramalde - São João de Brito",
+        "address": "Rua São João De Brito C/ Rua Da...",
+        "distance_km": 2.39,
+        "lat": 41.1668866,
+        "lon": -8.6494559,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "Lugar Da Amorosa, Rua Dos Campo...",
+        "distance_km": 2.57,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Prelada",
+        "address": "Rua Central de Francos 744/758",
+        "distance_km": 2.65,
+        "lat": 41.1728467,
+        "lon": -8.6388303,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -5348,6 +8516,46 @@
         "lat": 32.661984,
         "lon": -16.9345602,
         "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "Urbanização Da Penteada Loja 15",
+        "distance_km": 2.08,
+        "lat": 32.6636713,
+        "lon": -16.9339569,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "C. C. Anadia - Rua Do Ribeirinh...",
+        "distance_km": 2.28,
+        "lat": 32.6494175,
+        "lon": -16.9044595,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 4.51,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Cancela",
+        "address": "Edf. Quinta Garajau, Estrada Ga...",
+        "distance_km": 6.69,
+        "lat": 32.6464664,
+        "lon": -16.8568446,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Ribeira Brava",
+        "address": "Estrada Comandante Camacho De F...",
+        "distance_km": 12.99,
+        "lat": 32.6702618,
+        "lon": -17.063932,
+        "schedule": "7:30 → 22:00"
       }
     ]
   },
@@ -5400,6 +8608,46 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Penafiel - Guilhufe",
+        "address": "Quinta Da Lagarteira - Guilhufe",
+        "distance_km": 10.8,
+        "lat": 41.194287,
+        "lon": -8.3073419,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Gandra",
+        "address": "Rua Nova de Fontes 100",
+        "distance_km": 11.08,
+        "lat": 41.1840216,
+        "lon": -8.4482958,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Santo Tirso - Lugar de Fontiscos",
+        "address": "Lugar De Fontiscos",
+        "distance_km": 11.8,
+        "lat": 41.3388491,
+        "lon": -8.4946348,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 12.75,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Valongo - Susão",
+        "address": "Rua D. Pedro Iv, Lugar Campo Ba...",
+        "distance_km": 12.83,
+        "lat": 41.201792999999995,
+        "lon": -8.5074203,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -5451,6 +8699,46 @@
         "distance_km": 6.55,
         "lat": 40.8951911,
         "lon": -8.503678,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 9.19,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Santa Maria da Feira - Hiper",
+        "address": "Lugar De Vila Boa",
+        "distance_km": 11.91,
+        "lat": 40.921340799999996,
+        "lon": -8.5654326,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Estarreja",
+        "address": "Rua Dr. Tavares Da Silva",
+        "distance_km": 12.24,
+        "lat": 40.762309599999995,
+        "lon": -8.5706636,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Lavouras",
+        "address": "Rua Monsenhor Miguel de Oliveira",
+        "distance_km": 12.27,
+        "lat": 40.8676511,
+        "lon": -8.6122802,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "Rua Aquilino Ribeiro",
+        "distance_km": 13.03,
+        "lat": 40.859996,
+        "lon": -8.6233875,
         "schedule": "8:00 → 21:00"
       }
     ]
@@ -5532,6 +8820,22 @@
         "lat": 37.1314043,
         "lon": -8.4543485,
         "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lagos - Marina",
+        "address": "Sitio Do Molião - E.N. 125",
+        "distance_km": 12.39,
+        "lat": 37.1130955,
+        "lon": -8.6766571,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Lagos - Av. Da República",
+        "address": "Av. Da República, Rossio De São...",
+        "distance_km": 12.78,
+        "lat": 37.1068879,
+        "lon": -8.6793969,
+        "schedule": "8:00 → 21:30"
       }
     ]
   },
@@ -5611,6 +8915,46 @@
         "distance_km": 1.92,
         "lat": 41.1611223,
         "lon": -8.6065297,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua Passos Manuel 221/223",
+        "distance_km": 2.44,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Cedofeita",
+        "address": "Rua Da Cedofeita 435",
+        "distance_km": 2.44,
+        "lat": 41.1507494,
+        "lon": -8.6088129,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Sá da Bandeira",
+        "address": "Rua Sá Bandeira 385/389",
+        "distance_km": 2.45,
+        "lat": 41.1527743,
+        "lon": -8.6102849,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Constituição",
+        "address": "Rua Monte Pedral 31",
+        "distance_km": 2.63,
+        "lat": 41.1627325,
+        "lon": -8.6149581,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Praça da República",
+        "address": "Praça da República 58",
+        "distance_km": 2.66,
+        "lat": 41.1538458,
+        "lon": -8.6135705,
         "schedule": "8:00 → 21:00"
       }
     ]
