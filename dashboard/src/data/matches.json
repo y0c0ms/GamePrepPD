@@ -530,12 +530,12 @@
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Estrada Da Luz",
-        "address": "Rua Abranches Ferrão, 1600-001",
-        "distance_km": 1.55,
-        "lat": 38.7503335,
-        "lon": -9.1719107,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Telheiras - Hiper",
+        "address": "Rua Proj.à Azinhaga dos Ulmeiros, 1700-773 Lisboa",
+        "distance_km": 1.33,
+        "lat": 38.76843145283731,
+        "lon": -9.172922412302512,
+        "schedule": "N/A"
       }
     ]
   },
@@ -1202,12 +1202,12 @@
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Estrada Da Luz",
-        "address": "Rua Abranches Ferrão, 1600-001",
-        "distance_km": 1.55,
-        "lat": 38.7503335,
-        "lon": -9.1719107,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Telheiras - Hiper",
+        "address": "Rua Proj.à Azinhaga dos Ulmeiros, 1700-773 Lisboa",
+        "distance_km": 1.33,
+        "lat": 38.76843145283731,
+        "lon": -9.172922412302512,
+        "schedule": "N/A"
       }
     ]
   },
@@ -1858,12 +1858,12 @@
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Estrada Da Luz",
-        "address": "Rua Abranches Ferrão, 1600-001",
-        "distance_km": 1.55,
-        "lat": 38.7503335,
-        "lon": -9.1719107,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Telheiras - Hiper",
+        "address": "Rua Proj.à Azinhaga dos Ulmeiros, 1700-773 Lisboa",
+        "distance_km": 1.33,
+        "lat": 38.76843145283731,
+        "lon": -9.172922412302512,
+        "schedule": "N/A"
       }
     ]
   },

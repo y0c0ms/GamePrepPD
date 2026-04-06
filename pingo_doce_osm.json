@@ -7404,111 +7404,6 @@
     },
     {
       "type": "way",
-      "id": 115065404,
-      "bounds": {
-        "minlat": 38.7675732,
-        "minlon": -9.1733665,
-        "maxlat": 38.7689056,
-        "maxlon": -9.1723286
-      },
-      "nodes": [
-        1301636344,
-        1301636291,
-        1301636283,
-        1301636333,
-        1751709685,
-        1751709681,
-        1751709682,
-        1751709687,
-        1751709690,
-        1301636342,
-        1751709693,
-        1751709695,
-        1301636344
-      ],
-      "geometry": [
-        {
-          "lat": 38.7689056,
-          "lon": -9.1723919
-        },
-        {
-          "lat": 38.7681423,
-          "lon": -9.1723286
-        },
-        {
-          "lat": 38.7679206,
-          "lon": -9.1723447
-        },
-        {
-          "lat": 38.7676613,
-          "lon": -9.1724412
-        },
-        {
-          "lat": 38.7676590,
-          "lon": -9.1725404
-        },
-        {
-          "lat": 38.7675868,
-          "lon": -9.1725473
-        },
-        {
-          "lat": 38.7675788,
-          "lon": -9.1729998
-        },
-        {
-          "lat": 38.7675732,
-          "lon": -9.1733290
-        },
-        {
-          "lat": 38.7680447,
-          "lon": -9.1733665
-        },
-        {
-          "lat": 38.7680432,
-          "lon": -9.1732835
-        },
-        {
-          "lat": 38.7686995,
-          "lon": -9.1732907
-        },
-        {
-          "lat": 38.7688794,
-          "lon": -9.1732952
-        },
-        {
-          "lat": 38.7689056,
-          "lon": -9.1723919
-        }
-      ],
-      "tags": {
-        "addr:city": "Lisboa",
-        "addr:postcode": "1700-773",
-        "addr:street": "Rua Proj.à Azinhaga dos Ulmeiros",
-        "branch": "Telheiras - Hiper",
-        "brand": "Pingo Doce",
-        "brand:wikidata": "Q1575057",
-        "brand:wikipedia": "pt:Pingo Doce",
-        "building": "commercial",
-        "contact:facebook": "pingodoce",
-        "contact:instagram": "pingodoce",
-        "contact:linkedin": "https://www.linkedin.com/company/pingo-doce",
-        "contact:phone": "+351 217 117 000",
-        "contact:tiktok": "pingodoce",
-        "contact:youtube": "pingodocept",
-        "name": "Pingo Doce",
-        "opening_hours": "Mo-Th,Su 08:00-22:00; Fr,Sa 08:00-23:00; easter 08:00-14:00",
-        "operator": "Pingo Doce",
-        "ref": "655",
-        "shop": "supermarket",
-        "source:contact": "website",
-        "source:opening_hours": "website",
-        "toilets:wheelchair": "yes",
-        "website": "https://www.pingodoce.pt/lojas/telheiras-hiper/",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "way",
       "id": 118004770,
       "bounds": {
         "minlat": 41.0883852,
@@ -29754,6 +29649,19 @@
         "addr:street": "Rua Dom Afonso",
         "addr:postcode": "4750-106",
         "opening_hours": "Mo-Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9990000009,
+      "lat": 38.76843145283731,
+      "lon": -9.172922412302512,
+      "tags": {
+        "brand": "Pingo Doce",
+        "branch": "Telheiras - Hiper",
+        "addr:city": "Lisboa",
+        "addr:postcode": "1700-773",
+        "addr:street": "Rua Proj.à Azinhaga dos Ulmeiros"
       }
     }
   ]
