@@ -5,7 +5,7 @@ export const parseArguments = () => {
   const options = {
     country: null,
     league: null,
-    fileType: null,
+    fileType: 'json', // Default to json
     concurrency: 5,
     saveInterval: 5,
     headless: true,
