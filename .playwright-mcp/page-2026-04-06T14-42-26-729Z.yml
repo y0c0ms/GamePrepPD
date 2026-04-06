@@ -1,0 +1,339 @@
+- generic [active] [ref=e1]:
+  - link "Saltar para o conteúdo" [ref=e2] [cursor=pointer]:
+    - /url: "#maincontent"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Sobre nós" [ref=e9] [cursor=pointer]:
+              - /url: /sobre-nos/
+          - listitem [ref=e10]:
+            - link "As nossas marcas" [ref=e11] [cursor=pointer]:
+              - /url: /produtos/marca-propria-pingo-doce/
+          - listitem [ref=e12]:
+            - link "Comida Fresca" [ref=e13] [cursor=pointer]:
+              - /url: https://comidafresca.pingodoce.pt
+          - listitem [ref=e14]:
+            - link "As nossas lojas" [ref=e15] [cursor=pointer]:
+              - /url: /lojas/
+          - listitem [ref=e16]:
+            - link "Sustentabilidade" [ref=e17] [cursor=pointer]:
+              - /url: /sustentabilidade/
+          - listitem [ref=e18]:
+            - link "Junte-se a nós" [ref=e19] [cursor=pointer]:
+              - /url: /junte-se-a-nos/
+          - listitem [ref=e20]:
+            - link "Apoio ao cliente" [ref=e21] [cursor=pointer]:
+              - /url: /apoio-ao-cliente/
+        - link "O Meu Pingo Doce" [ref=e23] [cursor=pointer]:
+          - /url: /app-o-meu-pingo-doce
+      - generic [ref=e25]:
+        - link "Pingo Doce" [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img "Pingo Doce" [ref=e27]
+        - list [ref=e28]:
+          - listitem [ref=e29]:
+            - link "Loja Online" [ref=e30] [cursor=pointer]:
+              - /url: https://www.pingodoce.pt/home/produtos/promocoes
+          - listitem [ref=e31]:
+            - link "Receitas e Dicas" [ref=e32] [cursor=pointer]:
+              - /url: /receitas-dicas/
+          - listitem [ref=e33]:
+            - link "Folhetos" [ref=e34] [cursor=pointer]:
+              - /url: /folhetos/
+          - listitem [ref=e35]:
+            - link "Encomendar Comida" [ref=e36] [cursor=pointer]:
+              - /url: /comida-fresca-takeaway/encomendas/
+        - textbox "Pesquisar" [ref=e40]:
+          - /placeholder: O que procura?
+        - link "Favoritos" [ref=e41] [cursor=pointer]:
+          - /url: https://www.pingodoce.pt/home/favoritos
+        - link "Área pessoal" [ref=e42] [cursor=pointer]:
+          - /url: https://www.pingodoce.pt/home/login
+  - generic [ref=e43]:
+    - generic [ref=e46]:
+      - img "Imagem de ícone" [ref=e49]
+      - generic [ref=e50]:
+        - heading "Encontre a loja mais próxima de si" [level=2] [ref=e51]
+        - paragraph [ref=e52]: Indique o que procura ou partilhe a sua localização para lhe mostrarmos as lojas mais próximas
+        - generic [ref=e53]:
+          - generic [ref=e55]:
+            - textbox "Pesquisar por rua, freguesia..." [ref=e56]
+            - img "Pesquisar" [ref=e58]
+          - generic [ref=e59]: ou
+          - generic [ref=e60] [cursor=pointer]:
+            - img "Localização" [ref=e61]
+            - text: Usar a minha localização
+    - generic [ref=e62]:
+      - generic [ref=e63]:
+        - heading "O que encontra nas nossas lojas" [level=1] [ref=e64]
+        - generic [ref=e65]: Descubra tudo sobre os serviços e comodidades disponíveis na sua loja Pingo Doce.
+      - generic [ref=e66]:
+        - generic [ref=e68]:
+          - heading "Serviços" [level=2] [ref=e69]
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - link "Água Filtrada ECO" [ref=e72] [cursor=pointer]:
+                - /url: /lojas/?servicos=agua-filtrada-eco
+                - heading "Água Filtrada ECO" [level=3] [ref=e73]
+              - link "Saber Mais" [ref=e74] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/agua-filtrada-eco/
+            - generic [ref=e75]:
+              - link "BemEstar | Corner" [ref=e76] [cursor=pointer]:
+                - /url: /lojas/?servicos=bem-estar-corner
+                - heading "BemEstar | Corner" [level=3] [ref=e77]
+              - link "Saber Mais" [ref=e78] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/bemestar-saude-e-beleza/
+            - generic [ref=e79]:
+              - link "BemEstar | Loja" [ref=e80] [cursor=pointer]:
+                - /url: /lojas/?servicos=bem-estar
+                - heading "BemEstar | Loja" [level=3] [ref=e81]
+              - link "Saber Mais" [ref=e82] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/bemestar-saude-e-beleza/
+            - generic [ref=e83]:
+              - link "BemEstar | Móvel" [ref=e84] [cursor=pointer]:
+                - /url: /lojas/?servicos=bem-estar-movel
+                - heading "BemEstar | Móvel" [level=3] [ref=e85]
+              - link "Saber Mais" [ref=e86] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/bemestar-saude-e-beleza/
+            - generic [ref=e87]:
+              - link "Cafetaria" [ref=e88] [cursor=pointer]:
+                - /url: /lojas/?servicos=cafetaria
+                - heading "Cafetaria" [level=3] [ref=e89]
+              - link "Saber Mais" [ref=e90] [cursor=pointer]:
+                - /url: https://comidafresca.pingodoce.pt/cafetaria/
+            - link "Click & Collect | Pingo Doce Online" [ref=e92] [cursor=pointer]:
+              - /url: /lojas/?servicos=click-collect-pingo-doce-online
+              - heading "Click & Collect | Pingo Doce Online" [level=3] [ref=e93]
+            - generic [ref=e94]:
+              - link "Code | Vestuário" [ref=e95] [cursor=pointer]:
+                - /url: /lojas/?servicos=code
+                - heading "Code | Vestuário" [level=3] [ref=e96]
+              - link "Saber Mais" [ref=e97] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/code-vestuario/
+            - link "Compras Online | Pingo Doce Online" [ref=e99] [cursor=pointer]:
+              - /url: /lojas/?servicos=compras-online-pingo-doce-online
+              - heading "Compras Online | Pingo Doce Online" [level=3] [ref=e100]
+            - link "Ecoponto | Cápsulas de Café" [ref=e102] [cursor=pointer]:
+              - /url: /lojas/?servicos=ecoponto-capsulas-de-cafe
+              - heading "Ecoponto | Cápsulas de Café" [level=3] [ref=e103]
+            - link "Ecoponto | Equipamentos Elétricos e Eletrónicos" [ref=e105] [cursor=pointer]:
+              - /url: /lojas/?servicos=ecoponto-equipamentos-eletricos-electronicos
+              - heading "Ecoponto | Equipamentos Elétricos e Eletrónicos" [level=3] [ref=e106]
+            - link "Ecoponto | Lâmpadas" [ref=e108] [cursor=pointer]:
+              - /url: /lojas/?servicos=ecoponto-lampadas
+              - heading "Ecoponto | Lâmpadas" [level=3] [ref=e109]
+            - link "Ecoponto | Óleos Alimentares Usados" [ref=e111] [cursor=pointer]:
+              - /url: /lojas/?servicos=ecoponto-oleos-alimentares-usados
+              - heading "Ecoponto | Óleos Alimentares Usados" [level=3] [ref=e112]
+            - link "Ecoponto | Pilhas" [ref=e114] [cursor=pointer]:
+              - /url: /lojas/?servicos=ecoponto-pilhas
+              - heading "Ecoponto | Pilhas" [level=3] [ref=e115]
+            - generic [ref=e116]:
+              - link "Encomendas Comida Fresca do Chef | Recolha em loja" [ref=e117] [cursor=pointer]:
+                - /url: /lojas/?servicos=encomendas-chef-loja
+                - heading "Encomendas Comida Fresca do Chef | Recolha em loja" [level=3] [ref=e118]
+              - link "Saber Mais" [ref=e119] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/produtos/comida-fresca/encomendas/
+            - generic [ref=e120]:
+              - link "Encomendas De Talho e Peixaria" [ref=e121] [cursor=pointer]:
+                - /url: /lojas/?servicos=encomendas-de-frescos
+                - heading "Encomendas De Talho e Peixaria" [level=3] [ref=e122]
+              - link "Saber Mais" [ref=e123] [cursor=pointer]:
+                - /url: https://pingodoce.pt/encomendas-de-talho-e-peixaria/
+            - generic [ref=e124]:
+              - link "Entrega Em Casa" [ref=e125] [cursor=pointer]:
+                - /url: /lojas/?servicos=entrega-ao-domicilio
+                - heading "Entrega Em Casa" [level=3] [ref=e126]
+              - link "Saber Mais" [ref=e127] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/entregas-ao-domicilio/
+            - link "Florista" [ref=e129] [cursor=pointer]:
+              - /url: /lojas/?servicos=florista
+              - heading "Florista" [level=3] [ref=e130]
+            - link "Glovo Comida Fresca" [ref=e132] [cursor=pointer]:
+              - /url: /lojas/?servicos=glovo-comida-fresca
+              - heading "Glovo Comida Fresca" [level=3] [ref=e133]
+            - generic [ref=e134]:
+              - link "Posto de combustível" [ref=e135] [cursor=pointer]:
+                - /url: /lojas/?servicos=posto-de-combustivel
+                - heading "Posto de combustível" [level=3] [ref=e136]
+              - link "Saber Mais" [ref=e137] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/servicos-loja/postos-de-combustivel/
+            - link "Postos de carregamento de veículos elétricos" [ref=e139] [cursor=pointer]:
+              - /url: /lojas/?servicos=postos-de-carregamento-de-veiculos-eletricos
+              - heading "Postos de carregamento de veículos elétricos" [level=3] [ref=e140]
+            - link "Postos de carregamento rápido de veículos elétricos" [ref=e142] [cursor=pointer]:
+              - /url: /lojas/?servicos=postos-de-carregamento-rapido-de-veiculos-eletricos
+              - heading "Postos de carregamento rápido de veículos elétricos" [level=3] [ref=e143]
+            - link "Postos de carregamento ultra rápido de veículos elétricos" [ref=e145] [cursor=pointer]:
+              - /url: /lojas/?servicos=postos-de-carregamento-ultra-rapido-de-veiculos-eletricos
+              - heading "Postos de carregamento ultra rápido de veículos elétricos" [level=3] [ref=e146]
+            - generic [ref=e147]:
+              - link "Restaurante" [ref=e148] [cursor=pointer]:
+                - /url: /lojas/?servicos=restaurante
+                - heading "Restaurante" [level=3] [ref=e149]
+              - link "Saber Mais" [ref=e150] [cursor=pointer]:
+                - /url: https://comidafresca.pingodoce.pt/restaurantes/
+            - generic [ref=e151]:
+              - link "Take Away Comida Fresca" [ref=e152] [cursor=pointer]:
+                - /url: /lojas/?servicos=encomendas-takeaway
+                - heading "Take Away Comida Fresca" [level=3] [ref=e153]
+              - link "Saber Mais" [ref=e154] [cursor=pointer]:
+                - /url: https://www.pingodoce.pt/take-away-comida-fresca/
+            - generic [ref=e155]:
+              - link "Transporte" [ref=e156] [cursor=pointer]:
+                - /url: /lojas/?servicos=transporte
+                - heading "Transporte" [level=3] [ref=e157]
+              - link "Saber Mais" [ref=e158] [cursor=pointer]:
+                - /url: https://folhetos.pingodoce.pt/2024/outros/transportes-evora/
+        - generic [ref=e159]:
+          - generic [ref=e160]:
+            - heading "Comodidades" [level=2] [ref=e161]
+            - link "Estacionamento" [ref=e164] [cursor=pointer]:
+              - /url: /lojas/?comodidades=estacionamento
+              - heading "Estacionamento" [level=3] [ref=e165]
+          - generic [ref=e166]:
+            - heading "Apoio ao cliente" [level=2] [ref=e167]
+            - generic [ref=e168]: Encontre as informações ou esclarecimentos relacionados com as nossas lojas, produtos e serviços. Sabe bem poder ajudá-lo.
+            - link "Saber Mais" [ref=e169] [cursor=pointer]:
+              - /url: /perguntas-frequentes/#Contactos
+  - generic [ref=e171]:
+    - generic [ref=e172]:
+      - generic [ref=e173]:
+        - text: Escolha a sua loja favorita
+        - generic [ref=e174]: na app O Meu Pingo Doce
+      - generic [ref=e175]:
+        - img "app-icon-2022" [ref=e177]
+        - link "icon-ios-2022" [ref=e179] [cursor=pointer]:
+          - /url: https://apps.apple.com/pt/app/pingo-doce/id1218939596
+          - img "icon-ios-2022" [ref=e180]
+        - link "icon-android-2022" [ref=e182] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=pt.pingodoce
+          - img "icon-android-2022" [ref=e183]
+    - img [ref=e184]
+  - generic [ref=e187]:
+    - generic [ref=e188]:
+      - heading "É tão bom encontrar-nos assim." [level=2] [ref=e189]
+      - heading "Em qualquer lado." [level=2] [ref=e190]
+    - generic [ref=e191]:
+      - generic [ref=e192]: "Encontre-nos em:"
+      - generic [ref=e193]:
+        - link "App Pingo Doce" [ref=e194] [cursor=pointer]:
+          - /url: /nova-app-pingo-doce/
+          - generic [ref=e195]: App Pingo Doce
+        - link "Instagram" [ref=e196] [cursor=pointer]:
+          - /url: https://www.instagram.com/pingodoce/
+          - generic [ref=e197]: Instagram
+        - link "TikTok" [ref=e198] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@pingodoce
+          - generic [ref=e199]: TikTok
+        - link "Facebook" [ref=e200] [cursor=pointer]:
+          - /url: https://www.facebook.com/pingodoce
+          - generic [ref=e201]: Facebook
+        - link "YouTube" [ref=e202] [cursor=pointer]:
+          - /url: https://www.youtube.com/user/pingodocept
+          - generic [ref=e203]: YouTube
+        - link "Linkedin" [ref=e204] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/pingo-doce
+          - generic [ref=e205]: Linkedin
+  - contentinfo [ref=e206]:
+    - generic [ref=e207]:
+      - generic [ref=e208]:
+        - generic [ref=e209]:
+          - generic [ref=e210]: Já conhece a App O Meu Pingo Doce?
+          - paragraph [ref=e211]: Adira e seja sempre um dos primeiros a conhecer as novidades e as melhores oportunidades de poupança
+          - generic [ref=e212]:
+            - link "Saiba mais" [ref=e213] [cursor=pointer]:
+              - /url: /app-o-meu-pingo-doce
+            - generic [ref=e214]:
+              - link "Google Play" [ref=e215] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=pt.pingodoce&hl=pt_PT
+              - link "Apple Store" [ref=e216] [cursor=pointer]:
+                - /url: https://apps.apple.com/pt/app/o-meu-pingo-doce/id1218939596
+        - generic [ref=e217]:
+          - generic [ref=e218]:
+            - generic [ref=e219]: Apoio ao Cliente
+            - list [ref=e220]:
+              - listitem [ref=e221]:
+                - link "Contacte-nos" [ref=e222] [cursor=pointer]:
+                  - /url: /apoio-ao-cliente/#contactos
+              - listitem [ref=e223]:
+                - link "Perguntas frequentes" [ref=e224] [cursor=pointer]:
+                  - /url: /apoio-ao-cliente/perguntas-frequentes
+              - listitem [ref=e225]:
+                - link "Comunicação de irregularidades" [ref=e226] [cursor=pointer]:
+                  - /url: /comunicacao-de-irregularidades/
+          - generic [ref=e227]:
+            - generic [ref=e228]: Pingo Doce
+            - list [ref=e229]:
+              - listitem [ref=e230]:
+                - link "Sobre nós" [ref=e231] [cursor=pointer]:
+                  - /url: /sobre-nos/
+              - listitem [ref=e232]:
+                - link "As nossas marcas" [ref=e233] [cursor=pointer]:
+                  - /url: /marca-propria-pingo-doce/
+              - listitem [ref=e234]:
+                - link "As nossas lojas" [ref=e235] [cursor=pointer]:
+                  - /url: /lojas/
+              - listitem [ref=e236]:
+                - link "Sustentabilidade" [ref=e237] [cursor=pointer]:
+                  - /url: /sustentabilidade/
+              - listitem [ref=e238]:
+                - link "Junte-se a nós" [ref=e239] [cursor=pointer]:
+                  - /url: /junte-se-a-nos/
+              - listitem [ref=e240]:
+                - link "Notícias" [ref=e241] [cursor=pointer]:
+                  - /url: /sobre-nos/noticias/
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - generic [ref=e244]: Encomendas via parceiros
+          - img "Glovo" [ref=e246]
+        - generic [ref=e247]:
+          - generic [ref=e248]: Redes sociais
+          - generic [ref=e249]:
+            - link "Instagram" [ref=e250] [cursor=pointer]:
+              - /url: https://www.instagram.com/pingodoce
+            - link "Youtube" [ref=e251] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/pingodocept
+            - link "Linkedin" [ref=e252] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/pingo-doce
+            - link "Facebook" [ref=e253] [cursor=pointer]:
+              - /url: https://www.facebook.com/pingodoce
+            - link "Tiktok" [ref=e254] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@pingodoce
+      - generic [ref=e255]:
+        - img "Métodos de pagamento" [ref=e256]
+        - list [ref=e257]:
+          - listitem [ref=e258]:
+            - link "Diretório de lojas" [ref=e259] [cursor=pointer]:
+              - /url: https://pingodoce.directory/
+          - listitem [ref=e260]:
+            - link "Cookies" [ref=e261] [cursor=pointer]:
+              - /url: /termos-condicoes/#cookies
+          - listitem [ref=e262]:
+            - link "Termos e Condições" [ref=e263] [cursor=pointer]:
+              - /url: /termos-condicoes/
+          - listitem [ref=e264]:
+            - link "Proteção de Dados Pessoais" [ref=e265] [cursor=pointer]:
+              - /url: /termos-condicoes/#dadospessoais
+          - listitem [ref=e266]:
+            - link "Livro de Reclamações" [ref=e267] [cursor=pointer]:
+              - /url: https://www.livroreclamacoes.pt/Inicio/
+          - listitem [ref=e268]:
+            - link "Mapa do site" [ref=e269] [cursor=pointer]:
+              - /url: https://www.pingodoce.pt/mapa-do-site/
+      - generic [ref=e270]: © Pingo Doce 2026. Todos os direitos reservados
+  - dialog "COOKIES" [ref=e272]:
+    - generic [ref=e274]:
+      - generic [ref=e276]:
+        - heading "COOKIES" [level=2] [ref=e277]
+        - generic [ref=e278]:
+          - text: Ao clicar em "Aceitar todos os cookies", concorda com o armazenamento de cookies no seu dispositivo para melhorar a navegação no site, analisar a utilização do site e ajudar nas nossas iniciativas de marketing.
+          - 'link "Política de Cookies: Mais informação sobre a sua privacidade, abre num separador novo" [ref=e279] [cursor=pointer]':
+            - /url: https://www.pingodoce.pt/termos-condicoes/#cookies
+            - text: Política de COOKIES
+      - generic [ref=e281]:
+        - button "Definições de cookies, Abre a caixa de diálogo do centro de preferências" [ref=e282] [cursor=pointer]: Definições de cookies
+        - button "Aceitar todos os cookies" [ref=e283] [cursor=pointer]
+    - button "Fechar janela de cookies" [ref=e285] [cursor=pointer]

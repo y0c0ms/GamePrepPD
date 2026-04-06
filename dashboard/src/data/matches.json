@@ -334,6 +334,14 @@
         "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
       },
       {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados, 4710-427 Braga",
+        "distance_km": 1.84,
+        "lat": 41.56073029501074,
+        "lon": -8.409512339679443,
+        "schedule": "Mo-Su 09:00-23:00"
+      },
+      {
         "name": "Braga - Avenida da Liberdade",
         "address": "4710-308",
         "distance_km": 1.99,
@@ -348,14 +356,6 @@
         "lat": 41.5490915,
         "lon": -8.4108529,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "4801-908",
-        "distance_km": 10.59,
-        "lat": 41.487789,
-        "lon": -8.3551167,
-        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -742,6 +742,14 @@
         "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
       },
       {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados, 4710-427 Braga",
+        "distance_km": 1.84,
+        "lat": 41.56073029501074,
+        "lon": -8.409512339679443,
+        "schedule": "Mo-Su 09:00-23:00"
+      },
+      {
         "name": "Braga - Avenida da Liberdade",
         "address": "4710-308",
         "distance_km": 1.99,
@@ -756,14 +764,6 @@
         "lat": 41.5490915,
         "lon": -8.4108529,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "4801-908",
-        "distance_km": 10.59,
-        "lat": 41.487789,
-        "lon": -8.3551167,
-        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -1410,6 +1410,14 @@
         "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
       },
       {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados, 4710-427 Braga",
+        "distance_km": 1.84,
+        "lat": 41.56073029501074,
+        "lon": -8.409512339679443,
+        "schedule": "Mo-Su 09:00-23:00"
+      },
+      {
         "name": "Braga - Avenida da Liberdade",
         "address": "4710-308",
         "distance_km": 1.99,
@@ -1424,14 +1432,6 @@
         "lat": 41.5490915,
         "lon": -8.4108529,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "4801-908",
-        "distance_km": 10.59,
-        "lat": 41.487789,
-        "lon": -8.3551167,
-        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -2134,6 +2134,14 @@
         "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
       },
       {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados, 4710-427 Braga",
+        "distance_km": 1.84,
+        "lat": 41.56073029501074,
+        "lon": -8.409512339679443,
+        "schedule": "Mo-Su 09:00-23:00"
+      },
+      {
         "name": "Braga - Avenida da Liberdade",
         "address": "4710-308",
         "distance_km": 1.99,
@@ -2148,14 +2156,6 @@
         "lat": 41.5490915,
         "lon": -8.4108529,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "4801-908",
-        "distance_km": 10.59,
-        "lat": 41.487789,
-        "lon": -8.3551167,
-        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },

@@ -32,10 +32,10 @@ def match_locations():
             continue
             
     if games is None:
-        print("❌ Error: Could not find any match data files!")
+        print("Error: Could not find any match data files!")
         return
 
-    print(f"✅ Loaded {len(games)} matches from {loaded_path}")
+    print(f"Loaded {len(games)} matches from {loaded_path}")
 
     # Load stadiums
     with open('stadiums.json', 'r', encoding='utf-8') as f:
@@ -48,32 +48,14 @@ def match_locations():
     with open('pingo_doce_osm.json', 'r', encoding='utf-8') as f:
         osm_data = json.load(f)
     
-    # Flatten OSM stores
-    stores_list = []
-    for element in osm_data.get('elements', []):
-        lat = element.get('lat')
-        lon = element.get('lon')
-        if not lat or not lon:
-            if 'center' in element:
-                lat = element['center']['lat']
-                lon = element['center']['lon']
-        
-        if lat and lon:
-            tags = element.get('tags', {})
-            name = tags.get('branch', tags.get('name', 'Pingo Doce'))
-            address = tags.get('addr:street', '')
-            city = tags.get('addr:city', '')
-            postcode = tags.get('addr:postcode', '')
-            opening_hours = tags.get('opening_hours', 'N/A')
-            full_address = f"{address}, {postcode} {city}".strip(', ')
-            
-            stores_list.append({
-                'name': name,
-                'address': full_address,
-                'lat': lat,
-                'lon': lon,
-                'opening_hours': opening_hours
-            })
+    # Load Gold stores (Flat list format)
+    with open('pingo_doce_osm.json', 'r', encoding='utf-8') as f:
+        stores_list = json.load(f)
+    
+    # Ensure consistency in keys (lat/lon/name/address)
+    for store in stores_list:
+        if 'lat' not in store or 'lon' not in store:
+            print(f"Warning: Store {store.get('name')} missing coordinates!")
 
     now = datetime.now()
     results = []
@@ -117,7 +99,7 @@ def match_locations():
                         'distance_km': round(d, 2),
                         'lat': s['lat'],
                         'lon': s['lon'],
-                        'schedule': s['opening_hours']
+                        'schedule': s.get('schedule', 'N/A')
                     })
             
             # Skip this game entirely if no stores are within 15km
@@ -136,12 +118,12 @@ def match_locations():
                 'nearby_stores': top_stores
             })
         else:
-            print(f"⚠️ Warning: No stadium found for home team '{home_team}'")
+            print(f"Warning: No stadium found for home team '{home_team}'")
 
     with open('matches_with_stores.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    print(f"🚀 Success! {len(results)} games matched and saved to matches_with_stores.json")
+    print(f"Success! {len(results)} games matched and saved to matches_with_stores.json")
 
 if __name__ == "__main__":
     match_locations()

@@ -14,9 +14,8 @@
     "address": "Quinta Da Alagoa",
     "postal_code": "3750-301 Águeda",
     "schedule": "8:00 → 21:00",
-    "lat": 40.5905498,
-    "lon": -8.4551547,
-    "source": "Google Maps Native"
+    "lat": 40.5907598,
+    "lon": -8.4543326
   },
   {
     "id": "820",
@@ -33,9 +32,8 @@
     "address": "Lugar do Areeiro, Zona Industrial",
     "postal_code": "3850-200 Albergaria-a-Velha",
     "schedule": "8:30 → 21:00",
-    "lat": 40.7131949,
-    "lon": -8.4819398,
-    "source": "Google Maps Native"
+    "lat": 40.7102465,
+    "lon": -8.4824506
   },
   {
     "id": "850",
@@ -61,9 +59,8 @@
     "address": "Avenida 12 de Julho",
     "postal_code": "8200-559 Albufeira",
     "schedule": "8:00 → 21:00",
-    "lat": 37.126916699999995,
-    "lon": -8.2389998,
-    "source": "Google Maps Native"
+    "lat": 37.1265218,
+    "lon": -8.2403574
   },
   {
     "id": "754",
@@ -89,9 +86,8 @@
     "address": "VCI - Quinta da Bairrada Lote 2",
     "postal_code": "2460-000 Alcobaça",
     "schedule": "8:00 → 21:00",
-    "lat": 39.5465668,
-    "lon": -8.9686106,
-    "source": "Google Maps Native"
+    "lat": 39.5486827,
+    "lon": -8.9694618
   },
   {
     "id": "765",
@@ -99,9 +95,8 @@
     "address": "Avenida Euro 2004 - Sítio Da Qu...",
     "postal_code": "2890-154 Alcochete",
     "schedule": "8:00 → 21:00",
-    "lat": 38.7519385,
-    "lon": -8.9455571,
-    "source": "Google Maps Native"
+    "lat": 38.7518689,
+    "lon": -8.9406252
   },
   {
     "id": "656",
@@ -118,9 +113,8 @@
     "address": "Quinta do Bravo - Santo Estevão",
     "postal_code": "2580-021 Alenquer",
     "schedule": "8:00 → 21:00",
-    "lat": 39.0487715,
-    "lon": -8.997112399999999,
-    "source": "Google Maps Native"
+    "lat": 39.0488282,
+    "lon": -8.997113
   },
   {
     "id": "439",
@@ -146,9 +140,8 @@
     "address": "Estrada Municipal 539 Lote 1",
     "postal_code": "7600-073 Aljustrel",
     "schedule": "8:00 → 21:00",
-    "lat": 37.8841234,
-    "lon": -8.151778199999999,
-    "source": "Google Maps Native"
+    "lat": 37.8819849,
+    "lon": -8.1580252
   },
   {
     "id": "414",
@@ -165,9 +158,8 @@
     "address": "Rua Maria Campina 4-6",
     "postal_code": "8135-139 Loulé",
     "schedule": "8:00 → 21:30",
-    "lat": 37.0898566,
-    "lon": -8.033851,
-    "source": "Google Maps Native"
+    "lat": 37.0902122,
+    "lon": -8.0342369
   },
   {
     "id": "683",
@@ -175,9 +167,8 @@
     "address": "Quinta Da Alorna - Zona Industr...",
     "postal_code": "2080-221 Almeirim",
     "schedule": "8:00 → 21:00",
-    "lat": 39.1908331,
-    "lon": -8.6242305,
-    "source": "Google Maps Native"
+    "lat": 39.1926791,
+    "lon": -8.621691
   },
   {
     "id": "816",
@@ -203,9 +194,8 @@
     "address": "Rua João de Almeida",
     "postal_code": "8950-414 Altura",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1801868,
-    "lon": -7.4986152,
-    "source": "Google Maps Native"
+    "lat": 37.179733,
+    "lon": -7.4997701
   },
   {
     "id": "492",
@@ -285,9 +275,8 @@
     "address": "E.N. 15, Lugar Da Boavista, Tel...",
     "postal_code": "4600-756 Amarante",
     "schedule": "8:00 → 21:00",
-    "lat": 41.2870419,
-    "lon": -8.0958535,
-    "source": "Google Maps Native"
+    "lat": 41.2874724,
+    "lon": -8.0954264
   },
   {
     "id": "789",
@@ -304,9 +293,8 @@
     "address": "Avenida José Luciano De Castro ...",
     "postal_code": "3780-204 Anadia",
     "schedule": "8:00 → 21:00",
-    "lat": 40.441863399999995,
-    "lon": -8.4406345,
-    "source": "Google Maps Native"
+    "lat": 40.4413663,
+    "lon": -8.4397557
   },
   {
     "id": "538",
@@ -332,9 +320,8 @@
     "address": "Lugar De Barreiro - Paçô",
     "postal_code": "4970-236 Arcos de Valdevez",
     "schedule": "8:00 → 21:00",
-    "lat": 41.828972199999995,
-    "lon": -8.415641299999999,
-    "source": "Google Maps Native"
+    "lat": 41.8290065,
+    "lon": -8.4155895
   },
   {
     "id": "609",
@@ -342,9 +329,8 @@
     "address": "Av. Da Igreja 79",
     "postal_code": "4410-411 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.0619119,
-    "lon": -8.6287177,
-    "source": "Google Maps Native"
+    "lat": 41.0621032,
+    "lon": -8.6293605
   },
   {
     "id": "760",
@@ -352,9 +338,8 @@
     "address": "Urbanização Vila Nova II - Luga...",
     "postal_code": "8365-184 Silves",
     "schedule": "8:00 → 21:00",
-    "lat": 37.106671999999996,
-    "lon": -8.3597532,
-    "source": "Google Maps Native"
+    "lat": 37.1085006,
+    "lon": -8.3543848
   },
   {
     "id": "705",
@@ -362,9 +347,8 @@
     "address": "Estrada Do Arneiro, Lugar Do Ar...",
     "postal_code": "2775-524 Cascais",
     "schedule": "7:30 → 21:00",
-    "lat": 38.7050579,
-    "lon": -9.3237063,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 38.7473165,
+    "lon": -9.4514187
   },
   {
     "id": "327",
@@ -381,9 +365,8 @@
     "address": "Rua Pedro Alvares Cabral - Oute...",
     "postal_code": "3700-530 Santa Maria da Feira",
     "schedule": "8:00 → 21:00",
-    "lat": 40.9217376,
-    "lon": -8.4990664,
-    "source": "Google Maps Native"
+    "lat": 40.9215671,
+    "lon": -8.4994171
   },
   {
     "id": "719",
@@ -391,9 +374,8 @@
     "address": "Rua Eng.º Tomás Ribeiro Corrêa ...",
     "postal_code": "2630-000 Arruda dos Vinhos",
     "schedule": "8:00 → 21:00",
-    "lat": 38.9916299,
-    "lon": -9.0763077,
-    "source": "Google Maps Native"
+    "lat": 38.9915659,
+    "lon": -9.0762367
   },
   {
     "id": "652",
@@ -401,9 +383,8 @@
     "address": "E.N. 109 - Esgueira 109",
     "postal_code": "3800-042 Aveiro",
     "schedule": "8:00 → 22:00",
-    "lat": 40.6499947,
-    "lon": -8.6206409,
-    "source": "Google Maps Native"
+    "lat": 40.6502233,
+    "lon": -8.6180159
   },
   {
     "id": "386",
@@ -411,9 +392,8 @@
     "address": "Rua Dr. Francisco Ferreira Neve...",
     "postal_code": "3800-510 Aveiro",
     "schedule": "8:00 → 21:00",
-    "lat": 40.647315,
-    "lon": -8.646544,
-    "source": "Google Maps Native"
+    "lat": 40.6472341,
+    "lon": -8.6464586
   },
   {
     "id": "603",
@@ -421,9 +401,8 @@
     "address": "Estrada São Bernardo",
     "postal_code": "3810-175 Aveiro",
     "schedule": "8:00 → 21:00",
-    "lat": 40.6302908,
-    "lon": -8.6439527,
-    "source": "Google Maps Native"
+    "lat": 40.6303708,
+    "lon": -8.6429535
   },
   {
     "id": "493",
@@ -431,9 +410,8 @@
     "address": "Avª Congressos da Oposição Demo...",
     "postal_code": "3800-365 Aveiro",
     "schedule": "8:00 → 21:00",
-    "lat": 40.6412317,
-    "lon": -8.642367499999999,
-    "source": "Google Maps Native"
+    "lat": 40.6416117,
+    "lon": -8.644379
   },
   {
     "id": "802",
@@ -504,9 +482,8 @@
     "address": "Rua da Escola Central",
     "postal_code": "4430-822 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1087474,
-    "lon": -8.552387699999999,
-    "source": "Google Maps Native"
+    "lat": 41.1126176,
+    "lon": -8.5552401
   },
   {
     "id": "490",
@@ -514,9 +491,8 @@
     "address": "Qta Velha - Azinhaga Dos Pasmad...",
     "postal_code": "2925-115 Setúbal",
     "schedule": "8:00 → 21:00",
-    "lat": 38.526936299999996,
-    "lon": -9.0027712,
-    "source": "Google Maps Native"
+    "lat": 38.5276068,
+    "lon": -9.0033185
   },
   {
     "id": "304",
@@ -542,9 +518,8 @@
     "address": "Avenida Das Nacionalizações, Qu...",
     "postal_code": "2835-807 Barreiro",
     "schedule": "8:00 → 22:00",
-    "lat": 38.6682924,
-    "lon": -9.0602021,
-    "source": "Google Maps Native"
+    "lat": 38.6681752,
+    "lon": -9.0571767
   },
   {
     "id": "449",
@@ -579,9 +554,8 @@
     "address": "Rua das Piscinas, Quinta Da Cer...",
     "postal_code": "2440-505 Batalha",
     "schedule": "8:00 → 21:00",
-    "lat": 39.6639201,
-    "lon": -8.8259254,
-    "source": "Google Maps Native"
+    "lat": 39.6636056,
+    "lon": -8.8263187
   },
   {
     "id": "443",
@@ -625,9 +599,8 @@
     "address": "Rua das Begónias",
     "postal_code": "2845-491 Seixal",
     "schedule": "8:00 → 21:30",
-    "lat": 38.5952481,
-    "lon": -9.146519399999999,
-    "source": "Google Maps Native"
+    "lat": 38.5962089,
+    "lon": -9.1473579
   },
   {
     "id": "607",
@@ -635,9 +608,8 @@
     "address": "Rua Álvaro Rodrigues Azevedo",
     "postal_code": "2130-184 Benavente",
     "schedule": "8:00 → 21:00",
-    "lat": 38.9786843,
-    "lon": -8.8094802,
-    "source": "Google Maps Native"
+    "lat": 38.9718038,
+    "lon": -8.8049924
   },
   {
     "id": "825",
@@ -663,9 +635,8 @@
     "address": "Rua Alfredo Da Silva 6, 6A, 6B",
     "postal_code": "1300-041 Lisboa",
     "schedule": "8:00 → 21:00",
-    "lat": 38.7022542,
-    "lon": -9.1935745,
-    "source": "Google Maps Native"
+    "lat": 38.7022055,
+    "lon": -9.1935458
   },
   {
     "id": "601",
@@ -682,9 +653,8 @@
     "address": "Rua D. Afonso Henriques",
     "postal_code": "2695-011 Loures",
     "schedule": "8:00 → 21:30",
-    "lat": 38.8135696,
-    "lon": -9.100645799999999,
-    "source": "Google Maps Native"
+    "lat": 38.8140811,
+    "lon": -9.100272
   },
   {
     "id": "473",
@@ -692,9 +662,8 @@
     "address": "Avenida D. Dinis de Melo e Cast...",
     "postal_code": "7150-105 Borba",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8093903,
-    "lon": -7.4505516,
-    "source": "Google Maps Native"
+    "lat": 38.807295,
+    "lon": -7.4532785
   },
   {
     "id": "313",
@@ -711,9 +680,8 @@
     "address": "Rua de Cima, Lote Nº1, Freguesi...",
     "postal_code": "4700-150 Braga",
     "schedule": "8:00 → 21:00",
-    "lat": 41.5649288,
-    "lon": -8.449379799999999,
-    "source": "Google Maps Native"
+    "lat": 41.5643145,
+    "lon": -8.4498931
   },
   {
     "id": "651",
@@ -757,9 +725,8 @@
     "address": "Rua Coronel Teófilo de Morais -...",
     "postal_code": "5300-427 Bragança",
     "schedule": "8:00 → 21:30",
-    "lat": 41.7880962,
-    "lon": -6.7786764999999995,
-    "source": "Google Maps Native"
+    "lat": 41.7882038,
+    "lon": -6.7802039
   },
   {
     "id": "413",
@@ -785,9 +752,8 @@
     "address": "Estrada Da Tornada",
     "postal_code": "2500-315 Caldas da Rainha",
     "schedule": "8:00 → 22:00",
-    "lat": 39.4260678,
-    "lon": -9.129738,
-    "source": "Google Maps Native"
+    "lat": 39.4544714,
+    "lon": -9.1249726
   },
   {
     "id": "402",
@@ -822,9 +788,8 @@
     "address": "Av. Dos Bombeiros Voluntários",
     "postal_code": "2680-576 Loures",
     "schedule": "7:30 → 21:00",
-    "lat": 38.7932239,
-    "lon": -9.1378146,
-    "source": "Google Maps Native"
+    "lat": 38.7932206,
+    "lon": -9.13766
   },
   {
     "id": "332",
@@ -868,9 +833,8 @@
     "address": "E.N. 250, Rua Major Rosa Bastos...",
     "postal_code": "1685-354 Odivelas",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8105933,
-    "lon": -9.2308591,
-    "source": "Google Maps Native"
+    "lat": 38.8146044,
+    "lon": -9.219697
   },
   {
     "id": "314",
@@ -878,9 +842,8 @@
     "address": "Av. Poeta Eugénio De Andrade - ...",
     "postal_code": "4400-708 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1161598,
-    "lon": -8.6477437,
-    "source": "Google Maps Native"
+    "lat": 41.116146,
+    "lon": -8.6476061
   },
   {
     "id": "353",
@@ -969,9 +932,8 @@
     "address": "Quinta do Poço - Azinhaga da Co...",
     "postal_code": "2580-491 Alenquer",
     "schedule": "8:00 → 21:00",
-    "lat": 39.0264981,
-    "lon": -8.9808424,
-    "source": "Google Maps Native"
+    "lat": 39.0282929,
+    "lon": -8.9746847
   },
   {
     "id": "344",
@@ -979,9 +941,8 @@
     "address": "Rua Dona Maria Rita - Salzedas 2",
     "postal_code": "3430-261 Carregal do Sal",
     "schedule": "8:00 → 21:00",
-    "lat": 40.4366388,
-    "lon": -7.9890913999999995,
-    "source": "Google Maps Native"
+    "lat": 40.4366934,
+    "lon": -7.9890897
   },
   {
     "id": "474",
@@ -989,9 +950,8 @@
     "address": "Sitio Da Portela - Rua Da Ponte...",
     "postal_code": "2070-621 Cartaxo",
     "schedule": "8:00 → 21:00",
-    "lat": 39.168979199999995,
-    "lon": -8.7769403,
-    "source": "Google Maps Native"
+    "lat": 39.1690434,
+    "lon": -8.7768669
   },
   {
     "id": "730",
@@ -999,9 +959,8 @@
     "address": "Av. Dr. Moreira De Sousa 2238",
     "postal_code": "4415-382 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.0567272,
-    "lon": -8.568249,
-    "source": "Google Maps Native"
+    "lat": 41.0511289,
+    "lon": -8.5663283
   },
   {
     "id": "826",
@@ -1027,9 +986,8 @@
     "address": "Av. 1º Maio nº60 6000-086 60",
     "postal_code": "6000-086 Castelo Branco",
     "schedule": "8:00 → 21:00",
-    "lat": 39.821543399999996,
-    "lon": -7.4941533,
-    "source": "Google Maps Native"
+    "lat": 39.821526,
+    "lon": -7.4941336
   },
   {
     "id": "686",
@@ -1055,9 +1013,8 @@
     "address": "E.N. 246-1 - Quinta Da Moutosa ...",
     "postal_code": "7320-138 Castelo de Vide",
     "schedule": "8:00 → 21:00",
-    "lat": 39.405047499999995,
-    "lon": -7.444229399999999,
-    "source": "Google Maps Native"
+    "lat": 39.4120215,
+    "lon": -7.4519375
   },
   {
     "id": "488",
@@ -1083,9 +1040,8 @@
     "address": "Zona Industrial de Crespos - Br...",
     "postal_code": "4890-264 Celorico de Basto",
     "schedule": "8:00 → 21:00",
-    "lat": 41.4005225,
-    "lon": -7.988897199999999,
-    "source": "Google Maps Native"
+    "lat": 41.402188,
+    "lon": -7.9876446
   },
   {
     "id": "660",
@@ -1093,9 +1049,8 @@
     "address": "Lugar De Faias Gondarém",
     "postal_code": "4920-068 Vila Nova de Cerveira",
     "schedule": "8:00 → 21:30",
-    "lat": 41.923469999999995,
-    "lon": -8.7535074,
-    "source": "Google Maps Native"
+    "lat": 41.9234539,
+    "lon": -8.7534765
   },
   {
     "id": "817",
@@ -1103,9 +1058,8 @@
     "address": "Rua Direita De S. Pedro - Estra...",
     "postal_code": "2140-098 Chamusca",
     "schedule": "8:00 → 21:00",
-    "lat": 39.3684728,
-    "lon": -8.4711921,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 39.3575254,
+    "lon": -8.4819771
   },
   {
     "id": "486",
@@ -1122,9 +1076,8 @@
     "address": "Rua de Oliveira Feijão",
     "postal_code": "2820-000 Charneca da Caparica",
     "schedule": "8:00 → 21:30",
-    "lat": 38.6190316,
-    "lon": -9.1942615,
-    "source": "Google Maps Native"
+    "lat": 38.620663,
+    "lon": -9.1941697
   },
   {
     "id": "879",
@@ -1177,9 +1130,8 @@
     "address": "Rua Entre Vinhas",
     "postal_code": "3020-497 Coimbra",
     "schedule": "8:00 → 21:00",
-    "lat": 40.2527669,
-    "lon": -8.4255058,
-    "source": "Google Maps Native"
+    "lat": 40.2506713,
+    "lon": -8.426057
   },
   {
     "id": "396",
@@ -1187,9 +1139,8 @@
     "address": "Quinta da Portela 6/9",
     "postal_code": "3030-481 Coimbra",
     "schedule": "8:00 → 21:00",
-    "lat": 40.1890771,
-    "lon": -8.4018374,
-    "source": "Google Maps Native"
+    "lat": 40.1857894,
+    "lon": -8.4051637
   },
   {
     "id": "352",
@@ -1206,9 +1157,8 @@
     "address": "Rua Bombeiros Voluntários De Co...",
     "postal_code": "4400-057 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1292403,
-    "lon": -8.6299038,
-    "source": "Google Maps Native"
+    "lat": 41.1285091,
+    "lon": -8.6295917
   },
   {
     "id": "408",
@@ -1234,9 +1184,8 @@
     "address": "E.N. 342, Quinta da Pereira",
     "postal_code": "3150-259 Condeixa-a-Nova",
     "schedule": "8:30 → 21:00",
-    "lat": 40.107979799999995,
-    "lon": -8.5112316,
-    "source": "Google Maps Native"
+    "lat": 40.1143595,
+    "lon": -8.513927
   },
   {
     "id": "383",
@@ -1253,9 +1202,8 @@
     "address": "Av. D. Afonso Henriques, Parque...",
     "postal_code": "2855-721 Seixal",
     "schedule": "7:30 → 22:00",
-    "lat": 38.6393507,
-    "lon": -9.1608853,
-    "source": "Google Maps Native"
+    "lat": 38.6401244,
+    "lon": -9.160527
   },
   {
     "id": "472",
@@ -1263,9 +1211,8 @@
     "address": "Rua Manuel Ferreira LOTE 10/11/12",
     "postal_code": "2855-597 Corroios",
     "schedule": "7:30 → 21:30",
-    "lat": 38.626993999999996,
-    "lon": -9.1519853,
-    "source": "Google Maps Native"
+    "lat": 38.6274033,
+    "lon": -9.1519917
   },
   {
     "id": "871",
@@ -1273,9 +1220,8 @@
     "address": "Quinta da Argena Lote 8",
     "postal_code": "2855-408 Seixal",
     "schedule": "7:30 → 21:00",
-    "lat": 38.632850999999995,
-    "lon": -9.142396,
-    "source": "Google Maps Native"
+    "lat": 38.6326058,
+    "lon": -9.1420289
   },
   {
     "id": "845",
@@ -1283,9 +1229,8 @@
     "address": "Rua Do Cortiço, Sto. António 48",
     "postal_code": "2100-048 Coruche",
     "schedule": "8:00 → 21:00",
-    "lat": 38.9653774,
-    "lon": -8.5332388,
-    "source": "Google Maps Native"
+    "lat": 38.9662631,
+    "lon": -8.532813
   },
   {
     "id": "357",
@@ -1320,9 +1265,8 @@
     "address": "Rua Santiago 453",
     "postal_code": "4460-809 Matosinhos",
     "schedule": "8:00 → 21:00",
-    "lat": 41.19771,
-    "lon": -8.637016599999999,
-    "source": "Google Maps Native"
+    "lat": 41.1971667,
+    "lon": -8.6363173
   },
   {
     "id": "832",
@@ -1339,9 +1283,8 @@
     "address": "Rua Dr. José Pardal de Melo e S...",
     "postal_code": "7350-208 Elvas",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8756221,
-    "lon": -7.186786199999999,
-    "source": "Google Maps Native"
+    "lat": 38.8753893,
+    "lon": -7.1910766
   },
   {
     "id": "468",
@@ -1376,9 +1319,8 @@
     "address": "E.N.109 - Lugar de Matosinhos",
     "postal_code": "3885-434 Ovar",
     "schedule": "8:00 → 21:00",
-    "lat": 40.9537383,
-    "lon": -8.6242206,
-    "source": "Google Maps Native"
+    "lat": 40.9535221,
+    "lon": -8.6242196
   },
   {
     "id": "625",
@@ -1404,9 +1346,8 @@
     "address": "Rua Dr. Tavares Da Silva",
     "postal_code": "3860-377 Estarreja",
     "schedule": "8:00 → 21:00",
-    "lat": 40.762309599999995,
-    "lon": -8.5706636,
-    "source": "Google Maps Native"
+    "lat": 40.7623855,
+    "lon": -8.5707281
   },
   {
     "id": "872",
@@ -1432,9 +1373,8 @@
     "address": "Rua 20 de Janeiro - Courela Do ...",
     "postal_code": "7100-100 Estremoz",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8390334,
-    "lon": -7.5793754,
-    "source": "Google Maps Native"
+    "lat": 38.8396994,
+    "lon": -7.5801443
   },
   {
     "id": "495",
@@ -1442,9 +1382,8 @@
     "address": "Av. Bento Jesus Caraça Lote 1",
     "postal_code": "7000-135 Évora",
     "schedule": "7:30 → 21:30",
-    "lat": 38.5741267,
-    "lon": -7.8997072,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 38.7793307,
+    "lon": -7.4173935
   },
   {
     "id": "849",
@@ -1470,9 +1409,8 @@
     "address": "Estrada De Viana, Talhão N.º 2 ...",
     "postal_code": "7005-212 Évora",
     "schedule": "8:00 → 21:00",
-    "lat": 38.5603129,
-    "lon": -7.9141208,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 38.3576223,
+    "lon": -7.910747
   },
   {
     "id": "728",
@@ -1507,9 +1445,8 @@
     "address": "Zona Industrial Santa Bárbara",
     "postal_code": "9900-048 Angústias",
     "schedule": "8:00 → 20:00",
-    "lat": 38.5304706,
-    "lon": -28.649400399999998,
-    "source": "Google Maps Native"
+    "lat": 38.5295009,
+    "lon": -28.6471034
   },
   {
     "id": "722",
@@ -1517,9 +1454,8 @@
     "address": "Alameda dos Bargos",
     "postal_code": "4760-174 Vila Nova de Famalicão",
     "schedule": "8:00 → 21:30",
-    "lat": 41.4013431,
-    "lon": -8.5203186,
-    "source": "Google Maps Native"
+    "lat": 41.4015214,
+    "lon": -8.5208124
   },
   {
     "id": "316",
@@ -1527,9 +1463,8 @@
     "address": "Rua José Gomes de Matos 2/10",
     "postal_code": "4760-325 Vila Nova de Famalicão",
     "schedule": "8:00 → 21:30",
-    "lat": 41.4013431,
-    "lon": -8.5203186,
-    "source": "Google Maps Native"
+    "lat": 41.403375,
+    "lon": -8.5193432
   },
   {
     "id": "712",
@@ -1537,9 +1472,8 @@
     "address": "Quinta Do Segulim Lote 32",
     "postal_code": "1685-256 Odivelas",
     "schedule": "8:00 → 21:00",
-    "lat": 38.7909497,
-    "lon": -9.2138821,
-    "source": "Google Maps Native"
+    "lat": 38.7909147,
+    "lon": -9.2138709
   },
   {
     "id": "694",
@@ -1547,9 +1481,8 @@
     "address": "E.N. 125, Sitio Das Figuras",
     "postal_code": "8005-328 Faro",
     "schedule": "8:00 → 21:30",
-    "lat": 37.027127799999995,
-    "lon": -7.946411599999999,
-    "source": "Google Maps Native"
+    "lat": 37.0269178,
+    "lon": -7.9446022
   },
   {
     "id": "818",
@@ -1575,9 +1508,8 @@
     "address": "E.N. 125-10",
     "postal_code": "8005-146 Faro",
     "schedule": "8:00 → 21:00",
-    "lat": 37.0276776,
-    "lon": -7.967968099999999,
-    "source": "Google Maps Native"
+    "lat": 37.0303985,
+    "lon": -7.9627004
   },
   {
     "id": "778",
@@ -1585,9 +1517,8 @@
     "address": "Estrada Principal de Fátima (EN...",
     "postal_code": "2495-552 Ourém",
     "schedule": "8:00 → 21:00",
-    "lat": 39.6240186,
-    "lon": -8.6622269,
-    "source": "Google Maps Native"
+    "lat": 39.6240519,
+    "lon": -8.6622253
   },
   {
     "id": "448",
@@ -1613,9 +1544,8 @@
     "address": "Rua D. Manuel Faria De Sousa, L...",
     "postal_code": "4610-178 Felgueiras",
     "schedule": "8:00 → 21:00",
-    "lat": 41.3609273,
-    "lon": -8.199679399999999,
-    "source": "Google Maps Native"
+    "lat": 41.3590389,
+    "lon": -8.2000181
   },
   {
     "id": "310",
@@ -1641,9 +1571,8 @@
     "address": "Rua Rancho Das Cantarinhas 52",
     "postal_code": "3080-250 Figueira da Foz",
     "schedule": "8:00 → 21:00",
-    "lat": 40.1636399,
-    "lon": -8.8648998,
-    "source": "Google Maps Native"
+    "lat": 40.1634003,
+    "lon": -8.8636606
   },
   {
     "id": "626",
@@ -1651,9 +1580,8 @@
     "address": "Rua Afonso Albuquerque 22",
     "postal_code": "3080-041 Figueira da Foz",
     "schedule": "8:00 → 21:00",
-    "lat": 40.148900999999995,
-    "lon": -8.850099499999999,
-    "source": "Google Maps Native"
+    "lat": 40.1482155,
+    "lon": -8.8503196
   },
   {
     "id": "727",
@@ -1661,9 +1589,8 @@
     "address": "Avenida Dr. Francisco Sá Carnei...",
     "postal_code": "3080-853 Figueira da Foz",
     "schedule": "8:00 → 21:00",
-    "lat": 40.1628979,
-    "lon": -8.8473507,
-    "source": "Google Maps Native"
+    "lat": 40.1632893,
+    "lon": -8.8444071
   },
   {
     "id": "458",
@@ -1680,9 +1607,8 @@
     "address": "E.N. 10, Polo Industrial, Fort...",
     "postal_code": "2625-460 Vila Franca de Xira",
     "schedule": "8:00 → 21:00",
-    "lat": 38.872994299999995,
-    "lon": -9.0540457,
-    "source": "Google Maps Native"
+    "lat": 38.8732308,
+    "lon": -9.052446
   },
   {
     "id": "627",
@@ -1708,9 +1634,8 @@
     "address": "Rua de Santa Cruz - Lugar do Le...",
     "postal_code": "4590-306 Paços de Ferreira",
     "schedule": "8:30 → 21:00",
-    "lat": 41.2865223,
-    "lon": -8.332606799999999,
-    "source": "Google Maps Native"
+    "lat": 41.2865247,
+    "lon": -8.3326606
   },
   {
     "id": "674",
@@ -1718,9 +1643,8 @@
     "address": "Travessa do Passal - Quinta da ...",
     "postal_code": "6230-205 Fundão",
     "schedule": "8:30 → 21:00",
-    "lat": 40.1622279,
-    "lon": -7.4990155,
-    "source": "Google Maps Native"
+    "lat": 40.1624277,
+    "lon": -7.4988538
   },
   {
     "id": "602",
@@ -1737,9 +1661,8 @@
     "address": "Rua António Fernando Almeida Pi...",
     "postal_code": "4405-332 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1102829,
-    "lon": -8.631826799999999,
-    "source": "Google Maps Native"
+    "lat": 41.1102686,
+    "lon": -8.6318176
   },
   {
     "id": "648",
@@ -1747,9 +1670,8 @@
     "address": "Quinta do Cravel Lote 34",
     "postal_code": "4430-111 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.113307,
-    "lon": -8.6010341,
-    "source": "Google Maps Native"
+    "lat": 41.1133221,
+    "lon": -8.6011013
   },
   {
     "id": "393",
@@ -1766,9 +1688,8 @@
     "address": "Rua Nova de Fontes 100",
     "postal_code": "4585-191 Paredes",
     "schedule": "8:30 → 21:00",
-    "lat": 41.1840216,
-    "lon": -8.4482958,
-    "source": "Google Maps Native"
+    "lat": 41.1833759,
+    "lon": -8.4477576
   },
   {
     "id": "783",
@@ -1776,9 +1697,8 @@
     "address": "Rua José Saramago",
     "postal_code": "4420-171 Gondomar",
     "schedule": "8:00 → 21:00",
-    "lat": 41.138333599999996,
-    "lon": -8.5355429,
-    "source": "Google Maps Native"
+    "lat": 41.138067,
+    "lon": -8.5363992
   },
   {
     "id": "453",
@@ -1804,9 +1724,8 @@
     "address": "Rua da Boavista - Lugar das Bar...",
     "postal_code": "4415-549 Vila Nova de Gaia",
     "schedule": "8:00 → 21:30",
-    "lat": 41.045757099999996,
-    "lon": -8.568603,
-    "source": "Google Maps Native"
+    "lat": 41.0455681,
+    "lon": -8.569303
   },
   {
     "id": "676",
@@ -1814,9 +1733,8 @@
     "address": "Quinta Do Camalhão, Bairro S. D...",
     "postal_code": "6300-804 Guarda",
     "schedule": "8:00 → 21:00",
-    "lat": 40.558587599999996,
-    "lon": -7.2505676999999995,
-    "source": "Google Maps Native"
+    "lat": 40.5586024,
+    "lon": -7.2505266
   },
   {
     "id": "328",
@@ -1824,9 +1742,8 @@
     "address": "Av. S. Miguel - Guarda Gare 26",
     "postal_code": "6300-864 Guarda",
     "schedule": "8:00 → 21:00",
-    "lat": 40.5507621,
-    "lon": -7.2470194999999995,
-    "source": "Google Maps Native"
+    "lat": 40.5538356,
+    "lon": -7.2455924
   },
   {
     "id": "878",
@@ -1843,9 +1760,8 @@
     "address": "Rua Alfredo Pimenta 278",
     "postal_code": "4800-012 Guimarães",
     "schedule": "8:00 → 21:00",
-    "lat": 41.4464006,
-    "lon": -8.298352099999999,
-    "source": "Google Maps Native"
+    "lat": 41.4634367,
+    "lon": -8.268973
   },
   {
     "id": "831",
@@ -1862,9 +1778,8 @@
     "address": "Rua Professor Júlio Catarino",
     "postal_code": "3830-216 Ílhavo",
     "schedule": "8:00 → 21:00",
-    "lat": 40.603575,
-    "lon": -8.662192,
-    "source": "Google Maps Native"
+    "lat": 40.6043067,
+    "lon": -8.6617297
   },
   {
     "id": "875",
@@ -1872,9 +1787,8 @@
     "address": "Rua de Leognan",
     "postal_code": "4770-243 Joane",
     "schedule": "8:00 → 21:00",
-    "lat": 41.4389137,
-    "lon": -8.4100576,
-    "source": "Google Maps Native"
+    "lat": 41.4390026,
+    "lon": -8.4120164
   },
   {
     "id": "4110",
@@ -1891,9 +1805,8 @@
     "address": "Rua Marquês de Pombal 51",
     "postal_code": "8400-391 Lagoa",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1314043,
-    "lon": -8.4543485,
-    "source": "Google Maps Native"
+    "lat": 37.1312385,
+    "lon": -8.4538064
   },
   {
     "id": "766",
@@ -1901,9 +1814,8 @@
     "address": "Av. Da República, Rossio De São...",
     "postal_code": "8600-643 Lagos",
     "schedule": "8:00 → 21:30",
-    "lat": 37.1068879,
-    "lon": -8.6793969,
-    "source": "Google Maps Native"
+    "lat": 37.1072693,
+    "lon": -8.6805025
   },
   {
     "id": "853",
@@ -1911,9 +1823,8 @@
     "address": "Sitio Do Molião - E.N. 125",
     "postal_code": "8600-335 Lagos",
     "schedule": "8:00 → 21:30",
-    "lat": 37.1130955,
-    "lon": -8.6766571,
-    "source": "Google Maps Native"
+    "lat": 37.1136858,
+    "lon": -8.6765008
   },
   {
     "id": "629",
@@ -1921,9 +1832,8 @@
     "address": "Rua Sobral Cide - Urbanização D...",
     "postal_code": "5100-202 Lamego",
     "schedule": "8:00 → 21:00",
-    "lat": 41.099606699999995,
-    "lon": -7.8043901,
-    "source": "Google Maps Native"
+    "lat": 41.0995266,
+    "lon": -7.8042698
   },
   {
     "id": "401",
@@ -1994,9 +1904,8 @@
     "address": "Estrada Dos Marinheiros",
     "postal_code": "2415-380 Leiria",
     "schedule": "8:00 → 21:00",
-    "lat": 39.7591633,
-    "lon": -8.7964399,
-    "source": "Google Maps Native"
+    "lat": 39.7589442,
+    "lon": -8.7964363
   },
   {
     "id": "354",
@@ -2013,9 +1922,8 @@
     "address": "Rua Estrada da Figueira da Foz,...",
     "postal_code": "2415-303 Leiria",
     "schedule": "8:00 → 21:00",
-    "lat": 39.761167799999996,
-    "lon": -8.8207883,
-    "source": "Google Maps Native"
+    "lat": 39.7611542,
+    "lon": -8.8209008
   },
   {
     "id": "498",
@@ -2041,9 +1949,8 @@
     "address": "Avenida 25 de Abril 25",
     "postal_code": "2795-198 Oeiras",
     "schedule": "7:30 → 21:30",
-    "lat": 38.7145647,
-    "lon": -9.2402865,
-    "source": "Google Maps Native"
+    "lat": 38.7264553,
+    "lon": -9.2841418
   },
   {
     "id": "1007",
@@ -2051,9 +1958,8 @@
     "address": "Rua João Manuel Vasconcelos Rap...",
     "postal_code": "9500-738 Livramento",
     "schedule": "8:30 → 20:00",
-    "lat": 37.7530717,
-    "lon": -25.609298499999998,
-    "source": "Google Maps Native"
+    "lat": 32.6759214,
+    "lon": -16.9009248
   },
   {
     "id": "735",
@@ -2061,9 +1967,8 @@
     "address": "Rotunda Do Padrão - Rebordosa",
     "postal_code": "4580-570 Paredes",
     "schedule": "8:00 → 21:00",
-    "lat": 41.2314651,
-    "lon": -8.407114199999999,
-    "source": "Google Maps Native"
+    "lat": 41.2315241,
+    "lon": -8.4070901
   },
   {
     "id": "755",
@@ -2071,9 +1976,8 @@
     "address": "Av. Andrade De Sousa",
     "postal_code": "8100-728 Loulé",
     "schedule": "8:00 → 20:30",
-    "lat": 37.137566,
-    "lon": -8.0303474,
-    "source": "Google Maps Native"
+    "lat": 37.1346906,
+    "lon": -8.0339181
   },
   {
     "id": "855",
@@ -2081,9 +1985,8 @@
     "address": "Rua David Teixeira 79",
     "postal_code": "8100-552 Loulé",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1387064,
-    "lon": -8.0195551,
-    "source": "Google Maps Native"
+    "lat": 37.1389794,
+    "lon": -8.01922
   },
   {
     "id": "647",
@@ -2091,9 +1994,8 @@
     "address": "C.C. Mar Shopping Loulé Cx. 787",
     "postal_code": "8135-182 Loulé",
     "schedule": "9:00 → 23:00",
-    "lat": 37.098044,
-    "lon": -7.996399599999999,
-    "source": "Google Maps Native"
+    "lat": 37.0989053,
+    "lon": -7.9973312
   },
   {
     "id": "687",
@@ -2101,9 +2003,8 @@
     "address": "Quinta Das Farinheiras",
     "postal_code": "2670-364 Loures",
     "schedule": "8:00 → 22:00",
-    "lat": 38.836456,
-    "lon": -9.167222899999999,
-    "source": "Google Maps Native"
+    "lat": 38.8365292,
+    "lon": -9.1672146
   },
   {
     "id": "696",
@@ -2111,9 +2012,8 @@
     "address": "Avenida António José De Almeida...",
     "postal_code": "2530-113 Lourinhã",
     "schedule": "8:00 → 21:00",
-    "lat": 39.250570599999996,
-    "lon": -9.3123927,
-    "source": "Google Maps Native"
+    "lat": 39.2437292,
+    "lon": -9.3135433
   },
   {
     "id": "726",
@@ -2139,9 +2039,8 @@
     "address": "Rua De Santo André, Lugar Das A...",
     "postal_code": "4620-134 Lousada",
     "schedule": "8:00 → 21:00",
-    "lat": 41.2702271,
-    "lon": -8.2881049,
-    "source": "Google Maps Native"
+    "lat": 41.2733379,
+    "lon": -8.2896206
   },
   {
     "id": "455",
@@ -2158,9 +2057,8 @@
     "address": "Rua Secretário Teles Bettencour...",
     "postal_code": "9950-305 Madalena",
     "schedule": "8:30 → 20:00",
-    "lat": 38.532786099999996,
-    "lon": -28.5264994,
-    "source": "Google Maps Native"
+    "lat": 38.5323033,
+    "lon": -28.5251678
   },
   {
     "id": "465",
@@ -2168,9 +2066,8 @@
     "address": "Quinta Das Pevides - Limite Dos...",
     "postal_code": "2640-389 Mafra",
     "schedule": "8:00 → 21:00",
-    "lat": 38.943177999999996,
-    "lon": -9.3481235,
-    "source": "Google Maps Native"
+    "lat": 38.9432163,
+    "lon": -9.3480786
   },
   {
     "id": "305",
@@ -2178,9 +2075,8 @@
     "address": "Rua 5 De Outubro - Gueifães 84",
     "postal_code": "4470-002 Maia",
     "schedule": "8:00 → 21:30",
-    "lat": 41.2251459,
-    "lon": -8.6128953,
-    "source": "Google Maps Native"
+    "lat": 41.2255521,
+    "lon": -8.6153779
   },
   {
     "id": "749",
@@ -2197,9 +2093,8 @@
     "address": "S. Simão Bolívar 51",
     "postal_code": "4470-136 Maia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.2336575,
-    "lon": -8.6243576,
-    "source": "Google Maps Native"
+    "lat": 41.2339244,
+    "lon": -8.6240613
   },
   {
     "id": "699",
@@ -2207,9 +2102,8 @@
     "address": "E.N. 8, Limite Da Venda Do Vala...",
     "postal_code": "2665-258 Mafra",
     "schedule": "8:00 → 21:00",
-    "lat": 38.9300384,
-    "lon": -9.245099999999999,
-    "source": "Google Maps Native"
+    "lat": 38.931079,
+    "lon": -9.249919
   },
   {
     "id": "380",
@@ -2217,9 +2111,8 @@
     "address": "Avenida Herois do Ultra Mar - T...",
     "postal_code": "3530-261 Mangualde",
     "schedule": "8:00 → 21:00",
-    "lat": 40.6150865,
-    "lon": -7.7589323,
-    "source": "Google Maps Native"
+    "lat": 40.6120735,
+    "lon": -7.760761
   },
   {
     "id": "790",
@@ -2227,9 +2120,8 @@
     "address": "Rua Talegre",
     "postal_code": "4630-446 Marco de Canaveses",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1785356,
-    "lon": -8.1499467,
-    "source": "Google Maps Native"
+    "lat": 41.1790658,
+    "lon": -8.1489136
   },
   {
     "id": "494",
@@ -2255,9 +2147,8 @@
     "address": "Cabeço do Carriço - Estrada Nac...",
     "postal_code": "3105-056 Pombal",
     "schedule": "8:30 → 21:00",
-    "lat": 39.9731733,
-    "lon": -8.7950681,
-    "source": "Google Maps Native"
+    "lat": 39.9733931,
+    "lon": -8.7951844
   },
   {
     "id": "415",
@@ -2265,9 +2156,8 @@
     "address": "C.C. Horizonte - Av. Liberdade ...",
     "postal_code": "2430-229 Marinha Grande",
     "schedule": "8:00 → 21:00",
-    "lat": 39.745714899999996,
-    "lon": -8.930683799999999,
-    "source": "Google Maps Native"
+    "lat": 39.7455758,
+    "lon": -8.9307706
   },
   {
     "id": "717",
@@ -2275,9 +2165,8 @@
     "address": "E.N. 242, Rua Jornal Da Marinha...",
     "postal_code": "2430-110 Marinha Grande",
     "schedule": "8:00 → 21:00",
-    "lat": 39.7472649,
-    "lon": -8.9127285,
-    "source": "Google Maps Native"
+    "lat": 39.7586149,
+    "lon": -8.9061017
   },
   {
     "id": "632",
@@ -2348,9 +2237,8 @@
     "address": "Avenida Floresta – EN1 Nº151",
     "postal_code": "3050-347 Mealhada",
     "schedule": "8:00 → 21:00",
-    "lat": 40.388073899999995,
-    "lon": -8.4510852,
-    "source": "Google Maps Native"
+    "lat": 40.385118,
+    "lon": -8.4506256
   },
   {
     "id": "707",
@@ -2385,9 +2273,8 @@
     "address": "Rua Nossa Sra De Fátima",
     "postal_code": "2395-116 Alcanena",
     "schedule": "8:30 → 21:00",
-    "lat": 39.5195219,
-    "lon": -8.6862396,
-    "source": "Google Maps Native"
+    "lat": 39.5195291,
+    "lon": -8.6861818
   },
   {
     "id": "514",
@@ -2395,9 +2282,8 @@
     "address": "Rua Teófilo Braga 76",
     "postal_code": "3070-333 Mira",
     "schedule": "8:00 → 21:00",
-    "lat": 40.4355141,
-    "lon": -8.7287479,
-    "source": "Google Maps Native"
+    "lat": 40.4381251,
+    "lon": -8.7281746
   },
   {
     "id": "444",
@@ -2414,9 +2300,8 @@
     "address": "E.N. 218, Lugar Da Castanha",
     "postal_code": "5210-175 Miranda do Douro",
     "schedule": "8:30 → 21:00",
-    "lat": 41.5072502,
-    "lon": -6.288189999999999,
-    "source": "Google Maps Native"
+    "lat": 41.5760455,
+    "lon": -6.2402853
   },
   {
     "id": "677",
@@ -2424,9 +2309,8 @@
     "address": "Avenida da Galia - Lugar De Tel...",
     "postal_code": "5370-203 Mirandela",
     "schedule": "8:00 → 21:30",
-    "lat": 41.496866999999995,
-    "lon": -7.17901,
-    "source": "Google Maps Native"
+    "lat": 41.4968254,
+    "lon": -7.179098
   },
   {
     "id": "759",
@@ -2434,9 +2318,8 @@
     "address": "E.N. 11, Quinta Fonte Da Prata",
     "postal_code": "2860-006 Moita",
     "schedule": "8:00 → 21:00",
-    "lat": 38.6492399,
-    "lon": -8.9983607,
-    "source": "Google Maps Native"
+    "lat": 38.6486832,
+    "lon": -8.9918509
   },
   {
     "id": "663",
@@ -2444,9 +2327,8 @@
     "address": "Gandra - Mazedo",
     "postal_code": "4950-298 Monção",
     "schedule": "8:00 → 21:30",
-    "lat": 42.0628319,
-    "lon": -8.5066793,
-    "source": "Google Maps Native"
+    "lat": 42.0625119,
+    "lon": -8.5049489
   },
   {
     "id": "795",
@@ -2454,9 +2336,8 @@
     "address": "Rua dos Trabalhadores Rurais",
     "postal_code": "2825-083 Monte de Caparica",
     "schedule": "8:00 → 21:30",
-    "lat": 38.6639182,
-    "lon": -9.1998678,
-    "source": "Google Maps Native"
+    "lat": 38.6641805,
+    "lon": -9.2009376
   },
   {
     "id": "847",
@@ -2464,9 +2345,8 @@
     "address": "Av. Gago Coutinho, Cruzamento E...",
     "postal_code": "7050-096 Montemor-o-Novo",
     "schedule": "8:00 → 21:00",
-    "lat": 38.646375899999995,
-    "lon": -8.202713,
-    "source": "Google Maps Native"
+    "lat": 38.6497101,
+    "lon": -8.220754
   },
   {
     "id": "753",
@@ -2474,9 +2354,8 @@
     "address": "E.N. 4, 1, Pocinho Das Nascentes",
     "postal_code": "2870-184 Montijo",
     "schedule": "8:00 → 21:30",
-    "lat": 38.7046445,
-    "lon": -8.9572983,
-    "source": "Google Maps Native"
+    "lat": 38.7179555,
+    "lon": -8.9527428
   },
   {
     "id": "635",
@@ -2484,9 +2363,8 @@
     "address": "Av. Maestro J. Peixinho",
     "postal_code": "2270-010 Montijo",
     "schedule": "7:30 → 21:30",
-    "lat": 38.712012099999995,
-    "lon": -8.969708599999999,
-    "source": "Google Maps Native"
+    "lat": 38.7120953,
+    "lon": -8.9697295
   },
   {
     "id": "729",
@@ -2512,9 +2390,8 @@
     "address": "Rua Eng.º Armando Lopes De Alme...",
     "postal_code": "7860-004 Moura",
     "schedule": "8:00 → 21:00",
-    "lat": 38.140039099999996,
-    "lon": -7.445442399999999,
-    "source": "Google Maps Native"
+    "lat": 38.1411214,
+    "lon": -7.4459333
   },
   {
     "id": "709",
@@ -2522,9 +2399,8 @@
     "address": "E.N. 242, Areal",
     "postal_code": "2450-138 Nazaré",
     "schedule": "8:00 → 21:00",
-    "lat": 39.6049104,
-    "lon": -9.0670747,
-    "source": "Google Maps Native"
+    "lat": 39.6103062,
+    "lon": -9.0636836
   },
   {
     "id": "345",
@@ -2532,9 +2408,8 @@
     "address": "Avenida Prof. Dr. Fortunato de ...",
     "postal_code": "3520-056 Nelas",
     "schedule": "8:00 → 21:00",
-    "lat": 40.538657,
-    "lon": -7.8555826,
-    "source": "Google Maps Native"
+    "lat": 40.5396379,
+    "lon": -7.8533564
   },
   {
     "id": "409",
@@ -2542,9 +2417,8 @@
     "address": "E.N. 8 Lote 1",
     "postal_code": "2510-131 Óbidos",
     "schedule": "8:00 → 21:00",
-    "lat": 39.3523443,
-    "lon": -9.158722899999999,
-    "source": "Google Maps Native"
+    "lat": 39.3524931,
+    "lon": -9.1586911
   },
   {
     "id": "834",
@@ -2606,9 +2480,8 @@
     "address": "Rua Manuel Tomé Viegas Vaz 4",
     "postal_code": "8700-461 Olhão",
     "schedule": "8:00 → 21:00",
-    "lat": 37.0252767,
-    "lon": -7.838341,
-    "source": "Google Maps Native"
+    "lat": 37.0262204,
+    "lon": -7.8375928
   },
   {
     "id": "756",
@@ -2616,9 +2489,8 @@
     "address": "E.N. 125, Urbanização Patinha, ...",
     "postal_code": "8700-203 Olhão",
     "schedule": "8:00 → 21:00",
-    "lat": 37.0370382,
-    "lon": -7.8321467,
-    "source": "Google Maps Native"
+    "lat": 37.0280396,
+    "lon": -7.8283225
   },
   {
     "id": "873",
@@ -2662,9 +2534,8 @@
     "address": "Rua Senhora dos Milagres",
     "postal_code": "3680-077 Oliveira de Frades",
     "schedule": "8:00 → 21:00",
-    "lat": 40.7189109,
-    "lon": -8.1766378,
-    "source": "Google Maps Native"
+    "lat": 40.7272235,
+    "lon": -8.1735224
   },
   {
     "id": "610",
@@ -2672,9 +2543,8 @@
     "address": "E.N. 235, Rua de S. Sebastião",
     "postal_code": "3770-221 Oliveira do Bairro",
     "schedule": "8:00 → 21:00",
-    "lat": 40.5078752,
-    "lon": -8.486029499999999,
-    "source": "Google Maps Native"
+    "lat": 40.5047471,
+    "lon": -8.4836334
   },
   {
     "id": "615",
@@ -2682,9 +2552,8 @@
     "address": "Rua Dª Mª Costa Basto 16",
     "postal_code": "4430-381 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1275793,
-    "lon": -8.581042,
-    "source": "Google Maps Native"
+    "lat": 41.127379,
+    "lon": -8.5797207
   },
   {
     "id": "497",
@@ -2692,9 +2561,8 @@
     "address": "Av. Dr. António Dias",
     "postal_code": "3400-160 Oliveira do Hospital",
     "schedule": "8:00 → 21:00",
-    "lat": 40.3604851,
-    "lon": -7.8540034,
-    "source": "Google Maps Native"
+    "lat": 40.3604697,
+    "lon": -7.8540206
   },
   {
     "id": "797",
@@ -2702,9 +2570,8 @@
     "address": "Avenida Dom Nuno Álvares",
     "postal_code": "2490-486 Ourém",
     "schedule": "8:00 → 21:00",
-    "lat": 39.6571703,
-    "lon": -8.574201799999999,
-    "source": "Google Maps Native"
+    "lat": 39.6567522,
+    "lon": -8.5789416
   },
   {
     "id": "815",
@@ -2712,9 +2579,8 @@
     "address": "E.N. 123, Loteamento Rosal Sul ...",
     "postal_code": "7670-364 Ourique",
     "schedule": "8:00 → 21:00",
-    "lat": 37.6536521,
-    "lon": -8.2341966,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 37.6999461,
+    "lon": -8.1778002
   },
   {
     "id": "342",
@@ -2767,9 +2633,8 @@
     "address": "Rua de São Julião - Retail Park...",
     "postal_code": "2950-780 Palmela",
     "schedule": "7:30 → 21:00",
-    "lat": 38.5781542,
-    "lon": -8.8962764,
-    "source": "Google Maps Native"
+    "lat": 38.5774573,
+    "lon": -8.8958071
   },
   {
     "id": "804",
@@ -2840,9 +2705,8 @@
     "address": "Avenida Dr. Sá Carneiro",
     "postal_code": "3810-365 Aveiro",
     "schedule": "7:00 → 23:59",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 40.9244163,
+    "lon": -8.5586659
   },
   {
     "id": "4013",
@@ -2850,9 +2714,8 @@
     "address": "Posto BP Avenida de Belverde",
     "postal_code": "2845-483 Amora",
     "schedule": "7:00 → 23:00",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 38.5982641,
+    "lon": -9.1397517
   },
   {
     "id": "4015",
@@ -2878,9 +2741,8 @@
     "address": "E.N. 10, Km 5,9",
     "postal_code": "2855-084 Corroios",
     "schedule": "6:00 → 22:00",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 38.6379115,
+    "lon": -9.1544549
   },
   {
     "id": "4010",
@@ -2888,9 +2750,8 @@
     "address": "N247 E.N. 267, Mil Regos",
     "postal_code": "2655-319 Ericeira",
     "schedule": "0:01 → 23:59",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 38.9692865,
+    "lon": -9.4169923
   },
   {
     "id": "4023",
@@ -2934,9 +2795,8 @@
     "address": "N115 Olival da Quinta Nova",
     "postal_code": "2600-581 Loures",
     "schedule": "6:00 → 23:00",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 38.8933861,
+    "lon": -9.1890738
   },
   {
     "id": "4012",
@@ -2953,9 +2813,8 @@
     "address": "N11 Largo da Estação",
     "postal_code": "2860-403 Moita",
     "schedule": "7:00 → 22:00",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 38.6525164,
+    "lon": -9.0278932
   },
   {
     "id": "4024",
@@ -2990,9 +2849,8 @@
     "address": "Rua Dr. José de Magalhães 6200",
     "postal_code": "4580-133 Paredes",
     "schedule": "7:00 → 23:00",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 41.2108422,
+    "lon": -8.327298
   },
   {
     "id": "4008",
@@ -3045,9 +2903,8 @@
     "address": "Interface do Fogueteiro",
     "postal_code": "2840-432 Seixal",
     "schedule": "6:00 → 22:00",
-    "lat": 41.6977407,
-    "lon": -71.1600097,
-    "source": "Google Maps Native"
+    "lat": 38.6097428,
+    "lon": -9.0990631
   },
   {
     "id": "4022",
@@ -3082,9 +2939,8 @@
     "address": "Rua Dr. Carlos Costa 91",
     "postal_code": "4415-028 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.063283299999995,
-    "lon": -8.5975363,
-    "source": "Google Maps Native"
+    "lat": 41.0633471,
+    "lon": -8.5975262
   },
   {
     "id": "912",
@@ -3146,9 +3002,8 @@
     "address": "Via D. Pedro I",
     "postal_code": "4990-011 Ponte de Lima",
     "schedule": "8:00 → 21:00",
-    "lat": 41.7583707,
-    "lon": -8.5893499,
-    "source": "Google Maps Native"
+    "lat": 41.7598694,
+    "lon": -8.5894366
   },
   {
     "id": "688",
@@ -3156,9 +3011,8 @@
     "address": "Zona Industrial - Barreiras",
     "postal_code": "7400-401 Ponte de Sor",
     "schedule": "8:00 → 21:00",
-    "lat": 39.2678546,
-    "lon": -8.0134172,
-    "source": "Google Maps Native"
+    "lat": 39.2678703,
+    "lon": -8.0134206
   },
   {
     "id": "404",
@@ -3211,9 +3065,8 @@
     "address": "Rua João Folheiro - Porto Alto ...",
     "postal_code": "2135-133 Benavente",
     "schedule": "8:00 → 21:00",
-    "lat": 38.9204927,
-    "lon": -8.8803505,
-    "source": "Google Maps Native"
+    "lat": 38.9168047,
+    "lon": -8.8805763
   },
   {
     "id": "697",
@@ -3221,9 +3074,8 @@
     "address": "Ic 2 - Km 107,4 Chão Da Feira",
     "postal_code": "2480-055 Porto de Mós",
     "schedule": "8:00 → 21:00",
-    "lat": 39.6233404,
-    "lon": -8.8562663,
-    "source": "Google Maps Native"
+    "lat": 39.6374561,
+    "lon": -8.8536186
   },
   {
     "id": "892",
@@ -3249,9 +3101,8 @@
     "address": "Lugar De Pontes Pereiros",
     "postal_code": "4830-508 Póvoa de Lanhoso",
     "schedule": "8:00 → 21:00",
-    "lat": 41.5716805,
-    "lon": -8.2619024,
-    "source": "Google Maps Native"
+    "lat": 41.5723014,
+    "lon": -8.2627017
   },
   {
     "id": "460",
@@ -3286,9 +3137,8 @@
     "address": "Lugar Da Gandara - Argivai",
     "postal_code": "4490-228 Póvoa de Varzim",
     "schedule": "8:00 → 22:00",
-    "lat": 41.3783799,
-    "lon": -8.7387636,
-    "source": "Google Maps Native"
+    "lat": 41.3784976,
+    "lon": -8.7387406
   },
   {
     "id": "320",
@@ -3296,9 +3146,8 @@
     "address": "Pcª. Marquês Pombal 24",
     "postal_code": "4490-442 Póvoa de Varzim",
     "schedule": "8:00 → 21:30",
-    "lat": 41.3816926,
-    "lon": -8.7621871,
-    "source": "Google Maps Native"
+    "lat": 41.3812077,
+    "lon": -8.7610191
   },
   {
     "id": "1009",
@@ -3306,9 +3155,8 @@
     "address": "Rua Padre João de Medeiros 1",
     "postal_code": "9650-403 Povoação",
     "schedule": "8:30 → 20:00",
-    "lat": 37.7488828,
-    "lon": -25.244905199999998,
-    "source": "Google Maps Native"
+    "lat": 37.7498397,
+    "lon": -25.2445576
   },
   {
     "id": "315",
@@ -3352,9 +3200,8 @@
     "address": "Sitio Do Semino",
     "postal_code": "8125-303 Loulé",
     "schedule": "8:00 → 21:30",
-    "lat": 37.0779099,
-    "lon": -8.0942255,
-    "source": "Google Maps Native"
+    "lat": 37.0774994,
+    "lon": -8.0922463
   },
   {
     "id": "475",
@@ -3389,9 +3236,8 @@
     "address": "Urbanização Da Cova Dos Vidros",
     "postal_code": "2975-628 Sesimbra",
     "schedule": "7:30 → 21:00",
-    "lat": 38.5652578,
-    "lon": -9.0378398,
-    "source": "Google Maps Native"
+    "lat": 38.5652593,
+    "lon": -9.0377338
   },
   {
     "id": "695",
@@ -3399,9 +3245,8 @@
     "address": "E.N. 10, Km 19,5",
     "postal_code": "2975-403 Sesimbra",
     "schedule": "8:00 → 22:00",
-    "lat": 38.5741449,
-    "lon": -9.0371977,
-    "source": "Google Maps Native"
+    "lat": 38.5777334,
+    "lon": -9.0359793
   },
   {
     "id": "617",
@@ -3418,9 +3263,8 @@
     "address": "Avenida Augusto Hilário 59",
     "postal_code": "2620-184 Odivelas",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8139602,
-    "lon": -9.188452,
-    "source": "Google Maps Native"
+    "lat": 38.813537,
+    "lon": -9.1887095
   },
   {
     "id": "337",
@@ -3446,9 +3290,8 @@
     "address": "Bairro das Alagoas - Qtª. Das F...",
     "postal_code": "5050-063 Peso da Régua",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1681148,
-    "lon": -7.803052699999999,
-    "source": "Google Maps Native"
+    "lat": 41.1681046,
+    "lon": -7.8025446
   },
   {
     "id": "767",
@@ -3456,9 +3299,8 @@
     "address": "Avenida do Alentejo - Lugar de ...",
     "postal_code": "7200-480 Reguengos de Monsaraz",
     "schedule": "8:00 → 21:00",
-    "lat": 38.4258509,
-    "lon": -7.546466199999999,
-    "source": "Google Maps Native"
+    "lat": 38.4293658,
+    "lon": -7.5422779
   },
   {
     "id": "525",
@@ -3475,9 +3317,8 @@
     "address": "Rua de Vales",
     "postal_code": "8365-087 Algoz",
     "schedule": "10:00 → 15:30, 17:30 → 22:30",
-    "lat": 37.0922044,
-    "lon": -8.2403657,
-    "source": "Google Maps Native"
+    "lat": 37.1583896,
+    "lon": -8.3008164
   },
   {
     "id": "911",
@@ -3512,9 +3353,8 @@
     "address": "Estrada da Ribeira Grande, km 8",
     "postal_code": "9600-102 Ribeira Grande",
     "schedule": "8:30 → 21:00",
-    "lat": 37.7875667,
-    "lon": -25.6030174,
-    "source": "Google Maps Native"
+    "lat": 37.7704577,
+    "lon": -25.5842211
   },
   {
     "id": "430",
@@ -3531,9 +3371,8 @@
     "address": "Av. Dr. Mário Soares - Lugar do...",
     "postal_code": "2040-413 Rio Maior",
     "schedule": "8:00 → 21:00",
-    "lat": 39.339970699999995,
-    "lon": -8.9301601,
-    "source": "Google Maps Native"
+    "lat": 39.3400131,
+    "lon": -8.9309792
   },
   {
     "id": "720",
@@ -3541,9 +3380,8 @@
     "address": "Rua Das Taipas 10",
     "postal_code": "2040-339 Rio Maior",
     "schedule": "8:00 → 21:00",
-    "lat": 39.3317688,
-    "lon": -8.937673199999999,
-    "source": "Google Maps Native"
+    "lat": 39.3335563,
+    "lon": -8.9383908
   },
   {
     "id": "665",
@@ -3551,9 +3389,8 @@
     "address": "Av. Infante D. Henrique",
     "postal_code": "4435-286 Gondomar",
     "schedule": "8:00 → 21:30",
-    "lat": 41.171397,
-    "lon": -8.5476992,
-    "source": "Google Maps Native"
+    "lat": 41.1708963,
+    "lon": -8.546956
   },
   {
     "id": "478",
@@ -3570,9 +3407,8 @@
     "address": "Rua de Brito, Estrada Nacional ...",
     "postal_code": "4410-205 Vila Nova de Gaia",
     "schedule": "8:00 → 21:00",
-    "lat": 41.0271961,
-    "lon": -8.6362779,
-    "source": "Google Maps Native"
+    "lat": 41.0299032,
+    "lon": -8.6367522
   },
   {
     "id": "322",
@@ -3616,9 +3452,8 @@
     "address": "Avª Drº Sá Carneiro",
     "postal_code": "3440-324 Santa Comba Dão",
     "schedule": "8:00 → 21:00",
-    "lat": 40.3993409,
-    "lon": -8.1329312,
-    "source": "Google Maps Native"
+    "lat": 40.4035563,
+    "lon": -8.1343032
   },
   {
     "id": "335",
@@ -3635,9 +3470,8 @@
     "address": "Rua Dr. Luís Bettencourt 3",
     "postal_code": "9580-522 Santa Maria",
     "schedule": "8:00 → 20:00",
-    "lat": 36.953517,
-    "lon": -25.1426809,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 39.4634497,
+    "lon": -8.5349159
   },
   {
     "id": "657",
@@ -3645,9 +3479,8 @@
     "address": "Lugar De Vila Boa",
     "postal_code": "4520-195 Santa Maria da Feira",
     "schedule": "8:00 → 22:00",
-    "lat": 40.921340799999996,
-    "lon": -8.5654326,
-    "source": "Google Maps Native"
+    "lat": 40.9218863,
+    "lon": -8.5654169
   },
   {
     "id": "690",
@@ -3655,9 +3488,8 @@
     "address": "E.N. 365, Lugar S. Domingos",
     "postal_code": "2005-542 Santarém",
     "schedule": "8:00 → 22:00",
-    "lat": 39.238396699999996,
-    "lon": -8.7031327,
-    "source": "Google Maps Native"
+    "lat": 39.2383574,
+    "lon": -8.7032868
   },
   {
     "id": "469",
@@ -3665,9 +3497,8 @@
     "address": "Centro Comercial W - Rua Pedro ...",
     "postal_code": "2000-223 Santarém",
     "schedule": "8:00 → 22:00",
-    "lat": 39.2330548,
-    "lon": -8.684923699999999,
-    "source": "Google Maps Native"
+    "lat": 39.2327298,
+    "lon": -8.6857995
   },
   {
     "id": "710",
@@ -3675,9 +3506,8 @@
     "address": "Rua da Escola dos Regentes Agrí...",
     "postal_code": "2005-474 Santarém",
     "schedule": "8:00 → 21:00",
-    "lat": 39.247752899999995,
-    "lon": -8.6927293,
-    "source": "Google Maps Native"
+    "lat": 39.2477998,
+    "lon": -8.6927883
   },
   {
     "id": "531",
@@ -3685,9 +3515,8 @@
     "address": "Rua do Mercado",
     "postal_code": "7500-220 Santiago do Cacém",
     "schedule": "8:00 → 21:00",
-    "lat": 38.0584777,
-    "lon": -8.788192,
-    "source": "Google Maps Native"
+    "lat": 38.0563676,
+    "lon": -8.7878262
   },
   {
     "id": "704",
@@ -3704,9 +3533,8 @@
     "address": "Lugar De Fontiscos",
     "postal_code": "4780-583 Santo Tirso",
     "schedule": "8:00 → 21:30",
-    "lat": 41.3388491,
-    "lon": -8.4946348,
-    "source": "Google Maps Native"
+    "lat": 41.33804,
+    "lon": -8.4964849
   },
   {
     "id": "457",
@@ -3723,9 +3551,8 @@
     "address": "Rua Luís Bivar",
     "postal_code": "8150-156 São Brás de Alportel",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1535189,
-    "lon": -7.8937542999999994,
-    "source": "Google Maps Native"
+    "lat": 37.1529183,
+    "lon": -7.8934726
   },
   {
     "id": "792",
@@ -3742,9 +3569,8 @@
     "address": "Rua Dos Fogueteiros 564",
     "postal_code": "4461-801 Matosinhos",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1910568,
-    "lon": -8.636307,
-    "source": "Google Maps Native"
+    "lat": 41.1909147,
+    "lon": -8.6367469
   },
   {
     "id": "1001",
@@ -3824,9 +3650,8 @@
     "address": "Rua Comendador Sá Couto",
     "postal_code": "4535-439 Santa Maria da Feira",
     "schedule": "8:00 → 21:00",
-    "lat": 40.9855667,
-    "lon": -8.590201799999999,
-    "source": "Google Maps Native"
+    "lat": 40.9860223,
+    "lon": -8.5899407
   },
   {
     "id": "745",
@@ -3834,9 +3659,8 @@
     "address": "Rua Eng.º Farinas De Almeida, S...",
     "postal_code": "4510-260 Gondomar",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1526804,
-    "lon": -8.5062978,
-    "source": "Google Maps Native"
+    "lat": 41.1528447,
+    "lon": -8.5062672
   },
   {
     "id": "355",
@@ -3844,9 +3668,8 @@
     "address": "Estrada D. Miguel 1427",
     "postal_code": "4510-243 Gondomar",
     "schedule": "8:00 → 21:00",
-    "lat": 41.1512755,
-    "lon": -8.5160082,
-    "source": "Google Maps Native"
+    "lat": 41.1503519,
+    "lon": -8.5165534
   },
   {
     "id": "511",
@@ -3854,9 +3677,8 @@
     "address": "Rua Dr. José Correia de Oliveir...",
     "postal_code": "3660-432 São Pedro do Sul",
     "schedule": "8:30 → 21:00",
-    "lat": 40.7572642,
-    "lon": -8.0674785,
-    "source": "Google Maps Native"
+    "lat": 40.7572271,
+    "lon": -8.0665043
   },
   {
     "id": "517",
@@ -3882,9 +3704,8 @@
     "address": "Avenida Vila Rosa 641",
     "postal_code": "3560-228 Sátão",
     "schedule": "8:30 → 21:00",
-    "lat": 40.749787999999995,
-    "lon": -7.7354281,
-    "source": "Google Maps Native"
+    "lat": 40.7498091,
+    "lon": -7.7354768
   },
   {
     "id": "678",
@@ -3892,9 +3713,8 @@
     "address": "Zona Industrial - Bairro Sta. C...",
     "postal_code": "6270-502 Seia",
     "schedule": "8:00 → 21:00",
-    "lat": 40.4267968,
-    "lon": -7.713885599999999,
-    "source": "Google Maps Native"
+    "lat": 40.4267686,
+    "lon": -7.7138539
   },
   {
     "id": "532",
@@ -3902,9 +3722,8 @@
     "address": "Rua Eira de S.Pedro",
     "postal_code": "7830-348 Serpa",
     "schedule": "8:00 → 21:00",
-    "lat": 37.938349599999995,
-    "lon": -7.606780799999999,
-    "source": "Google Maps Native"
+    "lat": 37.9401162,
+    "lon": -7.6041166
   },
   {
     "id": "317",
@@ -3930,9 +3749,8 @@
     "address": "Sitio Da Abegoaria",
     "postal_code": "6100-601 Sertã",
     "schedule": "8:00 → 21:00",
-    "lat": 39.798490699999995,
-    "lon": -8.0956311,
-    "source": "Google Maps Native"
+    "lat": 39.798759,
+    "lon": -8.0956026
   },
   {
     "id": "764",
@@ -3985,9 +3803,8 @@
     "address": "Rua das Carvelas",
     "postal_code": "2910-998 Setúbal",
     "schedule": "7:30 → 21:30",
-    "lat": 38.5357006,
-    "lon": -8.8678747,
-    "source": "Google Maps Native"
+    "lat": 38.5358164,
+    "lon": -8.8678945
   },
   {
     "id": "361",
@@ -3995,9 +3812,8 @@
     "address": "Rua da APCDI 411",
     "postal_code": "3740-133 Sever do Vouga",
     "schedule": "8:00 → 21:00",
-    "lat": 40.724517,
-    "lon": -8.3636407,
-    "source": "Google Maps Native"
+    "lat": 40.7240859,
+    "lon": -8.3630422
   },
   {
     "id": "520",
@@ -4014,9 +3830,8 @@
     "address": "Loteamento Municipal A Norte Da...",
     "postal_code": "7520-137 Sines",
     "schedule": "8:00 → 21:00",
-    "lat": 37.965418,
-    "lon": -8.8574583,
-    "source": "Google Maps Native"
+    "lat": 37.9626033,
+    "lon": -8.8658544
   },
   {
     "id": "841",
@@ -4042,9 +3857,8 @@
     "address": "E.N. 342, Loteamento Do Bairro ...",
     "postal_code": "3130-211 Soure",
     "schedule": "8:00 → 21:00",
-    "lat": 40.0666803,
-    "lon": -8.6169733,
-    "source": "Google Maps Native"
+    "lat": 40.059112,
+    "lon": -8.6265887
   },
   {
     "id": "6",
@@ -4061,9 +3875,8 @@
     "address": "Vila Da Calheta",
     "postal_code": "9370-133 Calheta",
     "schedule": "8:00 → 22:00",
-    "lat": 32.7196708,
-    "lon": -17.173731,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 32.7163298,
+    "lon": -17.1481161
   },
   {
     "id": "11",
@@ -4098,9 +3911,8 @@
     "address": "Rua Da Estacada",
     "postal_code": "9200-087 Machico",
     "schedule": "7:30 → 22:00",
-    "lat": 32.7198279,
-    "lon": -16.767705499999998,
-    "source": "Google Maps Native"
+    "lat": 32.7187772,
+    "lon": -16.7671943
   },
   {
     "id": "3",
@@ -4171,9 +3983,8 @@
     "address": "Lugar Da Tapadinha",
     "postal_code": "3610-103 Tarouca",
     "schedule": "8:00 → 21:00",
-    "lat": 41.0297116,
-    "lon": -7.7711261,
-    "source": "Google Maps Native"
+    "lat": 41.0296599,
+    "lon": -7.7710402
   },
   {
     "id": "851",
@@ -4181,9 +3992,8 @@
     "address": "Rua Silva Domingues",
     "postal_code": "8800-328 Tavira",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1232124,
-    "lon": -7.660190399999999,
-    "source": "Google Maps Native"
+    "lat": 37.1271406,
+    "lon": -7.645341
   },
   {
     "id": "618",
@@ -4191,9 +4001,8 @@
     "address": "E.N. 125, Santa Margarida",
     "postal_code": "8800-101 Tavira",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1232124,
-    "lon": -7.660190399999999,
-    "source": "Google Maps Native"
+    "lat": 37.1036781,
+    "lon": -7.6648441
   },
   {
     "id": "655",
@@ -4219,9 +4028,8 @@
     "address": "E.N. 9, Fervença",
     "postal_code": "2705-311 Sintra",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8357538,
-    "lon": -9.3571067,
-    "source": "Google Maps Native"
+    "lat": 38.8358282,
+    "lon": -9.3571089
   },
   {
     "id": "640",
@@ -4229,9 +4037,8 @@
     "address": "Rua de Coimbra – Avessadas 38",
     "postal_code": "2300-471 Tomar",
     "schedule": "8:00 → 21:00",
-    "lat": 39.6112465,
-    "lon": -8.395190699999999,
-    "source": "Google Maps Native"
+    "lat": 39.6093795,
+    "lon": -8.4018765
   },
   {
     "id": "440",
@@ -4266,9 +4073,8 @@
     "address": "Av. Andrade Corvo",
     "postal_code": "2350-163 Torres Novas",
     "schedule": "8:00 → 21:00",
-    "lat": 39.4712406,
-    "lon": -8.5393444,
-    "source": "Google Maps Native"
+    "lat": 39.4702125,
+    "lon": -8.5371594
   },
   {
     "id": "691",
@@ -4276,9 +4082,8 @@
     "address": "E.N. 243, Riachos",
     "postal_code": "2350-292 Torres Novas",
     "schedule": "8:00 → 21:00",
-    "lat": 39.462804899999995,
-    "lon": -8.520818499999999,
-    "source": "Google Maps Native"
+    "lat": 39.4663474,
+    "lon": -8.5249718
   },
   {
     "id": "842",
@@ -4295,9 +4100,8 @@
     "address": "Rua D. João de Castro",
     "postal_code": "6420-039 Trancoso",
     "schedule": "8:30 → 21:00",
-    "lat": 40.7645251,
-    "lon": -7.3556995,
-    "source": "Google Maps Native"
+    "lat": 40.7766005,
+    "lon": -7.3519767
   },
   {
     "id": "667",
@@ -4323,9 +4127,8 @@
     "address": "Rua Pavilhão Gimnodesportivo 1",
     "postal_code": "2460-890 Alcobaça",
     "schedule": "8:30 → 21:00",
-    "lat": 39.464000399999996,
-    "lon": -8.9758076,
-    "source": "Google Maps Native"
+    "lat": 39.464007,
+    "lon": -8.9757738
   },
   {
     "id": "869",
@@ -4342,9 +4145,8 @@
     "address": "Rua Rio Do Paço, Valadares 300",
     "postal_code": "4405-602 Vila Nova de Gaia",
     "schedule": "8:00 → 21:30",
-    "lat": 41.0886517,
-    "lon": -8.6284952,
-    "source": "Google Maps Native"
+    "lat": 41.0868654,
+    "lon": -8.6278782
   },
   {
     "id": "1005",
@@ -4352,9 +4154,8 @@
     "address": "Rua António Resendes Tavares 9",
     "postal_code": "9500-367 Arrifes",
     "schedule": "8:30 → 21:00",
-    "lat": 37.7593082,
-    "lon": -25.7050971,
-    "source": "Google Maps Native"
+    "lat": 37.7600464,
+    "lon": -25.7046835
   },
   {
     "id": "362",
@@ -4362,9 +4163,8 @@
     "address": "Rua Da Granja - Vale De Cambra",
     "postal_code": "3730-205 Vale de Cambra",
     "schedule": "8:00 → 21:00",
-    "lat": 40.8463068,
-    "lon": -8.398994199999999,
-    "source": "Google Maps Native"
+    "lat": 40.8470401,
+    "lon": -8.3991999
   },
   {
     "id": "619",
@@ -4372,9 +4172,8 @@
     "address": "Empreendimento Turístico",
     "postal_code": "8135-107 Loulé",
     "schedule": "8:00 → 20:30",
-    "lat": 37.060218,
-    "lon": -8.0575733,
-    "source": "Google Maps Native"
+    "lat": 37.0555693,
+    "lon": -8.0614944
   },
   {
     "id": "877",
@@ -4382,9 +4181,8 @@
     "address": "Av. Dr. Tito Fontes",
     "postal_code": "4930-673 Valença",
     "schedule": "8:00 → 21:00",
-    "lat": 42.0276944,
-    "lon": -8.638081699999999,
-    "source": "Google Maps Native"
+    "lat": -13.3799487,
+    "lon": -39.0633263
   },
   {
     "id": "668",
@@ -4392,9 +4190,8 @@
     "address": "Rua Da Passagem",
     "postal_code": "4440-565 Valongo",
     "schedule": "8:00 → 21:00",
-    "lat": 41.188319799999995,
-    "lon": -8.4982017,
-    "source": "Google Maps Native"
+    "lat": 41.1876124,
+    "lon": -8.493164
   },
   {
     "id": "741",
@@ -4402,9 +4199,8 @@
     "address": "Rua D. Pedro Iv, Lugar Campo Ba...",
     "postal_code": "4440-633 Valongo",
     "schedule": "8:00 → 21:30",
-    "lat": 41.201792999999995,
-    "lon": -8.5074203,
-    "source": "Google Maps Native"
+    "lat": 41.19987,
+    "lon": -8.5047236
   },
   {
     "id": "524",
@@ -4412,9 +4208,8 @@
     "address": "Rua da Crasta",
     "postal_code": "5430-426 Valpaços",
     "schedule": "8:30 → 21:00",
-    "lat": 41.601861899999996,
-    "lon": -7.3113141,
-    "source": "Google Maps Native"
+    "lat": 41.6029748,
+    "lon": -7.3110318
   },
   {
     "id": "636",
@@ -4440,9 +4235,8 @@
     "address": "Rua São João De Deus",
     "postal_code": "7080-031 Vendas Novas",
     "schedule": "8:00 → 21:00",
-    "lat": 38.6749826,
-    "lon": -8.448793499999999,
-    "source": "Google Maps Native"
+    "lat": 38.6753604,
+    "lon": -8.4510016
   },
   {
     "id": "703",
@@ -4450,9 +4244,8 @@
     "address": "Rua Coronel Lobo Da Costa",
     "postal_code": "2625-612 Vila Franca de Xira",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8701461,
-    "lon": -9.0856674,
-    "source": "Google Maps Native"
+    "lat": 38.8709714,
+    "lon": -9.0859675
   },
   {
     "id": "410",
@@ -4460,9 +4253,8 @@
     "address": "Rua Aqueduto Lote 5/6",
     "postal_code": "2625-577 Vila Franca de Xira",
     "schedule": "8:00 → 21:00",
-    "lat": 38.8669266,
-    "lon": -9.0967653,
-    "source": "Google Maps Native"
+    "lat": 38.8659888,
+    "lon": -9.0973827
   },
   {
     "id": "533",
@@ -4497,9 +4289,8 @@
     "address": "Quinta Das Lameiras, Lugar De L...",
     "postal_code": "4850-154 Vieira do Minho",
     "schedule": "8:30 → 21:00",
-    "lat": 41.6358093,
-    "lon": -8.1498402,
-    "source": "Google Maps Native"
+    "lat": 41.6359833,
+    "lon": -8.15219
   },
   {
     "id": "347",
@@ -4516,9 +4307,8 @@
     "address": "E.N. 13, Rua 5 De Outubro, Luga...",
     "postal_code": "4480-786 Vila do Conde",
     "schedule": "8:00 → 21:30",
-    "lat": 41.3645311,
-    "lon": -8.7485634,
-    "source": "Google Maps Native"
+    "lat": 41.3513789,
+    "lon": -8.7508639
   },
   {
     "id": "431",
@@ -4535,9 +4325,8 @@
     "address": "Av. das Comunidades Emigrantes",
     "postal_code": "9680-108 Vila Franca do Campo",
     "schedule": "8:30 → 21:00",
-    "lat": 37.7184508,
-    "lon": -25.442232399999998,
-    "source": "Google Maps Native"
+    "lat": 37.7181615,
+    "lon": -25.4423336
   },
   {
     "id": "518",
@@ -4545,9 +4334,8 @@
     "address": "Rua Santa Comba 176",
     "postal_code": "4605-362 Amarante",
     "schedule": "8:30 → 21:00",
-    "lat": 41.247825299999995,
-    "lon": -8.1751056,
-    "source": "Google Maps Native"
+    "lat": 41.2469283,
+    "lon": -8.1754312
   },
   {
     "id": "387",
@@ -4573,9 +4361,8 @@
     "address": "Avenida Salgueiro Maia, Lugar ...",
     "postal_code": "8900-258 Vila Real de Santo António",
     "schedule": "8:00 → 21:30",
-    "lat": 37.191085799999996,
-    "lon": -7.430438799999999,
-    "source": "Google Maps Native"
+    "lat": 37.1920629,
+    "lon": -7.4284228
   },
   {
     "id": "536",
@@ -4583,9 +4370,8 @@
     "address": "Rua da Barra 2/4",
     "postal_code": "5000-212 Vila Real",
     "schedule": "8:00 → 21:00",
-    "lat": 41.3121283,
-    "lon": -7.760275099999999,
-    "source": "Google Maps Native"
+    "lat": 41.3131177,
+    "lon": -7.7616708
   },
   {
     "id": "669",
@@ -4593,9 +4379,8 @@
     "address": "Lugar da Torre 206",
     "postal_code": "4730-010 Vila Verde",
     "schedule": "8:00 → 22:00",
-    "lat": 41.6436561,
-    "lon": -8.4334177,
-    "source": "Google Maps Native"
+    "lat": 41.6435546,
+    "lon": -8.4326622
   },
   {
     "id": "785",
@@ -4603,9 +4388,8 @@
     "address": "Estrada de Albufeira, Lote 6 B\\3",
     "postal_code": "8125-406 Loulé",
     "schedule": "8:00 → 21:00",
-    "lat": 37.1039965,
-    "lon": -8.1265663,
-    "source": "Google Maps Native"
+    "lat": 37.1053281,
+    "lon": -8.1325046
   },
   {
     "id": "346",
@@ -4622,9 +4406,8 @@
     "address": "Rotunda João Félix",
     "postal_code": "3500-012 Santa Maria",
     "schedule": "8:00 → 21:00",
-    "lat": 40.6719605,
-    "lon": -7.888323,
-    "source": "OSM (Google Maps Verified)"
+    "lat": 39.4634497,
+    "lon": -8.5349159
   },
   {
     "id": "779",
@@ -4632,9 +4415,8 @@
     "address": "Av. Manuel Loureiro, Pascoal - ...",
     "postal_code": "3515-210 Viseu",
     "schedule": "8:00 → 21:00",
-    "lat": 40.6851975,
-    "lon": -7.9284479999999995,
-    "source": "Google Maps Native"
+    "lat": 40.6856479,
+    "lon": -7.9279569
   },
   {
     "id": "681",
@@ -4651,9 +4433,8 @@
     "address": "E.N. 106, Km 1, Infias",
     "postal_code": "4815-000 Vizela",
     "schedule": "8:00 → 21:00",
-    "lat": 41.393284699999995,
-    "lon": -8.3180734,
-    "source": "Google Maps Native"
+    "lat": 41.3728321,
+    "lon": -8.3132922
   },
   {
     "id": "670",
@@ -4661,8 +4442,7 @@
     "address": "Av. Domingos Vaz Pinheiro 201",
     "postal_code": "4815-763 Vizela",
     "schedule": "8:00 → 21:00",
-    "lat": 41.369165699999996,
-    "lon": -8.3050538,
-    "source": "Google Maps Native"
+    "lat": 41.3693132,
+    "lon": -8.3052253
   }
 ]
