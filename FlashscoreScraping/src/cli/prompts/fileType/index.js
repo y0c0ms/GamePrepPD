@@ -11,6 +11,15 @@ export const selectFileType = async (fileType) => {
     return fileType;
   }
 
+  // If running in CI environment (GitHub Actions), default to JSON without prompting
+  if (process.env.CI === 'true' || !process.stdout.isTTY) {
+    const defaultType = FileTypes.JSON;
+    console.info(
+      `${chalk.green("✔")} Non-interactive environment detected. Defaulting to: ${chalk.cyan(defaultType.label)}`
+    );
+    return defaultType;
+  }
+
   const choices = Object.values(FileTypes).map((type) => type.label);
   const { choice } = await inquirer.prompt([
     {

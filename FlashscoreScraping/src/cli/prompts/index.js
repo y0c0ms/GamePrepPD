@@ -35,6 +35,12 @@ const resolveSeason = async (context, cliOptions, country) => {
   }
 
   if (!cliOptions?.league) {
+    if (process.env.CI === 'true' || !process.stdout.isTTY) {
+      throw Error(
+        `❌ No league provided in non-interactive environment.\n` +
+          `Usage: node src/index.js country=<country-name> league=<league-name>`
+      );
+    }
     const league = await selectLeague(context, country?.id);
     return await selectSeason(context, league?.url);
   }

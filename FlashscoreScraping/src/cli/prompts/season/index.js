@@ -8,6 +8,16 @@ export const selectSeason = async (context, leagueUrl) => {
   start();
   const seasons = await getListOfSeasons(context, leagueUrl);
   stop();
+
+  // If running in CI environment (GitHub Actions), default to current season without prompting
+  if (process.env.CI === 'true' || !process.stdout.isTTY) {
+    const defaultSeason = seasons[0];
+    console.info(
+      `✔ Non-interactive environment detected. Defaulting to current season: ${defaultSeason.name}`
+    );
+    return defaultSeason;
+  }
+
   const options = seasons.map((season) => season.name);
 
   const { choice } = await inquirer.prompt([

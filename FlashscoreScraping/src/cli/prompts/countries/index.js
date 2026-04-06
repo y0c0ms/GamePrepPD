@@ -21,6 +21,14 @@ export const selectCountry = async (context, inputCountry) => {
     );
   }
 
+  // If running in CI environment (GitHub Actions), fail if no country provided to avoid hang
+  if (process.env.CI === 'true' || !process.stdout.isTTY) {
+    throw Error(
+      `❌ No country provided in non-interactive environment.\n` +
+        `Usage: node src/index.js country=<country-name>`
+    );
+  }
+
   const choices = countries.map(({ name }) => name).sort();
   const { choice } = await inquirer.prompt([
     {
