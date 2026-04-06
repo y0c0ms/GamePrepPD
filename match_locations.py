@@ -110,22 +110,27 @@ def match_locations():
             distances.sort(key=lambda x: x[0])
             top_stores = []
             for d, s in distances[:3]:
-                top_stores.append({
-                    'name': s['name'],
-                    'address': s['address'],
-                    'distance_km': round(d, 2),
-                    'lat': s['lat'],
-                    'lon': s['lon'],
-                    'schedule': s['opening_hours']
-                })
+                if d <= 15:
+                    top_stores.append({
+                        'name': s['name'],
+                        'address': s['address'],
+                        'distance_km': round(d, 2),
+                        'lat': s['lat'],
+                        'lon': s['lon'],
+                        'schedule': s['opening_hours']
+                    })
             
+            # Skip this game entirely if no stores are within 15km
+            if not top_stores:
+                continue
+
             results.append({
                 'matchId': match_id,
                 'date': game['date'],
                 'home_team': home_team,
                 'away_team': game['away']['name'],
                 'league': game.get('league', 'Portugal'),
-                'stadium': venue['stadium'],
+                'stadium': venue['name'],
                 'stadium_lat': s_lat,
                 'stadium_lon': s_lon,
                 'nearby_stores': top_stores

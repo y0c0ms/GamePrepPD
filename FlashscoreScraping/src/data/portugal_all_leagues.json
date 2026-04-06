@@ -10,17 +10,6 @@
     },
     "league": "Liga Portugal Betclic"
   },
-  "lYr60Bse": {
-    "matchId": "lYr60Bse",
-    "date": "06.04.2026 20:45",
-    "home": {
-      "name": "Casa Pia AC"
-    },
-    "away": {
-      "name": "Benfica"
-    },
-    "league": "Liga Portugal Betclic"
-  },
   "zPcNPRA6": {
     "matchId": "zPcNPRA6",
     "date": "11.04.2026 18:00",
@@ -32,17 +21,6 @@
     },
     "league": "Liga Portugal Betclic"
   },
-  "z3MnDlR0": {
-    "matchId": "z3MnDlR0",
-    "date": "11.04.2026 15:30",
-    "home": {
-      "name": "AFS"
-    },
-    "away": {
-      "name": "Vitória SC"
-    },
-    "league": "Liga Portugal Betclic"
-  },
   "GMsMRmtf": {
     "matchId": "GMsMRmtf",
     "date": "10.04.2026 20:45",
@@ -51,6 +29,28 @@
     },
     "away": {
       "name": "Moreirense"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "lYr60Bse": {
+    "matchId": "lYr60Bse",
+    "date": "06.04.2026 20:45",
+    "home": {
+      "name": "Casa Pia AC"
+    },
+    "away": {
+      "name": "Benfica"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "z3MnDlR0": {
+    "matchId": "z3MnDlR0",
+    "date": "11.04.2026 15:30",
+    "home": {
+      "name": "AFS"
+    },
+    "away": {
+      "name": "Vitória SC"
     },
     "league": "Liga Portugal Betclic"
   },
@@ -76,6 +76,17 @@
     },
     "league": "Liga Portugal Betclic"
   },
+  "OAN8KWYQ": {
+    "matchId": "OAN8KWYQ",
+    "date": "12.04.2026 18:00",
+    "home": {
+      "name": "Braga"
+    },
+    "away": {
+      "name": "Arouca"
+    },
+    "league": "Liga Portugal Betclic"
+  },
   "rk1VN5uJ": {
     "matchId": "rk1VN5uJ",
     "date": "12.04.2026 18:00",
@@ -84,6 +95,17 @@
     },
     "away": {
       "name": "Nacional"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "re4uFAdl": {
+    "matchId": "re4uFAdl",
+    "date": "13.04.2026 20:15",
+    "home": {
+      "name": "Tondela"
+    },
+    "away": {
+      "name": "Gil Vicente"
     },
     "league": "Liga Portugal Betclic"
   },
@@ -109,28 +131,6 @@
     },
     "league": "Liga Portugal Betclic"
   },
-  "re4uFAdl": {
-    "matchId": "re4uFAdl",
-    "date": "13.04.2026 20:15",
-    "home": {
-      "name": "Tondela"
-    },
-    "away": {
-      "name": "Gil Vicente"
-    },
-    "league": "Liga Portugal Betclic"
-  },
-  "OAN8KWYQ": {
-    "matchId": "OAN8KWYQ",
-    "date": "12.04.2026 18:00",
-    "home": {
-      "name": "Braga"
-    },
-    "away": {
-      "name": "Arouca"
-    },
-    "league": "Liga Portugal Betclic"
-  },
   "lSNdvRPa": {
     "matchId": "lSNdvRPa",
     "date": "18.04.2026 15:30",
@@ -153,17 +153,6 @@
     },
     "league": "Liga Portugal Betclic"
   },
-  "8WfNfnAt": {
-    "matchId": "8WfNfnAt",
-    "date": "18.04.2026 20:30",
-    "home": {
-      "name": "Gil Vicente"
-    },
-    "away": {
-      "name": "Vitória SC"
-    },
-    "league": "Liga Portugal Betclic"
-  },
   "UoqWhQvg": {
     "matchId": "UoqWhQvg",
     "date": "19.04.2026 15:30",
@@ -172,6 +161,17 @@
     },
     "away": {
       "name": "Estrela da Amadora"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "8WfNfnAt": {
+    "matchId": "8WfNfnAt",
+    "date": "18.04.2026 20:30",
+    "home": {
+      "name": "Gil Vicente"
+    },
+    "away": {
+      "name": "Vitória SC"
     },
     "league": "Liga Portugal Betclic"
   },
@@ -197,6 +197,17 @@
     },
     "league": "Liga Portugal Betclic"
   },
+  "fTUmtmem": {
+    "matchId": "fTUmtmem",
+    "date": "20.04.2026 20:15",
+    "home": {
+      "name": "Moreirense"
+    },
+    "away": {
+      "name": "Estoril"
+    },
+    "league": "Liga Portugal Betclic"
+  },
   "2Ddwi495": {
     "matchId": "2Ddwi495",
     "date": "19.04.2026 20:30",
@@ -205,6 +216,413 @@
     },
     "away": {
       "name": "Tondela"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "n3qAtdZO": {
+    "matchId": "n3qAtdZO",
+    "date": "23.04.2026 20:15",
+    "home": {
+      "name": "Casa Pia AC"
+    },
+    "away": {
+      "name": "Braga"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "WjJm7Ga3": {
+    "matchId": "WjJm7Ga3",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Alverca"
+    },
+    "away": {
+      "name": "Arouca"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "CnnNjeFM": {
+    "matchId": "CnnNjeFM",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "AFS"
+    },
+    "away": {
+      "name": "Sporting CP"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "rVxgoZxp": {
+    "matchId": "rVxgoZxp",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Estoril"
+    },
+    "away": {
+      "name": "Famalicão"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "jgZl5fUF": {
+    "matchId": "jgZl5fUF",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Benfica"
+    },
+    "away": {
+      "name": "Moreirense"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "vcW1qD7d": {
+    "matchId": "vcW1qD7d",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Estrela da Amadora"
+    },
+    "away": {
+      "name": "FC Porto"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "jXcEhHpA": {
+    "matchId": "jXcEhHpA",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Santa Clara"
+    },
+    "away": {
+      "name": "Braga"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "URCJWZNj": {
+    "matchId": "URCJWZNj",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Gil Vicente"
+    },
+    "away": {
+      "name": "Casa Pia AC"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "pze6fwGc": {
+    "matchId": "pze6fwGc",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Tondela"
+    },
+    "away": {
+      "name": "Nacional"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "bJxc3YbS": {
+    "matchId": "bJxc3YbS",
+    "date": "26.04.2026 17:00",
+    "home": {
+      "name": "Vitória SC"
+    },
+    "away": {
+      "name": "Rio Ave"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "j7ENJgq9": {
+    "matchId": "j7ENJgq9",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "FC Porto"
+    },
+    "away": {
+      "name": "Alverca"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "IsY4WWSE": {
+    "matchId": "IsY4WWSE",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Arouca"
+    },
+    "away": {
+      "name": "Santa Clara"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "E9RDUAcR": {
+    "matchId": "E9RDUAcR",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Braga"
+    },
+    "away": {
+      "name": "Estoril"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "CpoJ8Tz8": {
+    "matchId": "CpoJ8Tz8",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Casa Pia AC"
+    },
+    "away": {
+      "name": "Tondela"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "r5g2CByq": {
+    "matchId": "r5g2CByq",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Famalicão"
+    },
+    "away": {
+      "name": "Benfica"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "n58M42kt": {
+    "matchId": "n58M42kt",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "AFS"
+    },
+    "away": {
+      "name": "FC Porto"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "jVdAAk6e": {
+    "matchId": "jVdAAk6e",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Sporting CP"
+    },
+    "away": {
+      "name": "Vitória SC"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "jHHydji2": {
+    "matchId": "jHHydji2",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Moreirense"
+    },
+    "away": {
+      "name": "Estrela da Amadora"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "OKCVHXDL": {
+    "matchId": "OKCVHXDL",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Rio Ave"
+    },
+    "away": {
+      "name": "Gil Vicente"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "riETcCMk": {
+    "matchId": "riETcCMk",
+    "date": "03.05.2026 17:00",
+    "home": {
+      "name": "Nacional"
+    },
+    "away": {
+      "name": "AFS"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "jc5w1Kl5": {
+    "matchId": "jc5w1Kl5",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Alverca"
+    },
+    "away": {
+      "name": "Estoril"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "676hNSk1": {
+    "matchId": "676hNSk1",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Gil Vicente"
+    },
+    "away": {
+      "name": "Arouca"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "OA3oabJH": {
+    "matchId": "OA3oabJH",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Rio Ave"
+    },
+    "away": {
+      "name": "Sporting CP"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "KnEeHuZo": {
+    "matchId": "KnEeHuZo",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Benfica"
+    },
+    "away": {
+      "name": "Braga"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "fVBU2tKh": {
+    "matchId": "fVBU2tKh",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Estrela da Amadora"
+    },
+    "away": {
+      "name": "Famalicão"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "UNYocxlU": {
+    "matchId": "UNYocxlU",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Santa Clara"
+    },
+    "away": {
+      "name": "Nacional"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "C490L6KD": {
+    "matchId": "C490L6KD",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Tondela"
+    },
+    "away": {
+      "name": "Moreirense"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "AuDqPlLl": {
+    "matchId": "AuDqPlLl",
+    "date": "10.05.2026 17:00",
+    "home": {
+      "name": "Vitória SC"
+    },
+    "away": {
+      "name": "Casa Pia AC"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "A1I2OEnT": {
+    "matchId": "A1I2OEnT",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Arouca"
+    },
+    "away": {
+      "name": "Tondela"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "UoaZIhAj": {
+    "matchId": "UoaZIhAj",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Braga"
+    },
+    "away": {
+      "name": "Estrela da Amadora"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "OpKfQzIG": {
+    "matchId": "OpKfQzIG",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Casa Pia AC"
+    },
+    "away": {
+      "name": "Rio Ave"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "f5SwUIIi": {
+    "matchId": "f5SwUIIi",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Estoril"
+    },
+    "away": {
+      "name": "Benfica"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "lS5CDcYA": {
+    "matchId": "lS5CDcYA",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Famalicão"
+    },
+    "away": {
+      "name": "Alverca"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "vcpi6FQp": {
+    "matchId": "vcpi6FQp",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "FC Porto"
+    },
+    "away": {
+      "name": "Santa Clara"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "t224FJ3b": {
+    "matchId": "t224FJ3b",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Moreirense"
+    },
+    "away": {
+      "name": "AFS"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "2VVoSdm4": {
+    "matchId": "2VVoSdm4",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Nacional"
+    },
+    "away": {
+      "name": "Vitória SC"
+    },
+    "league": "Liga Portugal Betclic"
+  },
+  "rRbLBy3N": {
+    "matchId": "rRbLBy3N",
+    "date": "17.05.2026 17:00",
+    "home": {
+      "name": "Sporting CP"
+    },
+    "away": {
+      "name": "Gil Vicente"
     },
     "league": "Liga Portugal Betclic"
   },
@@ -219,17 +637,6 @@
     },
     "league": "Liga Portugal 2"
   },
-  "fTUmtmem": {
-    "matchId": "fTUmtmem",
-    "date": "20.04.2026 20:15",
-    "home": {
-      "name": "Moreirense"
-    },
-    "away": {
-      "name": "Estoril"
-    },
-    "league": "Liga Portugal Betclic"
-  },
   "zFCVEZas": {
     "matchId": "zFCVEZas",
     "date": "06.04.2026 18:00",
@@ -238,17 +645,6 @@
     },
     "away": {
       "name": "Leixões"
-    },
-    "league": "Liga Portugal 2"
-  },
-  "lvEutCbt": {
-    "matchId": "lvEutCbt",
-    "date": "10.04.2026 18:45",
-    "home": {
-      "name": "FC Felgueiras"
-    },
-    "away": {
-      "name": "Paços Ferreira"
     },
     "league": "Liga Portugal 2"
   },
@@ -263,14 +659,14 @@
     },
     "league": "Liga Portugal 2"
   },
-  "IJ5dxUc5": {
-    "matchId": "IJ5dxUc5",
-    "date": "11.04.2026 11:00",
+  "lvEutCbt": {
+    "matchId": "lvEutCbt",
+    "date": "10.04.2026 18:45",
     "home": {
-      "name": "Penafiel"
+      "name": "FC Felgueiras"
     },
     "away": {
-      "name": "Académico Viseu"
+      "name": "Paços Ferreira"
     },
     "league": "Liga Portugal 2"
   },
@@ -285,14 +681,25 @@
     },
     "league": "Liga Portugal 2"
   },
-  "nwMxM8DO": {
-    "matchId": "nwMxM8DO",
-    "date": "12.04.2026 11:00",
+  "IJ5dxUc5": {
+    "matchId": "IJ5dxUc5",
+    "date": "11.04.2026 11:00",
     "home": {
-      "name": "Feirense"
+      "name": "Penafiel"
     },
     "away": {
-      "name": "Vizela"
+      "name": "Académico Viseu"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "d4HmvjTh": {
+    "matchId": "d4HmvjTh",
+    "date": "11.04.2026 18:00",
+    "home": {
+      "name": "Chaves"
+    },
+    "away": {
+      "name": "Torreense"
     },
     "league": "Liga Portugal 2"
   },
@@ -304,6 +711,17 @@
     },
     "away": {
       "name": "Leiria"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "nwMxM8DO": {
+    "matchId": "nwMxM8DO",
+    "date": "12.04.2026 11:00",
+    "home": {
+      "name": "Feirense"
+    },
+    "away": {
+      "name": "Vizela"
     },
     "league": "Liga Portugal 2"
   },
@@ -326,17 +744,6 @@
     },
     "away": {
       "name": "Portimonense"
-    },
-    "league": "Liga Portugal 2"
-  },
-  "d4HmvjTh": {
-    "matchId": "d4HmvjTh",
-    "date": "11.04.2026 18:00",
-    "home": {
-      "name": "Chaves"
-    },
-    "away": {
-      "name": "Torreense"
     },
     "league": "Liga Portugal 2"
   },
@@ -373,14 +780,14 @@
     },
     "league": "Liga Portugal 2"
   },
-  "Qclwk7sB": {
-    "matchId": "Qclwk7sB",
-    "date": "18.04.2026 18:00",
+  "M5iMhkrn": {
+    "matchId": "M5iMhkrn",
+    "date": "18.04.2026 14:00",
     "home": {
-      "name": "Torreense"
+      "name": "Leiria"
     },
     "away": {
-      "name": "Marítimo"
+      "name": "Penafiel"
     },
     "league": "Liga Portugal 2"
   },
@@ -395,14 +802,14 @@
     },
     "league": "Liga Portugal 2"
   },
-  "M5iMhkrn": {
-    "matchId": "M5iMhkrn",
-    "date": "18.04.2026 14:00",
+  "Qclwk7sB": {
+    "matchId": "Qclwk7sB",
+    "date": "18.04.2026 18:00",
     "home": {
-      "name": "Leiria"
+      "name": "Torreense"
     },
     "away": {
-      "name": "Penafiel"
+      "name": "Marítimo"
     },
     "league": "Liga Portugal 2"
   },
@@ -417,6 +824,28 @@
     },
     "league": "Liga Portugal 2"
   },
+  "dnOHsPZp": {
+    "matchId": "dnOHsPZp",
+    "date": "20.04.2026 18:45",
+    "home": {
+      "name": "FC Porto B"
+    },
+    "away": {
+      "name": "Leixões"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "6LD1sGu2": {
+    "matchId": "6LD1sGu2",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Benfica B"
+    },
+    "away": {
+      "name": "Marítimo"
+    },
+    "league": "Liga Portugal 2"
+  },
   "p84C36d4": {
     "matchId": "p84C36d4",
     "date": "20.04.2026 18:45",
@@ -428,25 +857,399 @@
     },
     "league": "Liga Portugal 2"
   },
-  "ttxqHcit": {
-    "matchId": "ttxqHcit",
-    "date": "22.04.2026 20:45",
+  "Qq94z8SH": {
+    "matchId": "Qq94z8SH",
+    "date": "22.04.2026 18:00",
     "home": {
-      "name": "FC Porto"
+      "name": "Oliveirense"
     },
     "away": {
-      "name": "Sporting CP"
+      "name": "Benfica B"
     },
-    "league": "Taça de Portugal"
+    "league": "Liga Portugal 2"
   },
-  "dnOHsPZp": {
-    "matchId": "dnOHsPZp",
-    "date": "20.04.2026 18:45",
+  "YR5m5JX8": {
+    "matchId": "YR5m5JX8",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Chaves"
+    },
+    "away": {
+      "name": "Oliveirense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "KbdNHdHE": {
+    "matchId": "KbdNHdHE",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Farense"
+    },
+    "away": {
+      "name": "Académico Viseu"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "tzbL1pRG": {
+    "matchId": "tzbL1pRG",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Leixões"
+    },
+    "away": {
+      "name": "Portimonense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "v3JzfgP7": {
+    "matchId": "v3JzfgP7",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "FC Felgueiras"
+    },
+    "away": {
+      "name": "Leiria"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "p6PhqxBk": {
+    "matchId": "p6PhqxBk",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Lusitânia"
+    },
+    "away": {
+      "name": "Paços Ferreira"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "WxGSeFfe": {
+    "matchId": "WxGSeFfe",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Feirense"
+    },
+    "away": {
+      "name": "Torreense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "Ugad3c2L": {
+    "matchId": "Ugad3c2L",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Penafiel"
+    },
+    "away": {
+      "name": "FC Porto B"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "IgvA8hv1": {
+    "matchId": "IgvA8hv1",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Académico Viseu"
+    },
+    "away": {
+      "name": "Vizela"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "QPpScyQr": {
+    "matchId": "QPpScyQr",
+    "date": "26.04.2026 16:00",
+    "home": {
+      "name": "Vizela"
+    },
+    "away": {
+      "name": "Sporting CP B"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "Qa1yPDOs": {
+    "matchId": "Qa1yPDOs",
+    "date": "03.05.2026 16:00",
     "home": {
       "name": "FC Porto B"
     },
     "away": {
+      "name": "FC Felgueiras"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "SOaVFznR": {
+    "matchId": "SOaVFznR",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Leiria"
+    },
+    "away": {
+      "name": "Farense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "tSP4UZ0K": {
+    "matchId": "tSP4UZ0K",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Marítimo"
+    },
+    "away": {
       "name": "Leixões"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "ELXI6W8D": {
+    "matchId": "ELXI6W8D",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Oliveirense"
+    },
+    "away": {
+      "name": "Lusitânia"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "8rghLVN6": {
+    "matchId": "8rghLVN6",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Portimonense"
+    },
+    "away": {
+      "name": "Chaves"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "ptt2AE9l": {
+    "matchId": "ptt2AE9l",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Sporting CP B"
+    },
+    "away": {
+      "name": "Benfica B"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "tdi0J9hJ": {
+    "matchId": "tdi0J9hJ",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Paços Ferreira"
+    },
+    "away": {
+      "name": "Feirense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "CGaqNigf": {
+    "matchId": "CGaqNigf",
+    "date": "03.05.2026 16:00",
+    "home": {
+      "name": "Torreense"
+    },
+    "away": {
+      "name": "Penafiel"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "d4ZnsDpQ": {
+    "matchId": "d4ZnsDpQ",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Chaves"
+    },
+    "away": {
+      "name": "Leixões"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "GnqBXaDT": {
+    "matchId": "GnqBXaDT",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Benfica B"
+    },
+    "away": {
+      "name": "Académico Viseu"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "YqTQZUx0": {
+    "matchId": "YqTQZUx0",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Farense"
+    },
+    "away": {
+      "name": "Paços Ferreira"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "tAWYX87C": {
+    "matchId": "tAWYX87C",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "FC Felgueiras"
+    },
+    "away": {
+      "name": "Portimonense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "CUvIyi8m": {
+    "matchId": "CUvIyi8m",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Lusitânia"
+    },
+    "away": {
+      "name": "Torreense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "zBl7F0io": {
+    "matchId": "zBl7F0io",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Feirense"
+    },
+    "away": {
+      "name": "Oliveirense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "n7ifyrE4": {
+    "matchId": "n7ifyrE4",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Penafiel"
+    },
+    "away": {
+      "name": "Marítimo"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "fXf2ZLrH": {
+    "matchId": "fXf2ZLrH",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Vizela"
+    },
+    "away": {
+      "name": "Leiria"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "S4ygw4qh": {
+    "matchId": "S4ygw4qh",
+    "date": "10.05.2026 16:00",
+    "home": {
+      "name": "Sporting CP B"
+    },
+    "away": {
+      "name": "FC Porto B"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "nVZtSwyi": {
+    "matchId": "nVZtSwyi",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "FC Porto B"
+    },
+    "away": {
+      "name": "Benfica B"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "2w4RZkfc": {
+    "matchId": "2w4RZkfc",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Académico Viseu"
+    },
+    "away": {
+      "name": "Sporting CP B"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "p4UOrowS": {
+    "matchId": "p4UOrowS",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Leiria"
+    },
+    "away": {
+      "name": "Feirense"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "21nEQoHq": {
+    "matchId": "21nEQoHq",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Leixões"
+    },
+    "away": {
+      "name": "Lusitânia"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "CjWGp78F": {
+    "matchId": "CjWGp78F",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Marítimo"
+    },
+    "away": {
+      "name": "Chaves"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "GOx8nTw3": {
+    "matchId": "GOx8nTw3",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Paços Ferreira"
+    },
+    "away": {
+      "name": "Penafiel"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "OGzNOPod": {
+    "matchId": "OGzNOPod",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Oliveirense"
+    },
+    "away": {
+      "name": "FC Felgueiras"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "zi2ZXTO9": {
+    "matchId": "zi2ZXTO9",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Torreense"
+    },
+    "away": {
+      "name": "Vizela"
+    },
+    "league": "Liga Portugal 2"
+  },
+  "WIerW7gM": {
+    "matchId": "WIerW7gM",
+    "date": "17.05.2026 16:00",
+    "home": {
+      "name": "Portimonense"
+    },
+    "away": {
+      "name": "Farense"
     },
     "league": "Liga Portugal 2"
   },
@@ -461,15 +1264,15 @@
     },
     "league": "Taça de Portugal"
   },
-  "0EnM1t1e": {
-    "matchId": "0EnM1t1e",
-    "date": "17.05.2026 16:00",
+  "ttxqHcit": {
+    "matchId": "ttxqHcit",
+    "date": "22.04.2026 20:45",
     "home": {
-      "name": "Benfica F"
+      "name": "FC Porto"
     },
     "away": {
-      "name": "FC Porto F"
+      "name": "Sporting CP"
     },
-    "league": "Taça de Portugal Feminina"
+    "league": "Taça de Portugal"
   }
 }

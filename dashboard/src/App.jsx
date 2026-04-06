@@ -1,11 +1,15 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import matches from './data/matches.json'
-import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar, LogOut } from 'lucide-react'
+import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar, LogOut, ArrowLeft, Search } from 'lucide-react'
 import Login from './components/Login'
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [loading, setLoading] = useState(true);
+  
+  // Store-First States
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedStore, setSelectedStore] = useState(null);
 
   useEffect(() => {
     const auth = localStorage.getItem('gp_auth');
@@ -20,95 +24,174 @@ function App() {
     setIsAuthenticated(false);
   };
 
+  // Pre-process active games
+  const activeMatches = useMemo(() => {
+    const now = new Date();
+    return [...matches]
+      .map(m => {
+        const parts = m.date.split(' ');
+        const [d, mo, y] = parts[0].split('.');
+        return { ...m, _parsedDate: new Date(`${y}-${mo}-${d}T${parts[1]}:00`) };
+      })
+      .filter(m => m._parsedDate > now)
+      .sort((a, b) => a._parsedDate - b._parsedDate);
+  }, []);
+
+  // Extract unique stores that have active games nearby
+  const uniqueStores = useMemo(() => {
+    const storeMap = new Map();
+    activeMatches.forEach(match => {
+      match.nearby_stores.forEach(store => {
+        const uniqueId = `${store.lat}-${store.lon}`;
+        if (!storeMap.has(uniqueId)) {
+          storeMap.set(uniqueId, store);
+        }
+      });
+    });
+    return Array.from(storeMap.values());
+  }, [activeMatches]);
+
+  // Derived search results
+  const searchResults = useMemo(() => {
+    if (!searchQuery.trim()) return [];
+    
+    const query = searchQuery.toLowerCase();
+    return uniqueStores.filter(store => {
+      const nameMatch = store.name.toLowerCase().includes(query);
+      const addressMatch = (store.address || '').toLowerCase().includes(query);
+      const coordsMatch = `${store.lat},${store.lon}`.includes(query);
+      return nameMatch || addressMatch || coordsMatch;
+    }).slice(0, 5); // Show top 5 suggestions
+  }, [searchQuery, uniqueStores]);
+
+  // When a store is selected, find the active games near it
+  const gamesNearStore = useMemo(() => {
+    if (!selectedStore) return [];
+    return activeMatches.filter(match => 
+      match.nearby_stores.some(s => s.lat === selectedStore.lat && s.lon === selectedStore.lon)
+    );
+  }, [selectedStore, activeMatches]);
+
   if (loading) return null;
 
   if (!isAuthenticated) {
     return <Login onLogin={() => setIsAuthenticated(true)} />;
   }
 
-  const now = new Date()
-  const sortedMatches = [...matches]
-    .map(m => {
-      const parts = m.date.split(' ')
-      const [d, mo, y] = parts[0].split('.')
-      return { ...m, _parsedDate: new Date(`${y}-${mo}-${d}T${parts[1]}:00`) }
-    })
-    .filter(m => m._parsedDate > now)
-    .sort((a, b) => a._parsedDate - b._parsedDate)
+  // Handle store selection
+  const handleStoreSelect = (store) => {
+    setSelectedStore(store);
+    setSearchQuery('');
+  };
+
+  const handleBackToSearch = () => {
+    setSelectedStore(null);
+  };
 
   return (
     <div className="dashboard-container">
-      <header className="flex justify-between items-center w-full max-w-7xl mx-auto px-6 mb-8 pt-6">
-        <div>
+      <header>
+        <div className="logo-section">
           <h1>GamePrep</h1>
-          <p className="subtitle">Liga Portugal & Pingo Doce Store Finder</p>
         </div>
         <button 
           onClick={handleLogout}
-          className="flex items-center gap-2 px-4 py-2 bg-white/5 border border-white/10 rounded-lg text-gray-400 hover:text-white hover:bg-white/10 transition-all text-sm"
+          className="logout-btn"
         >
           <LogOut size={16} />
-          Sair
         </button>
       </header>
 
-      <div className="games-grid">
-        {sortedMatches.map((match, index) => (
-          <div key={match.matchId} className="match-card" style={{ animationDelay: `${index * 0.1}s` }}>
-            <div className="match-date">
-              <div style={{ display: 'flex', alignItems: 'center' }}>
-                <Calendar size={14} style={{ marginRight: '0.4rem' }} />
-                {match.date}
-              </div>
-              <span className="league-badge">{match.league}</span>
-            </div>
-            
-            <div className="teams-display">
-              <span>{match.home_team}</span>
-              <span className="vs">VS</span>
-              <span>{match.away_team}</span>
-            </div>
+      <main className="main-content">
+        {!selectedStore ? (
+          // --- LANDING MODE ---
+          <div className="search-landing">
+             <div className="landing-titles">
+                <h2>Find your Pingo Doce</h2>
+                <p>Discover professional football matches nearby</p>
+             </div>
+             
+             <div className="search-container">
+               <div className="search-input-wrapper">
+                 <Search size={20} className="search-icon" />
+                 <input 
+                   type="text" 
+                   className="store-search-input"
+                   placeholder="Search store name, address, or postal code..." 
+                   value={searchQuery}
+                   onChange={(e) => setSearchQuery(e.target.value)}
+                 />
+               </div>
 
-            <div className="stadium-info">
-              <Trophy size={16} color="#484f58" />
-              <span>{match.stadium}</span>
-            </div>
-
-            <div className="pingo-doce-title">
-              <ShoppingBag size={14} />
-              Nearby Pingo Doce
-            </div>
-
-            {match.nearby_stores.length > 0 ? (
-              match.nearby_stores.map((store, sIdx) => (
-                <div key={sIdx} className="store-item">
-                  <div className="store-name">
-                    {store.name}
-                    <span className="distance">{store.distance_km} km</span>
-                  </div>
-                  <div className="store-address">
-                    {store.address || "Endereço verificado pelo mapa"}
-                  </div>
-                  <div className="store-schedule">
-                    <Clock size={12} style={{ color: '#27ae60' }} />
-                    {store.schedule === 'N/A' ? 'Check hours online' : store.schedule.split(';')[0]}
-                  </div>
-                  <div 
-                    onClick={() => window.open(`https://www.google.com/maps/dir/?api=1&destination=${store.lat},${store.lon}`, '_blank')}
-                    className="store-schedule" 
-                    style={{ marginTop: '0.4rem', color: '#1a73e8', cursor: 'pointer', fontWeight: 600 }}
-                  >
-                    <Navigation size={12} />
-                    Abrir no Google Maps
-                  </div>
-                </div>
-              ))
-            ) : (
-              <div className="no-stores">Nenhuma loja encontrada nas proximidades</div>
-            )}
+               {searchQuery.trim() && (
+                 <div className="search-suggestions">
+                   {searchResults.length > 0 ? (
+                     searchResults.map((store, idx) => (
+                       <div key={idx} className="suggestion-item" onClick={() => handleStoreSelect(store)}>
+                         <ShoppingBag size={16} className="suggestion-icon" />
+                         <div className="suggestion-content">
+                           <span className="suggestion-name">{store.name}</span>
+                           <span className="suggestion-address">{store.address || "Address not available"}</span>
+                         </div>
+                       </div>
+                     ))
+                   ) : (
+                     <div className="no-results">
+                       There is no Game in the close future for the searched store or the searched store doesn't exist.
+                     </div>
+                   )}
+                 </div>
+               )}
+             </div>
           </div>
-        ))}
-      </div>
+        ) : (
+          // --- RESULTS MODE ---
+          <div className="results-view">
+             <button className="back-btn" onClick={handleBackToSearch}>
+               <ArrowLeft size={16} />
+               <span>Back to Search</span>
+             </button>
+
+             <div className="selected-store-header">
+               <h2>{selectedStore.name}</h2>
+               <p><MapPin size={14} className="inline mr-1"/> {selectedStore.address || "Location verified"}</p>
+               <span className="schedule-badge">
+                 <Clock size={12} /> {selectedStore.schedule === 'N/A' ? 'Check hours online' : selectedStore.schedule.split(';')[0]}
+               </span>
+             </div>
+
+             <h3 className="section-title">Upcoming Games Nearby</h3>
+             <div className="games-grid">
+               {gamesNearStore.map((match, index) => (
+                 <div key={match.matchId} className="match-card" style={{ animationDelay: `${index * 0.05}s` }}>
+                   <div className="match-date">
+                     <div style={{ display: 'flex', alignItems: 'center' }}>
+                       <Calendar size={14} style={{ marginRight: '0.4rem' }} />
+                       {match.date}
+                     </div>
+                     <span className="league-badge">{match.league}</span>
+                   </div>
+                   
+                   <div className="teams-display">
+                     <span>{match.home_team}</span>
+                     <span className="vs">VS</span>
+                     <span>{match.away_team}</span>
+                   </div>
+
+                   <div className="stadium-info">
+                     <Trophy size={16} color="#8b949e" />
+                     <span>{match.stadium}</span>
+                     {/* Show distance specific to this match's stadium and the selected store */}
+                     <span className="distance-info">
+                       {match.nearby_stores.find(s => s.lat === selectedStore.lat && s.lon === selectedStore.lon)?.distance_km} km away
+                     </span>
+                   </div>
+                 </div>
+               ))}
+             </div>
+          </div>
+        )}
+      </main>
     </div>
   )
 }

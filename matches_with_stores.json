@@ -4,6 +4,7 @@
     "date": "06.04.2026 18:45",
     "home_team": "Arouca",
     "away_team": "Estoril",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio Municipal de Arouca",
     "stadium_lat": 40.9231,
     "stadium_lon": -8.2464,
@@ -15,22 +16,34 @@
         "lat": 40.9285861,
         "lon": -8.2484708,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "zPcNPRA6",
+    "date": "11.04.2026 18:00",
+    "home_team": "Santa Clara",
+    "away_team": "Rio Ave",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio de São Miguel",
+    "stadium_lat": 37.7475,
+    "stadium_lon": -25.6472,
+    "nearby_stores": [
+      {
+        "name": "Avenida Ponta Delgada - Açores",
+        "address": "9500-764",
+        "distance_km": 1.72,
+        "lat": 37.7401121,
+        "lon": -25.6644029,
+        "schedule": "Mo-Su 08:30-20:00; easter 08:30-15:00"
       },
       {
-        "name": "São João da Madeira - Rua Visconde",
-        "address": "3700-267",
-        "distance_km": 20.82,
-        "lat": 40.8982811,
-        "lon": -8.4919721,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Oliveira de Azeméis - Shopping Rainha",
-        "address": "3720-232",
-        "distance_km": 21.76,
-        "lat": 40.8387339,
-        "lon": -8.4799994,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Capelas - Açores",
+        "address": "9545-108",
+        "distance_km": 9.95,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "Mo-Su 08:30-20:30; easter 08:30-15:00"
       }
     ]
   },
@@ -39,14 +52,15 @@
     "date": "10.04.2026 20:45",
     "home_team": "Famalicão",
     "away_team": "Moreirense",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio Municipal de Famalicão",
-    "stadium_lat": 41.4028,
-    "stadium_lon": -8.5242,
+    "stadium_lat": 41.408,
+    "stadium_lon": -8.5198,
     "nearby_stores": [
       {
         "name": "Trofa - Shopping",
         "address": "4785-333",
-        "distance_km": 7.76,
+        "distance_km": 8.44,
         "lat": 41.3386536,
         "lon": -8.5609241,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -54,7 +68,7 @@
       {
         "name": "Trofa - Santiago de Bougado",
         "address": "4785-699",
-        "distance_km": 9.2,
+        "distance_km": 9.88,
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
@@ -62,44 +76,9 @@
       {
         "name": "Vila das Aves",
         "address": "4795-001",
-        "distance_km": 10.64,
+        "distance_km": 10.54,
         "lat": 41.3668852,
         "lon": -8.4059383,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "z3MnDlR0",
-    "date": "11.04.2026 15:30",
-    "home_team": "AFS",
-    "away_team": "Vitória SC",
-    "stadium": "Estádio do CD Aves",
-    "stadium_lat": 41.3458,
-    "stadium_lon": -8.3975,
-    "nearby_stores": [
-      {
-        "name": "Vila das Aves",
-        "address": "4795-001",
-        "distance_km": 2.45,
-        "lat": 41.3668852,
-        "lon": -8.4059383,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Riba de Ave",
-        "address": "4765-213",
-        "distance_km": 5.54,
-        "lat": 41.3952804,
-        "lon": -8.3902594,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Guimarães - Av. D. João IV",
-        "address": "4810-225",
-        "distance_km": 13.51,
-        "lat": 41.4379641,
-        "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -109,6 +88,7 @@
     "date": "06.04.2026 20:45",
     "home_team": "Casa Pia AC",
     "away_team": "Benfica",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio Pina Manique",
     "stadium_lat": 38.7375,
     "stadium_lon": -9.2039,
@@ -140,37 +120,38 @@
     ]
   },
   {
-    "matchId": "zPcNPRA6",
-    "date": "11.04.2026 18:00",
-    "home_team": "Santa Clara",
-    "away_team": "Rio Ave",
-    "stadium": "Estádio de São Miguel",
-    "stadium_lat": 37.7471,
-    "stadium_lon": -25.6558,
+    "matchId": "z3MnDlR0",
+    "date": "11.04.2026 15:30",
+    "home_team": "AFS",
+    "away_team": "Vitória SC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio do CD Aves",
+    "stadium_lat": 41.3639,
+    "stadium_lon": -8.4101,
     "nearby_stores": [
       {
-        "name": "Avenida Ponta Delgada - Açores",
-        "address": "9500-764",
-        "distance_km": 1.08,
-        "lat": 37.7401121,
-        "lon": -25.6644029,
-        "schedule": "Mo-Su 08:30-20:00; easter 08:30-15:00"
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 0.48,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Capelas - Açores",
-        "address": "9545-108",
-        "distance_km": 9.75,
-        "lat": 37.8311834,
-        "lon": -25.6872102,
-        "schedule": "Mo-Su 08:30-20:30; easter 08:30-15:00"
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 3.86,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Santa Maria - Açores",
-        "address": "Rua Doutor Luís Bettencourt, 9580-522 Vila do Porto",
-        "distance_km": 99.22,
-        "lat": 36.953517,
-        "lon": -25.1426809,
-        "schedule": "Mo-Su 08:00-20:00; easter 08:00-15:00"
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 9.88,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
       }
     ]
   },
@@ -179,102 +160,33 @@
     "date": "11.04.2026 20:30",
     "home_team": "Estrela da Amadora",
     "away_team": "Sporting CP",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio José Gomes",
-    "stadium_lat": 38.7495,
-    "stadium_lon": -9.2455,
+    "stadium_lat": 38.7507,
+    "stadium_lon": -9.2275,
     "nearby_stores": [
       {
-        "name": "Queluz - António Enes",
-        "address": "Rua António Enes, 2745-067 Sintra",
-        "distance_km": 1.21,
-        "lat": 38.7572798,
-        "lon": -9.2552992,
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.25,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
         "name": "Amadora",
         "address": "2700-336",
-        "distance_km": 1.33,
+        "distance_km": 1.38,
         "lat": 38.759968,
         "lon": -9.2380081,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Queluz - Monte Abraão",
-        "address": "2745-281",
-        "distance_km": 1.83,
-        "lat": 38.7611431,
-        "lon": -9.2603449,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "rk1VN5uJ",
-    "date": "12.04.2026 18:00",
-    "home_team": "Benfica",
-    "away_team": "Nacional",
-    "stadium": "Estádio da Luz",
-    "stadium_lat": 38.7525,
-    "stadium_lon": -9.1849,
-    "nearby_stores": [
-      {
-        "name": "Torres da Luz",
-        "address": "1500-662",
-        "distance_km": 0.39,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Fonte Nova",
-        "address": "1500-083",
-        "distance_km": 0.67,
-        "lat": 38.7485112,
-        "lon": -9.1906699,
-        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
-      },
-      {
-        "name": "Benfica",
-        "address": "Avenida do Uruguai, 1500-615 Lisboa",
-        "distance_km": 0.96,
-        "lat": 38.7538891,
-        "lon": -9.1957808,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "OAN8KWYQ",
-    "date": "12.04.2026 18:00",
-    "home_team": "Braga",
-    "away_team": "Arouca",
-    "stadium": "Estádio Municipal de Braga",
-    "stadium_lat": 41.5606,
-    "stadium_lon": -8.4286,
-    "nearby_stores": [
-      {
-        "name": "Braga Dume",
-        "address": "4700-442",
-        "distance_km": 0.73,
-        "lat": 41.554293,
-        "lon": -8.4311409,
-        "schedule": "24/7"
-      },
-      {
-        "name": "Braga - Pachancho",
-        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
-        "distance_km": 1.02,
-        "lat": 41.5583489,
-        "lon": -8.4167765,
-        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
-      },
-      {
-        "name": "Braga - Avenida da Liberdade",
-        "address": "4710-308",
-        "distance_km": 1.54,
-        "lat": 41.5476654,
-        "lon": -8.4218305,
+        "name": "Serra da Mira",
+        "address": "Estrada da Serra da Mira, 2700-364 Amadora",
+        "distance_km": 1.72,
+        "lat": 38.7659572,
+        "lon": -9.231061,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -284,14 +196,15 @@
     "date": "12.04.2026 15:30",
     "home_team": "Alverca",
     "away_team": "Casa Pia AC",
+    "league": "Liga Portugal Betclic",
     "stadium": "Complexo Desportivo FC Alverca",
-    "stadium_lat": 38.8878,
-    "stadium_lon": -9.0345,
+    "stadium_lat": 38.89,
+    "stadium_lon": -9.04,
     "nearby_stores": [
       {
         "name": "Alverca - Super",
         "address": "Rua Brigadeiro Fernando Alberto de Oliveira, 2615-077 Vila Franca de Xira",
-        "distance_km": 0.87,
+        "distance_km": 0.54,
         "lat": 38.8947812,
         "lon": -9.0390566,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -299,7 +212,7 @@
       {
         "name": "Sobralinho",
         "address": "2615-042",
-        "distance_km": 2.43,
+        "distance_km": 2.36,
         "lat": 38.9090451,
         "lon": -9.0280688,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -307,7 +220,7 @@
       {
         "name": "Tágides Park",
         "address": "2625-239",
-        "distance_km": 5.14,
+        "distance_km": 4.99,
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
@@ -315,72 +228,74 @@
     ]
   },
   {
-    "matchId": "dIAeBSeD",
-    "date": "12.04.2026 20:30",
-    "home_team": "Estoril",
-    "away_team": "FC Porto",
-    "stadium": "Estádio António Coimbra da Mota",
-    "stadium_lat": 38.7062,
-    "stadium_lon": -9.3957,
+    "matchId": "OAN8KWYQ",
+    "date": "12.04.2026 18:00",
+    "home_team": "Braga",
+    "away_team": "Arouca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Braga",
+    "stadium_lat": 41.5641,
+    "stadium_lon": -8.4312,
     "nearby_stores": [
       {
-        "name": "Alapraia",
-        "address": "2765-088",
-        "distance_km": 1.52,
-        "lat": 38.7048573,
-        "lon": -9.3782281,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Braga Dume",
+        "address": "4700-442",
+        "distance_km": 1.09,
+        "lat": 41.554293,
+        "lon": -8.4311409,
+        "schedule": "24/7"
       },
       {
-        "name": "Cascais - Castelhana",
-        "address": "Rua Outeiro, 2755-287 Alcabideche",
-        "distance_km": 1.71,
-        "lat": 38.7126473,
-        "lon": -9.4136311,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+        "name": "Braga - Pachancho",
+        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
+        "distance_km": 1.36,
+        "lat": 41.5583489,
+        "lon": -8.4167765,
+        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
       },
       {
-        "name": "Alvide",
-        "address": "2755-030",
-        "distance_km": 2.66,
-        "lat": 38.7149963,
-        "lon": -9.4241949,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+        "name": "Braga - Avenida da Liberdade",
+        "address": "4710-308",
+        "distance_km": 1.99,
+        "lat": 41.5476654,
+        "lon": -8.4218305,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
   {
-    "matchId": "lSNdvRPa",
-    "date": "18.04.2026 15:30",
-    "home_team": "Nacional",
-    "away_team": "Alverca",
-    "stadium": "Estádio da Madeira",
-    "stadium_lat": 32.6669,
-    "stadium_lon": -16.8929,
+    "matchId": "rk1VN5uJ",
+    "date": "12.04.2026 18:00",
+    "home_team": "Benfica",
+    "away_team": "Nacional",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Luz",
+    "stadium_lat": 38.7527,
+    "stadium_lon": -9.1847,
     "nearby_stores": [
       {
-        "name": "Super Anadia",
-        "address": "Rua Doutor Fernão de Ornelas, 9050-020 Funchal",
-        "distance_km": 2.24,
-        "lat": 32.6493136,
-        "lon": -16.9046475,
-        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 0.36,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Super Penteada",
-        "address": "9000-000 Funchal",
-        "distance_km": 3.37,
-        "lat": 32.663472,
-        "lon": -16.9286424,
-        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 0.7,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
       },
       {
-        "name": "Super Cancela",
-        "address": "Estrada do Garajau, 9125-067 Caniço",
-        "distance_km": 4.03,
-        "lat": 32.646567,
-        "lon": -16.8572958,
-        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 0.97,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -389,33 +304,118 @@
     "date": "13.04.2026 20:15",
     "home_team": "Tondela",
     "away_team": "Gil Vicente",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio João Cardoso",
-    "stadium_lat": 40.5119,
-    "stadium_lon": -8.0827,
+    "stadium_lat": 40.5168,
+    "stadium_lon": -8.0809,
     "nearby_stores": [
       {
         "name": "Tondela",
         "address": "3460-482 Tondela",
-        "distance_km": 1.98,
+        "distance_km": 1.52,
         "lat": 40.5291489,
         "lon": -8.0885299,
         "schedule": "Mo-Su 09:00-20:30"
+      }
+    ]
+  },
+  {
+    "matchId": "dIAeBSeD",
+    "date": "12.04.2026 20:30",
+    "home_team": "Estoril",
+    "away_team": "FC Porto",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio António Coimbra da Mota",
+    "stadium_lat": 38.7153,
+    "stadium_lon": -9.4064,
+    "nearby_stores": [
+      {
+        "name": "Estoril Amoreira",
+        "address": "2765-131",
+        "distance_km": 0.11,
+        "lat": 38.71466144581646,
+        "lon": -9.405444503708345,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       },
       {
-        "name": "Viseu - Rua Mendonça",
-        "address": "3510-156",
-        "distance_km": 21.22,
-        "lat": 40.6529006,
-        "lon": -7.9133005,
+        "name": "Cascais - Castelhana",
+        "address": "Rua Outeiro, 2755-287 Alcabideche",
+        "distance_km": 0.69,
+        "lat": 38.7126473,
+        "lon": -9.4136311,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Viseu Forum",
-        "address": "3510-153",
-        "distance_km": 21.96,
-        "lat": 40.6621965,
-        "lon": -7.9139805,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
+        "name": "Alvide",
+        "address": "2755-030",
+        "distance_km": 1.54,
+        "lat": 38.7149963,
+        "lon": -9.4241949,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "OpvIo9XP",
+    "date": "17.04.2026 20:45",
+    "home_team": "Rio Ave",
+    "away_team": "AFS",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio dos Arcos",
+    "stadium_lat": 41.3653,
+    "stadium_lon": -8.7428,
+    "nearby_stores": [
+      {
+        "name": "Lavra",
+        "address": "4455-089",
+        "distance_km": 12.7,
+        "lat": 41.2541763,
+        "lon": -8.7077434,
+        "schedule": "PH,Mo-Su 08:30-21:00"
+      },
+      {
+        "name": "Moreira da Maia",
+        "address": "Travessa Manuel Batista Barros, 4470-605 Moreira",
+        "distance_km": 14.49,
+        "lat": 41.2553145,
+        "lon": -8.6498178,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "lSNdvRPa",
+    "date": "18.04.2026 15:30",
+    "home_team": "Nacional",
+    "away_team": "Alverca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Madeira",
+    "stadium_lat": 32.6841,
+    "stadium_lon": -16.9039,
+    "nearby_stores": [
+      {
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.26,
+        "lat": 32.663472,
+        "lon": -16.9286424,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "Rua Doutor Fernão de Ornelas, 9050-020 Funchal",
+        "distance_km": 3.87,
+        "lat": 32.6493136,
+        "lon": -16.9046475,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho das Romeiras, 9000-000 Funchal",
+        "distance_km": 4.0,
+        "lat": 32.6638705,
+        "lon": -16.9392715,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
       }
     ]
   },
@@ -424,6 +424,7 @@
     "date": "18.04.2026 18:00",
     "home_team": "Casa Pia AC",
     "away_team": "Santa Clara",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio Pina Manique",
     "stadium_lat": 38.7375,
     "stadium_lon": -9.2039,
@@ -455,80 +456,11 @@
     ]
   },
   {
-    "matchId": "OpvIo9XP",
-    "date": "17.04.2026 20:45",
-    "home_team": "Rio Ave",
-    "away_team": "AFS",
-    "stadium": "Estádio do Rio Ave FC",
-    "stadium_lat": 41.3547,
-    "stadium_lon": -8.741,
-    "nearby_stores": [
-      {
-        "name": "Lavra",
-        "address": "4455-089",
-        "distance_km": 11.52,
-        "lat": 41.2541763,
-        "lon": -8.7077434,
-        "schedule": "PH,Mo-Su 08:30-21:00"
-      },
-      {
-        "name": "Moreira da Maia",
-        "address": "Travessa Manuel Batista Barros, 4470-605 Moreira",
-        "distance_km": 13.42,
-        "lat": 41.2553145,
-        "lon": -8.6498178,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Quiosque do Pingo Doce",
-        "address": "",
-        "distance_km": 14.54,
-        "lat": 41.2645528,
-        "lon": -8.6149529,
-        "schedule": "N/A"
-      }
-    ]
-  },
-  {
-    "matchId": "8WfNfnAt",
-    "date": "18.04.2026 20:30",
-    "home_team": "Gil Vicente",
-    "away_team": "Vitória SC",
-    "stadium": "Estádio Cidade de Barcelos",
-    "stadium_lat": 41.5284,
-    "stadium_lon": -8.6111,
-    "nearby_stores": [
-      {
-        "name": "Braga Dume",
-        "address": "4700-442",
-        "distance_km": 15.25,
-        "lat": 41.554293,
-        "lon": -8.4311409,
-        "schedule": "24/7"
-      },
-      {
-        "name": "Braga - Avenida da Liberdade",
-        "address": "4710-308",
-        "distance_km": 15.9,
-        "lat": 41.5476654,
-        "lon": -8.4218305,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Braga - Pachancho",
-        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
-        "distance_km": 16.51,
-        "lat": 41.5583489,
-        "lon": -8.4167765,
-        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
-      }
-    ]
-  },
-  {
     "matchId": "UoqWhQvg",
     "date": "19.04.2026 15:30",
     "home_team": "Arouca",
     "away_team": "Estrela da Amadora",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio Municipal de Arouca",
     "stadium_lat": 40.9231,
     "stadium_lon": -8.2464,
@@ -540,21 +472,69 @@
         "lat": 40.9285861,
         "lon": -8.2484708,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "8WfNfnAt",
+    "date": "18.04.2026 20:30",
+    "home_team": "Gil Vicente",
+    "away_team": "Vitória SC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Cidade de Barcelos",
+    "stadium_lat": 41.5513,
+    "stadium_lon": -8.6231,
+    "nearby_stores": [
+      {
+        "name": "Barcelos - Alcaides de Faria",
+        "address": "Rua Dom Afonso, 4750-106",
+        "distance_km": 2.0,
+        "lat": 41.53543995405378,
+        "lon": -8.611857934184318,
+        "schedule": "Mo-Su 08:00-21:00"
       },
       {
-        "name": "São João da Madeira - Rua Visconde",
-        "address": "3700-267",
-        "distance_km": 20.82,
-        "lat": 40.8982811,
-        "lon": -8.4919721,
+        "name": "Barcelos",
+        "address": "4750-292",
+        "distance_km": 2.14,
+        "lat": 41.53205889475607,
+        "lon": -8.623114303503492,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "I7FDzqPO",
+    "date": "19.04.2026 18:00",
+    "home_team": "Sporting CP",
+    "away_team": "Benfica",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio José Alvalade",
+    "stadium_lat": 38.7612,
+    "stadium_lon": -9.1607,
+    "nearby_stores": [
+      {
+        "name": "Parque Europa",
+        "address": "Avenida Maria Helena Vieira da Silva, 1750-336 Lumiar",
+        "distance_km": 0.89,
+        "lat": 38.7669675,
+        "lon": -9.1536025,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Galhardas",
+        "address": "1600-213",
+        "distance_km": 0.98,
+        "lat": 38.7534094,
+        "lon": -9.1658605,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
-        "name": "Oliveira de Azeméis - Shopping Rainha",
-        "address": "3720-232",
-        "distance_km": 21.76,
-        "lat": 40.8387339,
-        "lon": -8.4799994,
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.55,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -564,14 +544,15 @@
     "date": "19.04.2026 20:30",
     "home_team": "Braga",
     "away_team": "Famalicão",
+    "league": "Liga Portugal Betclic",
     "stadium": "Estádio Municipal de Braga",
-    "stadium_lat": 41.5606,
-    "stadium_lon": -8.4286,
+    "stadium_lat": 41.5641,
+    "stadium_lon": -8.4312,
     "nearby_stores": [
       {
         "name": "Braga Dume",
         "address": "4700-442",
-        "distance_km": 0.73,
+        "distance_km": 1.09,
         "lat": 41.554293,
         "lon": -8.4311409,
         "schedule": "24/7"
@@ -579,7 +560,7 @@
       {
         "name": "Braga - Pachancho",
         "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
-        "distance_km": 1.02,
+        "distance_km": 1.36,
         "lat": 41.5583489,
         "lon": -8.4167765,
         "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
@@ -587,79 +568,9 @@
       {
         "name": "Braga - Avenida da Liberdade",
         "address": "4710-308",
-        "distance_km": 1.54,
+        "distance_km": 1.99,
         "lat": 41.5476654,
         "lon": -8.4218305,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "2Ddwi495",
-    "date": "19.04.2026 20:30",
-    "home_team": "FC Porto",
-    "away_team": "Tondela",
-    "stadium": "Estádio do Dragão",
-    "stadium_lat": 41.1618,
-    "stadium_lon": -8.5839,
-    "nearby_stores": [
-      {
-        "name": "São Roque da Lameira Porto",
-        "address": "4350-307",
-        "distance_km": 0.37,
-        "lat": 41.1584656,
-        "lon": -8.5833453,
-        "schedule": "Mo-Su 07:00-22:00"
-      },
-      {
-        "name": "Velasques",
-        "address": "Praça de Francisco Sá Carneiro, 4200-313 Porto",
-        "distance_km": 0.77,
-        "lat": 41.1628775,
-        "lon": -8.5929753,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Salgueiros Paranhos",
-        "address": "Rua de Aval de Baixo, 4200-099 Paranhos",
-        "distance_km": 1.38,
-        "lat": 41.1679272,
-        "lon": -8.5982629,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      }
-    ]
-  },
-  {
-    "matchId": "I7FDzqPO",
-    "date": "19.04.2026 18:00",
-    "home_team": "Sporting CP",
-    "away_team": "Benfica",
-    "stadium": "Estádio José Alvalade",
-    "stadium_lat": 38.761,
-    "stadium_lon": -9.1609,
-    "nearby_stores": [
-      {
-        "name": "Parque Europa",
-        "address": "Avenida Maria Helena Vieira da Silva, 1750-336 Lumiar",
-        "distance_km": 0.92,
-        "lat": 38.7669675,
-        "lon": -9.1536025,
-        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
-      },
-      {
-        "name": "Galhardas",
-        "address": "1600-213",
-        "distance_km": 0.95,
-        "lat": 38.7534094,
-        "lon": -9.1658605,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
-      {
-        "name": "Estrada Da Luz",
-        "address": "Rua Abranches Ferrão, 1600-001",
-        "distance_km": 1.52,
-        "lat": 38.7503335,
-        "lon": -9.1719107,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -669,33 +580,1418 @@
     "date": "20.04.2026 20:15",
     "home_team": "Moreirense",
     "away_team": "Estoril",
-    "stadium": "Estádio Com. Joaquim de Almeida Freitas",
-    "stadium_lat": 41.4363,
-    "stadium_lon": -8.3562,
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Comendador Joaquim de Almeida Freitas",
+    "stadium_lat": 41.3789,
+    "stadium_lon": -8.3589,
     "nearby_stores": [
-      {
-        "name": "Guimarães - Av. D. João IV",
-        "address": "4810-225",
-        "distance_km": 5.36,
-        "lat": 41.4379641,
-        "lon": -8.2919309,
-        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
-      },
       {
         "name": "Riba de Ave",
         "address": "4765-213",
-        "distance_km": 5.37,
+        "distance_km": 3.19,
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       },
       {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 4.15,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 8.62,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "2Ddwi495",
+    "date": "19.04.2026 20:30",
+    "home_team": "FC Porto",
+    "away_team": "Tondela",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio do Dragão",
+    "stadium_lat": 41.1617,
+    "stadium_lon": -8.5835,
+    "nearby_stores": [
+      {
+        "name": "São Roque da Lameira Porto",
+        "address": "4350-307",
+        "distance_km": 0.36,
+        "lat": 41.1584656,
+        "lon": -8.5833453,
+        "schedule": "Mo-Su 07:00-22:00"
+      },
+      {
+        "name": "Velasques",
+        "address": "Praça de Francisco Sá Carneiro, 4200-313 Porto",
+        "distance_km": 0.8,
+        "lat": 41.1628775,
+        "lon": -8.5929753,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Salgueiros Paranhos",
+        "address": "Rua de Aval de Baixo, 4200-099 Paranhos",
+        "distance_km": 1.42,
+        "lat": 41.1679272,
+        "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "n3qAtdZO",
+    "date": "23.04.2026 20:15",
+    "home_team": "Casa Pia AC",
+    "away_team": "Braga",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
+    "nearby_stores": [
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      }
+    ]
+  },
+  {
+    "matchId": "WjJm7Ga3",
+    "date": "26.04.2026 17:00",
+    "home_team": "Alverca",
+    "away_team": "Arouca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Complexo Desportivo FC Alverca",
+    "stadium_lat": 38.89,
+    "stadium_lon": -9.04,
+    "nearby_stores": [
+      {
+        "name": "Alverca - Super",
+        "address": "Rua Brigadeiro Fernando Alberto de Oliveira, 2615-077 Vila Franca de Xira",
+        "distance_km": 0.54,
+        "lat": 38.8947812,
+        "lon": -9.0390566,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Sobralinho",
+        "address": "2615-042",
+        "distance_km": 2.36,
+        "lat": 38.9090451,
+        "lon": -9.0280688,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Tágides Park",
+        "address": "2625-239",
+        "distance_km": 4.99,
+        "lat": 38.8561622,
+        "lon": -9.0778001,
+        "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "CnnNjeFM",
+    "date": "26.04.2026 17:00",
+    "home_team": "AFS",
+    "away_team": "Sporting CP",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio do CD Aves",
+    "stadium_lat": 41.3639,
+    "stadium_lon": -8.4101,
+    "nearby_stores": [
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 0.48,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 3.86,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 9.88,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "rVxgoZxp",
+    "date": "26.04.2026 17:00",
+    "home_team": "Estoril",
+    "away_team": "Famalicão",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio António Coimbra da Mota",
+    "stadium_lat": 38.7153,
+    "stadium_lon": -9.4064,
+    "nearby_stores": [
+      {
+        "name": "Estoril Amoreira",
+        "address": "2765-131",
+        "distance_km": 0.11,
+        "lat": 38.71466144581646,
+        "lon": -9.405444503708345,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Cascais - Castelhana",
+        "address": "Rua Outeiro, 2755-287 Alcabideche",
+        "distance_km": 0.69,
+        "lat": 38.7126473,
+        "lon": -9.4136311,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvide",
+        "address": "2755-030",
+        "distance_km": 1.54,
+        "lat": 38.7149963,
+        "lon": -9.4241949,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "jgZl5fUF",
+    "date": "26.04.2026 17:00",
+    "home_team": "Benfica",
+    "away_team": "Moreirense",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Luz",
+    "stadium_lat": 38.7527,
+    "stadium_lon": -9.1847,
+    "nearby_stores": [
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 0.36,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 0.7,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 0.97,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "vcW1qD7d",
+    "date": "26.04.2026 17:00",
+    "home_team": "Estrela da Amadora",
+    "away_team": "FC Porto",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio José Gomes",
+    "stadium_lat": 38.7507,
+    "stadium_lon": -9.2275,
+    "nearby_stores": [
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.25,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Amadora",
+        "address": "2700-336",
+        "distance_km": 1.38,
+        "lat": 38.759968,
+        "lon": -9.2380081,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Serra da Mira",
+        "address": "Estrada da Serra da Mira, 2700-364 Amadora",
+        "distance_km": 1.72,
+        "lat": 38.7659572,
+        "lon": -9.231061,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "jXcEhHpA",
+    "date": "26.04.2026 17:00",
+    "home_team": "Santa Clara",
+    "away_team": "Braga",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio de São Miguel",
+    "stadium_lat": 37.7475,
+    "stadium_lon": -25.6472,
+    "nearby_stores": [
+      {
+        "name": "Avenida Ponta Delgada - Açores",
+        "address": "9500-764",
+        "distance_km": 1.72,
+        "lat": 37.7401121,
+        "lon": -25.6644029,
+        "schedule": "Mo-Su 08:30-20:00; easter 08:30-15:00"
+      },
+      {
+        "name": "Capelas - Açores",
+        "address": "9545-108",
+        "distance_km": 9.95,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "Mo-Su 08:30-20:30; easter 08:30-15:00"
+      }
+    ]
+  },
+  {
+    "matchId": "URCJWZNj",
+    "date": "26.04.2026 17:00",
+    "home_team": "Gil Vicente",
+    "away_team": "Casa Pia AC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Cidade de Barcelos",
+    "stadium_lat": 41.5513,
+    "stadium_lon": -8.6231,
+    "nearby_stores": [
+      {
+        "name": "Barcelos - Alcaides de Faria",
+        "address": "Rua Dom Afonso, 4750-106",
+        "distance_km": 2.0,
+        "lat": 41.53543995405378,
+        "lon": -8.611857934184318,
+        "schedule": "Mo-Su 08:00-21:00"
+      },
+      {
+        "name": "Barcelos",
+        "address": "4750-292",
+        "distance_km": 2.14,
+        "lat": 41.53205889475607,
+        "lon": -8.623114303503492,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "pze6fwGc",
+    "date": "26.04.2026 17:00",
+    "home_team": "Tondela",
+    "away_team": "Nacional",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio João Cardoso",
+    "stadium_lat": 40.5168,
+    "stadium_lon": -8.0809,
+    "nearby_stores": [
+      {
+        "name": "Tondela",
+        "address": "3460-482 Tondela",
+        "distance_km": 1.52,
+        "lat": 40.5291489,
+        "lon": -8.0885299,
+        "schedule": "Mo-Su 09:00-20:30"
+      }
+    ]
+  },
+  {
+    "matchId": "bJxc3YbS",
+    "date": "26.04.2026 17:00",
+    "home_team": "Vitória SC",
+    "away_team": "Rio Ave",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio D. Afonso Henriques",
+    "stadium_lat": 41.4464,
+    "stadium_lon": -8.3011,
+    "nearby_stores": [
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 1.21,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
         "name": "Caldas das Taipas-Guimarães",
         "address": "4801-908",
-        "distance_km": 5.73,
+        "distance_km": 6.44,
         "lat": 41.487789,
         "lon": -8.3551167,
         "schedule": "Mo-Su 09:00-21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.36,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "j7ENJgq9",
+    "date": "03.05.2026 17:00",
+    "home_team": "FC Porto",
+    "away_team": "Alverca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio do Dragão",
+    "stadium_lat": 41.1617,
+    "stadium_lon": -8.5835,
+    "nearby_stores": [
+      {
+        "name": "São Roque da Lameira Porto",
+        "address": "4350-307",
+        "distance_km": 0.36,
+        "lat": 41.1584656,
+        "lon": -8.5833453,
+        "schedule": "Mo-Su 07:00-22:00"
+      },
+      {
+        "name": "Velasques",
+        "address": "Praça de Francisco Sá Carneiro, 4200-313 Porto",
+        "distance_km": 0.8,
+        "lat": 41.1628775,
+        "lon": -8.5929753,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Salgueiros Paranhos",
+        "address": "Rua de Aval de Baixo, 4200-099 Paranhos",
+        "distance_km": 1.42,
+        "lat": 41.1679272,
+        "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "IsY4WWSE",
+    "date": "03.05.2026 17:00",
+    "home_team": "Arouca",
+    "away_team": "Santa Clara",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Arouca",
+    "stadium_lat": 40.9231,
+    "stadium_lon": -8.2464,
+    "nearby_stores": [
+      {
+        "name": "Arouca",
+        "address": "4540-102",
+        "distance_km": 0.63,
+        "lat": 40.9285861,
+        "lon": -8.2484708,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "E9RDUAcR",
+    "date": "03.05.2026 17:00",
+    "home_team": "Braga",
+    "away_team": "Estoril",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Braga",
+    "stadium_lat": 41.5641,
+    "stadium_lon": -8.4312,
+    "nearby_stores": [
+      {
+        "name": "Braga Dume",
+        "address": "4700-442",
+        "distance_km": 1.09,
+        "lat": 41.554293,
+        "lon": -8.4311409,
+        "schedule": "24/7"
+      },
+      {
+        "name": "Braga - Pachancho",
+        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
+        "distance_km": 1.36,
+        "lat": 41.5583489,
+        "lon": -8.4167765,
+        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
+      },
+      {
+        "name": "Braga - Avenida da Liberdade",
+        "address": "4710-308",
+        "distance_km": 1.99,
+        "lat": 41.5476654,
+        "lon": -8.4218305,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "CpoJ8Tz8",
+    "date": "03.05.2026 17:00",
+    "home_team": "Casa Pia AC",
+    "away_team": "Tondela",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
+    "nearby_stores": [
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      }
+    ]
+  },
+  {
+    "matchId": "r5g2CByq",
+    "date": "03.05.2026 17:00",
+    "home_team": "Famalicão",
+    "away_team": "Benfica",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Famalicão",
+    "stadium_lat": 41.408,
+    "stadium_lon": -8.5198,
+    "nearby_stores": [
+      {
+        "name": "Trofa - Shopping",
+        "address": "4785-333",
+        "distance_km": 8.44,
+        "lat": 41.3386536,
+        "lon": -8.5609241,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Trofa - Santiago de Bougado",
+        "address": "4785-699",
+        "distance_km": 9.88,
+        "lat": 41.3271147,
+        "lon": -8.5688413,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 10.54,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "n58M42kt",
+    "date": "10.05.2026 17:00",
+    "home_team": "AFS",
+    "away_team": "FC Porto",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio do CD Aves",
+    "stadium_lat": 41.3639,
+    "stadium_lon": -8.4101,
+    "nearby_stores": [
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 0.48,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 3.86,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 9.88,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "jVdAAk6e",
+    "date": "03.05.2026 17:00",
+    "home_team": "Sporting CP",
+    "away_team": "Vitória SC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio José Alvalade",
+    "stadium_lat": 38.7612,
+    "stadium_lon": -9.1607,
+    "nearby_stores": [
+      {
+        "name": "Parque Europa",
+        "address": "Avenida Maria Helena Vieira da Silva, 1750-336 Lumiar",
+        "distance_km": 0.89,
+        "lat": 38.7669675,
+        "lon": -9.1536025,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Galhardas",
+        "address": "1600-213",
+        "distance_km": 0.98,
+        "lat": 38.7534094,
+        "lon": -9.1658605,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.55,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "jHHydji2",
+    "date": "03.05.2026 17:00",
+    "home_team": "Moreirense",
+    "away_team": "Estrela da Amadora",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Comendador Joaquim de Almeida Freitas",
+    "stadium_lat": 41.3789,
+    "stadium_lon": -8.3589,
+    "nearby_stores": [
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 3.19,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 4.15,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 8.62,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "OKCVHXDL",
+    "date": "03.05.2026 17:00",
+    "home_team": "Rio Ave",
+    "away_team": "Gil Vicente",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio dos Arcos",
+    "stadium_lat": 41.3653,
+    "stadium_lon": -8.7428,
+    "nearby_stores": [
+      {
+        "name": "Lavra",
+        "address": "4455-089",
+        "distance_km": 12.7,
+        "lat": 41.2541763,
+        "lon": -8.7077434,
+        "schedule": "PH,Mo-Su 08:30-21:00"
+      },
+      {
+        "name": "Moreira da Maia",
+        "address": "Travessa Manuel Batista Barros, 4470-605 Moreira",
+        "distance_km": 14.49,
+        "lat": 41.2553145,
+        "lon": -8.6498178,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "riETcCMk",
+    "date": "03.05.2026 17:00",
+    "home_team": "Nacional",
+    "away_team": "AFS",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Madeira",
+    "stadium_lat": 32.6841,
+    "stadium_lon": -16.9039,
+    "nearby_stores": [
+      {
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.26,
+        "lat": 32.663472,
+        "lon": -16.9286424,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "Rua Doutor Fernão de Ornelas, 9050-020 Funchal",
+        "distance_km": 3.87,
+        "lat": 32.6493136,
+        "lon": -16.9046475,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho das Romeiras, 9000-000 Funchal",
+        "distance_km": 4.0,
+        "lat": 32.6638705,
+        "lon": -16.9392715,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "jc5w1Kl5",
+    "date": "10.05.2026 17:00",
+    "home_team": "Alverca",
+    "away_team": "Estoril",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Complexo Desportivo FC Alverca",
+    "stadium_lat": 38.89,
+    "stadium_lon": -9.04,
+    "nearby_stores": [
+      {
+        "name": "Alverca - Super",
+        "address": "Rua Brigadeiro Fernando Alberto de Oliveira, 2615-077 Vila Franca de Xira",
+        "distance_km": 0.54,
+        "lat": 38.8947812,
+        "lon": -9.0390566,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Sobralinho",
+        "address": "2615-042",
+        "distance_km": 2.36,
+        "lat": 38.9090451,
+        "lon": -9.0280688,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Tágides Park",
+        "address": "2625-239",
+        "distance_km": 4.99,
+        "lat": 38.8561622,
+        "lon": -9.0778001,
+        "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "676hNSk1",
+    "date": "10.05.2026 17:00",
+    "home_team": "Gil Vicente",
+    "away_team": "Arouca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Cidade de Barcelos",
+    "stadium_lat": 41.5513,
+    "stadium_lon": -8.6231,
+    "nearby_stores": [
+      {
+        "name": "Barcelos - Alcaides de Faria",
+        "address": "Rua Dom Afonso, 4750-106",
+        "distance_km": 2.0,
+        "lat": 41.53543995405378,
+        "lon": -8.611857934184318,
+        "schedule": "Mo-Su 08:00-21:00"
+      },
+      {
+        "name": "Barcelos",
+        "address": "4750-292",
+        "distance_km": 2.14,
+        "lat": 41.53205889475607,
+        "lon": -8.623114303503492,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "OA3oabJH",
+    "date": "10.05.2026 17:00",
+    "home_team": "Rio Ave",
+    "away_team": "Sporting CP",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio dos Arcos",
+    "stadium_lat": 41.3653,
+    "stadium_lon": -8.7428,
+    "nearby_stores": [
+      {
+        "name": "Lavra",
+        "address": "4455-089",
+        "distance_km": 12.7,
+        "lat": 41.2541763,
+        "lon": -8.7077434,
+        "schedule": "PH,Mo-Su 08:30-21:00"
+      },
+      {
+        "name": "Moreira da Maia",
+        "address": "Travessa Manuel Batista Barros, 4470-605 Moreira",
+        "distance_km": 14.49,
+        "lat": 41.2553145,
+        "lon": -8.6498178,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "KnEeHuZo",
+    "date": "10.05.2026 17:00",
+    "home_team": "Benfica",
+    "away_team": "Braga",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Luz",
+    "stadium_lat": 38.7527,
+    "stadium_lon": -9.1847,
+    "nearby_stores": [
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 0.36,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 0.7,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 0.97,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "fVBU2tKh",
+    "date": "10.05.2026 17:00",
+    "home_team": "Estrela da Amadora",
+    "away_team": "Famalicão",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio José Gomes",
+    "stadium_lat": 38.7507,
+    "stadium_lon": -9.2275,
+    "nearby_stores": [
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.25,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Amadora",
+        "address": "2700-336",
+        "distance_km": 1.38,
+        "lat": 38.759968,
+        "lon": -9.2380081,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Serra da Mira",
+        "address": "Estrada da Serra da Mira, 2700-364 Amadora",
+        "distance_km": 1.72,
+        "lat": 38.7659572,
+        "lon": -9.231061,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "UNYocxlU",
+    "date": "10.05.2026 17:00",
+    "home_team": "Santa Clara",
+    "away_team": "Nacional",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio de São Miguel",
+    "stadium_lat": 37.7475,
+    "stadium_lon": -25.6472,
+    "nearby_stores": [
+      {
+        "name": "Avenida Ponta Delgada - Açores",
+        "address": "9500-764",
+        "distance_km": 1.72,
+        "lat": 37.7401121,
+        "lon": -25.6644029,
+        "schedule": "Mo-Su 08:30-20:00; easter 08:30-15:00"
+      },
+      {
+        "name": "Capelas - Açores",
+        "address": "9545-108",
+        "distance_km": 9.95,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "Mo-Su 08:30-20:30; easter 08:30-15:00"
+      }
+    ]
+  },
+  {
+    "matchId": "C490L6KD",
+    "date": "10.05.2026 17:00",
+    "home_team": "Tondela",
+    "away_team": "Moreirense",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio João Cardoso",
+    "stadium_lat": 40.5168,
+    "stadium_lon": -8.0809,
+    "nearby_stores": [
+      {
+        "name": "Tondela",
+        "address": "3460-482 Tondela",
+        "distance_km": 1.52,
+        "lat": 40.5291489,
+        "lon": -8.0885299,
+        "schedule": "Mo-Su 09:00-20:30"
+      }
+    ]
+  },
+  {
+    "matchId": "AuDqPlLl",
+    "date": "10.05.2026 17:00",
+    "home_team": "Vitória SC",
+    "away_team": "Casa Pia AC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio D. Afonso Henriques",
+    "stadium_lat": 41.4464,
+    "stadium_lon": -8.3011,
+    "nearby_stores": [
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 1.21,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 6.44,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.36,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "A1I2OEnT",
+    "date": "17.05.2026 17:00",
+    "home_team": "Arouca",
+    "away_team": "Tondela",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Arouca",
+    "stadium_lat": 40.9231,
+    "stadium_lon": -8.2464,
+    "nearby_stores": [
+      {
+        "name": "Arouca",
+        "address": "4540-102",
+        "distance_km": 0.63,
+        "lat": 40.9285861,
+        "lon": -8.2484708,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "UoaZIhAj",
+    "date": "17.05.2026 17:00",
+    "home_team": "Braga",
+    "away_team": "Estrela da Amadora",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Braga",
+    "stadium_lat": 41.5641,
+    "stadium_lon": -8.4312,
+    "nearby_stores": [
+      {
+        "name": "Braga Dume",
+        "address": "4700-442",
+        "distance_km": 1.09,
+        "lat": 41.554293,
+        "lon": -8.4311409,
+        "schedule": "24/7"
+      },
+      {
+        "name": "Braga - Pachancho",
+        "address": "Rua do Regimento de Infantaria, 4700-145 Urbanização do Pachancho, Lugar de Infias, Braga",
+        "distance_km": 1.36,
+        "lat": 41.5583489,
+        "lon": -8.4167765,
+        "schedule": "Seg, Ter, Sex, Sáb, Dom: 8-21; Qua 8-18; Qui encerrado"
+      },
+      {
+        "name": "Braga - Avenida da Liberdade",
+        "address": "4710-308",
+        "distance_km": 1.99,
+        "lat": 41.5476654,
+        "lon": -8.4218305,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "OpKfQzIG",
+    "date": "17.05.2026 17:00",
+    "home_team": "Casa Pia AC",
+    "away_team": "Rio Ave",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375,
+    "stadium_lon": -9.2039,
+    "nearby_stores": [
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.06,
+        "lat": 38.7457285,
+        "lon": -9.197816,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "2720-526",
+        "distance_km": 1.32,
+        "lat": 38.7425368,
+        "lon": -9.2176544,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "1500-083",
+        "distance_km": 1.68,
+        "lat": 38.7485112,
+        "lon": -9.1906699,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      }
+    ]
+  },
+  {
+    "matchId": "f5SwUIIi",
+    "date": "17.05.2026 17:00",
+    "home_team": "Estoril",
+    "away_team": "Benfica",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio António Coimbra da Mota",
+    "stadium_lat": 38.7153,
+    "stadium_lon": -9.4064,
+    "nearby_stores": [
+      {
+        "name": "Estoril Amoreira",
+        "address": "2765-131",
+        "distance_km": 0.11,
+        "lat": 38.71466144581646,
+        "lon": -9.405444503708345,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Cascais - Castelhana",
+        "address": "Rua Outeiro, 2755-287 Alcabideche",
+        "distance_km": 0.69,
+        "lat": 38.7126473,
+        "lon": -9.4136311,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvide",
+        "address": "2755-030",
+        "distance_km": 1.54,
+        "lat": 38.7149963,
+        "lon": -9.4241949,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "lS5CDcYA",
+    "date": "17.05.2026 17:00",
+    "home_team": "Famalicão",
+    "away_team": "Alverca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Famalicão",
+    "stadium_lat": 41.408,
+    "stadium_lon": -8.5198,
+    "nearby_stores": [
+      {
+        "name": "Trofa - Shopping",
+        "address": "4785-333",
+        "distance_km": 8.44,
+        "lat": 41.3386536,
+        "lon": -8.5609241,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Trofa - Santiago de Bougado",
+        "address": "4785-699",
+        "distance_km": 9.88,
+        "lat": 41.3271147,
+        "lon": -8.5688413,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 10.54,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "vcpi6FQp",
+    "date": "17.05.2026 17:00",
+    "home_team": "FC Porto",
+    "away_team": "Santa Clara",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio do Dragão",
+    "stadium_lat": 41.1617,
+    "stadium_lon": -8.5835,
+    "nearby_stores": [
+      {
+        "name": "São Roque da Lameira Porto",
+        "address": "4350-307",
+        "distance_km": 0.36,
+        "lat": 41.1584656,
+        "lon": -8.5833453,
+        "schedule": "Mo-Su 07:00-22:00"
+      },
+      {
+        "name": "Velasques",
+        "address": "Praça de Francisco Sá Carneiro, 4200-313 Porto",
+        "distance_km": 0.8,
+        "lat": 41.1628775,
+        "lon": -8.5929753,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Salgueiros Paranhos",
+        "address": "Rua de Aval de Baixo, 4200-099 Paranhos",
+        "distance_km": 1.42,
+        "lat": 41.1679272,
+        "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "t224FJ3b",
+    "date": "17.05.2026 17:00",
+    "home_team": "Moreirense",
+    "away_team": "AFS",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Comendador Joaquim de Almeida Freitas",
+    "stadium_lat": 41.3789,
+    "stadium_lon": -8.3589,
+    "nearby_stores": [
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 3.19,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 4.15,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 8.62,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "2VVoSdm4",
+    "date": "17.05.2026 17:00",
+    "home_team": "Nacional",
+    "away_team": "Vitória SC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Madeira",
+    "stadium_lat": 32.6841,
+    "stadium_lon": -16.9039,
+    "nearby_stores": [
+      {
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.26,
+        "lat": 32.663472,
+        "lon": -16.9286424,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "Rua Doutor Fernão de Ornelas, 9050-020 Funchal",
+        "distance_km": 3.87,
+        "lat": 32.6493136,
+        "lon": -16.9046475,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho das Romeiras, 9000-000 Funchal",
+        "distance_km": 4.0,
+        "lat": 32.6638705,
+        "lon": -16.9392715,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "rRbLBy3N",
+    "date": "17.05.2026 17:00",
+    "home_team": "Sporting CP",
+    "away_team": "Gil Vicente",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio José Alvalade",
+    "stadium_lat": 38.7612,
+    "stadium_lon": -9.1607,
+    "nearby_stores": [
+      {
+        "name": "Parque Europa",
+        "address": "Avenida Maria Helena Vieira da Silva, 1750-336 Lumiar",
+        "distance_km": 0.89,
+        "lat": 38.7669675,
+        "lon": -9.1536025,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Galhardas",
+        "address": "1600-213",
+        "distance_km": 0.98,
+        "lat": 38.7534094,
+        "lon": -9.1658605,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.55,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "4EzaXsG8",
+    "date": "06.04.2026 18:00",
+    "home_team": "FC Porto B",
+    "away_team": "Chaves",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Jorge Sampaio",
+    "stadium_lat": 41.0478,
+    "stadium_lon": -8.5414,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 6.53,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 9.63,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Avenida da República, 4430-192 Vila Nova de Gaia",
+        "distance_km": 10.42,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "zFCVEZas",
+    "date": "06.04.2026 18:00",
+    "home_team": "Torreense",
+    "away_team": "Leixões",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0945,
+    "stadium_lon": -9.2567,
+    "nearby_stores": [
+      {
+        "name": "Torres Vedras",
+        "address": "2560-159",
+        "distance_km": 1.4,
+        "lat": 39.082091441795086,
+        "lon": -9.259621193585984,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Silveira",
+        "address": "",
+        "distance_km": 9.64,
+        "lat": 39.108211286285275,
+        "lon": -9.366954618664876,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "MkBEPVd2",
+    "date": "07.04.2026 18:00",
+    "home_team": "Vizela",
+    "away_team": "Benfica B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do FC Vizela",
+    "stadium_lat": 41.3323,
+    "stadium_lon": -8.3155,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 8.32,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 8.47,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.38,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "lvEutCbt",
+    "date": "10.04.2026 18:45",
+    "home_team": "FC Felgueiras",
+    "away_team": "Paços Ferreira",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Felgueiras",
+    "stadium_lat": 41.3364,
+    "stadium_lon": -8.1969,
+    "nearby_stores": [
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "4820-121",
+        "distance_km": 12.53,
+        "lat": 41.4480225,
+        "lon": -8.1760073,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 13.8,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -704,14 +2000,15 @@
     "date": "11.04.2026 14:00",
     "home_team": "Farense",
     "away_team": "Sporting CP B",
+    "league": "Liga Portugal 2",
     "stadium": "Estádio de São Luís",
-    "stadium_lat": 37.0194,
-    "stadium_lon": -7.925,
+    "stadium_lat": 37.0203,
+    "stadium_lon": -7.9275,
     "nearby_stores": [
       {
         "name": "Faro - Tridente",
         "address": "8000-320",
-        "distance_km": 0.28,
+        "distance_km": 0.24,
         "lat": 37.0181442,
         "lon": -7.927758,
         "schedule": "Mo-Su 08:00-20:30; easter 08:00-14:00"
@@ -719,18 +2016,1782 @@
       {
         "name": "Quinta do Lago",
         "address": "8136-106",
-        "distance_km": 10.37,
+        "distance_km": 10.13,
         "lat": 37.06091,
         "lon": -8.0296557,
         "schedule": "Mo-Sa 08:30-21:30"
+      }
+    ]
+  },
+  {
+    "matchId": "IJ5dxUc5",
+    "date": "11.04.2026 11:00",
+    "home_team": "Penafiel",
+    "away_team": "Académico Viseu",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal 25 de Abril",
+    "stadium_lat": 41.2194,
+    "stadium_lon": -8.2785,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 3.32,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
       },
       {
-        "name": "Albufeira - Bela Vista",
-        "address": "Avenida Dos Descobrimentos, 8200-127 Albufeira",
-        "distance_km": 29.14,
-        "lat": 37.092064,
-        "lon": -8.2404886,
-        "schedule": "Mo-Su 07:30-22:00"
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 10.87,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "d4HmvjTh",
+    "date": "11.04.2026 18:00",
+    "home_team": "Chaves",
+    "away_team": "Torreense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal Eng. Manuel Branco Teixeira",
+    "stadium_lat": 41.7458,
+    "stadium_lon": -7.4647,
+    "nearby_stores": [
+      {
+        "name": "Chaves - Centro",
+        "address": "",
+        "distance_km": 0.83,
+        "lat": 41.74249927780739,
+        "lon": -7.473652702626849,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Chaves Centro Escolar",
+        "address": "",
+        "distance_km": 1.57,
+        "lat": 41.759729938413365,
+        "lon": -7.467746863431887,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "AXQDRCqm",
+    "date": "11.04.2026 18:00",
+    "home_team": "Benfica B",
+    "away_team": "Leiria",
+    "league": "Liga Portugal 2",
+    "stadium": "Benfica Campus",
+    "stadium_lat": 38.6311,
+    "stadium_lon": -9.0903,
+    "nearby_stores": [
+      {
+        "name": "Paivas",
+        "address": "2845-368 Paivas",
+        "distance_km": 2.4,
+        "lat": 38.6191092,
+        "lon": -9.1133264,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Barreiro Fórum",
+        "address": "2830-364",
+        "distance_km": 3.74,
+        "lat": 38.6619597,
+        "lon": -9.0730926,
+        "schedule": "Mo-Su,PH 08:00-21:00"
+      },
+      {
+        "name": "Barreiro - Vila Chã",
+        "address": "2830-490",
+        "distance_km": 4.5,
+        "lat": 38.6300093,
+        "lon": -9.0385536,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "nwMxM8DO",
+    "date": "12.04.2026 11:00",
+    "home_team": "Feirense",
+    "away_team": "Vizela",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Marcolino de Castro",
+    "stadium_lat": 40.9238,
+    "stadium_lon": -8.5447,
+    "nearby_stores": [
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 5.26,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 7.27,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "3880-151",
+        "distance_km": 9.69,
+        "lat": 40.8601969,
+        "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "EPNUNUrC",
+    "date": "12.04.2026 15:30",
+    "home_team": "Leixões",
+    "away_team": "Oliveirense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Mar",
+    "stadium_lat": 41.1853,
+    "stadium_lon": -8.6833,
+    "nearby_stores": [
+      {
+        "name": "Matosinhos - Afonso Henriques",
+        "address": "4450-243",
+        "distance_km": 0.5,
+        "lat": 41.1808261,
+        "lon": -8.6826241,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "4450-068",
+        "distance_km": 0.75,
+        "lat": 41.184446,
+        "lon": -8.6922441,
+        "schedule": "Mo-Sa 08:30-21:00; Su 09:00-20:30"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "4450-630",
+        "distance_km": 1.46,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "0Mce9VTI",
+    "date": "12.04.2026 14:00",
+    "home_team": "Marítimo",
+    "away_team": "Portimonense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Marítimo",
+    "stadium_lat": 32.6367,
+    "stadium_lon": -16.9408,
+    "nearby_stores": [
+      {
+        "name": "Super Monumental",
+        "address": "9000-100 Funchal",
+        "distance_km": 0.61,
+        "lat": 32.6385859,
+        "lon": -16.9346815,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Hiper",
+        "address": "Rua do Gorgulho, 9000-107 Funchal",
+        "distance_km": 0.86,
+        "lat": 32.6368872,
+        "lon": -16.9316537,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho das Romeiras, 9000-000 Funchal",
+        "distance_km": 3.02,
+        "lat": 32.6638705,
+        "lon": -16.9392715,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "IcULPjEa",
+    "date": "13.04.2026 18:00",
+    "home_team": "Lusitânia",
+    "away_team": "FC Porto B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Lusitânia",
+    "stadium_lat": 40.9883,
+    "stadium_lon": -8.5437,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 0.36,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 8.65,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 10.91,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "6gHCYocU",
+    "date": "17.04.2026 18:45",
+    "home_team": "Académico Viseu",
+    "away_team": "Feirense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal do Fontelo",
+    "stadium_lat": 40.6653,
+    "stadium_lon": -7.9042,
+    "nearby_stores": [
+      {
+        "name": "Viseu Forum",
+        "address": "3510-153",
+        "distance_km": 0.89,
+        "lat": 40.6621965,
+        "lon": -7.9139805,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
+      },
+      {
+        "name": "Viseu - São João da Carreira",
+        "address": "3500-012",
+        "distance_km": 1.53,
+        "lat": 40.6719605,
+        "lon": -7.888323,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Viseu - Rua Mendonça",
+        "address": "3510-156",
+        "distance_km": 1.58,
+        "lat": 40.6529006,
+        "lon": -7.9133005,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "nDxnmoCN",
+    "date": "18.04.2026 11:00",
+    "home_team": "Paços Ferreira",
+    "away_team": "Chaves",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Capital do Móvel",
+    "stadium_lat": 41.2828,
+    "stadium_lon": -8.2936,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 7.51,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 9.47,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 13.24,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "M5iMhkrn",
+    "date": "18.04.2026 14:00",
+    "home_team": "Leiria",
+    "away_team": "Penafiel",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Magalhães Pessoa",
+    "stadium_lat": 39.7478,
+    "stadium_lon": -8.8103,
+    "nearby_stores": [
+      {
+        "name": "Leiria - Heróis de Angola",
+        "address": "2400-154",
+        "distance_km": 0.51,
+        "lat": 39.7466574,
+        "lon": -8.8045315,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Leiria - Marquês de Pombal",
+        "address": "2410-152",
+        "distance_km": 0.89,
+        "lat": 39.7399345,
+        "lon": -8.8083261,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Leiria D. Dinis",
+        "address": "2400-448",
+        "distance_km": 1.08,
+        "lat": 39.7399941,
+        "lon": -8.8177809,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "Cf645SRi",
+    "date": "19.04.2026 11:00",
+    "home_team": "Portimonense",
+    "away_team": "Lusitânia",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Portimão",
+    "stadium_lat": 37.1352,
+    "stadium_lon": -8.5375,
+    "nearby_stores": [
+      {
+        "name": "Portimão - Sá Carneiro",
+        "address": "8500-506",
+        "distance_km": 0.88,
+        "lat": 37.1418307,
+        "lon": -8.5428759,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Portimão - Craveiros",
+        "address": "8500-420",
+        "distance_km": 1.63,
+        "lat": 37.1464065,
+        "lon": -8.5494227,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvor",
+        "address": "8500-087",
+        "distance_km": 4.76,
+        "lat": 37.1338194,
+        "lon": -8.5911214,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "Qclwk7sB",
+    "date": "18.04.2026 18:00",
+    "home_team": "Torreense",
+    "away_team": "Marítimo",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0945,
+    "stadium_lon": -9.2567,
+    "nearby_stores": [
+      {
+        "name": "Torres Vedras",
+        "address": "2560-159",
+        "distance_km": 1.4,
+        "lat": 39.082091441795086,
+        "lon": -9.259621193585984,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Silveira",
+        "address": "",
+        "distance_km": 9.64,
+        "lat": 39.108211286285275,
+        "lon": -9.366954618664876,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "IXpVjTCb",
+    "date": "19.04.2026 14:00",
+    "home_team": "Vizela",
+    "away_team": "Farense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do FC Vizela",
+    "stadium_lat": 41.3323,
+    "stadium_lon": -8.3155,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 8.32,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 8.47,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.38,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "dnOHsPZp",
+    "date": "20.04.2026 18:45",
+    "home_team": "FC Porto B",
+    "away_team": "Leixões",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Jorge Sampaio",
+    "stadium_lat": 41.0478,
+    "stadium_lon": -8.5414,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 6.53,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 9.63,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Avenida da República, 4430-192 Vila Nova de Gaia",
+        "distance_km": 10.42,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "6LD1sGu2",
+    "date": "26.04.2026 16:00",
+    "home_team": "Benfica B",
+    "away_team": "Marítimo",
+    "league": "Liga Portugal 2",
+    "stadium": "Benfica Campus",
+    "stadium_lat": 38.6311,
+    "stadium_lon": -9.0903,
+    "nearby_stores": [
+      {
+        "name": "Paivas",
+        "address": "2845-368 Paivas",
+        "distance_km": 2.4,
+        "lat": 38.6191092,
+        "lon": -9.1133264,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Barreiro Fórum",
+        "address": "2830-364",
+        "distance_km": 3.74,
+        "lat": 38.6619597,
+        "lon": -9.0730926,
+        "schedule": "Mo-Su,PH 08:00-21:00"
+      },
+      {
+        "name": "Barreiro - Vila Chã",
+        "address": "2830-490",
+        "distance_km": 4.5,
+        "lat": 38.6300093,
+        "lon": -9.0385536,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "p84C36d4",
+    "date": "20.04.2026 18:45",
+    "home_team": "Sporting CP B",
+    "away_team": "FC Felgueiras",
+    "league": "Liga Portugal 2",
+    "stadium": "Academia Cristiano Ronaldo",
+    "stadium_lat": 38.5639,
+    "stadium_lon": -8.8472,
+    "nearby_stores": [
+      {
+        "name": "Setúbal - Moinho dos Frades",
+        "address": "2910-616",
+        "distance_km": 5.18,
+        "lat": 38.5253521,
+        "lon": -8.8805622,
+        "schedule": "Mo-Su 08:00-21:00; PH off"
+      },
+      {
+        "name": "Pinhal Novo",
+        "address": "2955-185",
+        "distance_km": 9.77,
+        "lat": 38.6343824,
+        "lon": -8.9143331,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "Qq94z8SH",
+    "date": "22.04.2026 18:00",
+    "home_team": "Oliveirense",
+    "away_team": "Benfica B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Carlos Osório",
+    "stadium_lat": 40.8424,
+    "stadium_lon": -8.4704,
+    "nearby_stores": [
+      {
+        "name": "Oliveira de Azeméis - Shopping Rainha",
+        "address": "3720-232",
+        "distance_km": 0.9,
+        "lat": 40.8387339,
+        "lon": -8.4799994,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 6.47,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "3880-151",
+        "distance_km": 13.03,
+        "lat": 40.8601969,
+        "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "YR5m5JX8",
+    "date": "26.04.2026 16:00",
+    "home_team": "Chaves",
+    "away_team": "Oliveirense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal Eng. Manuel Branco Teixeira",
+    "stadium_lat": 41.7458,
+    "stadium_lon": -7.4647,
+    "nearby_stores": [
+      {
+        "name": "Chaves - Centro",
+        "address": "",
+        "distance_km": 0.83,
+        "lat": 41.74249927780739,
+        "lon": -7.473652702626849,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Chaves Centro Escolar",
+        "address": "",
+        "distance_km": 1.57,
+        "lat": 41.759729938413365,
+        "lon": -7.467746863431887,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "KbdNHdHE",
+    "date": "26.04.2026 16:00",
+    "home_team": "Farense",
+    "away_team": "Académico Viseu",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio de São Luís",
+    "stadium_lat": 37.0203,
+    "stadium_lon": -7.9275,
+    "nearby_stores": [
+      {
+        "name": "Faro - Tridente",
+        "address": "8000-320",
+        "distance_km": 0.24,
+        "lat": 37.0181442,
+        "lon": -7.927758,
+        "schedule": "Mo-Su 08:00-20:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Quinta do Lago",
+        "address": "8136-106",
+        "distance_km": 10.13,
+        "lat": 37.06091,
+        "lon": -8.0296557,
+        "schedule": "Mo-Sa 08:30-21:30"
+      }
+    ]
+  },
+  {
+    "matchId": "tzbL1pRG",
+    "date": "26.04.2026 16:00",
+    "home_team": "Leixões",
+    "away_team": "Portimonense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Mar",
+    "stadium_lat": 41.1853,
+    "stadium_lon": -8.6833,
+    "nearby_stores": [
+      {
+        "name": "Matosinhos - Afonso Henriques",
+        "address": "4450-243",
+        "distance_km": 0.5,
+        "lat": 41.1808261,
+        "lon": -8.6826241,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "4450-068",
+        "distance_km": 0.75,
+        "lat": 41.184446,
+        "lon": -8.6922441,
+        "schedule": "Mo-Sa 08:30-21:00; Su 09:00-20:30"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "4450-630",
+        "distance_km": 1.46,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "v3JzfgP7",
+    "date": "26.04.2026 16:00",
+    "home_team": "FC Felgueiras",
+    "away_team": "Leiria",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Felgueiras",
+    "stadium_lat": 41.3364,
+    "stadium_lon": -8.1969,
+    "nearby_stores": [
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "4820-121",
+        "distance_km": 12.53,
+        "lat": 41.4480225,
+        "lon": -8.1760073,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 13.8,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "p6PhqxBk",
+    "date": "26.04.2026 16:00",
+    "home_team": "Lusitânia",
+    "away_team": "Paços Ferreira",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Lusitânia",
+    "stadium_lat": 40.9883,
+    "stadium_lon": -8.5437,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 0.36,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 8.65,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 10.91,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "WxGSeFfe",
+    "date": "26.04.2026 16:00",
+    "home_team": "Feirense",
+    "away_team": "Torreense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Marcolino de Castro",
+    "stadium_lat": 40.9238,
+    "stadium_lon": -8.5447,
+    "nearby_stores": [
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 5.26,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 7.27,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "3880-151",
+        "distance_km": 9.69,
+        "lat": 40.8601969,
+        "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "Ugad3c2L",
+    "date": "26.04.2026 16:00",
+    "home_team": "Penafiel",
+    "away_team": "FC Porto B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal 25 de Abril",
+    "stadium_lat": 41.2194,
+    "stadium_lon": -8.2785,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 3.32,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 10.87,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "IgvA8hv1",
+    "date": "03.05.2026 16:00",
+    "home_team": "Académico Viseu",
+    "away_team": "Vizela",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal do Fontelo",
+    "stadium_lat": 40.6653,
+    "stadium_lon": -7.9042,
+    "nearby_stores": [
+      {
+        "name": "Viseu Forum",
+        "address": "3510-153",
+        "distance_km": 0.89,
+        "lat": 40.6621965,
+        "lon": -7.9139805,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
+      },
+      {
+        "name": "Viseu - São João da Carreira",
+        "address": "3500-012",
+        "distance_km": 1.53,
+        "lat": 40.6719605,
+        "lon": -7.888323,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Viseu - Rua Mendonça",
+        "address": "3510-156",
+        "distance_km": 1.58,
+        "lat": 40.6529006,
+        "lon": -7.9133005,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "QPpScyQr",
+    "date": "26.04.2026 16:00",
+    "home_team": "Vizela",
+    "away_team": "Sporting CP B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do FC Vizela",
+    "stadium_lat": 41.3323,
+    "stadium_lon": -8.3155,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 8.32,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 8.47,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.38,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "Qa1yPDOs",
+    "date": "03.05.2026 16:00",
+    "home_team": "FC Porto B",
+    "away_team": "FC Felgueiras",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Jorge Sampaio",
+    "stadium_lat": 41.0478,
+    "stadium_lon": -8.5414,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 6.53,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 9.63,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Avenida da República, 4430-192 Vila Nova de Gaia",
+        "distance_km": 10.42,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "SOaVFznR",
+    "date": "03.05.2026 16:00",
+    "home_team": "Leiria",
+    "away_team": "Farense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Magalhães Pessoa",
+    "stadium_lat": 39.7478,
+    "stadium_lon": -8.8103,
+    "nearby_stores": [
+      {
+        "name": "Leiria - Heróis de Angola",
+        "address": "2400-154",
+        "distance_km": 0.51,
+        "lat": 39.7466574,
+        "lon": -8.8045315,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Leiria - Marquês de Pombal",
+        "address": "2410-152",
+        "distance_km": 0.89,
+        "lat": 39.7399345,
+        "lon": -8.8083261,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Leiria D. Dinis",
+        "address": "2400-448",
+        "distance_km": 1.08,
+        "lat": 39.7399941,
+        "lon": -8.8177809,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "tSP4UZ0K",
+    "date": "03.05.2026 16:00",
+    "home_team": "Marítimo",
+    "away_team": "Leixões",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Marítimo",
+    "stadium_lat": 32.6367,
+    "stadium_lon": -16.9408,
+    "nearby_stores": [
+      {
+        "name": "Super Monumental",
+        "address": "9000-100 Funchal",
+        "distance_km": 0.61,
+        "lat": 32.6385859,
+        "lon": -16.9346815,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Hiper",
+        "address": "Rua do Gorgulho, 9000-107 Funchal",
+        "distance_km": 0.86,
+        "lat": 32.6368872,
+        "lon": -16.9316537,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho das Romeiras, 9000-000 Funchal",
+        "distance_km": 3.02,
+        "lat": 32.6638705,
+        "lon": -16.9392715,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "ELXI6W8D",
+    "date": "03.05.2026 16:00",
+    "home_team": "Oliveirense",
+    "away_team": "Lusitânia",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Carlos Osório",
+    "stadium_lat": 40.8424,
+    "stadium_lon": -8.4704,
+    "nearby_stores": [
+      {
+        "name": "Oliveira de Azeméis - Shopping Rainha",
+        "address": "3720-232",
+        "distance_km": 0.9,
+        "lat": 40.8387339,
+        "lon": -8.4799994,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 6.47,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "3880-151",
+        "distance_km": 13.03,
+        "lat": 40.8601969,
+        "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "8rghLVN6",
+    "date": "03.05.2026 16:00",
+    "home_team": "Portimonense",
+    "away_team": "Chaves",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Portimão",
+    "stadium_lat": 37.1352,
+    "stadium_lon": -8.5375,
+    "nearby_stores": [
+      {
+        "name": "Portimão - Sá Carneiro",
+        "address": "8500-506",
+        "distance_km": 0.88,
+        "lat": 37.1418307,
+        "lon": -8.5428759,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Portimão - Craveiros",
+        "address": "8500-420",
+        "distance_km": 1.63,
+        "lat": 37.1464065,
+        "lon": -8.5494227,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvor",
+        "address": "8500-087",
+        "distance_km": 4.76,
+        "lat": 37.1338194,
+        "lon": -8.5911214,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "ptt2AE9l",
+    "date": "03.05.2026 16:00",
+    "home_team": "Sporting CP B",
+    "away_team": "Benfica B",
+    "league": "Liga Portugal 2",
+    "stadium": "Academia Cristiano Ronaldo",
+    "stadium_lat": 38.5639,
+    "stadium_lon": -8.8472,
+    "nearby_stores": [
+      {
+        "name": "Setúbal - Moinho dos Frades",
+        "address": "2910-616",
+        "distance_km": 5.18,
+        "lat": 38.5253521,
+        "lon": -8.8805622,
+        "schedule": "Mo-Su 08:00-21:00; PH off"
+      },
+      {
+        "name": "Pinhal Novo",
+        "address": "2955-185",
+        "distance_km": 9.77,
+        "lat": 38.6343824,
+        "lon": -8.9143331,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "tdi0J9hJ",
+    "date": "03.05.2026 16:00",
+    "home_team": "Paços Ferreira",
+    "away_team": "Feirense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Capital do Móvel",
+    "stadium_lat": 41.2828,
+    "stadium_lon": -8.2936,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 7.51,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 9.47,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 13.24,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "CGaqNigf",
+    "date": "03.05.2026 16:00",
+    "home_team": "Torreense",
+    "away_team": "Penafiel",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0945,
+    "stadium_lon": -9.2567,
+    "nearby_stores": [
+      {
+        "name": "Torres Vedras",
+        "address": "2560-159",
+        "distance_km": 1.4,
+        "lat": 39.082091441795086,
+        "lon": -9.259621193585984,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Silveira",
+        "address": "",
+        "distance_km": 9.64,
+        "lat": 39.108211286285275,
+        "lon": -9.366954618664876,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "d4ZnsDpQ",
+    "date": "10.05.2026 16:00",
+    "home_team": "Chaves",
+    "away_team": "Leixões",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal Eng. Manuel Branco Teixeira",
+    "stadium_lat": 41.7458,
+    "stadium_lon": -7.4647,
+    "nearby_stores": [
+      {
+        "name": "Chaves - Centro",
+        "address": "",
+        "distance_km": 0.83,
+        "lat": 41.74249927780739,
+        "lon": -7.473652702626849,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Chaves Centro Escolar",
+        "address": "",
+        "distance_km": 1.57,
+        "lat": 41.759729938413365,
+        "lon": -7.467746863431887,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "GnqBXaDT",
+    "date": "10.05.2026 16:00",
+    "home_team": "Benfica B",
+    "away_team": "Académico Viseu",
+    "league": "Liga Portugal 2",
+    "stadium": "Benfica Campus",
+    "stadium_lat": 38.6311,
+    "stadium_lon": -9.0903,
+    "nearby_stores": [
+      {
+        "name": "Paivas",
+        "address": "2845-368 Paivas",
+        "distance_km": 2.4,
+        "lat": 38.6191092,
+        "lon": -9.1133264,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Barreiro Fórum",
+        "address": "2830-364",
+        "distance_km": 3.74,
+        "lat": 38.6619597,
+        "lon": -9.0730926,
+        "schedule": "Mo-Su,PH 08:00-21:00"
+      },
+      {
+        "name": "Barreiro - Vila Chã",
+        "address": "2830-490",
+        "distance_km": 4.5,
+        "lat": 38.6300093,
+        "lon": -9.0385536,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "YqTQZUx0",
+    "date": "10.05.2026 16:00",
+    "home_team": "Farense",
+    "away_team": "Paços Ferreira",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio de São Luís",
+    "stadium_lat": 37.0203,
+    "stadium_lon": -7.9275,
+    "nearby_stores": [
+      {
+        "name": "Faro - Tridente",
+        "address": "8000-320",
+        "distance_km": 0.24,
+        "lat": 37.0181442,
+        "lon": -7.927758,
+        "schedule": "Mo-Su 08:00-20:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Quinta do Lago",
+        "address": "8136-106",
+        "distance_km": 10.13,
+        "lat": 37.06091,
+        "lon": -8.0296557,
+        "schedule": "Mo-Sa 08:30-21:30"
+      }
+    ]
+  },
+  {
+    "matchId": "tAWYX87C",
+    "date": "10.05.2026 16:00",
+    "home_team": "FC Felgueiras",
+    "away_team": "Portimonense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Felgueiras",
+    "stadium_lat": 41.3364,
+    "stadium_lon": -8.1969,
+    "nearby_stores": [
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "4820-121",
+        "distance_km": 12.53,
+        "lat": 41.4480225,
+        "lon": -8.1760073,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 13.8,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "CUvIyi8m",
+    "date": "10.05.2026 16:00",
+    "home_team": "Lusitânia",
+    "away_team": "Torreense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Lusitânia",
+    "stadium_lat": 40.9883,
+    "stadium_lon": -8.5437,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 0.36,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 8.65,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 10.91,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "zBl7F0io",
+    "date": "10.05.2026 16:00",
+    "home_team": "Feirense",
+    "away_team": "Oliveirense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Marcolino de Castro",
+    "stadium_lat": 40.9238,
+    "stadium_lon": -8.5447,
+    "nearby_stores": [
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 5.26,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 7.27,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "3880-151",
+        "distance_km": 9.69,
+        "lat": 40.8601969,
+        "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "n7ifyrE4",
+    "date": "10.05.2026 16:00",
+    "home_team": "Penafiel",
+    "away_team": "Marítimo",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal 25 de Abril",
+    "stadium_lat": 41.2194,
+    "stadium_lon": -8.2785,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 3.32,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 10.87,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "fXf2ZLrH",
+    "date": "10.05.2026 16:00",
+    "home_team": "Vizela",
+    "away_team": "Leiria",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do FC Vizela",
+    "stadium_lat": 41.3323,
+    "stadium_lon": -8.3155,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 8.32,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 8.47,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 9.38,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "S4ygw4qh",
+    "date": "10.05.2026 16:00",
+    "home_team": "Sporting CP B",
+    "away_team": "FC Porto B",
+    "league": "Liga Portugal 2",
+    "stadium": "Academia Cristiano Ronaldo",
+    "stadium_lat": 38.5639,
+    "stadium_lon": -8.8472,
+    "nearby_stores": [
+      {
+        "name": "Setúbal - Moinho dos Frades",
+        "address": "2910-616",
+        "distance_km": 5.18,
+        "lat": 38.5253521,
+        "lon": -8.8805622,
+        "schedule": "Mo-Su 08:00-21:00; PH off"
+      },
+      {
+        "name": "Pinhal Novo",
+        "address": "2955-185",
+        "distance_km": 9.77,
+        "lat": 38.6343824,
+        "lon": -8.9143331,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "nVZtSwyi",
+    "date": "17.05.2026 16:00",
+    "home_team": "FC Porto B",
+    "away_team": "Benfica B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Jorge Sampaio",
+    "stadium_lat": 41.0478,
+    "stadium_lon": -8.5414,
+    "nearby_stores": [
+      {
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida Lourosa - Lamas, 4535-012 Lourosa",
+        "distance_km": 6.53,
+        "lat": 40.9891011,
+        "lon": -8.5395216,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 9.63,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Gaia - Av. República",
+        "address": "Avenida da República, 4430-192 Vila Nova de Gaia",
+        "distance_km": 10.42,
+        "lat": 41.1279383,
+        "lon": -8.6058706,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "2w4RZkfc",
+    "date": "17.05.2026 16:00",
+    "home_team": "Académico Viseu",
+    "away_team": "Sporting CP B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal do Fontelo",
+    "stadium_lat": 40.6653,
+    "stadium_lon": -7.9042,
+    "nearby_stores": [
+      {
+        "name": "Viseu Forum",
+        "address": "3510-153",
+        "distance_km": 0.89,
+        "lat": 40.6621965,
+        "lon": -7.9139805,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-18:00"
+      },
+      {
+        "name": "Viseu - São João da Carreira",
+        "address": "3500-012",
+        "distance_km": 1.53,
+        "lat": 40.6719605,
+        "lon": -7.888323,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Viseu - Rua Mendonça",
+        "address": "3510-156",
+        "distance_km": 1.58,
+        "lat": 40.6529006,
+        "lon": -7.9133005,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "p4UOrowS",
+    "date": "17.05.2026 16:00",
+    "home_team": "Leiria",
+    "away_team": "Feirense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Magalhães Pessoa",
+    "stadium_lat": 39.7478,
+    "stadium_lon": -8.8103,
+    "nearby_stores": [
+      {
+        "name": "Leiria - Heróis de Angola",
+        "address": "2400-154",
+        "distance_km": 0.51,
+        "lat": 39.7466574,
+        "lon": -8.8045315,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Leiria - Marquês de Pombal",
+        "address": "2410-152",
+        "distance_km": 0.89,
+        "lat": 39.7399345,
+        "lon": -8.8083261,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Leiria D. Dinis",
+        "address": "2400-448",
+        "distance_km": 1.08,
+        "lat": 39.7399941,
+        "lon": -8.8177809,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "21nEQoHq",
+    "date": "17.05.2026 16:00",
+    "home_team": "Leixões",
+    "away_team": "Lusitânia",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Mar",
+    "stadium_lat": 41.1853,
+    "stadium_lon": -8.6833,
+    "nearby_stores": [
+      {
+        "name": "Matosinhos - Afonso Henriques",
+        "address": "4450-243",
+        "distance_km": 0.5,
+        "lat": 41.1808261,
+        "lon": -8.6826241,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "4450-068",
+        "distance_km": 0.75,
+        "lat": 41.184446,
+        "lon": -8.6922441,
+        "schedule": "Mo-Sa 08:30-21:00; Su 09:00-20:30"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "4450-630",
+        "distance_km": 1.46,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "CjWGp78F",
+    "date": "17.05.2026 16:00",
+    "home_team": "Marítimo",
+    "away_team": "Chaves",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Marítimo",
+    "stadium_lat": 32.6367,
+    "stadium_lon": -16.9408,
+    "nearby_stores": [
+      {
+        "name": "Super Monumental",
+        "address": "9000-100 Funchal",
+        "distance_km": 0.61,
+        "lat": 32.6385859,
+        "lon": -16.9346815,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Hiper",
+        "address": "Rua do Gorgulho, 9000-107 Funchal",
+        "distance_km": 0.86,
+        "lat": 32.6368872,
+        "lon": -16.9316537,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho das Romeiras, 9000-000 Funchal",
+        "distance_km": 3.02,
+        "lat": 32.6638705,
+        "lon": -16.9392715,
+        "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "GOx8nTw3",
+    "date": "17.05.2026 16:00",
+    "home_team": "Paços Ferreira",
+    "away_team": "Penafiel",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Capital do Móvel",
+    "stadium_lat": 41.2828,
+    "stadium_lon": -8.2936,
+    "nearby_stores": [
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 7.51,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 9.47,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 13.24,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "OGzNOPod",
+    "date": "17.05.2026 16:00",
+    "home_team": "Oliveirense",
+    "away_team": "FC Felgueiras",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Carlos Osório",
+    "stadium_lat": 40.8424,
+    "stadium_lon": -8.4704,
+    "nearby_stores": [
+      {
+        "name": "Oliveira de Azeméis - Shopping Rainha",
+        "address": "3720-232",
+        "distance_km": 0.9,
+        "lat": 40.8387339,
+        "lon": -8.4799994,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São João da Madeira - Rua Visconde",
+        "address": "3700-267",
+        "distance_km": 6.47,
+        "lat": 40.8982811,
+        "lon": -8.4919721,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Ovar - Aquilino Ribeiro",
+        "address": "3880-151",
+        "distance_km": 13.03,
+        "lat": 40.8601969,
+        "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "zi2ZXTO9",
+    "date": "17.05.2026 16:00",
+    "home_team": "Torreense",
+    "away_team": "Vizela",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0945,
+    "stadium_lon": -9.2567,
+    "nearby_stores": [
+      {
+        "name": "Torres Vedras",
+        "address": "2560-159",
+        "distance_km": 1.4,
+        "lat": 39.082091441795086,
+        "lon": -9.259621193585984,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Silveira",
+        "address": "",
+        "distance_km": 9.64,
+        "lat": 39.108211286285275,
+        "lon": -9.366954618664876,
+        "schedule": "N/A"
+      }
+    ]
+  },
+  {
+    "matchId": "WIerW7gM",
+    "date": "17.05.2026 16:00",
+    "home_team": "Portimonense",
+    "away_team": "Farense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Portimão",
+    "stadium_lat": 37.1352,
+    "stadium_lon": -8.5375,
+    "nearby_stores": [
+      {
+        "name": "Portimão - Sá Carneiro",
+        "address": "8500-506",
+        "distance_km": 0.88,
+        "lat": 37.1418307,
+        "lon": -8.5428759,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Portimão - Craveiros",
+        "address": "8500-420",
+        "distance_km": 1.63,
+        "lat": 37.1464065,
+        "lon": -8.5494227,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvor",
+        "address": "8500-087",
+        "distance_km": 4.76,
+        "lat": 37.1338194,
+        "lon": -8.5911214,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      }
+    ]
+  },
+  {
+    "matchId": "EySAfVkK",
+    "date": "23.04.2026 20:45",
+    "home_team": "Torreense",
+    "away_team": "Fafe",
+    "league": "Taça de Portugal",
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0945,
+    "stadium_lon": -9.2567,
+    "nearby_stores": [
+      {
+        "name": "Torres Vedras",
+        "address": "2560-159",
+        "distance_km": 1.4,
+        "lat": 39.082091441795086,
+        "lon": -9.259621193585984,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Pingo Doce Silveira",
+        "address": "",
+        "distance_km": 9.64,
+        "lat": 39.108211286285275,
+        "lon": -9.366954618664876,
+        "schedule": "N/A"
       }
     ]
   },
@@ -739,14 +3800,15 @@
     "date": "22.04.2026 20:45",
     "home_team": "FC Porto",
     "away_team": "Sporting CP",
+    "league": "Taça de Portugal",
     "stadium": "Estádio do Dragão",
-    "stadium_lat": 41.1618,
-    "stadium_lon": -8.5839,
+    "stadium_lat": 41.1617,
+    "stadium_lon": -8.5835,
     "nearby_stores": [
       {
         "name": "São Roque da Lameira Porto",
         "address": "4350-307",
-        "distance_km": 0.37,
+        "distance_km": 0.36,
         "lat": 41.1584656,
         "lon": -8.5833453,
         "schedule": "Mo-Su 07:00-22:00"
@@ -754,7 +3816,7 @@
       {
         "name": "Velasques",
         "address": "Praça de Francisco Sá Carneiro, 4200-313 Porto",
-        "distance_km": 0.77,
+        "distance_km": 0.8,
         "lat": 41.1628775,
         "lon": -8.5929753,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
@@ -762,7 +3824,7 @@
       {
         "name": "Salgueiros Paranhos",
         "address": "Rua de Aval de Baixo, 4200-099 Paranhos",
-        "distance_km": 1.38,
+        "distance_km": 1.42,
         "lat": 41.1679272,
         "lon": -8.5982629,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"

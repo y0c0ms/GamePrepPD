@@ -59,28 +59,45 @@ const withRetry = async (fn, retries = 3) => {
 
     start();
 
-    const matchLinks = await getMatchLinks(
-      context,
-      season?.url,
-      "fixtures"
-    );
+    let allMatchLinks = [];
 
-    if (matchLinks.length === 0) {
-      throw Error(
-        `❌ No matches found on the results page\n` +
-        `Please verify that the league name provided is correct`
-      );
+    // Define the prioritized Portuguese professional leagues/cups
+    const PORTUGAL_COMPETITIONS = [
+      { name: "Liga Portugal Betclic", url: "https://www.flashscore.pt/futebol/portugal/liga-portugal-betclic/" },
+      { name: "Liga Portugal 2", url: "https://www.flashscore.pt/futebol/portugal/liga-portugal-2/" },
+      { name: "Taça de Portugal", url: "https://www.flashscore.pt/futebol/portugal/taca-de-portugal/" },
+      { name: "Taça da Liga", url: "https://www.flashscore.pt/futebol/portugal/taca-da-liga/" },
+      { name: "Supertaça", url: "https://www.flashscore.pt/futebol/portugal/super-taca/" }
+    ];
+
+    // If the target is Portugal, loop through all competitions
+    if (season?.url?.includes("/futebol/portugal/")) {
+      console.log(chalk.blue(`\n[Scraper] Targeted multi-league mode for Portugal. Processing ${PORTUGAL_COMPETITIONS.length} competitions...`));
+      for (const comp of PORTUGAL_COMPETITIONS) {
+        const links = await getMatchLinks(context, comp.url, comp.name);
+        allMatchLinks = [...allMatchLinks, ...links];
+      }
+    } else {
+      // Standard single-league mode
+      allMatchLinks = await getMatchLinks(context, season?.url, season?.name || "Match");
+    }
+
+    if (allMatchLinks.length === 0) {
+      stop();
+      console.log(chalk.yellow(`\nℹ️ No upcoming matches found in any targeted competition. Exiting.`));
+      await browser.close();
+      return;
     }
 
     stop();
 
-    const progressbar = initializeProgressbar(matchLinks.length);
+    const progressbar = initializeProgressbar(allMatchLinks.length);
     const limit = pLimit(cliOptions.concurrency);
 
     const matchData = {};
     let processedCount = 0;
 
-    const tasks = matchLinks.map((matchLink) =>
+    const tasks = allMatchLinks.map((matchLink) =>
       limit(async () => {
         // Random human-like delay between 1 and 3 seconds
         await sleep(Math.floor(Math.random() * 2000) + 1000);
