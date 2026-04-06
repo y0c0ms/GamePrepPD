@@ -118,7 +118,7 @@ function App() {
       const coordsMatch = `${store.lat},${store.lon}`.includes(query);
       const branchMatch = (store.branch || '').toLowerCase().includes(query);
       return nameMatch || addressMatch || coordsMatch || branchMatch;
-    }).slice(0, 5); // Show top 5 suggestions
+    }).slice(0, 50); // Show top 50 suggestions so users can scroll and find their specific branch
   }, [searchQuery, uniqueStores]);
 
   // When a store is selected, find the active games near it
