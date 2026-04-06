@@ -1,197 +1,233 @@
 {
   "Sporting CP": {
     "name": "Estádio José Alvalade",
-    "lat": 38.7612,
-    "lon": -9.1607
+    "lat": 38.7612216,
+    "lon": -9.16179,
+    "official_name": "José Alvalade Stadium"
   },
   "Benfica": {
     "name": "Estádio da Luz",
-    "lat": 38.7527,
-    "lon": -9.1847
+    "lat": 38.7526905,
+    "lon": -9.184692,
+    "official_name": "Estádio da Luz"
   },
   "FC Porto": {
     "name": "Estádio do Dragão",
-    "lat": 41.1617,
-    "lon": -8.5835
+    "lat": 41.16177,
+    "lon": -8.583591,
+    "official_name": "Estádio do Dragão"
   },
   "Braga": {
     "name": "Estádio Municipal de Braga",
-    "lat": 41.5641,
-    "lon": -8.4312
+    "lat": 41.5620136,
+    "lon": -8.4304269,
+    "official_name": "Braga Municipal Stadium"
   },
   "Vitoria Guimaraes": {
     "name": "Estádio D. Afonso Henriques",
-    "lat": 41.4418,
-    "lon": -8.2956
+    "lat": 41.445881199999995,
+    "lon": -8.3009296,
+    "official_name": "Estádio D. Afonso Henriques"
   },
   "Moreirense": {
     "name": "Estádio Comendador Joaquim de Almeida Freitas",
-    "lat": 41.3789,
-    "lon": -8.3589
+    "lat": 41.378076,
+    "lon": -8.3545795,
+    "official_name": "Parque de Jogos Comendador Joaquim de Almeida Freitas"
   },
   "Arouca": {
     "name": "Estádio Municipal de Arouca",
-    "lat": 40.9231,
-    "lon": -8.2464
+    "lat": 40.9328839,
+    "lon": -8.2503344,
+    "official_name": "Estádio Municipal Arouca"
   },
   "Rio Ave": {
     "name": "Estádio dos Arcos",
-    "lat": 41.3653,
-    "lon": -8.7428
+    "lat": 41.362721099999995,
+    "lon": -8.7400931,
+    "official_name": "Estádio dos Arcos"
   },
   "Famalicão": {
     "name": "Estádio Municipal de Famalicão",
-    "lat": 41.4080,
-    "lon": -8.5198
+    "lat": 41.401406699999995,
+    "lon": -8.522406,
+    "official_name": "Famalicão Municipal Stadium"
   },
   "Casa Pia AC": {
     "name": "Estádio Pina Manique",
-    "lat": 38.7375,
-    "lon": -9.2039
+    "lat": 38.7375042,
+    "lon": -9.203829599999999,
+    "official_name": "Estádio Pina Manique"
   },
   "Boavista": {
     "name": "Estádio do Bessa",
-    "lat": 41.1603,
-    "lon": -8.6419
+    "lat": 41.1622098,
+    "lon": -8.642561299999999,
+    "official_name": "Estádio do Bessa"
   },
   "Estrela da Amadora": {
     "name": "Estádio José Gomes",
-    "lat": 38.7507,
-    "lon": -9.2275
+    "lat": 38.7520239,
+    "lon": -9.227896699999999,
+    "official_name": "Estádio José Gomes"
   },
   "Gil Vicente": {
     "name": "Estádio Cidade de Barcelos",
-    "lat": 41.5513,
-    "lon": -8.6231
+    "lat": 41.5511628,
+    "lon": -8.6230127,
+    "official_name": "Estádio Cidade de Barcelos"
   },
   "Estoril": {
     "name": "Estádio António Coimbra da Mota",
-    "lat": 38.7153,
-    "lon": -9.4064
+    "lat": 38.715188,
+    "lon": -9.4063357,
+    "official_name": "Estádio António Coimbra da Mota"
   },
   "AVS": {
     "name": "Estádio do CD Aves",
-    "lat": 41.3639,
-    "lon": -8.4101
+    "lat": 41.366850299999996,
+    "lon": -8.4116784,
+    "official_name": "Estádio do Desportivo das Aves"
   },
   "AFS": {
     "name": "Estádio do CD Aves",
-    "lat": 41.3639,
-    "lon": -8.4101
+    "lat": 41.366850299999996,
+    "lon": -8.4116784,
+    "official_name": "Estádio do Desportivo das Aves"
   },
   "Nacional": {
     "name": "Estádio da Madeira",
-    "lat": 32.6841,
-    "lon": -16.9039
+    "lat": 32.6706067,
+    "lon": -16.883529799999998,
+    "official_name": "Madeira Stadium"
   },
   "Santa Clara": {
     "name": "Estádio de São Miguel",
-    "lat": 37.7475,
-    "lon": -25.6472
+    "lat": 37.763779,
+    "lon": -25.6226351,
+    "official_name": "Estádio de São Miguel"
   },
   "Farense": {
     "name": "Estádio de São Luís",
-    "lat": 37.0203,
-    "lon": -7.9275
+    "lat": 37.0228314,
+    "lon": -7.9284441999999995,
+    "official_name": "Estádio de São Luís"
   },
   "Alverca": {
     "name": "Complexo Desportivo FC Alverca",
-    "lat": 38.8900,
-    "lon": -9.0400
+    "lat": 38.89788,
+    "lon": -9.0350158
   },
   "Tondela": {
     "name": "Estádio João Cardoso",
-    "lat": 40.5168,
-    "lon": -8.0809
+    "lat": 40.5120102,
+    "lon": -8.0827485,
+    "official_name": "Estádio João Cardoso"
   },
   "Portimonense": {
     "name": "Estádio Municipal de Portimão",
-    "lat": 37.1352,
-    "lon": -8.5375
+    "lat": 37.135709999999996,
+    "lon": -8.5398363,
+    "official_name": "Estádio Municipal de Portimão"
   },
   "Chaves": {
     "name": "Estádio Municipal Eng. Manuel Branco Teixeira",
-    "lat": 41.7458,
-    "lon": -7.4647
+    "lat": 41.750569399999996,
+    "lon": -7.464840499999999,
+    "official_name": "Municipal Stadium Engineer Manuel Teixeira Branco"
   },
   "Paços Ferreira": {
     "name": "Estádio Capital do Móvel",
-    "lat": 41.2828,
-    "lon": -8.2936
+    "lat": 41.2716655,
+    "lon": -8.3853069,
+    "official_name": "Capital do Móvel Municipal Stadium"
   },
   "Vizela": {
     "name": "Estádio do FC Vizela",
-    "lat": 41.3323,
-    "lon": -8.3155
+    "lat": 41.388771299999995,
+    "lon": -8.3073344,
+    "official_name": "Estádio do FC Vizela"
   },
   "Feirense": {
     "name": "Estádio Marcolino de Castro",
-    "lat": 40.9238,
-    "lon": -8.5447
+    "lat": 40.9266171,
+    "lon": -8.5458482,
+    "official_name": "Marcolino Castro Stadium"
   },
   "Marítimo": {
     "name": "Estádio do Marítimo",
-    "lat": 32.6367,
-    "lon": -16.9408
+    "lat": 32.6455903,
+    "lon": -16.9283415,
+    "official_name": "Estádio do Marítimo"
   },
   "Académico Viseu": {
     "name": "Estádio Municipal do Fontelo",
-    "lat": 40.6653,
-    "lon": -7.9042
+    "lat": 40.6595491,
+    "lon": -7.9004812,
+    "official_name": "Estádio Municipal do Fontelo"
   },
   "Leixões": {
     "name": "Estádio do Mar",
-    "lat": 41.1853,
-    "lon": -8.6833
+    "lat": 41.183895299999996,
+    "lon": -8.6668416,
+    "official_name": "Sea Stadium"
   },
   "Torreense": {
     "name": "Estádio Manuel Marques",
-    "lat": 39.0945,
-    "lon": -9.2567
+    "lat": 39.0948844,
+    "lon": -9.256621299999999,
+    "official_name": "Estádio Manuel Marques"
   },
   "Penafiel": {
     "name": "Estádio Municipal 25 de Abril",
-    "lat": 41.2194,
-    "lon": -8.2785
+    "lat": 41.2117155,
+    "lon": -8.2777754,
+    "official_name": "Estádio Municipal 25 de Abril"
   },
   "Leiria": {
     "name": "Estádio Dr. Magalhães Pessoa",
-    "lat": 39.7478,
-    "lon": -8.8103
+    "lat": 39.7487752,
+    "lon": -8.812923999999999,
+    "official_name": "Municipal Stadium of Leiria – Dr. Magalhães Pessoa"
   },
   "FC Felgueiras": {
     "name": "Estádio Municipal de Felgueiras",
-    "lat": 41.3364,
-    "lon": -8.1969
+    "lat": 41.3559664,
+    "lon": -8.1907099
   },
   "Lusitânia": {
     "name": "Estádio do Lusitânia",
-    "lat": 40.9883,
-    "lon": -8.5437
+    "lat": 40.9878602,
+    "lon": -8.5436131,
+    "official_name": "Stadium lusitânia f.c."
   },
   "Benfica B": {
     "name": "Benfica Campus",
-    "lat": 38.6311,
-    "lon": -9.0903
+    "lat": 38.641073,
+    "lon": -9.091491699999999
   },
   "FC Porto B": {
     "name": "Estádio Dr. Jorge Sampaio",
-    "lat": 41.0478,
-    "lon": -8.5414
+    "lat": 41.0671433,
+    "lon": -8.5448374,
+    "official_name": "Estádio Dr. Jorge Sampaio"
   },
   "Sporting CP B": {
     "name": "Academia Cristiano Ronaldo",
-    "lat": 38.5639,
-    "lon": -8.8472
+    "lat": 38.7295126,
+    "lon": -8.8467392,
+    "official_name": "Academia Cristiano Ronaldo - Sporting CP"
   },
   "Oliveirense": {
     "name": "Estádio Carlos Osório",
-    "lat": 40.8424,
-    "lon": -8.4704
+    "lat": 40.841961999999995,
+    "lon": -8.470374,
+    "official_name": "Estádio Carlos Osório"
   },
   "Vitória SC": {
     "name": "Estádio D. Afonso Henriques",
-    "lat": 41.4464,
-    "lon": -8.3011
+    "lat": 41.445881199999995,
+    "lon": -8.3009296,
+    "official_name": "Estádio D. Afonso Henriques"
   }
 }
