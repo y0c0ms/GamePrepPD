@@ -1,7 +1,63 @@
 import React, { useState, useEffect, useMemo } from 'react'
 import matches from './data/matches.json'
-import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar, LogOut, ArrowLeft, Search } from 'lucide-react'
+import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar, LogOut, ArrowLeft, Search, Thermometer } from 'lucide-react'
 import Login from './components/Login'
+
+// Weather Badge Component
+const WeatherBadge = ({ lat, lon, dateStr }) => {
+  const [temp, setTemp] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchWeather = async () => {
+      try {
+        // Parse "DD.MM.YYYY HH:mm"
+        const [datePart, timePart] = dateStr.split(' ');
+        const [d, m, y] = datePart.split('.');
+        const [hour] = timePart.split(':');
+        const formattedDate = `${y}-${m}-${d}`;
+        const matchDate = new Date(`${formattedDate}T${timePart}:00`);
+        const now = new Date();
+        const diffDays = Math.ceil((matchDate - now) / (1000 * 60 * 60 * 24));
+
+        // Open-Meteo forecast is only accurate for next ~14-16 days
+        if (diffDays > 14 || diffDays < -1) {
+          setTemp("Unavailable");
+          setLoading(false);
+          return;
+        }
+
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m&start_date=${formattedDate}&end_date=${formattedDate}`;
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (data.hourly && data.hourly.temperature_2m) {
+          // Find the temp for the match hour
+          const hIndex = parseInt(hour, 10);
+          const matchTemp = data.hourly.temperature_2m[hIndex];
+          setTemp(`${matchTemp}°C`);
+        } else {
+          setTemp("Unavailable");
+        }
+      } catch (err) {
+        console.error("Weather fetch failed:", err);
+        setTemp("Unavailable");
+      }
+      setLoading(false);
+    };
+
+    fetchWeather();
+  }, [lat, lon, dateStr]);
+
+  if (loading) return <span className="weather-badge loading">...</span>;
+  
+  return (
+    <span className={`weather-badge ${temp === 'Unavailable' ? 'muted' : ''}`}>
+      <Thermometer size={12} />
+      {temp}
+    </span>
+  );
+};
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -60,7 +116,8 @@ function App() {
       const nameMatch = store.name.toLowerCase().includes(query);
       const addressMatch = (store.address || '').toLowerCase().includes(query);
       const coordsMatch = `${store.lat},${store.lon}`.includes(query);
-      return nameMatch || addressMatch || coordsMatch;
+      const branchMatch = (store.branch || '').toLowerCase().includes(query);
+      return nameMatch || addressMatch || coordsMatch || branchMatch;
     }).slice(0, 5); // Show top 5 suggestions
   }, [searchQuery, uniqueStores]);
 
@@ -117,7 +174,7 @@ function App() {
                  <input 
                    type="text" 
                    className="store-search-input"
-                   placeholder="Search store name, address, or postal code..." 
+                   placeholder="Search store name, address, or branch..." 
                    value={searchQuery}
                    onChange={(e) => setSearchQuery(e.target.value)}
                  />
@@ -130,7 +187,7 @@ function App() {
                        <div key={idx} className="suggestion-item" onClick={() => handleStoreSelect(store)}>
                          <ShoppingBag size={16} className="suggestion-icon" />
                          <div className="suggestion-content">
-                           <span className="suggestion-name">{store.name}</span>
+                           <span className="suggestion-name">{store.name} {store.branch ? `- ${store.branch}` : ''}</span>
                            <span className="suggestion-address">{store.address || "Address not available"}</span>
                          </div>
                        </div>
@@ -153,10 +210,10 @@ function App() {
              </button>
 
              <div className="selected-store-header">
-               <h2>{selectedStore.name}</h2>
-               <p><MapPin size={14} className="inline mr-1"/> {selectedStore.address || "Location verified"}</p>
+               <h2>{selectedStore.name} {selectedStore.branch ? `- ${selectedStore.branch}` : ''}</h2>
+               <p><MapPin size={14} style={{ display: 'inline', marginRight: '0.25rem' }}/> {selectedStore.address || "Location verified"}</p>
                <span className="schedule-badge">
-                 <Clock size={12} /> {selectedStore.schedule === 'N/A' ? 'Check hours online' : selectedStore.schedule.split(';')[0]}
+                 <Clock size={12} /> {selectedStore.schedule === 'N/A' || !selectedStore.schedule ? 'Check hours online' : selectedStore.schedule.split(';')[0]}
                </span>
              </div>
 
@@ -165,9 +222,12 @@ function App() {
                {gamesNearStore.map((match, index) => (
                  <div key={match.matchId} className="match-card" style={{ animationDelay: `${index * 0.05}s` }}>
                    <div className="match-date">
-                     <div style={{ display: 'flex', alignItems: 'center' }}>
-                       <Calendar size={14} style={{ marginRight: '0.4rem' }} />
-                       {match.date}
+                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                       <div style={{ display: 'flex', alignItems: 'center' }}>
+                         <Calendar size={14} style={{ marginRight: '0.4rem' }} />
+                         {match.date}
+                       </div>
+                       <WeatherBadge lat={match.stadium_lat} lon={match.stadium_lon} dateStr={match.date} />
                      </div>
                      <span className="league-badge">{match.league}</span>
                    </div>
@@ -188,6 +248,11 @@ function App() {
                    </div>
                  </div>
                ))}
+               {gamesNearStore.length === 0 && (
+                 <div className="no-games-placeholder">
+                   No football matches found within 15km of this store.
+                 </div>
+               )}
              </div>
           </div>
         )}

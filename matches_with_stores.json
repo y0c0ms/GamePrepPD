@@ -80,6 +80,22 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 10.9,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "4745-524",
+        "distance_km": 14.49,
+        "lat": 41.2817043,
+        "lon": -8.562701,
+        "schedule": "Mo-Su 08:30-21:00; easter 08:30-14:00"
       }
     ]
   },
@@ -116,6 +132,22 @@
         "lat": 38.7485112,
         "lon": -9.1906699,
         "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 2.73,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -152,6 +184,22 @@
         "lat": 41.277423567090175,
         "lon": -8.38315482325981,
         "schedule": "N/A"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 12.84,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Trofa - Shopping",
+        "address": "4785-333",
+        "distance_km": 12.9,
+        "lat": 41.3386536,
+        "lon": -8.5609241,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       }
     ]
   },
@@ -187,6 +235,22 @@
         "distance_km": 1.72,
         "lat": 38.7659572,
         "lon": -9.231061,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto, 2700-554 Alfornelos",
+        "distance_km": 2.36,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes, 2745-067 Sintra",
+        "distance_km": 2.52,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -224,6 +288,22 @@
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
+      },
+      {
+        "name": "Póvoa de Santa Iria",
+        "address": "2625-266",
+        "distance_km": 5.09,
+        "lat": 38.8525878,
+        "lon": -9.0739173,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Portela da Azóia",
+        "address": "2695-247",
+        "distance_km": 7.28,
+        "lat": 38.8378827,
+        "lon": -9.0909447,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -260,6 +340,22 @@
         "lat": 41.5476654,
         "lon": -8.4218305,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "4715-045",
+        "distance_km": 2.38,
+        "lat": 41.5490915,
+        "lon": -8.4108529,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 10.59,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -295,6 +391,22 @@
         "distance_km": 0.97,
         "lat": 38.7538891,
         "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.14,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.38,
+        "lat": 38.7457285,
+        "lon": -9.197816,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -352,6 +464,22 @@
         "lat": 38.7149963,
         "lon": -9.4241949,
         "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Alapraia",
+        "address": "2765-088",
+        "distance_km": 2.71,
+        "lat": 38.7048573,
+        "lon": -9.3782281,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Cascais - Guia",
+        "address": "2750-642",
+        "distance_km": 3.15,
+        "lat": 38.6978116,
+        "lon": -9.4350215,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       }
     ]
   },
@@ -416,6 +544,22 @@
         "lat": 32.6638705,
         "lon": -16.9392715,
         "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "9000-100 Funchal",
+        "distance_km": 5.82,
+        "lat": 32.6385859,
+        "lon": -16.9346815,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Hiper",
+        "address": "Rua do Gorgulho, 9000-107 Funchal",
+        "distance_km": 5.86,
+        "lat": 32.6368872,
+        "lon": -16.9316537,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
       }
     ]
   },
@@ -452,6 +596,22 @@
         "lat": 38.7485112,
         "lon": -9.1906699,
         "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 2.73,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -536,6 +696,22 @@
         "lat": 38.76843145283731,
         "lon": -9.172922412302512,
         "schedule": "N/A"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.55,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvalade",
+        "address": "1700-036",
+        "distance_km": 1.62,
+        "lat": 38.7535441,
+        "lon": -9.1447942,
+        "schedule": "Mo-Su 08:30-21:00; easter 08:30-22:00"
       }
     ]
   },
@@ -572,6 +748,22 @@
         "lat": 41.5476654,
         "lon": -8.4218305,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "4715-045",
+        "distance_km": 2.38,
+        "lat": 41.5490915,
+        "lon": -8.4108529,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 10.59,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -608,6 +800,22 @@
         "lat": 41.4379641,
         "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 11.46,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 12.11,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -643,6 +851,22 @@
         "distance_km": 1.42,
         "lat": 41.1679272,
         "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Costa Cabral",
+        "address": "Rua Costa Cabral, 4200-124 Porto",
+        "distance_km": 1.62,
+        "lat": 41.1761443,
+        "lon": -8.5855793,
+        "schedule": "Mo-Su 08:00-21:00; easter off"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 1.78,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -680,6 +904,22 @@
         "lat": 38.7485112,
         "lon": -9.1906699,
         "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 2.73,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -716,6 +956,22 @@
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
+      },
+      {
+        "name": "Póvoa de Santa Iria",
+        "address": "2625-266",
+        "distance_km": 5.09,
+        "lat": 38.8525878,
+        "lon": -9.0739173,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Portela da Azóia",
+        "address": "2695-247",
+        "distance_km": 7.28,
+        "lat": 38.8378827,
+        "lon": -9.0909447,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -752,6 +1008,22 @@
         "lat": 41.277423567090175,
         "lon": -8.38315482325981,
         "schedule": "N/A"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 12.84,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Trofa - Shopping",
+        "address": "4785-333",
+        "distance_km": 12.9,
+        "lat": 41.3386536,
+        "lon": -8.5609241,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       }
     ]
   },
@@ -788,6 +1060,22 @@
         "lat": 38.7149963,
         "lon": -9.4241949,
         "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Alapraia",
+        "address": "2765-088",
+        "distance_km": 2.71,
+        "lat": 38.7048573,
+        "lon": -9.3782281,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Cascais - Guia",
+        "address": "2750-642",
+        "distance_km": 3.15,
+        "lat": 38.6978116,
+        "lon": -9.4350215,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       }
     ]
   },
@@ -824,6 +1112,22 @@
         "lat": 38.7538891,
         "lon": -9.1957808,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.14,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.38,
+        "lat": 38.7457285,
+        "lon": -9.197816,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -859,6 +1163,22 @@
         "distance_km": 1.72,
         "lat": 38.7659572,
         "lon": -9.231061,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto, 2700-554 Alfornelos",
+        "distance_km": 2.36,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes, 2745-067 Sintra",
+        "distance_km": 2.52,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -972,6 +1292,22 @@
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "4820-121",
+        "distance_km": 10.43,
+        "lat": 41.4480225,
+        "lon": -8.1760073,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 12.43,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1007,6 +1343,22 @@
         "distance_km": 1.42,
         "lat": 41.1679272,
         "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Costa Cabral",
+        "address": "Rua Costa Cabral, 4200-124 Porto",
+        "distance_km": 1.62,
+        "lat": 41.1761443,
+        "lon": -8.5855793,
+        "schedule": "Mo-Su 08:00-21:00; easter off"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 1.78,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -1064,6 +1416,22 @@
         "lat": 41.5476654,
         "lon": -8.4218305,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "4715-045",
+        "distance_km": 2.38,
+        "lat": 41.5490915,
+        "lon": -8.4108529,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 10.59,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -1100,6 +1468,22 @@
         "lat": 38.7485112,
         "lon": -9.1906699,
         "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 2.73,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1136,6 +1520,22 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 10.9,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "4745-524",
+        "distance_km": 14.49,
+        "lat": 41.2817043,
+        "lon": -8.562701,
+        "schedule": "Mo-Su 08:30-21:00; easter 08:30-14:00"
       }
     ]
   },
@@ -1172,6 +1572,22 @@
         "lat": 41.277423567090175,
         "lon": -8.38315482325981,
         "schedule": "N/A"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 12.84,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Trofa - Shopping",
+        "address": "4785-333",
+        "distance_km": 12.9,
+        "lat": 41.3386536,
+        "lon": -8.5609241,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       }
     ]
   },
@@ -1208,6 +1624,22 @@
         "lat": 38.76843145283731,
         "lon": -9.172922412302512,
         "schedule": "N/A"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.55,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvalade",
+        "address": "1700-036",
+        "distance_km": 1.62,
+        "lat": 38.7535441,
+        "lon": -9.1447942,
+        "schedule": "Mo-Su 08:30-21:00; easter 08:30-22:00"
       }
     ]
   },
@@ -1244,6 +1676,22 @@
         "lat": 41.4379641,
         "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 11.46,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 12.11,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -1308,6 +1756,22 @@
         "lat": 32.6638705,
         "lon": -16.9392715,
         "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "9000-100 Funchal",
+        "distance_km": 5.82,
+        "lat": 32.6385859,
+        "lon": -16.9346815,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Hiper",
+        "address": "Rua do Gorgulho, 9000-107 Funchal",
+        "distance_km": 5.86,
+        "lat": 32.6368872,
+        "lon": -16.9316537,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1344,6 +1808,22 @@
         "lat": 38.8561622,
         "lon": -9.0778001,
         "schedule": "Mo-Su 09:00-21:00; easter 09:00-14:00"
+      },
+      {
+        "name": "Póvoa de Santa Iria",
+        "address": "2625-266",
+        "distance_km": 5.09,
+        "lat": 38.8525878,
+        "lon": -9.0739173,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Portela da Azóia",
+        "address": "2695-247",
+        "distance_km": 7.28,
+        "lat": 38.8378827,
+        "lon": -9.0909447,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1436,6 +1916,22 @@
         "lat": 38.7538891,
         "lon": -9.1957808,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.14,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "1500-322",
+        "distance_km": 1.38,
+        "lat": 38.7457285,
+        "lon": -9.197816,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1471,6 +1967,22 @@
         "distance_km": 1.72,
         "lat": 38.7659572,
         "lon": -9.231061,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto, 2700-554 Alfornelos",
+        "distance_km": 2.36,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes, 2745-067 Sintra",
+        "distance_km": 2.52,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -1556,6 +2068,22 @@
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "4820-121",
+        "distance_km": 10.43,
+        "lat": 41.4480225,
+        "lon": -8.1760073,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "4795-001",
+        "distance_km": 12.43,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1612,6 +2140,22 @@
         "lat": 41.5476654,
         "lon": -8.4218305,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "4715-045",
+        "distance_km": 2.38,
+        "lat": 41.5490915,
+        "lon": -8.4108529,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 10.59,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -1648,6 +2192,22 @@
         "lat": 38.7485112,
         "lon": -9.1906699,
         "schedule": "Mo-Su 08:00-22:00; easter 08:00-19:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Avenida do Uruguai, 1500-615 Lisboa",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "1500-662",
+        "distance_km": 2.73,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1684,6 +2244,22 @@
         "lat": 38.7149963,
         "lon": -9.4241949,
         "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Alapraia",
+        "address": "2765-088",
+        "distance_km": 2.71,
+        "lat": 38.7048573,
+        "lon": -9.3782281,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Cascais - Guia",
+        "address": "2750-642",
+        "distance_km": 3.15,
+        "lat": 38.6978116,
+        "lon": -9.4350215,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
       }
     ]
   },
@@ -1720,6 +2296,22 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 10.9,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "4745-524",
+        "distance_km": 14.49,
+        "lat": 41.2817043,
+        "lon": -8.562701,
+        "schedule": "Mo-Su 08:30-21:00; easter 08:30-14:00"
       }
     ]
   },
@@ -1755,6 +2347,22 @@
         "distance_km": 1.42,
         "lat": 41.1679272,
         "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Costa Cabral",
+        "address": "Rua Costa Cabral, 4200-124 Porto",
+        "distance_km": 1.62,
+        "lat": 41.1761443,
+        "lon": -8.5855793,
+        "schedule": "Mo-Su 08:00-21:00; easter off"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 1.78,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -1792,6 +2400,22 @@
         "lat": 41.4379641,
         "lon": -8.2919309,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Paços de Ferreira",
+        "address": "",
+        "distance_km": 11.46,
+        "lat": 41.277423567090175,
+        "lon": -8.38315482325981,
+        "schedule": "N/A"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "4801-908",
+        "distance_km": 12.11,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "Mo-Su 09:00-21:00"
       }
     ]
   },
@@ -1828,6 +2452,22 @@
         "lat": 32.6638705,
         "lon": -16.9392715,
         "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "9000-100 Funchal",
+        "distance_km": 5.82,
+        "lat": 32.6385859,
+        "lon": -16.9346815,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Hiper",
+        "address": "Rua do Gorgulho, 9000-107 Funchal",
+        "distance_km": 5.86,
+        "lat": 32.6368872,
+        "lon": -16.9316537,
+        "schedule": "Mo-Su 08:00-22:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1864,6 +2504,22 @@
         "lat": 38.76843145283731,
         "lon": -9.172922412302512,
         "schedule": "N/A"
+      },
+      {
+        "name": "Estrada Da Luz",
+        "address": "Rua Abranches Ferrão, 1600-001",
+        "distance_km": 1.55,
+        "lat": 38.7503335,
+        "lon": -9.1719107,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Alvalade",
+        "address": "1700-036",
+        "distance_km": 1.62,
+        "lat": 38.7535441,
+        "lon": -9.1447942,
+        "schedule": "Mo-Su 08:30-21:00; easter 08:30-22:00"
       }
     ]
   },
@@ -1900,6 +2556,22 @@
         "lat": 41.1279383,
         "lon": -8.6058706,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua de Passos Manuel, 4000-385 Porto",
+        "distance_km": 12.21,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 12.31,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -1964,6 +2636,22 @@
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 11.91,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 14.93,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
       }
     ]
   },
@@ -2112,6 +2800,22 @@
         "lat": 38.6300093,
         "lon": -9.0385536,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Feijó",
+        "address": "Rua de Ary dos Santos, 2810-020",
+        "distance_km": 6.87,
+        "lat": 38.6568889,
+        "lon": -9.1621341,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Almada",
+        "address": "Praça da Liberdade, 2800-698 Almada",
+        "distance_km": 7.8,
+        "lat": 38.6784931,
+        "lon": -9.1564489,
+        "schedule": "Mo-Su 07:30-21:30; easter 07:30-14:00"
       }
     ]
   },
@@ -2147,6 +2851,22 @@
         "distance_km": 9.69,
         "lat": 40.8601969,
         "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Oliveira de Azeméis - Shopping Rainha",
+        "address": "3720-232",
+        "distance_km": 10.91,
+        "lat": 40.8387339,
+        "lon": -8.4799994,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 12.51,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -2184,6 +2904,22 @@
         "lat": 41.196294,
         "lon": -8.6927501,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Leça da Palmeira - R. Fernando Aroso",
+        "address": "4450-666",
+        "distance_km": 1.99,
+        "lat": 41.1999746,
+        "lon": -8.6969646,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Guifões",
+        "address": "4460-000 Guifões",
+        "distance_km": 2.07,
+        "lat": 41.19813,
+        "lon": -8.6654023,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -2220,6 +2956,22 @@
         "lat": 32.6638705,
         "lon": -16.9392715,
         "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.19,
+        "lat": 32.663472,
+        "lon": -16.9286424,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 3.48,
+        "lat": 32.6491679,
+        "lon": -16.9748824,
+        "schedule": "N/A"
       }
     ]
   },
@@ -2327,6 +3079,14 @@
         "distance_km": 13.24,
         "lat": 41.3668852,
         "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 14.88,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -2464,6 +3224,22 @@
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 11.91,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 14.93,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
       }
     ]
   },
@@ -2500,6 +3276,22 @@
         "lat": 41.1279383,
         "lon": -8.6058706,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua de Passos Manuel, 4000-385 Porto",
+        "distance_km": 12.21,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 12.31,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -2536,6 +3328,22 @@
         "lat": 38.6300093,
         "lon": -9.0385536,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Feijó",
+        "address": "Rua de Ary dos Santos, 2810-020",
+        "distance_km": 6.87,
+        "lat": 38.6568889,
+        "lon": -9.1621341,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Almada",
+        "address": "Praça da Liberdade, 2800-698 Almada",
+        "distance_km": 7.8,
+        "lat": 38.6784931,
+        "lon": -9.1564489,
+        "schedule": "Mo-Su 07:30-21:30; easter 07:30-14:00"
       }
     ]
   },
@@ -2692,6 +3500,22 @@
         "lat": 41.196294,
         "lon": -8.6927501,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Leça da Palmeira - R. Fernando Aroso",
+        "address": "4450-666",
+        "distance_km": 1.99,
+        "lat": 41.1999746,
+        "lon": -8.6969646,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Guifões",
+        "address": "4460-000 Guifões",
+        "distance_km": 2.07,
+        "lat": 41.19813,
+        "lon": -8.6654023,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -2791,6 +3615,22 @@
         "distance_km": 9.69,
         "lat": 40.8601969,
         "lon": -8.6235126,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Oliveira de Azeméis - Shopping Rainha",
+        "address": "3720-232",
+        "distance_km": 10.91,
+        "lat": 40.8387339,
+        "lon": -8.4799994,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 12.51,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -2892,6 +3732,22 @@
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 11.91,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 14.93,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
       }
     ]
   },
@@ -2928,6 +3784,22 @@
         "lat": 41.1279383,
         "lon": -8.6058706,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua de Passos Manuel, 4000-385 Porto",
+        "distance_km": 12.21,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 12.31,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -3000,6 +3872,22 @@
         "lat": 32.6638705,
         "lon": -16.9392715,
         "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.19,
+        "lat": 32.663472,
+        "lon": -16.9286424,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 3.48,
+        "lat": 32.6491679,
+        "lon": -16.9748824,
+        "schedule": "N/A"
       }
     ]
   },
@@ -3136,6 +4024,14 @@
         "lat": 41.3668852,
         "lon": -8.4059383,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 14.88,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -3228,6 +4124,22 @@
         "lat": 38.6300093,
         "lon": -9.0385536,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Feijó",
+        "address": "Rua de Ary dos Santos, 2810-020",
+        "distance_km": 6.87,
+        "lat": 38.6568889,
+        "lon": -9.1621341,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Almada",
+        "address": "Praça da Liberdade, 2800-698 Almada",
+        "distance_km": 7.8,
+        "lat": 38.6784931,
+        "lon": -9.1564489,
+        "schedule": "Mo-Su 07:30-21:30; easter 07:30-14:00"
       }
     ]
   },
@@ -3356,6 +4268,22 @@
         "lat": 40.8601969,
         "lon": -8.6235126,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Oliveira de Azeméis - Shopping Rainha",
+        "address": "3720-232",
+        "distance_km": 10.91,
+        "lat": 40.8387339,
+        "lon": -8.4799994,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Espinho - Rua 21",
+        "address": "4500-267",
+        "distance_km": 12.51,
+        "lat": 41.0080443,
+        "lon": -8.6433917,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -3420,6 +4348,22 @@
         "lat": 41.3952804,
         "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "4810-225",
+        "distance_km": 11.91,
+        "lat": 41.4379641,
+        "lon": -8.2919309,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce Penafiel - Guilhufe",
+        "address": "",
+        "distance_km": 14.93,
+        "lat": 41.198177073040064,
+        "lon": -8.306340886931075,
+        "schedule": "N/A"
       }
     ]
   },
@@ -3484,6 +4428,22 @@
         "lat": 41.1279383,
         "lon": -8.6058706,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua de Passos Manuel, 4000-385 Porto",
+        "distance_km": 12.21,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 12.31,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -3592,6 +4552,22 @@
         "lat": 41.196294,
         "lon": -8.6927501,
         "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Leça da Palmeira - R. Fernando Aroso",
+        "address": "4450-666",
+        "distance_km": 1.99,
+        "lat": 41.1999746,
+        "lon": -8.6969646,
+        "schedule": "Mo-Su 08:00-21:30; easter 08:00-14:00"
+      },
+      {
+        "name": "Guifões",
+        "address": "4460-000 Guifões",
+        "distance_km": 2.07,
+        "lat": 41.19813,
+        "lon": -8.6654023,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
   },
@@ -3628,6 +4604,22 @@
         "lat": 32.6638705,
         "lon": -16.9392715,
         "schedule": "Mo-Su 07:30-22:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "9000-000 Funchal",
+        "distance_km": 3.19,
+        "lat": 32.663472,
+        "lon": -16.9286424,
+        "schedule": "Mo-Su 07:30-21:00; easter 07:30-14:00"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 3.48,
+        "lat": 32.6491679,
+        "lon": -16.9748824,
+        "schedule": "N/A"
       }
     ]
   },
@@ -3663,6 +4655,14 @@
         "distance_km": 13.24,
         "lat": 41.3668852,
         "lon": -8.4059383,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "4765-213",
+        "distance_km": 14.88,
+        "lat": 41.3952804,
+        "lon": -8.3902594,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
@@ -3827,6 +4827,22 @@
         "distance_km": 1.42,
         "lat": 41.1679272,
         "lon": -8.5982629,
+        "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
+      },
+      {
+        "name": "Costa Cabral",
+        "address": "Rua Costa Cabral, 4200-124 Porto",
+        "distance_km": 1.62,
+        "lat": 41.1761443,
+        "lon": -8.5855793,
+        "schedule": "Mo-Su 08:00-21:00; easter off"
+      },
+      {
+        "name": "Pingo Doce",
+        "address": "",
+        "distance_km": 1.78,
+        "lat": 41.1499832,
+        "lon": -8.5980649,
         "schedule": "Mo-Su 08:00-21:00; easter 08:00-14:00"
       }
     ]
