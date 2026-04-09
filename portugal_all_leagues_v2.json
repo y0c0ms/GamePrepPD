@@ -1,0 +1,26 @@
+{
+  "1398224": {
+    "matchId": "1398224",
+    "date": "10.04.2026 18:45",
+    "home": {
+      "name": "Felgueiras 1932"
+    },
+    "away": {
+      "name": "Pacos Ferreira"
+    },
+    "league": "Segunda Liga",
+    "venue": "Stadion Dr. Machado de Matos"
+  },
+  "1396495": {
+    "matchId": "1396495",
+    "date": "10.04.2026 20:45",
+    "home": {
+      "name": "Famalicao"
+    },
+    "away": {
+      "name": "Moreirense"
+    },
+    "league": "Primeira Liga",
+    "venue": "Estadio Municipal de Famalicao"
+  }
+}

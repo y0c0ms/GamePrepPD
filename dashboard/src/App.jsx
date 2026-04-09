@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react'
 import matches from './data/matches.json'
-import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar, LogOut, ArrowLeft, Search, Thermometer } from 'lucide-react'
+import metadata from './data/metadata.json'
+import { MapPin, Clock, Navigation, ShoppingBag, Trophy, Calendar, LogOut, ArrowLeft, Search, Thermometer, RefreshCw } from 'lucide-react'
 import Login from './components/Login'
 
 // Weather Badge Component
@@ -148,8 +149,14 @@ function App() {
   return (
     <div className="dashboard-container">
       <header>
-        <div className="logo-section">
-          <h1>GamePrep</h1>
+        <div className="header-left">
+          <div className="logo-section">
+            <h1>GamePrep</h1>
+          </div>
+          <div className="sync-status">
+            <div className="pulse-dot"></div>
+            <span>Updated: {new Date(metadata.lastUpdated).toLocaleString('pt-PT', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })}</span>
+          </div>
         </div>
         <button 
           onClick={handleLogout}

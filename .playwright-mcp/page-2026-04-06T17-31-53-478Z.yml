@@ -1,0 +1,11 @@
+- generic [ref=e4]:
+  - img [ref=e6]
+  - heading "GamePrep Dashboard" [level=1] [ref=e9]
+  - paragraph [ref=e10]: Jerónimo Martins Security Gate
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - textbox "••••••••" [active] [ref=e13]
+      - button [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+    - button "Acessar" [ref=e18] [cursor=pointer]
+  - paragraph [ref=e19]: "Restricted: GamePrep v1.0"
