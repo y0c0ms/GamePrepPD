@@ -54,8 +54,8 @@ jobs:
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: automatic update of match data (Hybrid Scraper + API) [skip ci]"
-          file_pattern: "dashboard/src/data/matches.json dashboard/src/data/metadata.json"
+          commit_message: "chore: daily match data sync (Hybrid Scraper + API)"
+          file_pattern: "dashboard/src/data/*.json"
           commit_user_name: "GitHub Action"
           commit_user_email: "action@github.com"
           commit_author: "GitHub Action <action@github.com>"
