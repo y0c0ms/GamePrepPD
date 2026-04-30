@@ -1,303 +1,56 @@
 [
   {
-    "matchId": "1396469",
-    "date": "29.04.2026 20:15",
-    "home_team": "Sporting CP",
-    "away_team": "Tondela",
-    "league": "Primeira Liga",
-    "stadium": "Estádio José Alvalade",
-    "stadium_lat": 38.7612216,
-    "stadium_lon": -9.16179,
+    "matchId": "1398255",
+    "date": "01.05.2026 20:30",
+    "home_team": "Sporting CP B",
+    "away_team": "Benfica B",
+    "league": "Segunda Liga",
+    "stadium": "Academia Cristiano Ronaldo",
+    "stadium_lat": 38.7295126,
+    "stadium_lon": -8.8467392,
     "nearby_stores": [
       {
-        "name": "PD&Go Padre Cruz",
-        "address": "Avenida Padre Cruz",
-        "distance_km": 0.2,
-        "lat": 38.7595434,
-        "lon": -9.1610448,
-        "schedule": "7:00 → 23:30"
+        "name": "Alcochete",
+        "address": "Avenida Euro 2004 - Sítio Da Qu...",
+        "distance_km": 8.93,
+        "lat": 38.7519385,
+        "lon": -8.9455571,
+        "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Parque Europa",
-        "address": "Av. Maria Helena Vieira Da Silv...",
-        "distance_km": 0.96,
-        "lat": 38.7669675,
-        "lon": -9.1536025,
+        "name": "Montijo - Estrada Nacional",
+        "address": "E.N. 4, 1, Pocinho Das Nascentes",
+        "distance_km": 9.98,
+        "lat": 38.7046445,
+        "lon": -8.9572983,
         "schedule": "8:00 → 21:30"
       },
       {
-        "name": "Galhardas",
-        "address": "Azinhaga Das Galhardas Lote 19",
-        "distance_km": 1.07,
-        "lat": 38.7519959,
-        "lon": -9.1653063,
-        "schedule": "8:00 → 21:00"
+        "name": "Montijo - Maestro J. Peixinho",
+        "address": "Av. Maestro J. Peixinho",
+        "distance_km": 10.84,
+        "lat": 38.712012099999995,
+        "lon": -8.969708599999999,
+        "schedule": "7:30 → 21:30"
       },
       {
-        "name": "Telheiras - Hiper",
-        "address": "Rua Projectada à Azinhaga dos U...",
-        "distance_km": 1.23,
-        "lat": 38.7680946,
-        "lon": -9.1729514,
-        "schedule": "8:00 → 22:00"
+        "name": "PD&Go Pinhal Novo",
+        "address": "R. do Monte Novo 1",
+        "distance_km": 11.84,
+        "lat": 38.6370117,
+        "lon": -8.9142517,
+        "schedule": "7:00 → 22:00"
       },
       {
-        "name": "Lumiar",
-        "address": "Rua Leopoldo Almeida Lote 4",
-        "distance_km": 1.24,
-        "lat": 38.7722696,
-        "lon": -9.1599023,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Conde Redondo",
-        "address": "Rua Conde Redondo 41/41A",
-        "distance_km": 1.41,
-        "lat": 38.750976,
-        "lon": -9.1521822,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Estrada Da Luz",
-        "address": "Atlanta Park - Edf.Georgia - Ru...",
-        "distance_km": 1.42,
-        "lat": 38.750743,
-        "lon": -9.1711227,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "PD&GO Estrada da Luz",
-        "address": "Estrada da Luz",
-        "distance_km": 1.6,
-        "lat": 38.7492883,
-        "lon": -9.1721033,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Alvalade",
-        "address": "C.C. Alvalade - Praça de Alvala...",
-        "distance_km": 1.69,
-        "lat": 38.7535973,
-        "lon": -9.1448656,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Torres da Luz",
-        "address": "Rua José Maria Nicolau - Arruam...",
-        "distance_km": 1.85,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
+        "name": "Pinhal Novo",
+        "address": "C.C. Mochos - Rua Ferreira de C...",
+        "distance_km": 11.93,
+        "lat": 38.6354382,
+        "lon": -8.9128261,
         "schedule": "8:00 → 21:00"
       }
     ],
     "source": "API-Football"
-  },
-  {
-    "matchId": "IsY4WWSE",
-    "date": "02.05.2026 14:30",
-    "home_team": "Arouca",
-    "away_team": "Santa Clara",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Municipal de Arouca",
-    "stadium_lat": 40.9328839,
-    "stadium_lon": -8.2503344,
-    "nearby_stores": [
-      {
-        "name": "Arouca",
-        "address": "Av. 25 de Abril 30",
-        "distance_km": 0.5,
-        "lat": 40.9286247,
-        "lon": -8.2484325,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "riETcCMk",
-    "date": "02.05.2026 14:30",
-    "home_team": "Nacional",
-    "away_team": "AFS",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio da Madeira",
-    "stadium_lat": 32.6706067,
-    "stadium_lon": -16.883529799999998,
-    "nearby_stores": [
-      {
-        "name": "Super Anadia",
-        "address": "C. C. Anadia - Rua Do Ribeirinh...",
-        "distance_km": 3.06,
-        "lat": 32.6494175,
-        "lon": -16.9044595,
-        "schedule": "7:30 → 22:00"
-      },
-      {
-        "name": "Super Cancela",
-        "address": "Edf. Quinta Garajau, Estrada Ga...",
-        "distance_km": 3.67,
-        "lat": 32.6464664,
-        "lon": -16.8568446,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Plaza",
-        "address": "La Vie Funchal Shopping Center,...",
-        "distance_km": 3.85,
-        "lat": 32.6475889,
-        "lon": -16.9142336,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Super Penteada",
-        "address": "Urbanização Da Penteada Loja 15",
-        "distance_km": 4.78,
-        "lat": 32.6636713,
-        "lon": -16.9339569,
-        "schedule": "7:30 → 21:00"
-      },
-      {
-        "name": "Super Santo Antonio",
-        "address": "Caminho De Stº António 244",
-        "distance_km": 4.87,
-        "lat": 32.661984,
-        "lon": -16.9345602,
-        "schedule": "7:30 → 22:00"
-      },
-      {
-        "name": "Lido",
-        "address": "Rua Do Gorgulho (Junto Piscinas...",
-        "distance_km": 5.84,
-        "lat": 32.6369788,
-        "lon": -16.931435,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Super Monumental",
-        "address": "Estrada Monumental 318",
-        "distance_km": 5.94,
-        "lat": 32.6386398,
-        "lon": -16.9343558,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Super Forum",
-        "address": "C. C. Forum Madeira, Estrada Mo...",
-        "distance_km": 6.7,
-        "lat": 32.6360551,
-        "lon": -16.9421672,
-        "schedule": "8:00 → 23:00"
-      },
-      {
-        "name": "Super Câmara de Lobos",
-        "address": "Edf. Baía Cidade, Rua Padre Edu...",
-        "distance_km": 9.01,
-        "lat": 32.6493194,
-        "lon": -16.9763592,
-        "schedule": "7:30 → 22:00"
-      },
-      {
-        "name": "Super Machico",
-        "address": "Rua Da Estacada",
-        "distance_km": 12.14,
-        "lat": 32.7198279,
-        "lon": -16.767705499999998,
-        "schedule": "7:30 → 22:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "Ya1ycHJ5",
-    "date": "29.04.2026 19:15",
-    "home_team": "Sporting CP",
-    "away_team": "Tondela",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio José Alvalade",
-    "stadium_lat": 38.7612216,
-    "stadium_lon": -9.16179,
-    "nearby_stores": [
-      {
-        "name": "PD&Go Padre Cruz",
-        "address": "Avenida Padre Cruz",
-        "distance_km": 0.2,
-        "lat": 38.7595434,
-        "lon": -9.1610448,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Parque Europa",
-        "address": "Av. Maria Helena Vieira Da Silv...",
-        "distance_km": 0.96,
-        "lat": 38.7669675,
-        "lon": -9.1536025,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Galhardas",
-        "address": "Azinhaga Das Galhardas Lote 19",
-        "distance_km": 1.07,
-        "lat": 38.7519959,
-        "lon": -9.1653063,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Telheiras - Hiper",
-        "address": "Rua Projectada à Azinhaga dos U...",
-        "distance_km": 1.23,
-        "lat": 38.7680946,
-        "lon": -9.1729514,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Lumiar",
-        "address": "Rua Leopoldo Almeida Lote 4",
-        "distance_km": 1.24,
-        "lat": 38.7722696,
-        "lon": -9.1599023,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Conde Redondo",
-        "address": "Rua Conde Redondo 41/41A",
-        "distance_km": 1.41,
-        "lat": 38.750976,
-        "lon": -9.1521822,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Estrada Da Luz",
-        "address": "Atlanta Park - Edf.Georgia - Ru...",
-        "distance_km": 1.42,
-        "lat": 38.750743,
-        "lon": -9.1711227,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "PD&GO Estrada da Luz",
-        "address": "Estrada da Luz",
-        "distance_km": 1.6,
-        "lat": 38.7492883,
-        "lon": -9.1721033,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Alvalade",
-        "address": "C.C. Alvalade - Praça de Alvala...",
-        "distance_km": 1.69,
-        "lat": 38.7535973,
-        "lon": -9.1448656,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Torres da Luz",
-        "address": "Rua José Maria Nicolau - Arruam...",
-        "distance_km": 1.85,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
   },
   {
     "matchId": "r5g2CByq",
@@ -380,6 +133,27 @@
         "lat": 41.282478,
         "lon": -8.5630235,
         "schedule": "8:30 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "IsY4WWSE",
+    "date": "02.05.2026 14:30",
+    "home_team": "Arouca",
+    "away_team": "Santa Clara",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Arouca",
+    "stadium_lat": 40.9328839,
+    "stadium_lon": -8.2503344,
+    "nearby_stores": [
+      {
+        "name": "Arouca",
+        "address": "Av. 25 de Abril 30",
+        "distance_km": 0.5,
+        "lat": 40.9286247,
+        "lon": -8.2484325,
+        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -571,6 +345,192 @@
     "source": "Flashscore"
   },
   {
+    "matchId": "riETcCMk",
+    "date": "02.05.2026 14:30",
+    "home_team": "Nacional",
+    "away_team": "AFS",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio da Madeira",
+    "stadium_lat": 32.6706067,
+    "stadium_lon": -16.883529799999998,
+    "nearby_stores": [
+      {
+        "name": "Super Anadia",
+        "address": "C. C. Anadia - Rua Do Ribeirinh...",
+        "distance_km": 3.06,
+        "lat": 32.6494175,
+        "lon": -16.9044595,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Cancela",
+        "address": "Edf. Quinta Garajau, Estrada Ga...",
+        "distance_km": 3.67,
+        "lat": 32.6464664,
+        "lon": -16.8568446,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Plaza",
+        "address": "La Vie Funchal Shopping Center,...",
+        "distance_km": 3.85,
+        "lat": 32.6475889,
+        "lon": -16.9142336,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "Urbanização Da Penteada Loja 15",
+        "distance_km": 4.78,
+        "lat": 32.6636713,
+        "lon": -16.9339569,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho De Stº António 244",
+        "distance_km": 4.87,
+        "lat": 32.661984,
+        "lon": -16.9345602,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Lido",
+        "address": "Rua Do Gorgulho (Junto Piscinas...",
+        "distance_km": 5.84,
+        "lat": 32.6369788,
+        "lon": -16.931435,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Monumental",
+        "address": "Estrada Monumental 318",
+        "distance_km": 5.94,
+        "lat": 32.6386398,
+        "lon": -16.9343558,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Forum",
+        "address": "C. C. Forum Madeira, Estrada Mo...",
+        "distance_km": 6.7,
+        "lat": 32.6360551,
+        "lon": -16.9421672,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 9.01,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Machico",
+        "address": "Rua Da Estacada",
+        "distance_km": 12.14,
+        "lat": 32.7198279,
+        "lon": -16.767705499999998,
+        "schedule": "7:30 → 22:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "CpoJ8Tz8",
+    "date": "03.05.2026 14:30",
+    "home_team": "Casa Pia AC",
+    "away_team": "Tondela",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375042,
+    "stadium_lon": -9.203829599999999,
+    "nearby_stores": [
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "Avenida Gomes Pereira 69A",
+        "distance_km": 1.15,
+        "lat": 38.7467621,
+        "lon": -9.1978645,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 1.34,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "Rua Teófilo Braga Lote 63",
+        "distance_km": 1.35,
+        "lat": 38.7427454,
+        "lon": -9.2178994,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "C.C. Fonte Nova - Rua Paulo Ren...",
+        "distance_km": 1.68,
+        "lat": 38.748536,
+        "lon": -9.190635,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Alfragide",
+        "address": "Urbanização Qtª.Grande Célula A...",
+        "distance_km": 1.86,
+        "lat": 38.7378047,
+        "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
     "matchId": "E9RDUAcR",
     "date": "03.05.2026 17:00",
     "home_team": "Braga",
@@ -720,99 +680,6 @@
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "8:00 → 21:30"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "CpoJ8Tz8",
-    "date": "03.05.2026 14:30",
-    "home_team": "Casa Pia AC",
-    "away_team": "Tondela",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Pina Manique",
-    "stadium_lat": 38.7375042,
-    "stadium_lon": -9.203829599999999,
-    "nearby_stores": [
-      {
-        "name": "Benfica - Gomes Pereira",
-        "address": "Avenida Gomes Pereira 69A",
-        "distance_km": 1.15,
-        "lat": 38.7467621,
-        "lon": -9.1978645,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Grão Vasco - Benfica",
-        "address": "Avenida Grão Vasco 56/58",
-        "distance_km": 1.34,
-        "lat": 38.7495894,
-        "lon": -9.2033426,
-        "schedule": "7:30 → 21:00"
-      },
-      {
-        "name": "Damaia",
-        "address": "Rua Teófilo Braga Lote 63",
-        "distance_km": 1.35,
-        "lat": 38.7427454,
-        "lon": -9.2178994,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Fonte Nova",
-        "address": "C.C. Fonte Nova - Rua Paulo Ren...",
-        "distance_km": 1.68,
-        "lat": 38.748536,
-        "lon": -9.190635,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Alfragide",
-        "address": "Urbanização Qtª.Grande Célula A...",
-        "distance_km": 1.86,
-        "lat": 38.7378047,
-        "lon": -9.2253127,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Benfica",
-        "address": "Av. Uruguai 36",
-        "distance_km": 1.95,
-        "lat": 38.7538891,
-        "lon": -9.1957808,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Venda Nova - Elias Garcia",
-        "address": "Rua Elias Garcia 23",
-        "distance_km": 2.28,
-        "lat": 38.7551773,
-        "lon": -9.217077,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Reboleira",
-        "address": "Av. D. José I 43",
-        "distance_km": 2.69,
-        "lat": 38.7506945,
-        "lon": -9.2298392,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Torres da Luz",
-        "address": "Rua José Maria Nicolau - Arruam...",
-        "distance_km": 2.72,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Colina do Sol",
-        "address": "Praceta Manuela Porto 171 - Lj 43",
-        "distance_km": 3.01,
-        "lat": 38.7644988,
-        "lon": -9.206868,
-        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -1004,43 +871,6 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "676hNSk1",
-    "date": "10.05.2026 16:00",
-    "home_team": "Gil Vicente",
-    "away_team": "Arouca",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Cidade de Barcelos",
-    "stadium_lat": 41.5511628,
-    "stadium_lon": -8.6230127,
-    "nearby_stores": [
-      {
-        "name": "Barcelos Alcaides de Faria",
-        "address": "Rua Dom Afonso",
-        "distance_km": 1.91,
-        "lat": 41.5361717,
-        "lon": -8.6117561,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Barcelos",
-        "address": "Rua Filipa Borges 4750-292 223",
-        "distance_km": 2.18,
-        "lat": 41.5315735,
-        "lon": -8.623262,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Braga - Frossos",
-        "address": "Rua de Cima, Lote Nº1, Freguesi...",
-        "distance_km": 14.53,
-        "lat": 41.5649288,
-        "lon": -8.449379799999999,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "jc5w1Kl5",
     "date": "10.05.2026 16:00",
     "home_team": "Alverca",
@@ -1129,99 +959,6 @@
         "lat": 38.9561401,
         "lon": -8.9865946,
         "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "fVBU2tKh",
-    "date": "10.05.2026 16:00",
-    "home_team": "Estrela da Amadora",
-    "away_team": "Famalicão",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio José Gomes",
-    "stadium_lat": 38.7520239,
-    "stadium_lon": -9.227896699999999,
-    "nearby_stores": [
-      {
-        "name": "Reboleira",
-        "address": "Av. D. José I 43",
-        "distance_km": 0.22,
-        "lat": 38.7506945,
-        "lon": -9.2298392,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Venda Nova - Elias Garcia",
-        "address": "Rua Elias Garcia 23",
-        "distance_km": 1.0,
-        "lat": 38.7551773,
-        "lon": -9.217077,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Amadora",
-        "address": "C.C. Babilónia - Av.Elias Garci...",
-        "distance_km": 1.02,
-        "lat": 38.7586211,
-        "lon": -9.236068,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Damaia",
-        "address": "Rua Teófilo Braga Lote 63",
-        "distance_km": 1.35,
-        "lat": 38.7427454,
-        "lon": -9.2178994,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Alfragide",
-        "address": "Urbanização Qtª.Grande Célula A...",
-        "distance_km": 1.6,
-        "lat": 38.7378047,
-        "lon": -9.2253127,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Grão Vasco - Benfica",
-        "address": "Avenida Grão Vasco 56/58",
-        "distance_km": 2.15,
-        "lat": 38.7495894,
-        "lon": -9.2033426,
-        "schedule": "7:30 → 21:00"
-      },
-      {
-        "name": "Colina do Sol",
-        "address": "Praceta Manuela Porto 171 - Lj 43",
-        "distance_km": 2.29,
-        "lat": 38.7644988,
-        "lon": -9.206868,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Queluz - António Enes",
-        "address": "Rua António Enes 18 A/B",
-        "distance_km": 2.45,
-        "lat": 38.7572798,
-        "lon": -9.2552992,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Massamá Refer",
-        "address": "Estação CP Massamá, Avenida 25 ...",
-        "distance_km": 2.57,
-        "lat": 38.7508237,
-        "lon": -9.257475,
-        "schedule": "7:00 → 21:00"
-      },
-      {
-        "name": "Tapada das Mercês",
-        "address": "R. António Ferreira Gomes Lote ...",
-        "distance_km": 2.57,
-        "lat": 38.7508237,
-        "lon": -9.257475,
-        "schedule": "7:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -1320,6 +1057,197 @@
     "source": "Flashscore"
   },
   {
+    "matchId": "fVBU2tKh",
+    "date": "10.05.2026 16:00",
+    "home_team": "Estrela da Amadora",
+    "away_team": "Famalicão",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio José Gomes",
+    "stadium_lat": 38.7520239,
+    "stadium_lon": -9.227896699999999,
+    "nearby_stores": [
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 0.22,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 1.0,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Amadora",
+        "address": "C.C. Babilónia - Av.Elias Garci...",
+        "distance_km": 1.02,
+        "lat": 38.7586211,
+        "lon": -9.236068,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "Rua Teófilo Braga Lote 63",
+        "distance_km": 1.35,
+        "lat": 38.7427454,
+        "lon": -9.2178994,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Alfragide",
+        "address": "Urbanização Qtª.Grande Célula A...",
+        "distance_km": 1.6,
+        "lat": 38.7378047,
+        "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 2.15,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 2.29,
+        "lat": 38.7644988,
+        "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Queluz - António Enes",
+        "address": "Rua António Enes 18 A/B",
+        "distance_km": 2.45,
+        "lat": 38.7572798,
+        "lon": -9.2552992,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Massamá Refer",
+        "address": "Estação CP Massamá, Avenida 25 ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
+      },
+      {
+        "name": "Tapada das Mercês",
+        "address": "R. António Ferreira Gomes Lote ...",
+        "distance_km": 2.57,
+        "lat": 38.7508237,
+        "lon": -9.257475,
+        "schedule": "7:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "UNYocxlU",
+    "date": "10.05.2026 16:00",
+    "home_team": "Santa Clara",
+    "away_team": "Nacional",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio de São Miguel",
+    "stadium_lat": 37.763779,
+    "stadium_lon": -25.6226351,
+    "nearby_stores": [
+      {
+        "name": "Livramento - Açores",
+        "address": "Rua João Manuel Vasconcelos Rap...",
+        "distance_km": 1.67,
+        "lat": 37.7530717,
+        "lon": -25.609298499999998,
+        "schedule": "8:30 → 20:00"
+      },
+      {
+        "name": "Ribeira Grande - Açores",
+        "address": "Estrada da Ribeira Grande, km 8",
+        "distance_km": 3.16,
+        "lat": 37.7875667,
+        "lon": -25.6030174,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "São Gonçalo - Açores",
+        "address": "Rua de S. Gonçalo 223",
+        "distance_km": 3.83,
+        "lat": 37.749004,
+        "lon": -25.6620317,
+        "schedule": "8:30 → 22:00"
+      },
+      {
+        "name": "Avenida Ponta Delgada - Açores",
+        "address": "Av. Infante Dom Henrique 97",
+        "distance_km": 4.49,
+        "lat": 37.739994,
+        "lon": -25.6638446,
+        "schedule": "8:30 → 20:00"
+      },
+      {
+        "name": "Valados - Açores",
+        "address": "Rua António Resendes Tavares 9",
+        "distance_km": 7.27,
+        "lat": 37.7593082,
+        "lon": -25.7050971,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Capelas - Açores",
+        "address": "Rua da Grota da Cadima",
+        "distance_km": 9.4,
+        "lat": 37.8311834,
+        "lon": -25.6872102,
+        "schedule": "8:30 → 20:30"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "676hNSk1",
+    "date": "10.05.2026 16:00",
+    "home_team": "Gil Vicente",
+    "away_team": "Arouca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Cidade de Barcelos",
+    "stadium_lat": 41.5511628,
+    "stadium_lon": -8.6230127,
+    "nearby_stores": [
+      {
+        "name": "Barcelos Alcaides de Faria",
+        "address": "Rua Dom Afonso",
+        "distance_km": 1.91,
+        "lat": 41.5361717,
+        "lon": -8.6117561,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Barcelos",
+        "address": "Rua Filipa Borges 4750-292 223",
+        "distance_km": 2.18,
+        "lat": 41.5315735,
+        "lon": -8.623262,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Braga - Frossos",
+        "address": "Rua de Cima, Lote Nº1, Freguesi...",
+        "distance_km": 14.53,
+        "lat": 41.5649288,
+        "lon": -8.449379799999999,
+        "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
     "matchId": "OA3oabJH",
     "date": "10.05.2026 16:00",
     "home_team": "Rio Ave",
@@ -1376,99 +1304,6 @@
         "lat": 41.3271147,
         "lon": -8.5688413,
         "schedule": "8:00 → 21:30"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "UoaZIhAj",
-    "date": "17.05.2026 16:00",
-    "home_team": "Braga",
-    "away_team": "Estrela da Amadora",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Municipal de Braga",
-    "stadium_lat": 41.5620136,
-    "stadium_lon": -8.4304269,
-    "nearby_stores": [
-      {
-        "name": "PD&Go Braga Dume",
-        "address": "Rua de São Martinho de Dume",
-        "distance_km": 0.5,
-        "lat": 41.5577988,
-        "lon": -8.4323689,
-        "schedule": "7:00 → 23:00"
-      },
-      {
-        "name": "Braga - Pachancho",
-        "address": "Rua Regimento de Infantaria 8, ...",
-        "distance_km": 1.22,
-        "lat": 41.5582341,
-        "lon": -8.4166136,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Braga - Frossos",
-        "address": "Rua de Cima, Lote Nº1, Freguesi...",
-        "distance_km": 1.61,
-        "lat": 41.5649288,
-        "lon": -8.449379799999999,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Braga - Avenida da Liberdade",
-        "address": "Av. Liberdade - Edf. Granjinhos...",
-        "distance_km": 1.75,
-        "lat": 41.5476654,
-        "lon": -8.4218305,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Braga Shopping",
-        "address": "Braga Shopping - Rua Santo André",
-        "distance_km": 1.75,
-        "lat": 41.5476654,
-        "lon": -8.4218305,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Braga - Hiper",
-        "address": "Quinta Dos Congregados - S. Vic...",
-        "distance_km": 2.1,
-        "lat": 41.5578984,
-        "lon": -8.4058348,
-        "schedule": "8:00 → 23:00"
-      },
-      {
-        "name": "Braga - Machado Vilela",
-        "address": "Rua Prof. Machado Vilela E",
-        "distance_km": 2.19,
-        "lat": 41.549,
-        "lon": -8.4106445,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Vila Verde",
-        "address": "Lugar da Torre 206",
-        "distance_km": 9.08,
-        "lat": 41.6436561,
-        "lon": -8.4334177,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "Rua de São Martinho - EN101, Km...",
-        "distance_km": 10.36,
-        "lat": 41.487789,
-        "lon": -8.3551167,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Joane",
-        "address": "Rua de Leognan",
-        "distance_km": 13.79,
-        "lat": 41.4389137,
-        "lon": -8.4100576,
-        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -1604,67 +1439,6 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "UNYocxlU",
-    "date": "10.05.2026 16:00",
-    "home_team": "Santa Clara",
-    "away_team": "Nacional",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio de São Miguel",
-    "stadium_lat": 37.763779,
-    "stadium_lon": -25.6226351,
-    "nearby_stores": [
-      {
-        "name": "Livramento - Açores",
-        "address": "Rua João Manuel Vasconcelos Rap...",
-        "distance_km": 1.67,
-        "lat": 37.7530717,
-        "lon": -25.609298499999998,
-        "schedule": "8:30 → 20:00"
-      },
-      {
-        "name": "Ribeira Grande - Açores",
-        "address": "Estrada da Ribeira Grande, km 8",
-        "distance_km": 3.16,
-        "lat": 37.7875667,
-        "lon": -25.6030174,
-        "schedule": "8:30 → 21:00"
-      },
-      {
-        "name": "São Gonçalo - Açores",
-        "address": "Rua de S. Gonçalo 223",
-        "distance_km": 3.83,
-        "lat": 37.749004,
-        "lon": -25.6620317,
-        "schedule": "8:30 → 22:00"
-      },
-      {
-        "name": "Avenida Ponta Delgada - Açores",
-        "address": "Av. Infante Dom Henrique 97",
-        "distance_km": 4.49,
-        "lat": 37.739994,
-        "lon": -25.6638446,
-        "schedule": "8:30 → 20:00"
-      },
-      {
-        "name": "Valados - Açores",
-        "address": "Rua António Resendes Tavares 9",
-        "distance_km": 7.27,
-        "lat": 37.7593082,
-        "lon": -25.7050971,
-        "schedule": "8:30 → 21:00"
-      },
-      {
-        "name": "Capelas - Açores",
-        "address": "Rua da Grota da Cadima",
-        "distance_km": 9.4,
-        "lat": 37.8311834,
-        "lon": -25.6872102,
-        "schedule": "8:30 → 20:30"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "A1I2OEnT",
     "date": "17.05.2026 16:00",
     "home_team": "Arouca",
@@ -1779,93 +1553,93 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "t224FJ3b",
+    "matchId": "UoaZIhAj",
     "date": "17.05.2026 16:00",
-    "home_team": "Moreirense",
-    "away_team": "AFS",
+    "home_team": "Braga",
+    "away_team": "Estrela da Amadora",
     "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Comendador Joaquim de Almeida Freitas",
-    "stadium_lat": 41.378076,
-    "stadium_lon": -8.3545795,
+    "stadium": "Estádio Municipal de Braga",
+    "stadium_lat": 41.5620136,
+    "stadium_lon": -8.4304269,
     "nearby_stores": [
       {
-        "name": "Vizela - Infias",
-        "address": "E.N. 106, Km 1, Infias",
-        "distance_km": 3.48,
-        "lat": 41.393284699999995,
-        "lon": -8.3180734,
+        "name": "PD&Go Braga Dume",
+        "address": "Rua de São Martinho de Dume",
+        "distance_km": 0.5,
+        "lat": 41.5577988,
+        "lon": -8.4323689,
+        "schedule": "7:00 → 23:00"
+      },
+      {
+        "name": "Braga - Pachancho",
+        "address": "Rua Regimento de Infantaria 8, ...",
+        "distance_km": 1.22,
+        "lat": 41.5582341,
+        "lon": -8.4166136,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Riba de Ave",
-        "address": "Cerrado da Casa - Casais",
-        "distance_km": 3.61,
-        "lat": 41.3956415,
-        "lon": -8.3910313,
+        "name": "Braga - Frossos",
+        "address": "Rua de Cima, Lote Nº1, Freguesi...",
+        "distance_km": 1.61,
+        "lat": 41.5649288,
+        "lon": -8.449379799999999,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Vizela - Lugar do Poço Quente",
-        "address": "Av. Domingos Vaz Pinheiro 201",
-        "distance_km": 4.25,
-        "lat": 41.369165699999996,
-        "lon": -8.3050538,
+        "name": "Braga - Avenida da Liberdade",
+        "address": "Av. Liberdade - Edf. Granjinhos...",
+        "distance_km": 1.75,
+        "lat": 41.5476654,
+        "lon": -8.4218305,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Vila das Aves",
-        "address": "Lugar Do Quintão",
-        "distance_km": 4.46,
-        "lat": 41.3668852,
-        "lon": -8.4059383,
+        "name": "Braga Shopping",
+        "address": "Braga Shopping - Rua Santo André",
+        "distance_km": 1.75,
+        "lat": 41.5476654,
+        "lon": -8.4218305,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Braga - Hiper",
+        "address": "Quinta Dos Congregados - S. Vic...",
+        "distance_km": 2.1,
+        "lat": 41.5578984,
+        "lon": -8.4058348,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Braga - Machado Vilela",
+        "address": "Rua Prof. Machado Vilela E",
+        "distance_km": 2.19,
+        "lat": 41.549,
+        "lon": -8.4106445,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Verde",
+        "address": "Lugar da Torre 206",
+        "distance_km": 9.08,
+        "lat": 41.6436561,
+        "lon": -8.4334177,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 10.36,
+        "lat": 41.487789,
+        "lon": -8.3551167,
         "schedule": "8:00 → 21:00"
       },
       {
         "name": "Joane",
         "address": "Rua de Leognan",
-        "distance_km": 8.2,
+        "distance_km": 13.79,
         "lat": 41.4389137,
         "lon": -8.4100576,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Guimarães - Av. D. João IV",
-        "address": "Rua de Vila Verde 64",
-        "distance_km": 8.48,
-        "lat": 41.4383891,
-        "lon": -8.2922701,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Guimarães - Alameda",
-        "address": "Rua Alfredo Pimenta 278",
-        "distance_km": 8.93,
-        "lat": 41.4464006,
-        "lon": -8.298352099999999,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Freamunde",
-        "address": "Rua de Santa Cruz - Lugar do Le...",
-        "distance_km": 10.34,
-        "lat": 41.2865223,
-        "lon": -8.332606799999999,
-        "schedule": "8:30 → 21:00"
-      },
-      {
-        "name": "Paços de Ferreira",
-        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
-        "distance_km": 11.6,
-        "lat": 41.2760229,
-        "lon": -8.3834078,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Caldas das Taipas-Guimarães",
-        "address": "Rua de São Martinho - EN101, Km...",
-        "distance_km": 12.2,
-        "lat": 41.487789,
-        "lon": -8.3551167,
         "schedule": "8:00 → 21:00"
       }
     ],
@@ -1965,91 +1739,6 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "lS5CDcYA",
-    "date": "17.05.2026 16:00",
-    "home_team": "Famalicão",
-    "away_team": "Alverca",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Municipal de Famalicão",
-    "stadium_lat": 41.401406699999995,
-    "stadium_lon": -8.522406,
-    "nearby_stores": [
-      {
-        "name": "Famalicão - Calendário",
-        "address": "Alameda dos Bargos",
-        "distance_km": 0.17,
-        "lat": 41.4013431,
-        "lon": -8.5203186,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Famalicão - D. Sancho",
-        "address": "Rua José Gomes de Matos 2/10",
-        "distance_km": 0.17,
-        "lat": 41.4013431,
-        "lon": -8.5203186,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Santo Tirso - Lugar de Fontiscos",
-        "address": "Lugar De Fontiscos",
-        "distance_km": 7.33,
-        "lat": 41.3388491,
-        "lon": -8.4946348,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Trofa - Shopping",
-        "address": "Rua Manuel Silva Pinheiro - Edf...",
-        "distance_km": 7.68,
-        "lat": 41.3386536,
-        "lon": -8.5609241,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Trofa - Santiago de Bougado",
-        "address": "Rua Das Aldeias De Cima - Santi...",
-        "distance_km": 9.12,
-        "lat": 41.3271147,
-        "lon": -8.5688413,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Joane",
-        "address": "Rua de Leognan",
-        "distance_km": 10.25,
-        "lat": 41.4389137,
-        "lon": -8.4100576,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Vila das Aves",
-        "address": "Lugar Do Quintão",
-        "distance_km": 10.45,
-        "lat": 41.3668852,
-        "lon": -8.4059383,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Riba de Ave",
-        "address": "Cerrado da Casa - Casais",
-        "distance_km": 10.98,
-        "lat": 41.3956415,
-        "lon": -8.3910313,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "São Romão",
-        "address": "Rua Horizonte",
-        "distance_km": 13.65,
-        "lat": 41.282478,
-        "lon": -8.5630235,
-        "schedule": "8:30 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "vcpi6FQp",
     "date": "17.05.2026 16:00",
     "home_team": "FC Porto",
@@ -2143,6 +1832,91 @@
     "source": "Flashscore"
   },
   {
+    "matchId": "lS5CDcYA",
+    "date": "17.05.2026 16:00",
+    "home_team": "Famalicão",
+    "away_team": "Alverca",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Municipal de Famalicão",
+    "stadium_lat": 41.401406699999995,
+    "stadium_lon": -8.522406,
+    "nearby_stores": [
+      {
+        "name": "Famalicão - Calendário",
+        "address": "Alameda dos Bargos",
+        "distance_km": 0.17,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Famalicão - D. Sancho",
+        "address": "Rua José Gomes de Matos 2/10",
+        "distance_km": 0.17,
+        "lat": 41.4013431,
+        "lon": -8.5203186,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Santo Tirso - Lugar de Fontiscos",
+        "address": "Lugar De Fontiscos",
+        "distance_km": 7.33,
+        "lat": 41.3388491,
+        "lon": -8.4946348,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Trofa - Shopping",
+        "address": "Rua Manuel Silva Pinheiro - Edf...",
+        "distance_km": 7.68,
+        "lat": 41.3386536,
+        "lon": -8.5609241,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Trofa - Santiago de Bougado",
+        "address": "Rua Das Aldeias De Cima - Santi...",
+        "distance_km": 9.12,
+        "lat": 41.3271147,
+        "lon": -8.5688413,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 10.25,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 10.45,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 10.98,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "São Romão",
+        "address": "Rua Horizonte",
+        "distance_km": 13.65,
+        "lat": 41.282478,
+        "lon": -8.5630235,
+        "schedule": "8:30 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
     "matchId": "2VVoSdm4",
     "date": "17.05.2026 16:00",
     "home_team": "Nacional",
@@ -2231,6 +2005,99 @@
         "lat": 32.7198279,
         "lon": -16.767705499999998,
         "schedule": "7:30 → 22:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "t224FJ3b",
+    "date": "17.05.2026 16:00",
+    "home_team": "Moreirense",
+    "away_team": "AFS",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Comendador Joaquim de Almeida Freitas",
+    "stadium_lat": 41.378076,
+    "stadium_lon": -8.3545795,
+    "nearby_stores": [
+      {
+        "name": "Vizela - Infias",
+        "address": "E.N. 106, Km 1, Infias",
+        "distance_km": 3.48,
+        "lat": 41.393284699999995,
+        "lon": -8.3180734,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Riba de Ave",
+        "address": "Cerrado da Casa - Casais",
+        "distance_km": 3.61,
+        "lat": 41.3956415,
+        "lon": -8.3910313,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 4.25,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila das Aves",
+        "address": "Lugar Do Quintão",
+        "distance_km": 4.46,
+        "lat": 41.3668852,
+        "lon": -8.4059383,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Joane",
+        "address": "Rua de Leognan",
+        "distance_km": 8.2,
+        "lat": 41.4389137,
+        "lon": -8.4100576,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 8.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guimarães - Alameda",
+        "address": "Rua Alfredo Pimenta 278",
+        "distance_km": 8.93,
+        "lat": 41.4464006,
+        "lon": -8.298352099999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Freamunde",
+        "address": "Rua de Santa Cruz - Lugar do Le...",
+        "distance_km": 10.34,
+        "lat": 41.2865223,
+        "lon": -8.332606799999999,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Paços de Ferreira",
+        "address": "Rua Dr. Queirós Ribeiro, E.N. 2...",
+        "distance_km": 11.6,
+        "lat": 41.2760229,
+        "lon": -8.3834078,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Caldas das Taipas-Guimarães",
+        "address": "Rua de São Martinho - EN101, Km...",
+        "distance_km": 12.2,
+        "lat": 41.487789,
+        "lon": -8.3551167,
+        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -2422,67 +2289,6 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "IgvA8hv1",
-    "date": "02.05.2026 13:00",
-    "home_team": "Académico Viseu",
-    "away_team": "Vizela",
-    "league": "Liga Portugal 2",
-    "stadium": "Estádio Municipal do Fontelo",
-    "stadium_lat": 40.6595491,
-    "stadium_lon": -7.9004812,
-    "nearby_stores": [
-      {
-        "name": "Viseu Forum",
-        "address": "C.C. Forum Viseu - Rua D. José ...",
-        "distance_km": 1.18,
-        "lat": 40.6621965,
-        "lon": -7.9139805,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Viseu - Rua Mendonça",
-        "address": "Rua Mendonça",
-        "distance_km": 1.27,
-        "lat": 40.6533215,
-        "lon": -7.9131613,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Viseu - São João da Carreira",
-        "address": "Rotunda João Félix",
-        "distance_km": 1.72,
-        "lat": 40.6719605,
-        "lon": -7.888323,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Viseu Abraveses - Pascoal",
-        "address": "Av. Manuel Loureiro, Pascoal - ...",
-        "distance_km": 3.7,
-        "lat": 40.6851975,
-        "lon": -7.9284479999999995,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Mangualde",
-        "address": "Avenida Herois do Ultra Mar - T...",
-        "distance_km": 12.93,
-        "lat": 40.6150865,
-        "lon": -7.7589323,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Nelas",
-        "address": "Avenida Prof. Dr. Fortunato de ...",
-        "distance_km": 13.97,
-        "lat": 40.538657,
-        "lon": -7.8555826,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "ptt2AE9l",
     "date": "01.05.2026 19:30",
     "home_team": "Sporting CP B",
@@ -2629,6 +2435,67 @@
     "source": "Flashscore"
   },
   {
+    "matchId": "IgvA8hv1",
+    "date": "02.05.2026 13:00",
+    "home_team": "Académico Viseu",
+    "away_team": "Vizela",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal do Fontelo",
+    "stadium_lat": 40.6595491,
+    "stadium_lon": -7.9004812,
+    "nearby_stores": [
+      {
+        "name": "Viseu Forum",
+        "address": "C.C. Forum Viseu - Rua D. José ...",
+        "distance_km": 1.18,
+        "lat": 40.6621965,
+        "lon": -7.9139805,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Viseu - Rua Mendonça",
+        "address": "Rua Mendonça",
+        "distance_km": 1.27,
+        "lat": 40.6533215,
+        "lon": -7.9131613,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Viseu - São João da Carreira",
+        "address": "Rotunda João Félix",
+        "distance_km": 1.72,
+        "lat": 40.6719605,
+        "lon": -7.888323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Viseu Abraveses - Pascoal",
+        "address": "Av. Manuel Loureiro, Pascoal - ...",
+        "distance_km": 3.7,
+        "lat": 40.6851975,
+        "lon": -7.9284479999999995,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Mangualde",
+        "address": "Avenida Herois do Ultra Mar - T...",
+        "distance_km": 12.93,
+        "lat": 40.6150865,
+        "lon": -7.7589323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Nelas",
+        "address": "Avenida Prof. Dr. Fortunato de ...",
+        "distance_km": 13.97,
+        "lat": 40.538657,
+        "lon": -7.8555826,
+        "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
     "matchId": "8rghLVN6",
     "date": "03.05.2026 10:00",
     "home_team": "Portimonense",
@@ -2693,6 +2560,91 @@
         "lat": 37.1068879,
         "lon": -8.6793969,
         "schedule": "8:00 → 21:30"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "SOaVFznR",
+    "date": "03.05.2026 14:30",
+    "home_team": "Leiria",
+    "away_team": "Farense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Dr. Magalhães Pessoa",
+    "stadium_lat": 39.7487752,
+    "stadium_lon": -8.812923999999999,
+    "nearby_stores": [
+      {
+        "name": "Leiria - Heróis de Angola",
+        "address": "Av. Heróis De Angola 69",
+        "distance_km": 0.77,
+        "lat": 39.7464377,
+        "lon": -8.8045054,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leiria D. Dinis",
+        "address": "Rua Dr João Soares Bloco 2",
+        "distance_km": 1.09,
+        "lat": 39.7393574,
+        "lon": -8.816406,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leiria - Marquês de Pombal",
+        "address": "Av. Marquês Pombal - Galerias S...",
+        "distance_km": 1.13,
+        "lat": 39.7396931,
+        "lon": -8.8069175,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leiria - Marrazes",
+        "address": "Rua Estrada da Figueira da Foz,...",
+        "distance_km": 1.53,
+        "lat": 39.761167799999996,
+        "lon": -8.8207883,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leiria - Marinheiros",
+        "address": "Estrada Dos Marinheiros",
+        "distance_km": 1.82,
+        "lat": 39.7591633,
+        "lon": -8.7964399,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Embra",
+        "address": "E.N. 242, Rua Jornal Da Marinha...",
+        "distance_km": 8.53,
+        "lat": 39.7472649,
+        "lon": -8.9127285,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Batalha",
+        "address": "Rua das Piscinas, Quinta Da Cer...",
+        "distance_km": 9.5,
+        "lat": 39.6639201,
+        "lon": -8.8259254,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marinha Grande - Av. Liberdade",
+        "address": "C.C. Horizonte - Av. Liberdade ...",
+        "distance_km": 10.07,
+        "lat": 39.745714899999996,
+        "lon": -8.930683799999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Porto de Mós",
+        "address": "Ic 2 - Km 107,4 Chão Da Feira",
+        "distance_km": 14.43,
+        "lat": 39.6233404,
+        "lon": -8.8562663,
+        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -2791,86 +2743,30 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "SOaVFznR",
-    "date": "03.05.2026 14:30",
-    "home_team": "Leiria",
-    "away_team": "Farense",
+    "matchId": "CGaqNigf",
+    "date": "04.05.2026 17:00",
+    "home_team": "Torreense",
+    "away_team": "Penafiel",
     "league": "Liga Portugal 2",
-    "stadium": "Estádio Dr. Magalhães Pessoa",
-    "stadium_lat": 39.7487752,
-    "stadium_lon": -8.812923999999999,
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0948844,
+    "stadium_lon": -9.256621299999999,
     "nearby_stores": [
       {
-        "name": "Leiria - Heróis de Angola",
-        "address": "Av. Heróis De Angola 69",
-        "distance_km": 0.77,
-        "lat": 39.7464377,
-        "lon": -8.8045054,
+        "name": "Torres Vedras",
+        "address": "Praceta Dr. José Carvalho Mesqu...",
+        "distance_km": 1.47,
+        "lat": 39.0819441,
+        "lon": -9.2599845,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Leiria D. Dinis",
-        "address": "Rua Dr João Soares Bloco 2",
-        "distance_km": 1.09,
-        "lat": 39.7393574,
-        "lon": -8.816406,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Leiria - Marquês de Pombal",
-        "address": "Av. Marquês Pombal - Galerias S...",
-        "distance_km": 1.13,
-        "lat": 39.7396931,
-        "lon": -8.8069175,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Leiria - Marrazes",
-        "address": "Rua Estrada da Figueira da Foz,...",
-        "distance_km": 1.53,
-        "lat": 39.761167799999996,
-        "lon": -8.8207883,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Leiria - Marinheiros",
-        "address": "Estrada Dos Marinheiros",
-        "distance_km": 1.82,
-        "lat": 39.7591633,
-        "lon": -8.7964399,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Marinha Grande - Embra",
-        "address": "E.N. 242, Rua Jornal Da Marinha...",
-        "distance_km": 8.53,
-        "lat": 39.7472649,
-        "lon": -8.9127285,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Batalha",
-        "address": "Rua das Piscinas, Quinta Da Cer...",
-        "distance_km": 9.5,
-        "lat": 39.6639201,
-        "lon": -8.8259254,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Marinha Grande - Av. Liberdade",
-        "address": "C.C. Horizonte - Av. Liberdade ...",
-        "distance_km": 10.07,
-        "lat": 39.745714899999996,
-        "lon": -8.930683799999999,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Porto de Mós",
-        "address": "Ic 2 - Km 107,4 Chão Da Feira",
-        "distance_km": 14.43,
-        "lat": 39.6233404,
-        "lon": -8.8562663,
-        "schedule": "8:00 → 21:00"
+        "name": "Silveira",
+        "address": "Rua Do Moinho Do Espanhol 2",
+        "distance_km": 9.63,
+        "lat": 39.1080675,
+        "lon": -9.3669516,
+        "schedule": "8:30 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -2969,35 +2865,6 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "CGaqNigf",
-    "date": "04.05.2026 17:00",
-    "home_team": "Torreense",
-    "away_team": "Penafiel",
-    "league": "Liga Portugal 2",
-    "stadium": "Estádio Manuel Marques",
-    "stadium_lat": 39.0948844,
-    "stadium_lon": -9.256621299999999,
-    "nearby_stores": [
-      {
-        "name": "Torres Vedras",
-        "address": "Praceta Dr. José Carvalho Mesqu...",
-        "distance_km": 1.47,
-        "lat": 39.0819441,
-        "lon": -9.2599845,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Silveira",
-        "address": "Rua Do Moinho Do Espanhol 2",
-        "distance_km": 9.63,
-        "lat": 39.1080675,
-        "lon": -9.3669516,
-        "schedule": "8:30 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "GnqBXaDT",
     "date": "10.05.2026 15:00",
     "home_team": "Benfica B",
@@ -3086,6 +2953,99 @@
         "lat": 38.6568889,
         "lon": -9.1621341,
         "schedule": "7:30 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "tAWYX87C",
+    "date": "10.05.2026 15:00",
+    "home_team": "FC Felgueiras",
+    "away_team": "Portimonense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Felgueiras",
+    "stadium_lat": 41.3559664,
+    "stadium_lon": -8.1907099,
+    "nearby_stores": [
+      {
+        "name": "Felgueiras",
+        "address": "Rua D. Manuel Faria De Sousa, L...",
+        "distance_km": 0.93,
+        "lat": 41.3609273,
+        "lon": -8.199679399999999,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Lugar do Poço Quente",
+        "address": "Av. Domingos Vaz Pinheiro 201",
+        "distance_km": 9.65,
+        "lat": 41.369165699999996,
+        "lon": -8.3050538,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Av. Brasil",
+        "address": "Av. Do Brasil",
+        "distance_km": 10.13,
+        "lat": 41.44636,
+        "lon": -8.1758379,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Cavadas",
+        "address": "Lugar de Cavadas - Quinchães",
+        "distance_km": 10.2,
+        "lat": 41.4456845,
+        "lon": -8.1650867,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fafe - Aliados",
+        "address": "Rua Dos Aliados",
+        "distance_km": 10.77,
+        "lat": 41.4523183,
+        "lon": -8.1780948,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Amarante",
+        "address": "E.N. 15, Lugar Da Boavista, Tel...",
+        "distance_km": 11.02,
+        "lat": 41.2870419,
+        "lon": -8.0958535,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vizela - Infias",
+        "address": "E.N. 106, Km 1, Infias",
+        "distance_km": 11.41,
+        "lat": 41.393284699999995,
+        "lon": -8.3180734,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Vila Meã",
+        "address": "Rua Santa Comba 176",
+        "distance_km": 12.1,
+        "lat": 41.247825299999995,
+        "lon": -8.1751056,
+        "schedule": "8:30 → 21:00"
+      },
+      {
+        "name": "Guimarães - Av. D. João IV",
+        "address": "Rua de Vila Verde 64",
+        "distance_km": 12.48,
+        "lat": 41.4383891,
+        "lon": -8.2922701,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lousada - Cristelo",
+        "address": "Rua De Santo André, Lugar Das A...",
+        "distance_km": 12.53,
+        "lat": 41.2702271,
+        "lon": -8.2881049,
+        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -3213,93 +3173,93 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "tAWYX87C",
+    "matchId": "CUvIyi8m",
     "date": "10.05.2026 15:00",
-    "home_team": "FC Felgueiras",
-    "away_team": "Portimonense",
+    "home_team": "Lusitânia",
+    "away_team": "Torreense",
     "league": "Liga Portugal 2",
-    "stadium": "Estádio Municipal de Felgueiras",
-    "stadium_lat": 41.3559664,
-    "stadium_lon": -8.1907099,
+    "stadium": "Estádio do Lusitânia",
+    "stadium_lat": 40.9878602,
+    "stadium_lon": -8.5436131,
     "nearby_stores": [
       {
-        "name": "Felgueiras",
-        "address": "Rua D. Manuel Faria De Sousa, L...",
-        "distance_km": 0.93,
-        "lat": 41.3609273,
-        "lon": -8.199679399999999,
+        "name": "Lourosa - Vendas Novas",
+        "address": "Avenida de Lourosa A",
+        "distance_km": 0.38,
+        "lat": 40.9896727,
+        "lon": -8.5397513,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Vizela - Lugar do Poço Quente",
-        "address": "Av. Domingos Vaz Pinheiro 201",
-        "distance_km": 9.65,
-        "lat": 41.369165699999996,
-        "lon": -8.3050538,
+        "name": "Lourosa - Travanca",
+        "address": "Lugar Da Aldeia Nova, Travanca",
+        "distance_km": 0.55,
+        "lat": 40.9863128,
+        "lon": -8.5374426,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Fafe - Av. Brasil",
-        "address": "Av. Do Brasil",
-        "distance_km": 10.13,
-        "lat": 41.44636,
-        "lon": -8.1758379,
+        "name": "São Paio de Oleiros",
+        "address": "Rua Comendador Sá Couto",
+        "distance_km": 3.92,
+        "lat": 40.9855667,
+        "lon": -8.590201799999999,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Fafe - Cavadas",
-        "address": "Lugar de Cavadas - Quinchães",
-        "distance_km": 10.2,
-        "lat": 41.4456845,
-        "lon": -8.1650867,
+        "name": "Grijó - Lugar Barrancas",
+        "address": "Rua da Boavista - Lugar das Bar...",
+        "distance_km": 6.77,
+        "lat": 41.045757099999996,
+        "lon": -8.568603,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Santa Maria da Feira - Hiper",
+        "address": "Lugar De Vila Boa",
+        "distance_km": 7.62,
+        "lat": 40.921340799999996,
+        "lon": -8.5654326,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Esmoriz",
+        "address": "E.N.109 - Lugar de Matosinhos",
+        "distance_km": 7.76,
+        "lat": 40.9537383,
+        "lon": -8.6242206,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Fafe - Aliados",
-        "address": "Rua Dos Aliados",
-        "distance_km": 10.77,
-        "lat": 41.4523183,
-        "lon": -8.1780948,
+        "name": "Carvalhos",
+        "address": "Av. Dr. Moreira De Sousa 2238",
+        "distance_km": 7.93,
+        "lat": 41.0567272,
+        "lon": -8.568249,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Amarante",
-        "address": "E.N. 15, Lugar Da Boavista, Tel...",
-        "distance_km": 11.02,
-        "lat": 41.2870419,
-        "lon": -8.0958535,
+        "name": "Arrifana - Outeiro",
+        "address": "Rua Pedro Alvares Cabral - Oute...",
+        "distance_km": 8.25,
+        "lat": 40.9217376,
+        "lon": -8.4990664,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Vizela - Infias",
-        "address": "E.N. 106, Km 1, Infias",
-        "distance_km": 11.41,
-        "lat": 41.393284699999995,
-        "lon": -8.3180734,
+        "name": "Espinho Fosforeira",
+        "address": "Rua nº20 1286",
+        "distance_km": 8.28,
+        "lat": 41.0020777,
+        "lon": -8.6404192,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Vila Meã",
-        "address": "Rua Santa Comba 176",
-        "distance_km": 12.1,
-        "lat": 41.247825299999995,
-        "lon": -8.1751056,
-        "schedule": "8:30 → 21:00"
-      },
-      {
-        "name": "Guimarães - Av. D. João IV",
-        "address": "Rua de Vila Verde 64",
-        "distance_km": 12.48,
-        "lat": 41.4383891,
-        "lon": -8.2922701,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Lousada - Cristelo",
-        "address": "Rua De Santo André, Lugar Das A...",
-        "distance_km": 12.53,
-        "lat": 41.2702271,
-        "lon": -8.2881049,
+        "name": "Espinho - Rua 21",
+        "address": "Rua 21 196",
+        "distance_km": 8.56,
+        "lat": 41.008158,
+        "lon": -8.6419517,
         "schedule": "8:00 → 21:00"
       }
     ],
@@ -3399,93 +3359,53 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "CUvIyi8m",
+    "matchId": "S4ygw4qh",
     "date": "10.05.2026 15:00",
-    "home_team": "Lusitânia",
-    "away_team": "Torreense",
+    "home_team": "Sporting CP B",
+    "away_team": "FC Porto B",
     "league": "Liga Portugal 2",
-    "stadium": "Estádio do Lusitânia",
-    "stadium_lat": 40.9878602,
-    "stadium_lon": -8.5436131,
+    "stadium": "Academia Cristiano Ronaldo",
+    "stadium_lat": 38.7295126,
+    "stadium_lon": -8.8467392,
     "nearby_stores": [
       {
-        "name": "Lourosa - Vendas Novas",
-        "address": "Avenida de Lourosa A",
-        "distance_km": 0.38,
-        "lat": 40.9896727,
-        "lon": -8.5397513,
+        "name": "Alcochete",
+        "address": "Avenida Euro 2004 - Sítio Da Qu...",
+        "distance_km": 8.93,
+        "lat": 38.7519385,
+        "lon": -8.9455571,
         "schedule": "8:00 → 21:00"
       },
       {
-        "name": "Lourosa - Travanca",
-        "address": "Lugar Da Aldeia Nova, Travanca",
-        "distance_km": 0.55,
-        "lat": 40.9863128,
-        "lon": -8.5374426,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "São Paio de Oleiros",
-        "address": "Rua Comendador Sá Couto",
-        "distance_km": 3.92,
-        "lat": 40.9855667,
-        "lon": -8.590201799999999,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Grijó - Lugar Barrancas",
-        "address": "Rua da Boavista - Lugar das Bar...",
-        "distance_km": 6.77,
-        "lat": 41.045757099999996,
-        "lon": -8.568603,
+        "name": "Montijo - Estrada Nacional",
+        "address": "E.N. 4, 1, Pocinho Das Nascentes",
+        "distance_km": 9.98,
+        "lat": 38.7046445,
+        "lon": -8.9572983,
         "schedule": "8:00 → 21:30"
       },
       {
-        "name": "Santa Maria da Feira - Hiper",
-        "address": "Lugar De Vila Boa",
-        "distance_km": 7.62,
-        "lat": 40.921340799999996,
-        "lon": -8.5654326,
-        "schedule": "8:00 → 22:00"
+        "name": "Montijo - Maestro J. Peixinho",
+        "address": "Av. Maestro J. Peixinho",
+        "distance_km": 10.84,
+        "lat": 38.712012099999995,
+        "lon": -8.969708599999999,
+        "schedule": "7:30 → 21:30"
       },
       {
-        "name": "Esmoriz",
-        "address": "E.N.109 - Lugar de Matosinhos",
-        "distance_km": 7.76,
-        "lat": 40.9537383,
-        "lon": -8.6242206,
-        "schedule": "8:00 → 21:00"
+        "name": "PD&Go Pinhal Novo",
+        "address": "R. do Monte Novo 1",
+        "distance_km": 11.84,
+        "lat": 38.6370117,
+        "lon": -8.9142517,
+        "schedule": "7:00 → 22:00"
       },
       {
-        "name": "Carvalhos",
-        "address": "Av. Dr. Moreira De Sousa 2238",
-        "distance_km": 7.93,
-        "lat": 41.0567272,
-        "lon": -8.568249,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Arrifana - Outeiro",
-        "address": "Rua Pedro Alvares Cabral - Oute...",
-        "distance_km": 8.25,
-        "lat": 40.9217376,
-        "lon": -8.4990664,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Espinho Fosforeira",
-        "address": "Rua nº20 1286",
-        "distance_km": 8.28,
-        "lat": 41.0020777,
-        "lon": -8.6404192,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Espinho - Rua 21",
-        "address": "Rua 21 196",
-        "distance_km": 8.56,
-        "lat": 41.008158,
-        "lon": -8.6419517,
+        "name": "Pinhal Novo",
+        "address": "C.C. Mochos - Rua Ferreira de C...",
+        "distance_km": 11.93,
+        "lat": 38.6354382,
+        "lon": -8.9128261,
         "schedule": "8:00 → 21:00"
       }
     ],
@@ -3564,120 +3484,6 @@
         "lat": 41.1840216,
         "lon": -8.4482958,
         "schedule": "8:30 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "2w4RZkfc",
-    "date": "17.05.2026 15:00",
-    "home_team": "Académico Viseu",
-    "away_team": "Sporting CP B",
-    "league": "Liga Portugal 2",
-    "stadium": "Estádio Municipal do Fontelo",
-    "stadium_lat": 40.6595491,
-    "stadium_lon": -7.9004812,
-    "nearby_stores": [
-      {
-        "name": "Viseu Forum",
-        "address": "C.C. Forum Viseu - Rua D. José ...",
-        "distance_km": 1.18,
-        "lat": 40.6621965,
-        "lon": -7.9139805,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Viseu - Rua Mendonça",
-        "address": "Rua Mendonça",
-        "distance_km": 1.27,
-        "lat": 40.6533215,
-        "lon": -7.9131613,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Viseu - São João da Carreira",
-        "address": "Rotunda João Félix",
-        "distance_km": 1.72,
-        "lat": 40.6719605,
-        "lon": -7.888323,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Viseu Abraveses - Pascoal",
-        "address": "Av. Manuel Loureiro, Pascoal - ...",
-        "distance_km": 3.7,
-        "lat": 40.6851975,
-        "lon": -7.9284479999999995,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Mangualde",
-        "address": "Avenida Herois do Ultra Mar - T...",
-        "distance_km": 12.93,
-        "lat": 40.6150865,
-        "lon": -7.7589323,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Nelas",
-        "address": "Avenida Prof. Dr. Fortunato de ...",
-        "distance_km": 13.97,
-        "lat": 40.538657,
-        "lon": -7.8555826,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "S4ygw4qh",
-    "date": "10.05.2026 15:00",
-    "home_team": "Sporting CP B",
-    "away_team": "FC Porto B",
-    "league": "Liga Portugal 2",
-    "stadium": "Academia Cristiano Ronaldo",
-    "stadium_lat": 38.7295126,
-    "stadium_lon": -8.8467392,
-    "nearby_stores": [
-      {
-        "name": "Alcochete",
-        "address": "Avenida Euro 2004 - Sítio Da Qu...",
-        "distance_km": 8.93,
-        "lat": 38.7519385,
-        "lon": -8.9455571,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Montijo - Estrada Nacional",
-        "address": "E.N. 4, 1, Pocinho Das Nascentes",
-        "distance_km": 9.98,
-        "lat": 38.7046445,
-        "lon": -8.9572983,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Montijo - Maestro J. Peixinho",
-        "address": "Av. Maestro J. Peixinho",
-        "distance_km": 10.84,
-        "lat": 38.712012099999995,
-        "lon": -8.969708599999999,
-        "schedule": "7:30 → 21:30"
-      },
-      {
-        "name": "PD&Go Pinhal Novo",
-        "address": "R. do Monte Novo 1",
-        "distance_km": 11.84,
-        "lat": 38.6370117,
-        "lon": -8.9142517,
-        "schedule": "7:00 → 22:00"
-      },
-      {
-        "name": "Pinhal Novo",
-        "address": "C.C. Mochos - Rua Ferreira de C...",
-        "distance_km": 11.93,
-        "lat": 38.6354382,
-        "lon": -8.9128261,
-        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -3776,6 +3582,67 @@
     "source": "Flashscore"
   },
   {
+    "matchId": "2w4RZkfc",
+    "date": "17.05.2026 15:00",
+    "home_team": "Académico Viseu",
+    "away_team": "Sporting CP B",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal do Fontelo",
+    "stadium_lat": 40.6595491,
+    "stadium_lon": -7.9004812,
+    "nearby_stores": [
+      {
+        "name": "Viseu Forum",
+        "address": "C.C. Forum Viseu - Rua D. José ...",
+        "distance_km": 1.18,
+        "lat": 40.6621965,
+        "lon": -7.9139805,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Viseu - Rua Mendonça",
+        "address": "Rua Mendonça",
+        "distance_km": 1.27,
+        "lat": 40.6533215,
+        "lon": -7.9131613,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Viseu - São João da Carreira",
+        "address": "Rotunda João Félix",
+        "distance_km": 1.72,
+        "lat": 40.6719605,
+        "lon": -7.888323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Viseu Abraveses - Pascoal",
+        "address": "Av. Manuel Loureiro, Pascoal - ...",
+        "distance_km": 3.7,
+        "lat": 40.6851975,
+        "lon": -7.9284479999999995,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Mangualde",
+        "address": "Avenida Herois do Ultra Mar - T...",
+        "distance_km": 12.93,
+        "lat": 40.6150865,
+        "lon": -7.7589323,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Nelas",
+        "address": "Avenida Prof. Dr. Fortunato de ...",
+        "distance_km": 13.97,
+        "lat": 40.538657,
+        "lon": -7.8555826,
+        "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
     "matchId": "nVZtSwyi",
     "date": "17.05.2026 15:00",
     "home_team": "FC Porto B",
@@ -3864,6 +3731,192 @@
         "lat": 41.1279383,
         "lon": -8.6058706,
         "schedule": "8:00 → 21:30"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "CjWGp78F",
+    "date": "17.05.2026 15:00",
+    "home_team": "Marítimo",
+    "away_team": "Chaves",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Marítimo",
+    "stadium_lat": 32.6455903,
+    "stadium_lon": -16.9283415,
+    "nearby_stores": [
+      {
+        "name": "Super Monumental",
+        "address": "Estrada Monumental 318",
+        "distance_km": 0.96,
+        "lat": 32.6386398,
+        "lon": -16.9343558,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Lido",
+        "address": "Rua Do Gorgulho (Junto Piscinas...",
+        "distance_km": 1.0,
+        "lat": 32.6369788,
+        "lon": -16.931435,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Plaza",
+        "address": "La Vie Funchal Shopping Center,...",
+        "distance_km": 1.34,
+        "lat": 32.6475889,
+        "lon": -16.9142336,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Forum",
+        "address": "C. C. Forum Madeira, Estrada Mo...",
+        "distance_km": 1.67,
+        "lat": 32.6360551,
+        "lon": -16.9421672,
+        "schedule": "8:00 → 23:00"
+      },
+      {
+        "name": "Super Santo Antonio",
+        "address": "Caminho De Stº António 244",
+        "distance_km": 1.91,
+        "lat": 32.661984,
+        "lon": -16.9345602,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Penteada",
+        "address": "Urbanização Da Penteada Loja 15",
+        "distance_km": 2.08,
+        "lat": 32.6636713,
+        "lon": -16.9339569,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Super Anadia",
+        "address": "C. C. Anadia - Rua Do Ribeirinh...",
+        "distance_km": 2.28,
+        "lat": 32.6494175,
+        "lon": -16.9044595,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Câmara de Lobos",
+        "address": "Edf. Baía Cidade, Rua Padre Edu...",
+        "distance_km": 4.51,
+        "lat": 32.6493194,
+        "lon": -16.9763592,
+        "schedule": "7:30 → 22:00"
+      },
+      {
+        "name": "Super Cancela",
+        "address": "Edf. Quinta Garajau, Estrada Ga...",
+        "distance_km": 6.69,
+        "lat": 32.6464664,
+        "lon": -16.8568446,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Super Ribeira Brava",
+        "address": "Estrada Comandante Camacho De F...",
+        "distance_km": 12.99,
+        "lat": 32.6702618,
+        "lon": -17.063932,
+        "schedule": "7:30 → 22:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "21nEQoHq",
+    "date": "17.05.2026 15:00",
+    "home_team": "Leixões",
+    "away_team": "Lusitânia",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio do Mar",
+    "stadium_lat": 41.183895299999996,
+    "stadium_lon": -8.6668416,
+    "nearby_stores": [
+      {
+        "name": "Santa Luzia",
+        "address": "Rua Santa Luzia 573",
+        "distance_km": 0.33,
+        "lat": 41.1846792,
+        "lon": -8.6705842,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Porto Rotunda AEP",
+        "address": "Estrada da Circunvalação 12 84...",
+        "distance_km": 1.24,
+        "lat": 41.1784165,
+        "lon": -8.6539817,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Matosinhos - Afonso Henriques",
+        "address": "Gav. Av. D. Afonso Henriques, 9...",
+        "distance_km": 1.36,
+        "lat": 41.1808261,
+        "lon": -8.6826241,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Antunes Guimarães - Lidador",
+        "address": "Rua Do Lidador 109 -111",
+        "distance_km": 1.49,
+        "lat": 41.171692,
+        "lon": -8.6594923,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Guifões",
+        "address": "Rua Passos Manuel",
+        "distance_km": 1.51,
+        "lat": 41.1973353,
+        "lon": -8.6640114,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito Capelo",
+        "address": "Rua Brito Capelo 332",
+        "distance_km": 2.04,
+        "lat": 41.1755994,
+        "lon": -8.6886103,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Matosinhos - Brito e Cunha",
+        "address": "Rua de Brito Capelo 1405",
+        "distance_km": 2.09,
+        "lat": 41.1750602,
+        "lon": -8.688942,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Ramalde - São João de Brito",
+        "address": "Rua São João De Brito C/ Rua Da...",
+        "distance_km": 2.39,
+        "lat": 41.1668866,
+        "lon": -8.6494559,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Leça da Palmeira - Amorosa",
+        "address": "Lugar Da Amorosa, Rua Dos Campo...",
+        "distance_km": 2.57,
+        "lat": 41.196294,
+        "lon": -8.6927501,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Prelada",
+        "address": "Rua Central de Francos 744/758",
+        "distance_km": 2.65,
+        "lat": 41.1728467,
+        "lon": -8.6388303,
+        "schedule": "8:00 → 21:00"
       }
     ],
     "source": "Flashscore"
@@ -4047,192 +4100,6 @@
     "source": "Flashscore"
   },
   {
-    "matchId": "21nEQoHq",
-    "date": "17.05.2026 15:00",
-    "home_team": "Leixões",
-    "away_team": "Lusitânia",
-    "league": "Liga Portugal 2",
-    "stadium": "Estádio do Mar",
-    "stadium_lat": 41.183895299999996,
-    "stadium_lon": -8.6668416,
-    "nearby_stores": [
-      {
-        "name": "Santa Luzia",
-        "address": "Rua Santa Luzia 573",
-        "distance_km": 0.33,
-        "lat": 41.1846792,
-        "lon": -8.6705842,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Porto Rotunda AEP",
-        "address": "Estrada da Circunvalação 12 84...",
-        "distance_km": 1.24,
-        "lat": 41.1784165,
-        "lon": -8.6539817,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Matosinhos - Afonso Henriques",
-        "address": "Gav. Av. D. Afonso Henriques, 9...",
-        "distance_km": 1.36,
-        "lat": 41.1808261,
-        "lon": -8.6826241,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Antunes Guimarães - Lidador",
-        "address": "Rua Do Lidador 109 -111",
-        "distance_km": 1.49,
-        "lat": 41.171692,
-        "lon": -8.6594923,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Guifões",
-        "address": "Rua Passos Manuel",
-        "distance_km": 1.51,
-        "lat": 41.1973353,
-        "lon": -8.6640114,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Matosinhos - Brito Capelo",
-        "address": "Rua Brito Capelo 332",
-        "distance_km": 2.04,
-        "lat": 41.1755994,
-        "lon": -8.6886103,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Matosinhos - Brito e Cunha",
-        "address": "Rua de Brito Capelo 1405",
-        "distance_km": 2.09,
-        "lat": 41.1750602,
-        "lon": -8.688942,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Ramalde - São João de Brito",
-        "address": "Rua São João De Brito C/ Rua Da...",
-        "distance_km": 2.39,
-        "lat": 41.1668866,
-        "lon": -8.6494559,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Leça da Palmeira - Amorosa",
-        "address": "Lugar Da Amorosa, Rua Dos Campo...",
-        "distance_km": 2.57,
-        "lat": 41.196294,
-        "lon": -8.6927501,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Prelada",
-        "address": "Rua Central de Francos 744/758",
-        "distance_km": 2.65,
-        "lat": 41.1728467,
-        "lon": -8.6388303,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "CjWGp78F",
-    "date": "17.05.2026 15:00",
-    "home_team": "Marítimo",
-    "away_team": "Chaves",
-    "league": "Liga Portugal 2",
-    "stadium": "Estádio do Marítimo",
-    "stadium_lat": 32.6455903,
-    "stadium_lon": -16.9283415,
-    "nearby_stores": [
-      {
-        "name": "Super Monumental",
-        "address": "Estrada Monumental 318",
-        "distance_km": 0.96,
-        "lat": 32.6386398,
-        "lon": -16.9343558,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Lido",
-        "address": "Rua Do Gorgulho (Junto Piscinas...",
-        "distance_km": 1.0,
-        "lat": 32.6369788,
-        "lon": -16.931435,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Plaza",
-        "address": "La Vie Funchal Shopping Center,...",
-        "distance_km": 1.34,
-        "lat": 32.6475889,
-        "lon": -16.9142336,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Super Forum",
-        "address": "C. C. Forum Madeira, Estrada Mo...",
-        "distance_km": 1.67,
-        "lat": 32.6360551,
-        "lon": -16.9421672,
-        "schedule": "8:00 → 23:00"
-      },
-      {
-        "name": "Super Santo Antonio",
-        "address": "Caminho De Stº António 244",
-        "distance_km": 1.91,
-        "lat": 32.661984,
-        "lon": -16.9345602,
-        "schedule": "7:30 → 22:00"
-      },
-      {
-        "name": "Super Penteada",
-        "address": "Urbanização Da Penteada Loja 15",
-        "distance_km": 2.08,
-        "lat": 32.6636713,
-        "lon": -16.9339569,
-        "schedule": "7:30 → 21:00"
-      },
-      {
-        "name": "Super Anadia",
-        "address": "C. C. Anadia - Rua Do Ribeirinh...",
-        "distance_km": 2.28,
-        "lat": 32.6494175,
-        "lon": -16.9044595,
-        "schedule": "7:30 → 22:00"
-      },
-      {
-        "name": "Super Câmara de Lobos",
-        "address": "Edf. Baía Cidade, Rua Padre Edu...",
-        "distance_km": 4.51,
-        "lat": 32.6493194,
-        "lon": -16.9763592,
-        "schedule": "7:30 → 22:00"
-      },
-      {
-        "name": "Super Cancela",
-        "address": "Edf. Quinta Garajau, Estrada Ga...",
-        "distance_km": 6.69,
-        "lat": 32.6464664,
-        "lon": -16.8568446,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Super Ribeira Brava",
-        "address": "Estrada Comandante Camacho De F...",
-        "distance_km": 12.99,
-        "lat": 32.6702618,
-        "lon": -17.063932,
-        "schedule": "7:30 → 22:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "GOx8nTw3",
     "date": "17.05.2026 15:00",
     "home_team": "Paços Ferreira",
@@ -4320,75 +4187,6 @@
         "distance_km": 12.83,
         "lat": 41.201792999999995,
         "lon": -8.5074203,
-        "schedule": "8:00 → 21:30"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "WIerW7gM",
-    "date": "17.05.2026 15:00",
-    "home_team": "Portimonense",
-    "away_team": "Farense",
-    "league": "Liga Portugal 2",
-    "stadium": "Estádio Municipal de Portimão",
-    "stadium_lat": 37.135709999999996,
-    "stadium_lon": -8.5398363,
-    "nearby_stores": [
-      {
-        "name": "Portimão - Recomar",
-        "address": "Rua D. Carlos I 16 a 22",
-        "distance_km": 0.28,
-        "lat": 37.1345544,
-        "lon": -8.5370906,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Portimão - Sá Carneiro",
-        "address": "Av. Dr. Francisco Sá Carneiro",
-        "distance_km": 0.84,
-        "lat": 37.1427898,
-        "lon": -8.5431334,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Portimão - Craveiros",
-        "address": "Lugar Dos Craveiros, Av. V 6 Lo...",
-        "distance_km": 1.59,
-        "lat": 37.1476127,
-        "lon": -8.5496981,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Alvor",
-        "address": "Estrada De Alvor - Urbanização ...",
-        "distance_km": 4.59,
-        "lat": 37.1338385,
-        "lon": -8.5915084,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Lagoa",
-        "address": "Rua Marquês de Pombal 51",
-        "distance_km": 7.59,
-        "lat": 37.1314043,
-        "lon": -8.4543485,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Lagos - Marina",
-        "address": "Sitio Do Molião - E.N. 125",
-        "distance_km": 12.39,
-        "lat": 37.1130955,
-        "lon": -8.6766571,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Lagos - Av. Da República",
-        "address": "Av. Da República, Rossio De São...",
-        "distance_km": 12.78,
-        "lat": 37.1068879,
-        "lon": -8.6793969,
         "schedule": "8:00 → 21:30"
       }
     ],
@@ -4512,6 +4310,75 @@
         "lat": 38.7546637,
         "lon": -9.1814072,
         "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "WIerW7gM",
+    "date": "17.05.2026 15:00",
+    "home_team": "Portimonense",
+    "away_team": "Farense",
+    "league": "Liga Portugal 2",
+    "stadium": "Estádio Municipal de Portimão",
+    "stadium_lat": 37.135709999999996,
+    "stadium_lon": -8.5398363,
+    "nearby_stores": [
+      {
+        "name": "Portimão - Recomar",
+        "address": "Rua D. Carlos I 16 a 22",
+        "distance_km": 0.28,
+        "lat": 37.1345544,
+        "lon": -8.5370906,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Portimão - Sá Carneiro",
+        "address": "Av. Dr. Francisco Sá Carneiro",
+        "distance_km": 0.84,
+        "lat": 37.1427898,
+        "lon": -8.5431334,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Portimão - Craveiros",
+        "address": "Lugar Dos Craveiros, Av. V 6 Lo...",
+        "distance_km": 1.59,
+        "lat": 37.1476127,
+        "lon": -8.5496981,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Alvor",
+        "address": "Estrada De Alvor - Urbanização ...",
+        "distance_km": 4.59,
+        "lat": 37.1338385,
+        "lon": -8.5915084,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lagoa",
+        "address": "Rua Marquês de Pombal 51",
+        "distance_km": 7.59,
+        "lat": 37.1314043,
+        "lon": -8.4543485,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Lagos - Marina",
+        "address": "Sitio Do Molião - E.N. 125",
+        "distance_km": 12.39,
+        "lat": 37.1130955,
+        "lon": -8.6766571,
+        "schedule": "8:00 → 21:30"
+      },
+      {
+        "name": "Lagos - Av. Da República",
+        "address": "Av. Da República, Rossio De São...",
+        "distance_km": 12.78,
+        "lat": 37.1068879,
+        "lon": -8.6793969,
+        "schedule": "8:00 → 21:30"
       }
     ],
     "source": "Flashscore"
