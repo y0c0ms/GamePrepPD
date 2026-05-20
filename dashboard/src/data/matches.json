@@ -29,128 +29,6 @@
     "source": "API-Football"
   },
   {
-    "matchId": "IcJBYh6e",
-    "date": "28.05.2026 19:00",
-    "home_team": "Casa Pia AC",
-    "away_team": "Torreense",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Pina Manique",
-    "stadium_lat": 38.7375042,
-    "stadium_lon": -9.203829599999999,
-    "nearby_stores": [
-      {
-        "name": "Benfica - Gomes Pereira",
-        "address": "Avenida Gomes Pereira 69A",
-        "distance_km": 1.15,
-        "lat": 38.7467621,
-        "lon": -9.1978645,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Grão Vasco - Benfica",
-        "address": "Avenida Grão Vasco 56/58",
-        "distance_km": 1.34,
-        "lat": 38.7495894,
-        "lon": -9.2033426,
-        "schedule": "7:30 → 21:00"
-      },
-      {
-        "name": "Damaia",
-        "address": "Rua Teófilo Braga Lote 63",
-        "distance_km": 1.35,
-        "lat": 38.7427454,
-        "lon": -9.2178994,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Fonte Nova",
-        "address": "C.C. Fonte Nova - Rua Paulo Ren...",
-        "distance_km": 1.68,
-        "lat": 38.748536,
-        "lon": -9.190635,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Alfragide",
-        "address": "Urbanização Qtª.Grande Célula A...",
-        "distance_km": 1.86,
-        "lat": 38.7378047,
-        "lon": -9.2253127,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Benfica",
-        "address": "Av. Uruguai 36",
-        "distance_km": 1.95,
-        "lat": 38.7538891,
-        "lon": -9.1957808,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Venda Nova - Elias Garcia",
-        "address": "Rua Elias Garcia 23",
-        "distance_km": 2.28,
-        "lat": 38.7551773,
-        "lon": -9.217077,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Reboleira",
-        "address": "Av. D. José I 43",
-        "distance_km": 2.69,
-        "lat": 38.7506945,
-        "lon": -9.2298392,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Torres da Luz",
-        "address": "Rua José Maria Nicolau - Arruam...",
-        "distance_km": 2.72,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Colina do Sol",
-        "address": "Praceta Manuela Porto 171 - Lj 43",
-        "distance_km": 3.01,
-        "lat": 38.7644988,
-        "lon": -9.206868,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
-    "matchId": "ppL3zFyq",
-    "date": "20.05.2026 17:00",
-    "home_team": "Torreense",
-    "away_team": "Casa Pia AC",
-    "league": "Liga Portugal Betclic",
-    "stadium": "Estádio Manuel Marques",
-    "stadium_lat": 39.0948844,
-    "stadium_lon": -9.256621299999999,
-    "nearby_stores": [
-      {
-        "name": "Torres Vedras",
-        "address": "Praceta Dr. José Carvalho Mesqu...",
-        "distance_km": 1.47,
-        "lat": 39.0819441,
-        "lon": -9.2599845,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Silveira",
-        "address": "Rua Do Moinho Do Espanhol 2",
-        "distance_km": 9.63,
-        "lat": 39.1080675,
-        "lon": -9.3669516,
-        "schedule": "8:30 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "4ruRJDN7",
     "date": "23.05.2026 19:30",
     "home_team": "Farense",
@@ -331,6 +209,128 @@
         "distance_km": 1.85,
         "lat": 38.7546637,
         "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "ppL3zFyq",
+    "date": "20.05.2026 17:00",
+    "home_team": "Torreense",
+    "away_team": "Casa Pia AC",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Manuel Marques",
+    "stadium_lat": 39.0948844,
+    "stadium_lon": -9.256621299999999,
+    "nearby_stores": [
+      {
+        "name": "Torres Vedras",
+        "address": "Praceta Dr. José Carvalho Mesqu...",
+        "distance_km": 1.47,
+        "lat": 39.0819441,
+        "lon": -9.2599845,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Silveira",
+        "address": "Rua Do Moinho Do Espanhol 2",
+        "distance_km": 9.63,
+        "lat": 39.1080675,
+        "lon": -9.3669516,
+        "schedule": "8:30 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "IcJBYh6e",
+    "date": "28.05.2026 19:00",
+    "home_team": "Casa Pia AC",
+    "away_team": "Torreense",
+    "league": "Liga Portugal Betclic",
+    "stadium": "Estádio Pina Manique",
+    "stadium_lat": 38.7375042,
+    "stadium_lon": -9.203829599999999,
+    "nearby_stores": [
+      {
+        "name": "Benfica - Gomes Pereira",
+        "address": "Avenida Gomes Pereira 69A",
+        "distance_km": 1.15,
+        "lat": 38.7467621,
+        "lon": -9.1978645,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Grão Vasco - Benfica",
+        "address": "Avenida Grão Vasco 56/58",
+        "distance_km": 1.34,
+        "lat": 38.7495894,
+        "lon": -9.2033426,
+        "schedule": "7:30 → 21:00"
+      },
+      {
+        "name": "Damaia",
+        "address": "Rua Teófilo Braga Lote 63",
+        "distance_km": 1.35,
+        "lat": 38.7427454,
+        "lon": -9.2178994,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fonte Nova",
+        "address": "C.C. Fonte Nova - Rua Paulo Ren...",
+        "distance_km": 1.68,
+        "lat": 38.748536,
+        "lon": -9.190635,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Alfragide",
+        "address": "Urbanização Qtª.Grande Célula A...",
+        "distance_km": 1.86,
+        "lat": 38.7378047,
+        "lon": -9.2253127,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Benfica",
+        "address": "Av. Uruguai 36",
+        "distance_km": 1.95,
+        "lat": 38.7538891,
+        "lon": -9.1957808,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Venda Nova - Elias Garcia",
+        "address": "Rua Elias Garcia 23",
+        "distance_km": 2.28,
+        "lat": 38.7551773,
+        "lon": -9.217077,
+        "schedule": "8:00 → 22:00"
+      },
+      {
+        "name": "Reboleira",
+        "address": "Av. D. José I 43",
+        "distance_km": 2.69,
+        "lat": 38.7506945,
+        "lon": -9.2298392,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Torres da Luz",
+        "address": "Rua José Maria Nicolau - Arruam...",
+        "distance_km": 2.72,
+        "lat": 38.7546637,
+        "lon": -9.1814072,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Colina do Sol",
+        "address": "Praceta Manuela Porto 171 - Lj 43",
+        "distance_km": 3.01,
+        "lat": 38.7644988,
+        "lon": -9.206868,
         "schedule": "8:00 → 21:00"
       }
     ],
