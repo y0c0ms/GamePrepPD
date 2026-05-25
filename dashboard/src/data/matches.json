@@ -1,191 +1,5 @@
 [
   {
-    "matchId": "1542722",
-    "date": "24.05.2026 17:15",
-    "home_team": "Sporting CP",
-    "away_team": "Torreense",
-    "league": "Taça de Portugal",
-    "stadium": "Estádio José Alvalade",
-    "stadium_lat": 38.7612216,
-    "stadium_lon": -9.16179,
-    "nearby_stores": [
-      {
-        "name": "PD&Go Padre Cruz",
-        "address": "Avenida Padre Cruz",
-        "distance_km": 0.2,
-        "lat": 38.7595434,
-        "lon": -9.1610448,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Parque Europa",
-        "address": "Av. Maria Helena Vieira Da Silv...",
-        "distance_km": 0.96,
-        "lat": 38.7669675,
-        "lon": -9.1536025,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Galhardas",
-        "address": "Azinhaga Das Galhardas Lote 19",
-        "distance_km": 1.07,
-        "lat": 38.7519959,
-        "lon": -9.1653063,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Telheiras - Hiper",
-        "address": "Rua Projectada à Azinhaga dos U...",
-        "distance_km": 1.23,
-        "lat": 38.7680946,
-        "lon": -9.1729514,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Lumiar",
-        "address": "Rua Leopoldo Almeida Lote 4",
-        "distance_km": 1.24,
-        "lat": 38.7722696,
-        "lon": -9.1599023,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Conde Redondo",
-        "address": "Rua Conde Redondo 41/41A",
-        "distance_km": 1.41,
-        "lat": 38.750976,
-        "lon": -9.1521822,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Estrada Da Luz",
-        "address": "Atlanta Park - Edf.Georgia - Ru...",
-        "distance_km": 1.42,
-        "lat": 38.750743,
-        "lon": -9.1711227,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "PD&GO Estrada da Luz",
-        "address": "Estrada da Luz",
-        "distance_km": 1.6,
-        "lat": 38.7492883,
-        "lon": -9.1721033,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Alvalade",
-        "address": "C.C. Alvalade - Praça de Alvala...",
-        "distance_km": 1.69,
-        "lat": 38.7535973,
-        "lon": -9.1448656,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Torres da Luz",
-        "address": "Rua José Maria Nicolau - Arruam...",
-        "distance_km": 1.85,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "API-Football"
-  },
-  {
-    "matchId": "fsHahphI",
-    "date": "24.05.2026 16:15",
-    "home_team": "Sporting CP",
-    "away_team": "Torreense",
-    "league": "Taça de Portugal",
-    "stadium": "Estádio José Alvalade",
-    "stadium_lat": 38.7612216,
-    "stadium_lon": -9.16179,
-    "nearby_stores": [
-      {
-        "name": "PD&Go Padre Cruz",
-        "address": "Avenida Padre Cruz",
-        "distance_km": 0.2,
-        "lat": 38.7595434,
-        "lon": -9.1610448,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Parque Europa",
-        "address": "Av. Maria Helena Vieira Da Silv...",
-        "distance_km": 0.96,
-        "lat": 38.7669675,
-        "lon": -9.1536025,
-        "schedule": "8:00 → 21:30"
-      },
-      {
-        "name": "Galhardas",
-        "address": "Azinhaga Das Galhardas Lote 19",
-        "distance_km": 1.07,
-        "lat": 38.7519959,
-        "lon": -9.1653063,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Telheiras - Hiper",
-        "address": "Rua Projectada à Azinhaga dos U...",
-        "distance_km": 1.23,
-        "lat": 38.7680946,
-        "lon": -9.1729514,
-        "schedule": "8:00 → 22:00"
-      },
-      {
-        "name": "Lumiar",
-        "address": "Rua Leopoldo Almeida Lote 4",
-        "distance_km": 1.24,
-        "lat": 38.7722696,
-        "lon": -9.1599023,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Conde Redondo",
-        "address": "Rua Conde Redondo 41/41A",
-        "distance_km": 1.41,
-        "lat": 38.750976,
-        "lon": -9.1521822,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Estrada Da Luz",
-        "address": "Atlanta Park - Edf.Georgia - Ru...",
-        "distance_km": 1.42,
-        "lat": 38.750743,
-        "lon": -9.1711227,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "PD&GO Estrada da Luz",
-        "address": "Estrada da Luz",
-        "distance_km": 1.6,
-        "lat": 38.7492883,
-        "lon": -9.1721033,
-        "schedule": "7:00 → 23:30"
-      },
-      {
-        "name": "Alvalade",
-        "address": "C.C. Alvalade - Praça de Alvala...",
-        "distance_km": 1.69,
-        "lat": 38.7535973,
-        "lon": -9.1448656,
-        "schedule": "8:00 → 21:00"
-      },
-      {
-        "name": "Torres da Luz",
-        "address": "Rua José Maria Nicolau - Arruam...",
-        "distance_km": 1.85,
-        "lat": 38.7546637,
-        "lon": -9.1814072,
-        "schedule": "8:00 → 21:00"
-      }
-    ],
-    "source": "Flashscore"
-  },
-  {
     "matchId": "IcJBYh6e",
     "date": "28.05.2026 19:00",
     "home_team": "Casa Pia AC",
@@ -273,6 +87,99 @@
         "distance_km": 3.01,
         "lat": 38.7644988,
         "lon": -9.206868,
+        "schedule": "8:00 → 21:00"
+      }
+    ],
+    "source": "Flashscore"
+  },
+  {
+    "matchId": "dv90lr6b",
+    "date": "31.07.2026 15:00",
+    "home_team": "FC Porto",
+    "away_team": "Torreense",
+    "league": "Supertaça",
+    "stadium": "Estádio do Dragão",
+    "stadium_lat": 41.16177,
+    "stadium_lon": -8.583591,
+    "nearby_stores": [
+      {
+        "name": "PD&Go São Roque da Lameira Porto",
+        "address": "Rua São Roque da Lameira 1749",
+        "distance_km": 0.46,
+        "lat": 41.1648173,
+        "lon": -8.5798838,
+        "schedule": "7:00 → 22:00"
+      },
+      {
+        "name": "Velasques",
+        "address": "Praça Dr. Francisco Sá Carneiro...",
+        "distance_km": 0.72,
+        "lat": 41.1622998,
+        "lon": -8.592213,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Costa Cabral",
+        "address": "Edf. Santa Justa - Rua Costa Ca...",
+        "distance_km": 1.61,
+        "lat": 41.1761443,
+        "lon": -8.5855792,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Fernão Magalhães",
+        "address": "Campo 24 Agosto 170/172",
+        "distance_km": 1.69,
+        "lat": 41.150832,
+        "lon": -8.5976128,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Marquês",
+        "address": "Rua João Pedro Ribeiro 700",
+        "distance_km": 1.92,
+        "lat": 41.1611223,
+        "lon": -8.6065297,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Passos Manuel",
+        "address": "Rua Passos Manuel 221/223",
+        "distance_km": 2.44,
+        "lat": 41.1466839,
+        "lon": -8.6047409,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Cedofeita",
+        "address": "Rua Da Cedofeita 435",
+        "distance_km": 2.44,
+        "lat": 41.1507494,
+        "lon": -8.6088129,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Sá da Bandeira",
+        "address": "Rua Sá Bandeira 385/389",
+        "distance_km": 2.45,
+        "lat": 41.1527743,
+        "lon": -8.6102849,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Constituição",
+        "address": "Rua Monte Pedral 31",
+        "distance_km": 2.63,
+        "lat": 41.1627325,
+        "lon": -8.6149581,
+        "schedule": "8:00 → 21:00"
+      },
+      {
+        "name": "Praça da República",
+        "address": "Praça da República 58",
+        "distance_km": 2.66,
+        "lat": 41.1538458,
+        "lon": -8.6135705,
         "schedule": "8:00 → 21:00"
       }
     ],
