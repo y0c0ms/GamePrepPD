@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-30T06:14:39.456052",
+  "lastUpdated": "2026-05-31T06:46:54.213242",
   "sources": [
-    "Flashscore",
-    "API-Football"
+    "API-Football",
+    "Flashscore"
   ],
-  "matchCount": 7
+  "matchCount": 5
 }
